@@ -77,7 +77,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 12 | **HULLEN**, master of horse [Unknown] | Tertiary | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
 | 13 | **HARWIN**, Stark guardsman [Alive] | Tertiary | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
 | 14 | **DESMOND**, Stark guardsman [Unknown] | Tertiary | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
-| 15 | **JOSSETH**, stable worker [Alive] | Tertiary | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
+| 15 | **JOSETH**, stable worker [Alive] | Tertiary | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
 | 16 | **QUENT**, Stark guardsman [Alive] | Tertiary | In Stark household service. | Takes part in the Wolfswood escort and responds to the ambush. | Survives the incident and remains in Stark service. |
 | 17 | **WAYN**, Stark guardsman [Alive] | Tertiary | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | Continues in Stark service. |
 | 18 | **MIKKEN**, Winterfell smith [Alive] | Tertiary | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
@@ -127,7 +127,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 35 | **GREY WIND**, Robb's direwolf [Alive] | Tertiary | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | Accompanies Robb south. |
 | 36 | **SHAGGYDOG**, Rickon's direwolf [Alive] | Tertiary | A newly discovered direwolf pup. | Becomes dangerous and aggressive as Rickon's distress increases. | Remains at Winterfell with Rickon. |
 
-**Character entries:** 36 (8 Principal | 10 Supporting | 17 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
+**Character entries:** 36 (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
 
 # 6. Top Cinematic Scenes
 
