@@ -80,591 +80,592 @@
 
 ---
 
-## Prologue (Will)
+### Prologue (Will)
 
-**3 Jun 297 AC · Estimated**  
-*Haunted Forest, Beyond the Wall*  
-**WILL** · **SER WAYMAR ROYCE** · **GARED**
+**3 Jun 297 AC**  
+*Haunted Forest*  
+**GARED** · **WAYMAR** · **WILL**
 
-**Waymar Royce** dismisses **Gared’s** warnings and orders **Will** to investigate a wildling camp. An Other kills Waymar; the dead ranger rises and strangles Will.
+**Waymar Royce** dismisses **Gared**’s warnings and orders **Will** to investigate a wildling camp. An Other kills Waymar; the dead ranger rises and strangles Will.
 
-## GOT Ch. 1: Bran I
+### GOT Ch. 1: Bran I
 
-**1 Mar 298 AC · Estimated**  
-*Winterfell · Wolfswood*  
-**BRAN STARK** · **EDDARD STARK** · **JON SNOW** · **ROBB STARK** · **JORY CASSEL** · **THEON GREYJOY**
+**1 Mar 298 AC**  
+*Winterfell* · *Wolfswood*  
+**BRAN** · **ROBB** · **JON** · **NED** · **THEON** · **JORY**
 
-**Eddard** executes the deserter Gared before **Bran**. Returning home, the Starks find a dead direwolf with 6 pups, 1 for each Stark child including Jon.
+**Eddard** executes the deserter **Gared** before **Bran**. Returning home, the **Starks** find a dead direwolf with 6 pups, 1 for each Stark child including **Jon**.
 
-## GOT Ch. 2: Catelyn I
+### GOT Ch. 2: Catelyn I
 
-**1 Mar 298 AC · Estimated**  
-*Winterfell Godswood*  
-**CATELYN STARK** · **EDDARD STARK**
-
-**Catelyn** reports **Jon Arryn’s** death and the impending arrival of **Robert**, whose visit may draw **Ned** back into royal service.
-
-## GOT Ch. 3: Daenerys I
-
-**22 Oct 297 AC · Estimated**  
-*Pentos, Illyrio’s Manse*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **ILLYRIO MOPATIS** · **JORAH MORMONT** · **VISERYS TARGARYEN**
-
-**Viserys** prepares **Daenerys** to meet **Khal Drogo**, whose Dothraki warriors he hopes to obtain by marrying his sister to him.
-
-## GOT Ch. 4: Eddard I
-
-**18 Apr 298 AC · Estimated**  
-*Winterfell · Crypts*  
-**EDDARD STARK** · **ARYA STARK** · **BRAN STARK** · **CATELYN STARK** · **CERSEI LANNISTER** · **JAIME LANNISTER** · **JOFFREY BARATHEON** · **ROBB STARK** · **ROBERT BARATHEON** · **SANSA STARK** · **TYRION LANNISTER** · **RICKON STARK** · **SANDOR CLEGANE**
-
-**Robert** arrives at Winterfell, visits Lyanna’s tomb, offers **Ned** the Handship, and proposes marrying **Joffrey** to **Sansa**.
-
-## GOT Ch. 5: Jon I
-
-**18 Apr 298 AC · Estimated**  
-*Winterfell Great Hall · Courtyard*  
-**JON SNOW** · **ARYA STARK** · **CATELYN STARK** · **CERSEI LANNISTER** · **EDDARD STARK** · **JAIME LANNISTER** · **JOFFREY BARATHEON** · **ROBB STARK** · **ROBERT BARATHEON** · **SANSA STARK** · **TYRION LANNISTER** · **BENJEN STARK** · **RICKON STARK** · **THEON GREYJOY**
-
-Excluded from the royal feast’s high table, **Jon** considers the Night’s Watch and finds a sympathetic, sharp-tongued adviser in **Tyrion**.
-
-## GOT Ch. 6: Catelyn II
-
-**23 Apr 298 AC · Estimated**  
+**1 Mar 298 AC**  
 *Winterfell*  
-**CATELYN STARK** · **EDDARD STARK** · **MAESTER LUWIN**
+**CATELYN** · **NED**
 
-**Catelyn** receives **Lysa’s** accusation that the Lannisters murdered Jon Arryn. **Ned** agrees to become Hand, while Jon’s proposed departure north is accepted.
+**Catelyn** reports **Jon Arryn**’s death and the impending arrival of **Robert**, whose visit may draw **Ned** back into royal service.
 
-## GOT Ch. 7: Arya I
+### GOT Ch. 3: Daenerys I
 
-**24 Apr 298 AC · Estimated**  
+**22 Oct 297 AC**  
+*Pentos*  
+**DAENERYS** · **VISERYS** · **ILLYRIO** · **DROGO** · **JORAH**
+
+**Viserys** prepares **Daenerys** to meet **Khal Drogo**, whose **Dothraki** warriors he hopes to obtain by marrying his sister to him.
+
+### GOT Ch. 4: Eddard I
+
+**18 Apr 298 AC**  
 *Winterfell*  
-**ARYA STARK** · **BRAN STARK** · **CATELYN STARK** · **JOFFREY BARATHEON** · **JON SNOW** · **ROBB STARK** · **SANSA STARK** · **RODRIK CASSEL** · **SANDOR CLEGANE** · **THEON GREYJOY**
+**NED** · **ROBERT** · **CERSEI** · **JAIME** · **JOFFREY** · **SANSA** · **TYRION** · **SANDOR** · **ARYA** · **BRAN** · **CATELYN** · **ROBB** · **RICKON**
+
+**Robert** arrives at **Winterfell**, visits Lyanna’s tomb, offers **Ned** the Handship, and proposes marrying **Joffrey** to **Sansa**.
+
+### GOT Ch. 5: Jon I
+
+**18 Apr 298 AC**  
+*Winterfell*  
+**JON** · **TYRION** · **JOFFREY** · **JAIME** · **CERSEI** · **ROBB** · **BENJEN** · **ARYA** · **CATELYN** · **NED** · **ROBERT** · **SANSA** · **RICKON** · **THEON**
+
+Excluded from the royal feast’s high table, **Jon** considers the **Night’s Watch** and finds a sympathetic, sharp-tongued adviser in **Tyrion**.
+
+### GOT Ch. 6: Catelyn II
+
+**23 Apr 298 AC**  
+*Winterfell*  
+**CATELYN** · **NED** · **LUWIN**
+
+**Catelyn** receives **Lysa**’s accusation that the **Lannisters** murdered **Jon Arryn**. **Ned** agrees to become Hand, while **Jon**’s proposed departure north is accepted.
+
+### GOT Ch. 7: Arya I
+
+**24 Apr 298 AC**  
+*Winterfell*  
+**ARYA** · **SANSA** · **JON** · **ROBB** · **JOFFREY** · **BRAN** · **CATELYN** · **RODRIK** · **SANDOR** · **THEON**
 
 **Arya** struggles with needlework and noble-girl expectations. She talks with **Jon**, who understands her frustration and encourages her independence.
 
-## GOT Ch. 8: Bran II
+### GOT Ch. 8: Bran II
 
-**8 May 298 AC · Estimated**  
-*Winterfell Broken Tower*  
-**BRAN STARK** · **CERSEI LANNISTER** · **JAIME LANNISTER**
+**8 May 298 AC**  
+*Winterfell*  
+**BRAN** · **JAIME** · **CERSEI**
 
 While climbing, **Bran** witnesses **Jaime** and **Cersei** together. Jaime shoves the boy from the tower to conceal their incestuous relationship.
 
-## GOT Ch. 9: Tyrion I
+### GOT Ch. 9: Tyrion I
 
-**13 May 298 AC · Estimated**  
+**13 May 298 AC**  
 *Winterfell*  
-**TYRION LANNISTER** · **CERSEI LANNISTER** · **JAIME LANNISTER** · **JOFFREY BARATHEON** · **SANDOR CLEGANE**
+**TYRION** · **JOFFREY** · **JAIME** · **CERSEI** · **SANDOR**
 
-**Tyrion** rebukes **Joffrey’s** cruelty toward unconscious Bran and disturbs **Jaime** by wondering what Bran might reveal if he survives.
+**Tyrion** rebukes **Joffrey**’s cruelty toward unconscious **Bran** and disturbs **Jaime** by wondering what Bran might reveal if he survives.
 
-## GOT Ch. 10: Jon II
+### GOT Ch. 10: Jon II
 
-**20 May 298 AC · Estimated**  
-*Winterfell · Kingsroad*  
-**JON SNOW** · **ARYA STARK** · **BRAN STARK** · **CATELYN STARK** · **ROBB STARK**
+**20 May 298 AC**  
+*Winterfell*  
+**JON** · **BRAN** · **CATELYN** · **ROBB** · **ARYA**
 
-Before leaving for the Wall, **Jon** gives **Arya** a sword they name Needle and says farewell to **Bran** despite **Catelyn’s** hostility.
+Before leaving for **the Wall**, **Jon** gives **Arya** a sword they name Needle and says farewell to **Bran** despite **Catelyn**’s hostility.
 
-## GOT Ch. 11: Daenerys II
+### GOT Ch. 11: Daenerys II
 
-**21 Dec 297 AC · Estimated**  
-*Pentos, Dothraki Wedding Grounds*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **ILLYRIO MOPATIS** · **JORAH MORMONT** · **VISERYS TARGARYEN**
+**21 Dec 297 AC**  
+*Pentos*  
+**DAENERYS** · **DROGO** · **ILLYRIO** · **JORAH** · **VISERYS**
 
 **Daenerys** marries **Drogo**, receives a silver horse and 3 dragon eggs, and meets **Jorah Mormont** among the wedding guests.
 
-## GOT Ch. 12: Eddard II
+### GOT Ch. 12: Eddard II
 
-**10 Jun 298 AC · Estimated**  
-*Kingsroad · Barrowlands*  
-**EDDARD STARK** · **ROBERT BARATHEON**
+**10 Jun 298 AC**  
+*Barrowlands*  
+**NED** · **ROBERT**
 
-Travelling south, **Ned** learns of Daenerys’s marriage to Drogo. **Robert** argues over the Targaryen threat, exposing an old fracture in their friendship.
+Travelling south, **Ned** learns of **Daenerys**’s marriage to **Drogo**. **Robert** argues over the Targaryen threat, exposing an old fracture in their friendship.
 
-## GOT Ch. 13: Tyrion II
+### GOT Ch. 13: Tyrion II
 
-**7 Jun 298 AC · Estimated**  
-*Kingsroad, North of Winterfell*  
-**TYRION LANNISTER** · **JON SNOW** · **BENJEN STARK**
+**7 Jun 298 AC**  
+*Kingsroad*  
+**TYRION** · **BENJEN** · **JON**
 
-Accompanying the Night’s Watch north, **Tyrion** reflects on the harsh northern landscape, talks with **Jon**, and observes the recruits’ difficult journey.
+Accompanying the **Night’s Watch** north, **Tyrion** reflects on the harsh northern landscape, talks with **Jon**, and observes the recruits’ difficult journey.
 
-## GOT Ch. 14: Catelyn III
+### GOT Ch. 14: Catelyn III
 
-**28 May–2 Jun 298 AC · Estimated**  
-*Winterfell, Bran’s Bedchamber*  
-**CATELYN STARK** · **BRAN STARK** · **ROBB STARK** · **MAESTER LUWIN** · **RODRIK CASSEL** · **THEON GREYJOY**
+**28 May–2 Jun 298 AC**  
+*Winterfell*  
+**CATELYN** · **LUWIN** · **BRAN** · **ROBB** · **RODRIK** · **THEON**
 
-An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf saves her. She decides to take the dagger secretly to King’s Landing.
+An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf saves her. She decides to take the dagger secretly to **King’s Landing**.
 
-## GOT Ch. 15: Sansa I
+### GOT Ch. 15: Sansa I
 
-**23 Jul 298 AC · Estimated**  
-*Trident · Ruby Ford*  
-**SANSA STARK** · **ARYA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **BARRISTAN SELMY** · **ILYN PAYNE** · **RENLY BARATHEON** · **SANDOR CLEGANE**
+**23 Jul 298 AC**  
+*Ruby Ford*  
+**SANSA** · **ARYA** · **JOFFREY** · **SANDOR** · **CERSEI** · **BARRISTAN** · **ILYN** · **RENLY**
 
-**Joffrey** attacks **Mycah** near the river, and **Arya’s** wolf Nymeria bites him. **Sansa** faces conflicting loyalties while Arya flees.
+**Joffrey** attacks **Mycah** near the river, and **Arya**’s wolf **Nymeria** bites him. **Sansa** faces conflicting loyalties while Arya flees.
 
-## GOT Ch. 16: Eddard III
+### GOT Ch. 16: Eddard III
 
-**27 Jul 298 AC · Estimated**  
+**27 Jul 298 AC**  
 *Darry*  
-**EDDARD STARK** · **ARYA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **ROBERT BARATHEON** · **SANSA STARK** · **BARRISTAN SELMY** · **JORY CASSEL** · **RENLY BARATHEON** · **SANDOR CLEGANE**
+**NED** · **ARYA** · **ROBERT** · **SANSA** · **CERSEI** · **JOFFREY** · **BARRISTAN** · **SANDOR** · **JORY** · **RENLY**
 
-**Ned** defends Arya during **Robert’s** judgment but must execute **Sansa’s** direwolf Lady. **Sandor Clegane** returns with Mycah’s body.
+**Ned** defends **Arya** during **Robert**’s judgment but must execute **Sansa**’s direwolf **Lady**. **Sandor** Clegane returns with **Mycah**’s body.
 
-## GOT Ch. 17: Bran III
+### GOT Ch. 17: Bran III
 
-**4 Aug 298 AC · Estimated**  
-*Winterfell, Bran’s Bedchamber · Vision*  
-**BRAN STARK** · **ROBB STARK**
+**4 Aug 298 AC**  
+*Winterfell*  
+**BRAN** · **ROBB**
 
-**Bran** dreams of falling, flying, and a three-eyed crow, then awakens unable to move his legs. He names his direwolf Summer.
+**Bran** dreams of falling, flying, and a three-eyed crow, then awakens unable to move his legs. He names his direwolf **Summer**.
 
-## GOT Ch. 18: Catelyn IV
+### GOT Ch. 18: Catelyn IV
 
-**6 Aug 298 AC · Estimated**  
-*King’s Landing · Littlefinger’s Brothel*  
-**CATELYN STARK** · **PETYR BAELISH** · **RODRIK CASSEL** · **VARYS**
+**6 Aug 298 AC**  
+*King’s Landing*  
+**CATELYN** · **RODRIK** · **PETYR** · **VARYS**
 
 **Catelyn** and **Rodrik** arrive secretly. **Littlefinger** claims the assassin’s dagger passed to **Tyrion** in a wager, while **Varys** watches.
 
-## GOT Ch. 19: Jon III
+### GOT Ch. 19: Jon III
 
-**14 Aug 298 AC · Estimated**  
+**14 Aug 298 AC**  
 *Castle Black*  
-**JON SNOW** · **TYRION LANNISTER** · **ALLISER THORNE** · **BENJEN STARK** · **JEOR MORMONT**
+**JON** · **THORNE** · **TYRION** · **JEOR** · **BENJEN**
 
-**Jon** learns that sword training against disadvantaged recruits is no fair contest. **Tyrion** helps him make friends while **Alliser Thorne** remains hostile.
+**Jon** learns that sword training against disadvantaged recruits is no fair contest. **Tyrion** helps him make friends while Alliser Thorne remains hostile.
 
-## GOT Ch. 20: Eddard IV
+### GOT Ch. 20: Eddard IV
 
-**10 Aug 298 AC · Estimated**  
-*King’s Landing · Red Keep · Brothel*  
-**EDDARD STARK** · **CATELYN STARK** · **GRAND MAESTER PYCELLE** · **PETYR BAELISH** · **RENLY BARATHEON** · **RODRIK CASSEL** · **VARYS**
+**10 Aug 298 AC**  
+*King’s Landing*  
+**NED** · **PYCELLE** · **VARYS** · **RENLY** · **PETYR** · **CATELYN** · **RODRIK**
 
-**Ned** discovers crushing crown debt and begins investigating Jon Arryn’s death. **Littlefinger** reunites him with **Catelyn**, who recounts the attack on Bran.
+**Ned** discovers crushing crown debt and begins investigating **Jon Arryn**’s death. **Littlefinger** reunites him with **Catelyn**, who recounts the attack on **Bran**.
 
-## GOT Ch. 21: Tyrion III
+### GOT Ch. 21: Tyrion III
 
-**15 Aug 298 AC · Estimated**  
-*Castle Black · The Wall*  
-**TYRION LANNISTER** · **JON SNOW** · **ALLISER THORNE** · **JEOR MORMONT** · **MAESTER AEMON**
+**15 Aug 298 AC**  
+*Castle Black* · *The Wall*  
+**TYRION** · **JEOR** · **THORNE** · **AEMON** · **JON**
 
-Preparing to leave, **Tyrion** discusses the Wall’s neglected defences with **Jeor Mormont** and bids **Jon** farewell as Benjen remains missing.
+Preparing to leave, **Tyrion** discusses **the Wall**’s neglected defences with **Jeor Mormont** and bids **Jon** farewell as **Benjen** remains missing.
 
-## GOT Ch. 22: Arya II
+### GOT Ch. 22: Arya II
 
-**16–20 Aug 298 AC · Estimated**  
-*King’s Landing · Red Keep*  
-**ARYA STARK** · **EDDARD STARK** · **SANSA STARK** · **JORY CASSEL** · **SYRIO FOREL**
+**16–20 Aug 298 AC**  
+*King’s Landing*  
+**ARYA** · **NED** · **SANSA** · **SYRIO** · **JORY**
 
-**Arya** reveals Needle to **Ned**, who hires **Syrio Forel** to teach her Braavosi swordplay. Her water-dancing lessons begin.
+**Arya** reveals Needle to **Ned**, who hires **Syrio** Forel to teach her Braavosi swordplay. Her water-dancing lessons begin.
 
-## GOT Ch. 23: Daenerys III
+### GOT Ch. 23: Daenerys III
 
-**26 Mar–10 May 298 AC · Estimated**  
-*Dothraki Sea · Khalasar Encampments*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **VISERYS TARGARYEN**
+**26 Mar–10 May 298 AC**  
+*Dothraki Sea*  
+**DAENERYS** · **JORAH** · **VISERYS** · **DROGO**
 
-As the khalasar travels, **Daenerys** adapts to Dothraki life, asserts herself against **Viserys**, and discovers she is pregnant with **Drogo’s** child.
+As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herself against **Viserys**, and discovers she is pregnant with **Drogo**’s child.
 
-## GOT Ch. 24: Bran IV
+### GOT Ch. 24: Bran IV
 
-**22 Aug 298 AC · Estimated**  
+**22 Aug 298 AC**  
 *Winterfell*  
-**BRAN STARK** · **ROBB STARK** · **TYRION LANNISTER** · **HODOR** · **MAESTER LUWIN** · **RICKON STARK** · **THEON GREYJOY**
+**BRAN** · **RICKON** · **HODOR** · **LUWIN** · **ROBB** · **THEON** · **TYRION**
 
 **Bran** grieves his paralysis until **Tyrion** arrives with plans for a specially designed riding saddle. **Robb** accepts the unexpected kindness.
 
-## GOT Ch. 25: Eddard V
+### GOT Ch. 25: Eddard V
 
-**28 Aug 298 AC · Estimated**  
-*King’s Landing · Red Keep*  
-**EDDARD STARK** · **ARYA STARK** · **GRAND MAESTER PYCELLE** · **PETYR BAELISH**
+**28 Aug 298 AC**  
+*King’s Landing*  
+**NED** · **PYCELLE** · **ARYA** · **PETYR**
 
-**Ned** questions **Pycelle** about Jon Arryn’s final illness and follows **Littlefinger’s** leads regarding those whom the former Hand investigated.
+**Ned** questions **Pycelle** about **Jon Arryn**’s final illness and follows **Littlefinger**’s leads regarding those whom the former Hand investigated.
 
-## GOT Ch. 26: Jon IV
+### GOT Ch. 26: Jon IV
 
-**10 Sep 298 AC · Estimated**  
+**10 Sep 298 AC**  
 *Castle Black*  
-**JON SNOW** · **ALLISER THORNE** · **SAMWELL TARLY**
+**JON** · **THORNE** · **SAM**
 
-**Jon** defends newly arrived **Samwell Tarly** from beatings and persuades fellow recruits to protect him, strengthening his loyalty to the Watch.
+**Jon** defends newly arrived **Samwell** Tarly from beatings and persuades fellow recruits to protect him, strengthening his loyalty to the Watch.
 
-## GOT Ch. 27: Eddard VI
+### GOT Ch. 27: Eddard VI
 
-**20 Sep 298 AC · Estimated**  
-*King’s Landing · Red Keep · Forge*  
-**EDDARD STARK** · **ROBERT BARATHEON** · **GENDRY** · **GRAND MAESTER PYCELLE** · **JANOS SLYNT** · **JORY CASSEL** · **PETYR BAELISH** · **RENLY BARATHEON** · **VARYS**
+**20 Sep 298 AC**  
+*King’s Landing*  
+**NED** · **ROBERT** · **VARYS** · **RENLY** · **JANOS** · **PETYR** · **PYCELLE** · **GENDRY** · **JORY**
 
-**Ned** follows Jon Arryn’s interest in King Robert’s bastards and meets **Gendry**, a young apprentice bearing the Baratheon appearance.
+**Ned** follows **Jon Arryn**’s interest in King **Robert**’s bastards and meets Gendry, a young apprentice bearing the Baratheon appearance.
 
-## GOT Ch. 28: Catelyn V
+### GOT Ch. 28: Catelyn V
 
-**13 Sep 298 AC · Estimated**  
+**13 Sep 298 AC**  
 *Inn at the Crossroads*  
-**CATELYN STARK** · **TYRION LANNISTER** · **RODRIK CASSEL**
+**CATELYN** · **RODRIK** · **TYRION**
 
-**Catelyn** encounters **Tyrion** during her journey north and invokes her father’s bannermen to arrest him for the attempt on Bran’s life.
+**Catelyn** encounters **Tyrion** during her journey north and invokes her father’s bannermen to arrest him for the attempt on **Bran**’s life.
 
-## GOT Ch. 29: Sansa II
+### GOT Ch. 29: Sansa II
 
-**22 Sep 298 AC · Estimated**  
-*King’s Landing · Hand’s Tourney*  
-**SANSA STARK** · **CERSEI LANNISTER** · **JAIME LANNISTER** · **JOFFREY BARATHEON** · **ROBERT BARATHEON** · **BARRISTAN SELMY** · **GREGOR CLEGANE** · **JORY CASSEL** · **PETYR BAELISH** · **RENLY BARATHEON** · **SANDOR CLEGANE**
+**22 Sep 298 AC**  
+*King’s Landing*  
+**SANSA** · **GREGOR** · **SANDOR** · **ROBERT** · **RENLY** · **BARRISTAN** · **PETYR** · **JOFFREY** · **CERSEI** · **JAIME** · **JORY**
 
-**Sansa** sees **Gregor Clegane’s** savagery and **Sandor’s** intervention. Later Sandor confides the story of the burns inflicted by his brother.
+**Sansa** sees **Gregor** Clegane’s savagery and **Sandor**’s intervention. Later Sandor confides the story of the burns inflicted by his brother.
 
-## GOT Ch. 30: Eddard VII
+### GOT Ch. 30: Eddard VII
 
-**23 Sep 298 AC · Estimated**  
-*King’s Landing · Tourney Grounds · Red Keep*  
-**EDDARD STARK** · **ARYA STARK** · **JAIME LANNISTER** · **ROBERT BARATHEON** · **SANSA STARK** · **BARRISTAN SELMY** · **GREGOR CLEGANE** · **JORY CASSEL** · **PETYR BAELISH** · **RENLY BARATHEON** · **SANDOR CLEGANE** · **VARYS**
+**23 Sep 298 AC**  
+*King’s Landing*  
+**NED** · **BARRISTAN** · **ROBERT** · **JORY** · **RENLY** · **SANDOR** · **PETYR** · **VARYS** · **ARYA** · **JAIME** · **SANSA** · **GREGOR**
 
-**Ned** studies **Ser Hugh’s** suspicious death and learns from **Varys** that Jon Arryn was poisoned for asking dangerous questions.
+**Ned** studies Ser Hugh’s suspicious death and learns from **Varys** that **Jon Arryn** was poisoned for asking dangerous questions.
 
-## GOT Ch. 31: Tyrion IV
+### GOT Ch. 31: Tyrion IV
 
-**20 Sep 298 AC · Estimated**  
-*High Road to the Vale*  
-**TYRION LANNISTER** · **CATELYN STARK** · **BRONN** · **RODRIK CASSEL**
+**20 Sep 298 AC**  
+*High Road*  
+**TYRION** · **BRONN** · **CATELYN** · **RODRIK**
 
-**Tyrion** survives a mountain-clan ambush alongside **Catelyn’s** escort, then challenges Littlefinger’s dagger story as a lie.
+**Tyrion** survives a mountain-clan ambush alongside **Catelyn**’s escort, then challenges **Littlefinger**’s dagger story as a lie.
 
-## GOT Ch. 32: Arya III
+### GOT Ch. 32: Arya III
 
-**24 Sep 298 AC · Estimated**  
-*King’s Landing · Secret Tunnels*  
-**ARYA STARK** · **EDDARD STARK** · **ILLYRIO MOPATIS** · **VARYS**
+**24 Sep 298 AC**  
+*King’s Landing*  
+**ARYA** · **VARYS** · **ILLYRIO** · **NED**
 
-While chasing cats, **Arya** overhears **Varys** and **Illyrio** discussing civil war and Daenerys’s pregnancy, then struggles to warn **Ned**.
+While chasing cats, **Arya** overhears **Varys** and **Illyrio** discussing civil war and **Daenerys**’s pregnancy, then struggles to warn **Ned**.
 
-## GOT Ch. 33: Eddard VIII
+### GOT Ch. 33: Eddard VIII
 
-**25 Sep 298 AC · Estimated**  
-*King’s Landing · Red Keep*  
-**EDDARD STARK** · **ROBERT BARATHEON** · **BARRISTAN SELMY** · **GRAND MAESTER PYCELLE** · **PETYR BAELISH** · **RENLY BARATHEON** · **VARYS**
+**25 Sep 298 AC**  
+*King’s Landing*  
+**NED** · **ROBERT** · **VARYS** · **RENLY** · **BARRISTAN** · **PYCELLE** · **PETYR**
 
-**Robert** orders Daenerys killed because she is pregnant. **Ned** resigns as Hand rather than consent to a child’s assassination.
+**Robert** orders **Daenerys** killed because she is pregnant. **Ned** resigns as Hand rather than consent to a child’s assassination.
 
-## GOT Ch. 34: Catelyn VI
+### GOT Ch. 34: Catelyn VI
 
-**28–29 Sep 298 AC · Estimated**  
-*Bloody Gate · The Eyrie*  
-**CATELYN STARK** · **TYRION LANNISTER** · **BRONN** · **BRYNDEN TULLY** · **LYSA ARRYN** · **RODRIK CASSEL**
+**28–29 Sep 298 AC**  
+*Bloody Gate* · *The Eyrie*  
+**CATELYN** · **BRONN** · **LYSA** · **TYRION** · **RODRIK** · **BRYNDEN**
 
-**Catelyn** brings **Tyrion** to **Lysa Arryn**, whose paranoia and indulgence of her son **Robert** make the captive’s prospects perilous.
+**Catelyn** brings **Tyrion** to **Lysa** Arryn, whose paranoia and indulgence of her son **Robert** make the captive’s prospects perilous.
 
-## GOT Ch. 35: Eddard IX
+### GOT Ch. 35: Eddard IX
 
-**25 Sep 298 AC · Estimated**  
-*King’s Landing · Brothel · Streets*  
-**EDDARD STARK** · **JAIME LANNISTER** · **GRAND MAESTER PYCELLE** · **JORY CASSEL** · **PETYR BAELISH**
+**25 Sep 298 AC**  
+*King’s Landing*  
+**NED** · **PETYR** · **JORY** · **JAIME** · **PYCELLE**
 
-Investigating one of **Robert’s** illegitimate children, **Ned** is ambushed by **Jaime**, loses **Jory Cassel**, and suffers a grave leg injury.
+Investigating one of **Robert**’s illegitimate children, **Ned** is ambushed by **Jaime**, loses **Jory Cassel**, and suffers a grave leg injury.
 
-## GOT Ch. 36: Daenerys IV
+### GOT Ch. 36: Daenerys IV
 
-**9 Jun 298 AC · Estimated**  
+**9 Jun 298 AC**  
 *Vaes Dothrak*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **VISERYS TARGARYEN**
+**DAENERYS** · **DROGO** · **JORAH** · **VISERYS**
 
-**Daenerys** enters the Dothraki sacred city with **Drogo**, **Jorah**, and **Viserys**, whose position among the riders has deteriorated.
+**Daenerys** enters the **Dothraki** sacred city with **Drogo**, **Jorah**, and **Viserys**, whose position among the riders has deteriorated.
 
-## GOT Ch. 37: Bran V
+### GOT Ch. 37: Bran V
 
-**18 Oct 298 AC · Estimated**  
-*Wolfswood Near Winterfell*  
-**BRAN STARK** · **ROBB STARK** · **MAESTER LUWIN** · **OSHA** · **THEON GREYJOY**
+**18 Oct 298 AC**  
+*Wolfswood*  
+**BRAN** · **ROBB** · **THEON** · **LUWIN** · **OSHA**
 
-On his new horse, **Bran** is seized by wildlings until **Robb** and **Theon** intervene. Captured **Osha** warns of dangers beyond the Wall.
+On his new horse, **Bran** is seized by wildlings until **Robb** and **Theon** intervene. Captured **Osha** warns of dangers beyond **the Wall**.
 
-## GOT Ch. 38: Tyrion V
+### GOT Ch. 38: Tyrion V
 
-**15 Oct 298 AC · Estimated**  
-*The Eyrie · Sky Cells*  
-**TYRION LANNISTER** · **CATELYN STARK** · **BRONN** · **BRYNDEN TULLY** · **LYSA ARRYN** · **RODRIK CASSEL**
+**15 Oct 298 AC**  
+*The Eyrie*  
+**TYRION** · **LYSA** · **BRONN** · **CATELYN** · **BRYNDEN** · **RODRIK**
 
 Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** volunteers to fight the Vale’s champion for his freedom.
 
-## GOT Ch. 39: Eddard X
+### GOT Ch. 39: Eddard X
 
-**2 Oct 298 AC · Estimated**  
-*King’s Landing · Tower of the Hand*  
-**EDDARD STARK** · **CERSEI LANNISTER** · **ROBERT BARATHEON**
+**2 Oct 298 AC**  
+*King’s Landing*  
+**NED** · **ROBERT** · **CERSEI**
 
 **Ned** recalls the Tower of Joy and Lyanna’s death. **Robert** returns the Hand’s badge and orders his wounded friend back into service.
 
-## GOT Ch. 40: Catelyn VII
+### GOT Ch. 40: Catelyn VII
 
-**16 Oct 298 AC · Estimated**  
-*The Eyrie, High Hall*  
-**CATELYN STARK** · **TYRION LANNISTER** · **BRONN** · **BRYNDEN TULLY** · **LYSA ARRYN** · **RODRIK CASSEL**
+**16 Oct 298 AC**  
+*The Eyrie*  
+**CATELYN** · **RODRIK** · **LYSA** · **TYRION** · **BRYNDEN** · **BRONN**
 
-**Bronn** defeats **Ser Vardis Egen** in single combat, securing **Tyrion’s** release despite **Lysa’s** desire to see him dead.
+**Bronn** defeats Ser Vardis Egen in single combat, securing **Tyrion**’s release despite **Lysa**’s desire to see him dead.
 
-## GOT Ch. 41: Jon V
+### GOT Ch. 41: Jon V
 
-**6 Nov 298 AC · Estimated**  
+**6 Nov 298 AC**  
 *Castle Black*  
-**JON SNOW** · **ALLISER THORNE** · **SAMWELL TARLY**
+**JON** · **THORNE** · **SAM**
 
 **Jon** fears that **Sam** will be rejected from the Watch and asks **Maester Aemon** to find a place suited to Sam’s intelligence.
 
-## GOT Ch. 42: Tyrion VI
+### GOT Ch. 42: Tyrion VI
 
-**17 Oct 298 AC · Estimated**  
+**17 Oct 298 AC**  
 *Mountains of the Moon*  
-**TYRION LANNISTER** · **BRONN** · **SHAGGA**
+**TYRION** · **BRONN** · **SHAGGA**
 
 After leaving the Vale, **Tyrion** and **Bronn** negotiate with mountain clans, trading promises of arms and plunder for safe passage.
 
-## GOT Ch. 43: Eddard XI
+### GOT Ch. 43: Eddard XI
 
-**5 Oct 298 AC · Estimated**  
-*King’s Landing · Red Keep Throne Room*  
-**EDDARD STARK** · **GRAND MAESTER PYCELLE** · **ILYN PAYNE** · **PETYR BAELISH** · **VARYS**
+**5 Oct 298 AC**  
+*King’s Landing*  
+**NED** · **VARYS** · **PYCELLE** · **PETYR** · **ILYN**
 
-Hearing evidence of **Gregor Clegane’s** attacks in the riverlands, **Ned** sends **Beric Dondarrion** to execute royal justice.
+Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** sends **Beric Dondarrion** to execute royal justice.
 
-## GOT Ch. 44: Sansa III
+### GOT Ch. 44: Sansa III
 
-**5–6 Oct 298 AC · Estimated**  
-*King’s Landing · Red Keep*  
-**SANSA STARK** · **ARYA STARK** · **EDDARD STARK** · **PETYR BAELISH**
+**5–6 Oct 298 AC**  
+*King’s Landing*  
+**SANSA** · **NED** · **ARYA** · **PETYR**
 
 **Sansa** is distressed when **Ned** orders her and **Arya** home. Her attachment to **Joffrey** clashes with her father’s wish to protect them.
 
-## GOT Ch. 45: Eddard XII
+### GOT Ch. 45: Eddard XII
 
-**19 Oct 298 AC · Estimated**  
-*King’s Landing Godswood*  
-**EDDARD STARK** · **CERSEI LANNISTER** · **GRAND MAESTER PYCELLE** · **PETYR BAELISH**
+**19 Oct 298 AC**  
+*King’s Landing*  
+**NED** · **PYCELLE** · **CERSEI** · **PETYR**
 
 **Ned** tells **Cersei** he knows her children were fathered by **Jaime**, not **Robert**, and urges her to flee before he exposes her.
 
-## GOT Ch. 46: Daenerys V
+### GOT Ch. 46: Daenerys V
 
-**10 Nov 298 AC · Estimated**  
+**10 Nov 298 AC**  
 *Vaes Dothrak*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **VISERYS TARGARYEN**
+**DAENERYS** · **DROGO** · **JORAH** · **VISERYS**
 
 **Daenerys** eats the stallion’s heart and hears a prophecy about her son. **Viserys** draws a weapon and **Drogo** kills him with molten gold.
 
-## GOT Ch. 47: Eddard XIII
+### GOT Ch. 47: Eddard XIII
 
-**23 Oct 298 AC · Estimated**  
-*King’s Landing · Red Keep*  
-**EDDARD STARK** · **CERSEI LANNISTER** · **ROBERT BARATHEON** · **BARRISTAN SELMY** · **GRAND MAESTER PYCELLE** · **PETYR BAELISH** · **RENLY BARATHEON** · **VARYS**
+**23 Oct 298 AC**  
+*King’s Landing*  
+**NED** · **ROBERT** · **BARRISTAN** · **PYCELLE** · **RENLY** · **CERSEI** · **VARYS** · **PETYR**
 
-With **Robert** dying, **Ned** alters the king’s final instructions to preserve lawful succession and solicits **Littlefinger’s** help securing the City Watch.
+With **Robert** dying, **Ned** alters the king’s final instructions to preserve lawful succession and solicits **Littlefinger**’s help securing the City Watch.
 
-## GOT Ch. 48: Jon VI
+### GOT Ch. 48: Jon VI
 
-**7 Nov 298 AC · Estimated**  
-*Castle Black · Haunted Forest*  
-**JON SNOW** · **ALLISER THORNE** · **JEOR MORMONT** · **MAESTER AEMON** · **SAMWELL TARLY**
+**7 Nov 298 AC**  
+*Castle Black* · *Haunted Forest*  
+**JON** · **SAM** · **AEMON** · **JEOR** · **THORNE**
 
 **Jon** and **Sam** take their Watch vows before a heart tree. **Ghost** uncovers a dead ranger’s hand, triggering a search for missing men.
 
-## GOT Ch. 49: Eddard XIV
+### GOT Ch. 49: Eddard XIV
 
-**24 Oct 298 AC · Estimated**  
-*King’s Landing, Red Keep Throne Room*  
-**EDDARD STARK** · **ARYA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **SANSA STARK** · **BARRISTAN SELMY** · **GRAND MAESTER PYCELLE** · **JANOS SLYNT** · **PETYR BAELISH** · **SANDOR CLEGANE** · **VARYS**
+**24 Oct 298 AC**  
+*King’s Landing*  
+**NED** · **CERSEI** · **JOFFREY** · **PYCELLE** · **PETYR** · **VARYS** · **JANOS** · **ARYA** · **SANSA** · **BARRISTAN** · **SANDOR**
 
-After **Robert’s** death, **Ned** attempts to assert his regency; the City Watch sides with **Cersei**, and **Littlefinger** betrays him.
+After **Robert**’s death, **Ned** attempts to assert his regency; the City Watch sides with **Cersei**, and **Littlefinger** betrays him.
 
-## GOT Ch. 50: Arya IV
+### GOT Ch. 50: Arya IV
 
-**24 Oct 298 AC · Estimated**  
-*King’s Landing · Red Keep Passages*  
-**ARYA STARK** · **SYRIO FOREL**
+**24 Oct 298 AC**  
+*King’s Landing*  
+**ARYA** · **SYRIO**
 
-**Syrio Forel** confronts Lannister guards to give **Arya** time to escape. She kills a stableboy while fleeing through the castle.
+**Syrio** Forel confronts Lannister guards to give **Arya** time to escape. She kills a stableboy while fleeing through the castle.
 
-## GOT Ch. 51: Sansa IV
+### GOT Ch. 51: Sansa IV
 
-**23–26 Oct 298 AC · Estimated**  
-*King’s Landing · Maegor’s Holdfast*  
-**SANSA STARK** · **CERSEI LANNISTER** · **GRAND MAESTER PYCELLE** · **PETYR BAELISH** · **VARYS**
+**23–26 Oct 298 AC**  
+*King’s Landing*  
+**SANSA** · **CERSEI** · **PYCELLE** · **VARYS** · **PETYR**
 
-Detained after Ned’s arrest, **Sansa** obeys **Cersei’s** request to write home urging submission to **Joffrey**; **Jeyne Poole** disappears.
+Detained after **Ned**’s arrest, **Sansa** obeys **Cersei**’s request to write home urging submission to **Joffrey**; **Jeyne Poole** disappears.
 
-## GOT Ch. 52: Jon VII
+### GOT Ch. 52: Jon VII
 
-**8 Nov 298 AC · Estimated**  
-*Castle Black · Lord Commander’s Tower*  
-**JON SNOW** · **ALLISER THORNE** · **JEOR MORMONT** · **SAMWELL TARLY**
+**8 Nov 298 AC**  
+*Castle Black*  
+**JON** · **JEOR** · **SAM** · **THORNE**
 
 The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by burning one, revealing the power of fire against them.
 
-## GOT Ch. 53: Bran VI
+### GOT Ch. 53: Bran VI
 
-**7 Dec 298 AC · Estimated**  
+**7 Dec 298 AC**  
 *Winterfell*  
-**BRAN STARK** · **ROBB STARK** · **GREATJON UMBER** · **HODOR** · **MAESTER LUWIN** · **OSHA** · **RICKARD KARSTARK** · **RICKON STARK** · **ROOSE BOLTON** · **THEON GREYJOY**
+**BRAN** · **LUWIN** · **ROBB** · **ROOSE** · **RICKARD** · **THEON** · **GREATJON** · **OSHA** · **HODOR** · **RICKON**
 
-**Robb** receives northern bannermen, asserts command over rival lords and departs with his army, leaving **Bran** behind at Winterfell.
+**Robb** receives northern bannermen, asserts command over rival lords and departs with his army, leaving **Bran** behind at **Winterfell**.
 
-## GOT Ch. 54: Daenerys VI
+### GOT Ch. 54: Daenerys VI
 
-**16 Dec 298 AC · Estimated**  
-*Vaes Dothrak · Dothraki Sea*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT**
+**16 Dec 298 AC**  
+*Vaes Dothrak*  
+**DAENERYS** · **DROGO** · **JORAH**
 
 **Jorah** prevents an assassination attempt on **Daenerys**. Outraged, **Drogo** vows to cross the narrow sea and seize the Iron Throne.
 
-## GOT Ch. 55: Catelyn VIII
+### GOT Ch. 55: Catelyn VIII
 
-**25 Dec 298 AC · Estimated**  
+**25 Dec 298 AC**  
 *Moat Cailin*  
-**CATELYN STARK** · **ROBB STARK** · **BRYNDEN TULLY** · **GREATJON UMBER** · **RICKARD KARSTARK** · **ROOSE BOLTON** · **THEON GREYJOY**
+**CATELYN** · **BRYNDEN** · **ROBB** · **GREATJON** · **ROOSE** · **THEON** · **RICKARD**
 
-**Catelyn** rejoins **Robb** to help devise a campaign: part of the northern host will occupy **Tywin** while the main force moves on Riverrun.
+**Catelyn** rejoins **Robb** to help devise a campaign: part of the northern host will occupy **Tywin** while the main force moves on **Riverrun**.
 
-## GOT Ch. 56: Tyrion VII
+### GOT Ch. 56: Tyrion VII
 
-**30 Dec 298 AC · Estimated**  
-*Inn at the Crossroads · Lannister Camp*  
-**TYRION LANNISTER** · **BRONN** · **SHAGGA** · **TYWIN LANNISTER**
+**30 Dec 298 AC**  
+*Inn at the Crossroads* · *Lannister Camp*  
+**TYRION** · **BRONN** · **TYWIN** · **SHAGGA**
 
 **Tyrion** meets **Tywin**, offers the mountain clans as fighters, and discovers that his father intends to place him in the battle line.
 
-## GOT Ch. 57: Sansa V
+### GOT Ch. 57: Sansa V
 
-**23 Dec 298 AC · Estimated**  
-*King’s Landing, Iron Throne*  
-**SANSA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **BARRISTAN SELMY** · **GRAND MAESTER PYCELLE** · **JANOS SLYNT** · **PETYR BAELISH** · **SANDOR CLEGANE** · **VARYS**
+**23 Dec 298 AC**  
+*King’s Landing*  
+**SANSA** · **JOFFREY** · **CERSEI** · **PYCELLE** · **VARYS** · **BARRISTAN** · **JANOS** · **PETYR** · **SANDOR**
 
 **Sansa** begs **Joffrey** to spare **Ned**; he makes mercy conditional upon a public confession of treason and submission.
 
-## GOT Ch. 58: Eddard XV
+### GOT Ch. 58: Eddard XV
 
-**30 Dec 298 AC · Estimated**  
-*King’s Landing, Black Cells*  
-**EDDARD STARK** · **VARYS**
+**30 Dec 298 AC**  
+*King’s Landing*  
+**NED** · **VARYS**
 
 **Varys** visits imprisoned **Ned** and urges him to make the false confession needed to protect **Sansa** from further harm.
 
-## GOT Ch. 59: Catelyn IX
+### GOT Ch. 59: Catelyn IX
 
-**2 Jan 299 AC · Estimated**  
+**2 Jan 299 AC**  
 *The Twins*  
-**CATELYN STARK** · **ROBB STARK** · **BRYNDEN TULLY** · **GREATJON UMBER** · **RICKARD KARSTARK** · **ROOSE BOLTON** · **THEON GREYJOY** · **WALDER FREY**
+**CATELYN** · **BRYNDEN** · **ROBB** · **WALDER** · **THEON** · **GREATJON** · **ROOSE** · **RICKARD**
 
-**Catelyn** bargains with **Walder Frey** for passage. **Robb’s** cavalry crosses west while **Roose Bolton** takes the infantry onward.
+**Catelyn** bargains with Walder Frey for passage. **Robb**’s cavalry crosses west while Roose Bolton takes the infantry onward.
 
-## GOT Ch. 60: Jon VIII
+### GOT Ch. 60: Jon VIII
 
-**1 Jan 299 AC · Estimated**  
+**1 Jan 299 AC**  
 *Castle Black*  
-**JON SNOW** · **JEOR MORMONT** · **MAESTER AEMON** · **SAMWELL TARLY**
+**JON** · **JEOR** · **AEMON** · **SAM**
 
 **Jeor Mormont** gives **Jon** the sword Longclaw. **Maester Aemon** reveals his Targaryen descent and explains the cost of choosing duty.
 
-## GOT Ch. 61: Daenerys VII
+### GOT Ch. 61: Daenerys VII
 
-**31 Dec 298 AC · Estimated**  
+**31 Dec 298 AC**  
 *Lhazareen Village*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **MIRRI MAZ DUUR**
+**DAENERYS** · **DROGO** · **JORAH** · **MIRRI**
 
-**Daenerys** intervenes when **Drogo’s** warriors enslave villagers, shelters **Mirri Maz Duur**, and hopes the healer can treat Drogo’s wound.
+**Daenerys** intervenes when **Drogo**’s warriors enslave villagers, shelters **Mirri Maz Duur**, and hopes the healer can treat Drogo’s wound.
 
-## GOT Ch. 62: Tyrion VIII
+### GOT Ch. 62: Tyrion VIII
 
-**5–6 Jan 299 AC · Estimated**  
-*Lannister Camp · Green Fork*  
-**TYRION LANNISTER** · **BRONN** · **GREGOR CLEGANE** · **SHAE** · **SHAGGA** · **TYWIN LANNISTER**
+**5–6 Jan 299 AC**  
+*Lannister Camp* · *Green Fork*  
+**TYRION** · **TYWIN** · **SHAGGA** · **BRONN** · **SHAE** · **GREGOR**
 
 **Tyrion** takes **Shae** as a lover and survives the Battle of the Green Fork. **Tywin** learns **Robb** crossed west rather than fight him.
 
-## GOT Ch. 63: Catelyn X
+### GOT Ch. 63: Catelyn X
 
-**9 Jan 299 AC · Estimated**  
+**9 Jan 299 AC**  
 *Whispering Wood*  
-**CATELYN STARK** · **JAIME LANNISTER** · **ROBB STARK** · **BRYNDEN TULLY** · **GREATJON UMBER** · **THEON GREYJOY**
+**CATELYN** · **ROBB** · **BRYNDEN** · **THEON** · **GREATJON** · **JAIME**
 
-**Robb** ambushes **Jaime’s** army in the woods, captures Jaime, and wins a major victory that does not yet lift Riverrun’s siege.
+**Robb** ambushes **Jaime**’s army in the woods, captures Jaime, and wins a major victory that does not yet lift **Riverrun**’s siege.
 
-## GOT Ch. 64: Daenerys VIII
+### GOT Ch. 64: Daenerys VIII
 
-**9 Jan 299 AC · Estimated**  
-*Dothraki Sea · Khalasar Camp*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **MIRRI MAZ DUUR**
+**9 Jan 299 AC**  
+*Dothraki Sea*  
+**DAENERYS** · **DROGO** · **MIRRI** · **JORAH**
 
-With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur’s** blood ritual. Fighting and labour pains erupt as Dany is carried into the tent.
+With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. Fighting and labour pains erupt as Dany is carried into the tent.
 
-## GOT Ch. 65: Arya V
+### GOT Ch. 65: Arya V
 
-**10 Jan 299 AC · Estimated**  
-*King’s Landing · Great Sept of Baelor*  
-**ARYA STARK** · **CERSEI LANNISTER** · **EDDARD STARK** · **JOFFREY BARATHEON** · **SANSA STARK** · **ILYN PAYNE** · **JANOS SLYNT** · **PETYR BAELISH** · **SANDOR CLEGANE** · **VARYS**
+**10 Jan 299 AC**  
+*King’s Landing*  
+**ARYA** · **SANSA** · **NED** · **JOFFREY** · **SANDOR** · **ILYN** · **VARYS** · **CERSEI** · **JANOS** · **PETYR**
 
 **Arya** watches **Ned** confess before **Joffrey** orders his execution. **Yoren** pulls her away and cuts her hair to disguise her.
 
-## GOT Ch. 66: Bran VII
+### GOT Ch. 66: Bran VII
 
-**24 Jan 299 AC · Estimated**  
-*Winterfell · Godswood*  
-**BRAN STARK** · **MAESTER LUWIN** · **OSHA** · **RICKON STARK** · **RODRIK CASSEL**
+**24 Jan 299 AC**  
+*Winterfell*  
+**BRAN** · **LUWIN** · **RODRIK** · **OSHA** · **RICKON**
 
-**Bran** sees the red comet and receives a raven bringing news of **Ned’s** death, confronting the children left at Winterfell with loss.
+**Bran** sees the red comet and receives a raven bringing news of **Ned**’s death, confronting the children left at **Winterfell** with loss.
 
-## GOT Ch. 67: Sansa VI
+### GOT Ch. 67: Sansa VI
 
-**15 Jan 299 AC · Estimated**  
-*King’s Landing · Red Keep Battlements*  
-**SANSA STARK** · **CERSEI LANNISTER** · **EDDARD STARK** · **JOFFREY BARATHEON** · **GRAND MAESTER PYCELLE** · **ILYN PAYNE** · **JANOS SLYNT** · **PETYR BAELISH** · **SANDOR CLEGANE**
+**15 Jan 299 AC**  
+*King’s Landing*  
+**SANSA** · **JOFFREY** · **SANDOR** · **CERSEI** · **ILYN** · **PYCELLE** · **NED** · **JANOS** · **PETYR**
 
 **Joffrey** forces **Sansa** to view the heads of **Ned** and others. She nearly pushes him over the edge before **Sandor** intervenes.
 
-## GOT Ch. 68: Daenerys IX
+### GOT Ch. 68: Daenerys IX
 
-**22 Jan 299 AC · Estimated**  
-*Dothraki Sea, Khalasar Camp*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **MIRRI MAZ DUUR**
+**22 Jan 299 AC**  
+*Dothraki Sea*  
+**DAENERYS** · **DROGO** · **JORAH** · **MIRRI**
 
 **Daenerys** wakes to a stillborn child and a living but unresponsive **Drogo**. **Mirri Maz Duur** explains the ritual’s price; Dany kills Drogo.
 
-## GOT Ch. 69: Tyrion IX
+### GOT Ch. 69: Tyrion IX
 
-**22 Jan 299 AC · Estimated**  
-*Lannister Camp · Inn at the Crossroads*  
-**TYRION LANNISTER** · **GREGOR CLEGANE** · **SHAE** · **TYWIN LANNISTER**
+**22 Jan 299 AC**  
+*Lannister Camp*  
+**TYRION** · **TYWIN** · **SHAE** · **GREGOR**
 
-**Tywin** learns of **Jaime’s** capture and sends **Tyrion** to govern King’s Landing as acting Hand. Tyrion plans to take **Shae**.
+**Tywin** learns of **Jaime**’s capture and sends **Tyrion** to govern **King’s Landing** as acting Hand. Tyrion plans to take **Shae**.
 
-## GOT Ch. 70: Jon IX
+### GOT Ch. 70: Jon IX
 
-**26 Jan 299 AC · Estimated**  
-*Castle Black · Road South*  
-**JON SNOW** · **JEOR MORMONT** · **SAMWELL TARLY**
+**26 Jan 299 AC**  
+*Castle Black* · *Kingsroad*  
+**JON** · **SAM** · **JEOR**
 
 Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends bring him back. **Jeor Mormont** challenges him to honour his oath.
 
-## GOT Ch. 71: Catelyn XI
+### GOT Ch. 71: Catelyn XI
 
-**16 Jan 299 AC · Estimated**  
+**16 Jan 299 AC**  
 *Riverrun*  
-**CATELYN STARK** · **ROBB STARK** · **BRYNDEN TULLY** · **EDMURE TULLY** · **GREATJON UMBER** · **RICKARD KARSTARK** · **THEON GREYJOY**
+**CATELYN** · **ROBB** · **THEON** · **BRYNDEN** · **GREATJON** · **RICKARD** · **EDMURE**
 
-**Catelyn** reunites with her family after **Robb** breaks Riverrun’s siege. The gathered lords reject southern claimants and proclaim Robb King in the North.
+**Catelyn** reunites with her family after **Robb** breaks **Riverrun**’s siege. The gathered lords reject southern claimants and proclaim Robb King in the North.
 
-## GOT Ch. 72: Daenerys X
+### GOT Ch. 72: Daenerys X
 
-**23 Jan 299 AC · Estimated**  
-*Dothraki Sea · Funeral Pyre*  
-**DAENERYS TARGARYEN** · **KHAL DROGO** · **JORAH MORMONT** · **MIRRI MAZ DUUR**
+**23 Jan 299 AC**  
+*Dothraki Sea*  
+**DAENERYS** · **DROGO** · **MIRRI** · **JORAH**
 
 **Daenerys** burns **Drogo** and **Mirri Maz Duur** with the dragon eggs. She emerges unharmed with 3 hatchlings and a renewed following.
 
 ---
+
 
 ## Drafting, Sources and Verification Notes
 
@@ -692,3 +693,13 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 - **Format authority:** [ROM CSRM v10.27](https://github.com/dz480/CG-Protocols/blob/main/ROM_CSRM.md), superseded here only by the specific chapter-only instruction.
 
 **Coverage verification:** 1 Prologue + 72 numbered chapters; no duplicated or omitted Source Units. Every unit contains an estimated Date, Primary Location line, tier-limited character roster and Chapter Narrative Brief. No SEQ headings or Sequence Decks. Central Reading Point unchanged.
+
+### Format compliance and source-audit notes (13 Oct 2026)
+
+- **Chapter structure:** 73 native units retained in reading order with H3 headings. The Table of Contents preserves each chapter's GitHub anchor.
+- **Chronology:** Every clean bold date is a fan reconstruction estimate, primarily based on PrivateMajor. The accessible original Google Sheets display ends in early Jan 299 AC; dates beyond that point and exact calendar days generally remain provisional until the complete chronology dataset can be independently checked.
+- **Locations:** Each Primary Location appears as an independently italicised token. Subordinate rooms and venues were collapsed into their larger geographical setting where appropriate; distinct destinations were retained where materially present.
+- **Rosters:** Short author-established names are used. MCM Principal / Supporting appearance eligibility is preserved, and ordering is guided by actual chapter first mention and apparent physical entrance rather than the source register's alphabetical grouping. **Some fine-grained entrance orders remain provisional** pending individual scene-level verification.
+- **Prologue exception:** The 3 physically present introductory figures, **GARED**, **WAYMAR** and **WILL**, are included for orientation, notwithstanding their Tertiary whole-book MCM classification. Excluding them would produce an empty roster.
+- **Chapter Narrative Briefs:** First-Mention Bolding resets for every chapter, covering identifiable characters and locations within the original condensed prose. This is formatting maintenance, not a new comprehensive content audit.
+- **Reading Point:** Unchanged.
