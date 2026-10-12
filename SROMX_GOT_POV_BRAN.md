@@ -8,10 +8,30 @@
 
 > **Source and POV boundary:** The primary narrative material consists solely of Bran's seven chapters in the Project-supplied *A Game of Thrones* EPUB, arranged in the novel's chapter order. Other POVs are not stitched into this reconstruction. Events learned through reports, memories and dreams are distinguished from actions directly enacted in Bran's chapters. Whole-book retrospective through **GOT Ch. 66** in Bran's POV, with no later-book knowledge. **SROMX v11.25**, including the compact five-column **Arc** Roll Call, significance medals and nested Character Subgroups. This is a POV-selected Scope, not a contiguous source Sequence.
 
+## Table of Contents
+
+- [1. Narrative Context](#bran-context)
+- [2. Timeline](#bran-timeline)
+- [3. Major Narrative Threads](#bran-threads)
+- [4. Narrative Overview](#bran-overview)
+- [5. Roll Call](#bran-roll-call)
+  - [House Stark](#bran-house-stark)
+  - [Winterfell Household and Attendants](#bran-winterfell-household)
+    - [Household & Personal Service](#bran-household-personal-service)
+    - [Guards & Military Service](#bran-guards-military)
+  - [The Lannisters](#bran-lannisters)
+  - [The Wolfswood Fugitives](#bran-wolfswood-fugitives)
+  - [Northern Bannermen](#bran-northern-bannermen)
+  - [Night's Watch](#bran-nights-watch)
+  - [Direwolves](#bran-direwolves)
+- [6. Top Cinematic Scenes](#bran-cinematic-scenes)
+
+<a id="bran-context"></a>
 # 1. Narrative Context
 
 The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, the young son of **Eddard Stark**, looks forward to becoming a knight and is fascinated by climbing the castle's walls and towers. His father rules the North and expects his sons to learn the burdens of justice. Meanwhile, stories from beyond **the Wall** trouble the edges of Bran's childhood: **Old Nan** speaks of the Others and the Long Night, while the Night's Watch still guards against threats in the far North. Bran begins among his family, with freedom of movement and an apparently secure place in his father's household, unaware of the changes about to overtake both.
 
+<a id="bran-timeline"></a>
 # 2. Timeline
 
 | # | Date | Location | Chronological Position |
@@ -24,6 +44,7 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 | 6 | **Northern mobilisation for war** | **THE NORTH**<br>• **Winterfell**<br>&nbsp;&nbsp;⤷ Great Hall and godswood | **GOT Ch. 53:** Northern bannermen assemble and Robb prepares to march south. Osha speaks of dangers beyond the Wall, and Bran remains in Winterfell's care. |
 | 7 | **After Robb's departure** | **THE NORTH**<br>• **Winterfell**<br>&nbsp;&nbsp;⤷ Crypts and maester's tower | **GOT Ch. 66:** Bran and Rickon are troubled by dreams about Eddard. A wounded raven arrives; Maester Luwin confirms their father's death. |
 
+<a id="bran-threads"></a>
 # 3. Major Narrative Threads
 
 | # | Thread | Overview |
@@ -34,6 +55,7 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 | 4 | **Warnings from the far North** | Stories from **Old Nan** and warnings from **Osha** present ancient dangers beyond the Wall as potentially real. Luwin remains sceptical, and the Stark household directs its military strength toward southern conflict. |
 | 5 | **The direwolves' growing involvement** | **Summer** and **Grey Wind** actively defend Bran against danger; the wolves' behaviour, together with Rickon's increasingly fierce **Shaggydog**, becomes inseparable from the Stark children's vulnerability and protection. |
 
+<a id="bran-overview"></a>
 # 4. Narrative Overview
 
 **Bran Stark's** story begins on a clear, cold morning when his father **Eddard** takes him to witness the execution of a deserter from the Night's Watch. Bran is old enough to join **Robb**, **Jon Snow** and the men on the ride, but the sight of death disturbs him. Eddard later explains that a ruler who passes judgment ought to wield the sword. On the journey home, the party discovers a dead direwolf with surviving pups. The children are allowed to keep them, and Bran comes to call his own wolf **Summer**. The episode places family obligation, mortality and the bond with the direwolves at the beginning of his personal narrative.
@@ -50,12 +72,14 @@ As the Lannister conflict escalates, Winterfell becomes a gathering place for no
 
 After the departure, Bran's sense of connection to unseen events grows more unsettling. He dreams of his father in the crypts, and Rickon has experienced a similarly troubling dream. Amid a discussion of the children of the forest and the persistence of old magic, a wounded raven arrives bearing a message. Luwin's reaction confirms what the children already dread: Eddard is dead. The boy introduced through his father's uncompromising act of justice now faces that father's loss, confined to Winterfell yet increasingly responsible for the home and family that remain.
 
+<a id="bran-roll-call"></a>
 # 5. Roll Call
 
 **Roll Call display:** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Named roster entries retain bracketed textual Current Status; † marks deceased individuals. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
 
 **Boundary rule:** Position at Start means the opening of **GOT Ch. 1**, not the character's first appearance within this selected chapter set. **Arc** summarises intervening participation in the seven Bran chapters. Position at End is the strongest established condition by the conclusion of **GOT Ch. 66**. Mentioned-only and ordinary dream representations are not counted as physically Present.
 
+<a id="bran-house-stark"></a>
 ## 🏰 House Stark
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -66,8 +90,10 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 🏅 | **JON SNOW**, Eddard's acknowledged bastard son [Alive] | Lives at Winterfell and accompanies Bran to the execution. | Counsels Bran at the execution and helps secure the direwolf pups. | Has departed for service with the Night's Watch. |
 | 🥈 | **RICKON STARK**, youngest Stark son [Alive] | Small child in the Stark household. | Endures the family's separation and shares Bran's distressing dream about their father. | At Winterfell with Bran, devastated by the news of Eddard's death. |
 
+<a id="bran-winterfell-household"></a>
 ## 🛡️ Winterfell Household and Attendants
 
+<a id="bran-household-personal-service"></a>
 ### Household & Personal Service
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -79,6 +105,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 12 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
 | 15 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
 
+<a id="bran-guards-military"></a>
 ### Guards & Military Service
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -91,6 +118,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 17 | **WAYN**, Stark guardsman [Alive] | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | Continues in Stark service. |
 | 18 | **MIKKEN**, Winterfell smith [Alive] | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
 
+<a id="bran-lannisters"></a>
 ## 🦁 The Lannisters
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -99,6 +127,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 🏅 | **JAIME LANNISTER**, Kingsguard knight [Alive] | Accompanies the royal household. | Throws Bran from the tower after the boy discovers the twins together. | Away from Winterfell; his culpability is unknown to Bran. |
 | 🏅 | **TYRION LANNISTER**, Lannister nobleman [Alive] | Present with the royal visitors at Winterfell. | Returns from the Wall and gives Bran a workable design for a riding saddle. | Has left Winterfell; the saddle makes Bran's later ride possible. |
 
+<a id="bran-wolfswood-fugitives"></a>
 ## 🌲 The Wolfswood Fugitives
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -109,6 +138,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 25 | **WALLEN**†, Night's Watch deserter [Deceased] | Among the southbound fugitives. | Joins Stiv's raid on Bran's riding party. | Killed during the encounter. |
 | 26 | **OTHER WOLFSWOOD ATTACKERS**, unnamed fugitive participants [Mixed / not individually tracked] | Fleeing south with the named attackers. | Take part in the assault and fight with Robb's party and the direwolves. | Casualties and surviving participants determined by the enacted fight; not individually tracked. |
 
+<a id="bran-northern-bannermen"></a>
 ## 🐺 Northern Bannermen
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -119,6 +149,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 30 | **EDDARD KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears with his father and brothers during the gathering. | Departs with the Karstark contingent; later fate not established here. |
 | 31 | **TORRHEN KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears in the assembly of Karstark forces. | Departs with the northern host; later fate not established here. |
 
+<a id="bran-nights-watch"></a>
 ## 🧊 Night's Watch
 
 | # | Character | Position at Start | Arc | Position at End |
@@ -126,6 +157,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 32 | **GARED**†, Night's Watch deserter [Deceased] | Captured and awaiting Eddard's judgment. | Is executed at the opening of Bran's story. | Deceased; execution occurs in Bran I. |
 | 33 | **YOREN**, Night's Watch recruiter [Alive] | Travels to find recruits for the Watch. | Appears at Winterfell and discusses the Wall and missing Benjen Stark. | Leaves Winterfell on Watch business. |
 
+<a id="bran-direwolves"></a>
 ## 🐾 Direwolves
 
 > Named direwolves are included where their independent interventions materially affect Bran's narrative. The remaining non-speaking-animal threshold continues to follow the current ROM Terminology Standard.
@@ -138,6 +170,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 
 **Character entries:** 36 (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
 
+<a id="bran-cinematic-scenes"></a>
 # 6. Top Cinematic Scenes
 
 | # | Scene | Characters Present | Description |
