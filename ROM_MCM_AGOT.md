@@ -4,6 +4,24 @@
 
 > **Whole-book foresight reference:** Contains spoilers for the complete first novel. It is not a reader-progress update and does not initialise or advance the live MCR.
 
+## Table of Contents
+
+- [1. Master Scope & Source Profile](#agot-scope)
+- [2. Full Character Roster](#agot-roster)
+  - [Winterfell & the North](#agot-winterfell-north)
+  - [Northern Lords & Allies](#agot-northern-lords)
+  - [Night's Watch](#agot-nights-watch)
+  - [Royal Court & King's Landing](#agot-royal-court)
+  - [Lannisters & Westerlands](#agot-lannisters)
+  - [Vale & Riverlands](#agot-vale-riverlands)
+  - [Targaryens & the East](#agot-targaryens)
+  - [Historical & Offstage Figures](#agot-historical)
+- [3. Character Census](#agot-census)
+- [4. Significance Promotion Ledger](#agot-promotions)
+- [5. Chapter Appearance Register](#agot-appearances)
+- [6. Verification & Source Notes](#agot-verification)
+
+<a id="agot-scope"></a>
 ## 1. Master Scope & Source Profile
 
 - **Work:** *A Game of Thrones*, George R. R. Martin (1996), Book 1 of *A Song of Ice and Fire*.
@@ -16,10 +34,12 @@
 - **Evidence policy:** A name-search hit is merely a candidate, not a Chapter Appearance. Only directly enacted presence contributes to confirmed distinct-chapter counts. Offstage and remembered people can appear in the roster with 0 direct appearances.
 - **Data-quality designation:** **Satisfactory for Use — Priority Verified.** All 55 Principal/Supporting records now have chapter-by-chapter direct-presence lists, source-checked first/latest coordinates, and verified Book 1 counts with a cumulative baseline of 0. Remaining Tertiary totals are intentionally exempt, and their unresolved first/latest coordinates are explicitly identified.
 
+<a id="agot-roster"></a>
 ## 2. Full Character Roster
 
 **Reference convention:** Each appearance cell renders First ⇤ / Latest ⇥ / cumulative distinct-chapter appearances. All Principal and Supporting totals are sourced to the enacted AGOT narrative; unverified remaining-Tertiary values are explicitly marked. Names and role identities are constrained to book-one knowledge.
 
+<a id="agot-winterfell-north"></a>
 ## 🏰 Winterfell & the North
 
 ### Principal Characters
@@ -72,6 +92,7 @@
 |  | **WALLEN**, Wildling raider | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Accompanies Stiv and Osha | 🗡 **Deceased**; killed during the encounter |
 |  | **WYL**, Stark guardsman | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Serves Ned in King's Landing | 🗡 **Deceased**; killed in the attack on Ned's party |
 
+<a id="agot-northern-lords"></a>
 ## 🐺 Northern Lords & Allies
 
 ### Supporting Characters
@@ -93,6 +114,7 @@
 |  | **MAEGE MORMONT**, Lady of Bear Island | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Northern bannerman who joins **Robb**'s host | 🟢 **Alive**; serving northern host |
 |  | **TORRHEN KARSTARK**, Son of Rickard Karstark | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Young northern warrior killed during war against **Jaime**'s forces | 🗡 **Deceased**; killed in battle |
 
+<a id="agot-nights-watch"></a>
 ## 🧊 Night's Watch
 
 ### Principal Characters
@@ -137,6 +159,7 @@
 |  | **WILL**, Ranger; prologue POV | ⇤ **GOT Prologue**<br>⇥ **GOT Prologue**<br>1 appearance | Scouts with Gared and Waymar beyond the Wall | 🗡 **Deceased**; strangled by the reanimated Waymar Royce |
 |  | **YOREN**, Wandering crow; recruiter | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Finds recruits and takes **Arya** out of the capital in disguise | 🟢 **Alive**; heading north with prisoners and **Arya** |
 
+<a id="agot-royal-court"></a>
 ## 👑 Royal Court & King's Landing
 
 ### Principal Characters
@@ -190,6 +213,7 @@
 |  | **TOBHO MOTT**, Master armorer | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Smith who employs Gendry in King's Landing; visited by Ned | 🟢 **Alive**; working at his forge |
 |  | **TOMMEN BARATHEON**, Royal prince | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Youngest child of **Cersei** and **Jaime**; publicly regarded as **Robert**'s son | 🟢 **Alive**; at King's Landing |
 
+<a id="agot-lannisters"></a>
 ## 🦁 Lannisters & Westerlands
 
 ### Principal Characters
@@ -215,6 +239,7 @@
 |  | **KEVAN LANNISTER**, Brother and deputy of Tywin Lannister | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Uncle to **Tyrion**, **Jaime** and **Cersei**; trusted commander in western host | 🟢 **Alive**; with Lannister armies |
 |  | **LANCEL LANNISTER**, Lannister cousin and royal squire | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Attends King **Robert** and serves royal household | 🟢 **Alive**; serves at King's Landing |
 
+<a id="agot-vale-riverlands"></a>
 ## 🌊 Vale & Riverlands
 
 ### Supporting Characters
@@ -256,6 +281,7 @@
 |  | **WILLIS WODE**, Knight from House Wode | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Member of **Catelyn**'s escort in the Vale | 🟢 **Alive**; last known with **Catelyn**'s party |
 |  | **YOHN ROYCE**, Lord of Runestone | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Father of Waymar; prominent Vale lord | 🟢 **Alive**; offstage/mentioned |
 
+<a id="agot-targaryens"></a>
 ## 🐉 Targaryens & the East
 
 ### Principal Characters
@@ -295,6 +321,7 @@
 |  | **QUARO**, Dothraki warrior | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Retainer of **Drogo** and attendant in his khalasar | ⚪️ **Unknown**; Unknown at book close; no independently verified terminal scene in this register |
 |  | **RAKHARO**, Dothraki warrior; Daenerys's bloodrider | ⇤ Not verified<br>⇥ Not verified<br>Not verified | Serves **Daenerys** and later swears as her bloodrider | 🟢 **Alive**; with **Daenerys** |
 
+<a id="agot-historical"></a>
 ## 📜 Historical & Offstage Figures
 
 ### Supporting Characters
@@ -323,6 +350,7 @@
 |  | **RICKARD STARK**, Former Lord of Winterfell | ⇤ No direct appearance<br>⇥ No direct appearance<br>0 appearances | Father of **Eddard**, Benjen, Lyanna and Brandon | 🗡 **Deceased**; Deceased before AGOT; executed under Aerys II |
 |  | **TYSHA**, Young woman from Tyrion's past | ⇤ No direct appearance<br>⇥ No direct appearance<br>0 appearances | Subject of **Tyrion**'s account of a coerced annulment and **Tywin**'s cruelty | ⚪️ **Unknown**; whereabouts and current condition not established |
 
+<a id="agot-census"></a>
 ## 3. Character Census
 
 | **Classification** | **Count** | **Characters** |
@@ -335,10 +363,12 @@
 
 **Deceased:** 39 (confirmed by the individual end-of-book status statements; uncertain fates excluded)
 
+<a id="agot-promotions"></a>
 ## 4. Significance Promotion Ledger
 
 **None established at a verified effective completed-chapter threshold.** The whole-book tiers above describe significance at the AGOT endpoint. A first classification as Supporting or Principal is not itself a promotion; no change-of-tier chapter has been asserted from hindsight. Future reader-bounded checkpoints may establish a promotion only when the corresponding source chapter independently supports it.
 
+<a id="agot-appearances"></a>
 ## 5. Chapter Appearance Register
 
 **Interpretation:** Book 1 starts at a cumulative baseline of **0**. All Principal/Supporting Book Chapter Counts, Book End sums and ascending chapter lists are now source-checked and reconciled. Remaining Tertiary statistical fields are intentionally empty under MCM v13.7.
@@ -531,6 +561,7 @@
 | **YOHN ROYCE** | Not verified | Not verified |  |  |  |  |
 | **YOREN** | Not verified | Not verified |  |  |  |  |
 
+<a id="agot-verification"></a>
 ## 6. Verification & Source Notes
 
 ### Validated scope and identity controls
