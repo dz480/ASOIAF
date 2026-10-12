@@ -1,19 +1,82 @@
 # ROM CSRM: A GAME OF THRONES (GOT) — WHOLE BOOK
 
-**Protocol:** ROM CSRM v10.27, chapter-only presentation adaptation  
-**Scope:** Prologue and GOT Ch. 1–72; 73 Source Units  
-**Reading order:** The novel's original chapter order (not chronological order)  
-**Sequence allocation:** None; the GOT RTE schedule explicitly disables SEQ for this readthrough  
-**Spoiler boundary:** End of GOT Ch. 72 (Daenerys X)  
-**Chronology mode:** Calendar-First with estimated fandom reconstruction; no RSDP time zero established  
-**Status:** Whole-book foresight / recall reference  
-**Compiled:** 13 Oct 2026
+## Table of Contents
 
-> **Date methodology:** In-world day and month dates are approximate placements from PrivateMajor's fan-constructed chronology and a published mirror, not dates officially assigned by George R. R. Martin. Some chapters encompass longer periods. Locations and Chapter Narrative Briefs follow the supplied GOT EPUB. The brief format and metadata use the current CSRM architecture, modified to honour the user's explicit chapter-only, no-Sequence requirement.
+- [Prologue (Will)](#prologue-will)
+- [Ch. 1: Bran I](#got-ch-1-bran-i)
+- [Ch. 2: Catelyn I](#got-ch-2-catelyn-i)
+- [Ch. 3: Daenerys I](#got-ch-3-daenerys-i)
+- [Ch. 4: Eddard I](#got-ch-4-eddard-i)
+- [Ch. 5: Jon I](#got-ch-5-jon-i)
+- [Ch. 6: Catelyn II](#got-ch-6-catelyn-ii)
+- [Ch. 7: Arya I](#got-ch-7-arya-i)
+- [Ch. 8: Bran II](#got-ch-8-bran-ii)
+- [Ch. 9: Tyrion I](#got-ch-9-tyrion-i)
+- [Ch. 10: Jon II](#got-ch-10-jon-ii)
+- [Ch. 11: Daenerys II](#got-ch-11-daenerys-ii)
+- [Ch. 12: Eddard II](#got-ch-12-eddard-ii)
+- [Ch. 13: Tyrion II](#got-ch-13-tyrion-ii)
+- [Ch. 14: Catelyn III](#got-ch-14-catelyn-iii)
+- [Ch. 15: Sansa I](#got-ch-15-sansa-i)
+- [Ch. 16: Eddard III](#got-ch-16-eddard-iii)
+- [Ch. 17: Bran III](#got-ch-17-bran-iii)
+- [Ch. 18: Catelyn IV](#got-ch-18-catelyn-iv)
+- [Ch. 19: Jon III](#got-ch-19-jon-iii)
+- [Ch. 20: Eddard IV](#got-ch-20-eddard-iv)
+- [Ch. 21: Tyrion III](#got-ch-21-tyrion-iii)
+- [Ch. 22: Arya II](#got-ch-22-arya-ii)
+- [Ch. 23: Daenerys III](#got-ch-23-daenerys-iii)
+- [Ch. 24: Bran IV](#got-ch-24-bran-iv)
+- [Ch. 25: Eddard V](#got-ch-25-eddard-v)
+- [Ch. 26: Jon IV](#got-ch-26-jon-iv)
+- [Ch. 27: Eddard VI](#got-ch-27-eddard-vi)
+- [Ch. 28: Catelyn V](#got-ch-28-catelyn-v)
+- [Ch. 29: Sansa II](#got-ch-29-sansa-ii)
+- [Ch. 30: Eddard VII](#got-ch-30-eddard-vii)
+- [Ch. 31: Tyrion IV](#got-ch-31-tyrion-iv)
+- [Ch. 32: Arya III](#got-ch-32-arya-iii)
+- [Ch. 33: Eddard VIII](#got-ch-33-eddard-viii)
+- [Ch. 34: Catelyn VI](#got-ch-34-catelyn-vi)
+- [Ch. 35: Eddard IX](#got-ch-35-eddard-ix)
+- [Ch. 36: Daenerys IV](#got-ch-36-daenerys-iv)
+- [Ch. 37: Bran V](#got-ch-37-bran-v)
+- [Ch. 38: Tyrion V](#got-ch-38-tyrion-v)
+- [Ch. 39: Eddard X](#got-ch-39-eddard-x)
+- [Ch. 40: Catelyn VII](#got-ch-40-catelyn-vii)
+- [Ch. 41: Jon V](#got-ch-41-jon-v)
+- [Ch. 42: Tyrion VI](#got-ch-42-tyrion-vi)
+- [Ch. 43: Eddard XI](#got-ch-43-eddard-xi)
+- [Ch. 44: Sansa III](#got-ch-44-sansa-iii)
+- [Ch. 45: Eddard XII](#got-ch-45-eddard-xii)
+- [Ch. 46: Daenerys V](#got-ch-46-daenerys-v)
+- [Ch. 47: Eddard XIII](#got-ch-47-eddard-xiii)
+- [Ch. 48: Jon VI](#got-ch-48-jon-vi)
+- [Ch. 49: Eddard XIV](#got-ch-49-eddard-xiv)
+- [Ch. 50: Arya IV](#got-ch-50-arya-iv)
+- [Ch. 51: Sansa IV](#got-ch-51-sansa-iv)
+- [Ch. 52: Jon VII](#got-ch-52-jon-vii)
+- [Ch. 53: Bran VI](#got-ch-53-bran-vi)
+- [Ch. 54: Daenerys VI](#got-ch-54-daenerys-vi)
+- [Ch. 55: Catelyn VIII](#got-ch-55-catelyn-viii)
+- [Ch. 56: Tyrion VII](#got-ch-56-tyrion-vii)
+- [Ch. 57: Sansa V](#got-ch-57-sansa-v)
+- [Ch. 58: Eddard XV](#got-ch-58-eddard-xv)
+- [Ch. 59: Catelyn IX](#got-ch-59-catelyn-ix)
+- [Ch. 60: Jon VIII](#got-ch-60-jon-viii)
+- [Ch. 61: Daenerys VII](#got-ch-61-daenerys-vii)
+- [Ch. 62: Tyrion VIII](#got-ch-62-tyrion-viii)
+- [Ch. 63: Catelyn X](#got-ch-63-catelyn-x)
+- [Ch. 64: Daenerys VIII](#got-ch-64-daenerys-viii)
+- [Ch. 65: Arya V](#got-ch-65-arya-v)
+- [Ch. 66: Bran VII](#got-ch-66-bran-vii)
+- [Ch. 67: Sansa VI](#got-ch-67-sansa-vi)
+- [Ch. 68: Daenerys IX](#got-ch-68-daenerys-ix)
+- [Ch. 69: Tyrion IX](#got-ch-69-tyrion-ix)
+- [Ch. 70: Jon IX](#got-ch-70-jon-ix)
+- [Ch. 71: Catelyn XI](#got-ch-71-catelyn-xi)
+- [Ch. 72: Daenerys X](#got-ch-72-daenerys-x)
 
-> **Character rosters:** POV listed first, then verified Principal and Supporting physical appearances from `ROM_MCM_AGOT.md`. The subsequent names follow the MCM register rather than an independently audited scene-entry order. The Prologue additionally lists its 3 focal participants. Essential tertiary actors may appear within the briefs without joining these tier-limited rosters.
-
-> **Reading Point:** This document does not set or alter the reader's current position.
+- [Drafting, Sources and Verification Notes](#drafting-sources-and-verification-notes)
 
 ---
 
@@ -602,7 +665,25 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 **Daenerys** burns **Drogo** and **Mirri Maz Duur** with the dragon eggs. She emerges unharmed with 3 hatchlings and a renewed following.
 
 ---
-## Source and verification notes
+
+## Drafting, Sources and Verification Notes
+
+**Protocol:** ROM CSRM v10.27, chapter-only presentation adaptation  
+**Scope:** Prologue and GOT Ch. 1–72; 73 Source Units  
+**Reading order:** The novel's original chapter order (not chronological order)  
+**Sequence allocation:** None; the GOT RTE schedule explicitly disables SEQ for this readthrough  
+**Spoiler boundary:** End of GOT Ch. 72 (Daenerys X)  
+**Chronology mode:** Calendar-First with estimated fandom reconstruction; no RSDP time zero established  
+**Status:** Whole-book foresight / recall reference  
+**Compiled:** 13 Oct 2026
+
+> **Date methodology:** In-world day and month dates are approximate placements from PrivateMajor's fan-constructed chronology and a published mirror, not dates officially assigned by George R. R. Martin. Some chapters encompass longer periods. Locations and Chapter Narrative Briefs follow the supplied GOT EPUB. The brief format and metadata use the current CSRM architecture, modified to honour the user's explicit chapter-only, no-Sequence requirement.
+
+> **Character rosters:** POV listed first, then verified Principal and Supporting physical appearances from `ROM_MCM_AGOT.md`. The subsequent names follow the MCM register rather than an independently audited scene-entry order. The Prologue additionally lists its 3 focal participants. Essential tertiary actors may appear within the briefs without joining these tier-limited rosters.
+
+> **Reading Point:** This document does not set or alter the reader's current position.
+
+### Source and verification notes
 
 - **Primary source:** Project-uploaded `_OceanofPDF.com_A_Game_of_Thrones_-_George_R_R_Martin.epub`, Prologue through Chapter 72. Narrative briefs are new condensed summaries tied to these individual chapters.
 - **Chapter scope and structure:** Project-uploaded `RTE_A_Game_of_Thrones_Full_Schedule.txt`, which declares Prologue + Ch. 1–72, with the SEQ allocation inactive.
