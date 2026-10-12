@@ -1,12 +1,10 @@
 # A Game of Thrones | George R. R. Martin | POV Bran Stark (Full Book)
 
 **Scope:** **GOT Ch. 1, 8, 17, 24, 37, 53, 66** (Bran I–VII; seven non-consecutive POV chapters presented in published order).  
-**Chronology:** Long summer, ninth year; successive episodes from Bran's seventh year to the aftermath of Eddard's death. Precise in-universe calendar dates and a fixed RSDP time-zero are not established for this project.  
+**Chronology:** Long summer, ninth year; successive episodes from Bran's seventh year to the aftermath of Eddard's death.  
 *The North · Winterfell · Wolfswood*
 
 **BRAN STARK** · **EDDARD STARK** · **JON SNOW** · **ROBB STARK** · **THEON GREYJOY** · **MAESTER LUWIN** · **TYRION LANNISTER** · **HODOR** · **OSHA** · **GREATJON UMBER** · **RICKON STARK**
-
-> **Source and POV boundary:** The primary narrative material consists solely of Bran's seven chapters in the Project-supplied *A Game of Thrones* EPUB, arranged in the novel's chapter order. Other POVs are not stitched into this reconstruction. Events learned through reports, memories and dreams are distinguished from actions directly enacted in Bran's chapters. Whole-book retrospective through **GOT Ch. 66** in Bran's POV, with no later-book knowledge. **SROMX v11.25**, including the compact five-column **Arc** Roll Call, significance medals and nested Character Subgroups. This is a POV-selected Scope, not a contiguous source Sequence.
 
 ## Table of Contents
 
@@ -25,6 +23,7 @@
   - [Night's Watch](#bran-nights-watch)
   - [Direwolves](#bran-direwolves)
 - [6. Top Cinematic Scenes](#bran-cinematic-scenes)
+- [Appendix: Document Notes](#bran-document-notes)
 
 <a id="bran-context"></a>
 # 1. Narrative Context
@@ -74,10 +73,6 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 
 <a id="bran-roll-call"></a>
 # 5. Roll Call
-
-**Roll Call display:** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Named roster entries retain bracketed textual Current Status; † marks deceased individuals. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
-
-**Boundary rule:** Position at Start means the opening of **GOT Ch. 1**, not the character's first appearance within this selected chapter set. **Arc** summarises intervening participation in the seven Bran chapters. Position at End is the strongest established condition by the conclusion of **GOT Ch. 66**. Mentioned-only and ordinary dream representations are not counted as physically Present.
 
 <a id="bran-house-stark"></a>
 ## 🏰 House Stark
@@ -160,8 +155,6 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 <a id="bran-direwolves"></a>
 ## 🐾 Direwolves
 
-> Named direwolves are included where their independent interventions materially affect Bran's narrative. The remaining non-speaking-animal threshold continues to follow the current ROM Terminology Standard.
-
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 34 | **SUMMER**, Bran's direwolf [Alive] | A newly discovered direwolf pup. | Stays near Bran, protects him and attacks enemies in the Wolfswood. | With Bran at Winterfell. |
@@ -182,6 +175,19 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 5 | **The Raven's Message** | Bran, Rickon, Luwin, Osha and the direwolves | In **GOT Ch. 66**, the wolves' howls accompany the arrival of a wounded raven in Luwin's tower. The maester reads its letter and tells the Stark children they will need a likeness of their father for his tomb. |
 
 ---
+
+<a id="bran-document-notes"></a>
+## Appendix: Document Notes
+
+**Source and POV boundary:** The primary narrative material consists solely of Bran's seven chapters in the Project-supplied *A Game of Thrones* EPUB, arranged in the novel's chapter order. Other POVs are not stitched into this reconstruction. Events learned through reports, memories and dreams are distinguished from actions directly enacted in Bran's chapters. Whole-book retrospective through **GOT Ch. 66** in Bran's POV, with no later-book knowledge. **SROMX v11.25**, including the compact five-column **Arc** Roll Call, significance medals and nested Character Subgroups. This is a POV-selected Scope, not a contiguous source Sequence.
+
+**Chronology note:** Precise in-universe calendar dates and a fixed RSDP time-zero are not established for this project.
+
+**Roll Call display:** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Named roster entries retain bracketed textual Current Status; † marks deceased individuals. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
+
+**Boundary rule:** Position at Start means the opening of **GOT Ch. 1**, not the character's first appearance within this selected chapter set. **Arc** summarises intervening participation in the seven Bran chapters. Position at End is the strongest established condition by the conclusion of **GOT Ch. 66**. Mentioned-only and ordinary dream representations are not counted as physically Present.
+
+**Direwolf inclusion:** Named direwolves are included where their independent interventions materially affect Bran's narrative. The remaining non-speaking-animal threshold continues to follow the current ROM Terminology Standard.
 
 **Source note:** Primary text: project AGOT EPUB, Bran I–VII. Chapter order and structural coordinates: project AGOT RTE schedule. Characters' broader series identities have not been imported beyond the authorised AGOT scope. The selected POV chapters are discontinuous; Roll Call boundary positions refer to the start of Bran I and end of Bran VII. The Arc Field is intentionally concise and does not create a separate, free-standing character biography. The Winterfell household is subdivided into Household & Personal Service and Guards & Military Service without altering character inclusion or original Entry numbers.
 
