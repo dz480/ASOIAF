@@ -13,4 +13,4 @@ None yet. New records will be linked here and from the [series reading index](..
 
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
-The completed *A Game of Thrones* dossier remains available in the [GOT folder](../GOT/ROM_CSRM_AGOT.md).
+The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).

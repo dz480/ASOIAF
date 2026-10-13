@@ -1091,7 +1091,7 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 >
 > - **Primary source:** Project-uploaded `_OceanofPDF.com_A_Game_of_Thrones_-_George_R_R_Martin.epub`, Prologue through Chapter 72. Narrative briefs are new condensed summaries tied to these individual chapters.
 > - **Chapter scope and structure:** Project-uploaded `RTE_A_Game_of_Thrones_Full_Schedule.txt`, which declares Prologue + Ch. 1–72, with the SEQ allocation inactive.
-> - **Principal / Supporting chapter appearances:** [ROM MCM AGOT](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_MCM_AGOT.md), Chapter Appearance Register.
+> - **Principal / Supporting chapter appearances:** [ROM MCM AGOT](https://github.com/dz480/ASOIAF/blob/main/01.%20GOT/ROM_MCM_AGOT.md), Chapter Appearance Register.
 > - **Chronology:** [PrivateMajor, ASOIAF Timeline](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit); later dates cross-referenced from the [ASOIAF timeline mirror](https://www.scribd.com/document/945795511/ASOIAF-Timeline). Treat these calendar placements as estimates, including apparently exact days.
 > - **Format authority:** [ROM CSRM v10.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/ROM_CSRM.md), superseded here only by the specific chapter-only instruction.
 >
