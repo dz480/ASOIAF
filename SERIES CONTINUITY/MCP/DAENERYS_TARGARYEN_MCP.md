@@ -15,10 +15,42 @@
 
 **Project navigation:** [Reading Index](../../README.md) · [Daenerys POV SROMX](../../01.%20GOT/SROMX_GOT_POV_DAENERYS.md) · [GOT CSRM](../../01.%20GOT/ROM_CSRM_AGOT.md) · [GOT MCM](../../01.%20GOT/ROM_MCM_AGOT.md)
 
+<a id="daenerys-mcp-toc"></a>
+## Table of Contents
+
+- [ROM AP](#mcp-rom-ap)
+  - [Appearance Profile](#mcp-ap-profile)
+  - [1. Comprehensive Appearance Checklist](#mcp-ap-checklist)
+    - [1.1 Identity & Background](#mcp-ap-identity)
+    - [1.2 Age & Physical Profile](#mcp-ap-age)
+    - [1.3 Facial Structure & Complexion](#mcp-ap-face)
+    - [1.4 Eyes & Eyebrows](#mcp-ap-eyes)
+    - [1.5 Natural Hair Characteristics](#mcp-ap-hair)
+    - [1.6 Body Anatomy](#mcp-ap-anatomy)
+    - [1.7 Distinctive Marks & Piercings](#mcp-ap-marks)
+    - [1.8 Posture & Movement](#mcp-ap-movement)
+    - [1.9 Voice & Speech](#mcp-ap-voice)
+    - [1.10 Gaze & Expression](#mcp-ap-expression)
+  - [2. Appearance Changes](#mcp-ap-changes)
+    - [2.1 Style Changes](#mcp-ap-styles)
+      - [Book 1: A Game of Thrones](#mcp-ap-styles-got)
+    - [2.2 Injuries & Physical Conditions](#mcp-ap-conditions)
+      - [Injuries](#mcp-ap-injuries)
+      - [Other Physical Conditions](#mcp-ap-other-conditions)
+  - [3. Important Unspecified Traits](#mcp-ap-unspecified)
+  - [4. Final Visual Profile](#mcp-ap-final)
+- [ROM RT](#mcp-rom-rt)
+  - [Route Tracker](#mcp-rt-profile)
+  - [Route](#mcp-rt-route)
+  - [Current Whereabouts](#mcp-rt-whereabouts)
+- [Internal Source and Verification Notes](#mcp-source-notes)
+
 ---
 
+<a id="mcp-rom-ap"></a>
 ## ROM AP
 
+<a id="mcp-ap-profile"></a>
 ### ROM APPEARANCE PROFILE (AP) | DAENERYS
 
 **Full name:** Daenerys Targaryen  
@@ -29,8 +61,10 @@
 **Evidence search boundary:** **GOT Ch. 72** for baseline traits and appearance changes  
 **Profile focus:** Physical characteristics, bodily expression and visual presentation
 
+<a id="mcp-ap-checklist"></a>
 ### 1. Comprehensive Appearance Checklist
 
+<a id="mcp-ap-identity"></a>
 #### 1.1 Identity & Background
 
 | Trait | Description | Evidence status |
@@ -39,6 +73,7 @@
 | **b.** Place of origin | Born on Dragonstone; raised in exile, including years in the Free Cities and the house with the red door in Braavos. | EXPLICITLY STATED |
 | **c.** Race | Valyrian ancestry through House Targaryen; the in-world heritage is associated with silver-gold hair and purple eyes. | EXPLICITLY STATED |
 
+<a id="mcp-ap-age"></a>
 #### 1.2 Age & Physical Profile
 
 | Trait | Description | Evidence status |
@@ -50,6 +85,7 @@
 | **e.** Overall body proportions / silhouette | A slight adolescent before pregnancy, then a visibly enlarged abdomen in later pregnancy. Her ordinary proportions are not numerically specified. | PARTLY STATED |
 | **f.** Fitness | Early horseback travel is painful; over time her legs strengthen, hands toughen and she becomes an assured rider. | EXPLICITLY STATED |
 
+<a id="mcp-ap-face"></a>
 #### 1.3 Facial Structure & Complexion
 
 | Trait | Description | Evidence status |
@@ -70,6 +106,7 @@
 | **k.** Chin | Not stated. | UNSPECIFIED |
 | **l.** Ears | Not stated. | UNSPECIFIED |
 
+<a id="mcp-ap-eyes"></a>
 #### 1.4 Eyes & Eyebrows
 
 | Trait | Description | Evidence status |
@@ -78,6 +115,7 @@
 | **b.** Eye size / shape | Not individually described with reliable specificity. | UNSPECIFIED |
 | **c.** Eyebrows | Not stated. | UNSPECIFIED |
 
+<a id="mcp-ap-hair"></a>
 #### 1.5 Natural Hair Characteristics
 
 | Trait | Description | Evidence status |
@@ -88,6 +126,7 @@
 | **d.** Hairline | Not stated. | UNSPECIFIED |
 | **e.** Other body hair | Not stated. | UNSPECIFIED |
 
+<a id="mcp-ap-anatomy"></a>
 #### 1.6 Body Anatomy
 
 | Trait | Description | Evidence status |
@@ -104,6 +143,7 @@
 | **g.** Legs | Initially pained and chafed through riding; later physically stronger and better conditioned. | EXPLICITLY STATED |
 | **h.** Feet | Often barefoot among the Dothraki, including dirt between her toes; foot shape/size not established. | PARTLY STATED |
 
+<a id="mcp-ap-marks"></a>
 #### 1.7 Distinctive Marks & Piercings
 
 | Trait | Description | Source point | Evidence status |
@@ -111,6 +151,7 @@
 | **a.** Distinctive marks / tattoos | No permanent identifying tattoo, scar, birthmark or branding is established. Her skin is unhurt after the fire. | **GOT Ch. 72** | UNSPECIFIED |
 | **b.** Piercings | No anatomical piercing site established; a gift of jewellery does not itself prove a piercing. | **GOT Ch. 11** | UNSPECIFIED |
 
+<a id="mcp-ap-movement"></a>
 #### 1.8 Posture & Movement
 
 | Trait | Description | Evidence status |
@@ -119,6 +160,7 @@
 | **b.** Movement | Initially struggles to ride and dismount; becomes a practiced rider. Late pregnancy and then recovery after childbirth affect her ease of movement. | EXPLICITLY STATED |
 | **c.** Distinctive bodily mannerisms / gestures | Cradles and handles the dragon eggs repeatedly; her bearing increasingly reflects confidence rather than fearful submission. | STRONGLY SUPPORTED |
 
+<a id="mcp-ap-voice"></a>
 #### 1.9 Voice & Speech
 
 | Trait | Description | Evidence status |
@@ -127,6 +169,7 @@
 | **b.** Accent | Not securely established as a named accent or pronunciation pattern. | UNSPECIFIED |
 | **c.** Speech manner / rhythm | Early hesitant speech around Viserys grows more direct and commanding as she asserts the khaleesi’s authority. | STRONGLY SUPPORTED |
 
+<a id="mcp-ap-expression"></a>
 #### 1.10 Gaze & Expression
 
 | Trait | Description | Evidence status |
@@ -134,10 +177,15 @@
 | **a.** Gaze | Violet eyes register fear, scrutiny and resolve in individual scenes; no habitual eye-contact style established. | PARTLY STATED |
 | **b.** Facial expressions / smile / laughter | Expressions fluctuate with fear, anger, affection and grief; a singular characteristic smile or laugh is not firmly described. | UNSPECIFIED |
 
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+<a id="mcp-ap-changes"></a>
 ### 2. Appearance Changes
 
+<a id="mcp-ap-styles"></a>
 #### 2.1 Style Changes
 
+<a id="mcp-ap-styles-got"></a>
 ##### Book 1 — A Game of Thrones (GOT)
 
 | No. | Style / variant | Source point | Visual presentation |
@@ -155,8 +203,10 @@
 | **8** | **Funeral preparation** | **GOT Ch. 72** | Silver hair newly washed, brushed down her back and perfumed; painted leather vest and sandals established as she approaches the pyre. |
 | **9** | **Funeral-pyre aftermath** | **GOT Ch. 72** | Vest and other clothing burnt away. Naked, covered in soot, unharmed in the skin, and with all former long scalp hair burnt away; newly hatched dragons cling to her. |
 
+<a id="mcp-ap-conditions"></a>
 #### 2.2 Injuries & Physical Conditions
 
+<a id="mcp-ap-injuries"></a>
 ##### Injuries
 
 | Injury | Source point | Description | Evidence status |
@@ -164,6 +214,7 @@
 | **Saddle sores and abrasions** | **GOT Ch. 23** | Bloody saddle sores, chafed thighs and severe riding pain at the beginning of the journey, improving with conditioning. | EXPLICITLY STATED |
 | **Rein blisters** | **GOT Ch. 23** | Hand blisters caused by reins; later harden into calluses. | EXPLICITLY STATED |
 
+<a id="mcp-ap-other-conditions"></a>
 ##### Other Physical Conditions
 
 | Physical condition | Source point | Description | Evidence status |
@@ -175,6 +226,9 @@
 | **Hair burned away** | **GOT Ch. 72** | Long silver hair entirely burnt away during Drogo’s funeral pyre. It is a newly acquired physical condition. | EXPLICITLY STATED |
 | **Fire survival without burns** | **GOT Ch. 72** | Emerges soot-covered from the funeral pyre without bodily injury. This is the established incident, not evidence of universal immunity. | EXPLICITLY STATED |
 
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+<a id="mcp-ap-unspecified"></a>
 ### 3. Important Unspecified Traits
 
 - **Height, mass and proportions:** Neither numeric height nor weight is established, and adult proportions cannot be inferred from her age or pregnancy.
@@ -183,6 +237,9 @@
 - **Permanent identifying marks / piercings:** No permanent tattoo, scar or confirmed anatomical piercing site is established through the novel.
 - **Specific voice and accent:** Her speech develops in confidence, but its habitual pitch, timbre and identifiable accent are unspecified.
 
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+<a id="mcp-ap-final"></a>
 ### 4. Final Visual Profile
 
 At her first appearance, Daenerys is a **13-year-old, slight and slender Targaryen girl**, distinguished above all by **long silver-pale / silver-gold hair** and **violet-purple eyes**. Initially fearful and rebuked for slouching, she gains a steadier physical bearing as she learns to ride. Journeying among the Dothraki, she develops **stronger legs, callused hands and sun-browned skin**, and replaces her Pentoshi finery with **riding leathers, a painted vest and oiled hair**. Her **deep-plum silk gown and gold jewellery** from the opening contrast with her new environment; advanced pregnancy and subsequent recovery visibly alter her body over the course of the novel.
@@ -191,8 +248,12 @@ At the end of GOT she is **14**. Her final appearance must be distinguished from
 
 ---
 
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+<a id="mcp-rom-rt"></a>
 ## ROM RT
 
+<a id="mcp-rt-profile"></a>
 ### ROM ROUTE TRACKER: DAENERYS TARGARYEN
 
 **Work:** *A Song of Ice and Fire*, Book 1, *A Game of Thrones*  
@@ -209,10 +270,12 @@ At the end of GOT she is **14**. Her final appearance must be distinguished from
 | **4** | **GOT Ch. 61** | **31 Dec 298 AC** | 0 days | **LHAZAREEN LANDS** | Seen | At a raided **Lhazareen** village, protects captives and asks **Mirri Maz Duur** to tend wounded **Drogo**. The dated chapter alone does not establish the raid’s total length. |
 | **5** | **GOT Ch. 64–72** | **9 → 23 Jan 299 AC** | 14 days | **DOTHRAKI SEA**<br>*↩ Return* | Seen | The host halts on the plains as **Drogo** declines and the blood ritual begins. After his death, **Daenerys** prepares the funeral pyre and emerges with 3 hatched dragons. |
 
+<a id="mcp-rt-route"></a>
 ### Route
 
 **PENTOS** → **DOTHRAKI SEA** → **VAES DOTHRAK** → **LHAZAREEN LANDS** → **DOTHRAKI SEA**
 
+<a id="mcp-rt-whereabouts"></a>
 ### Current Whereabouts
 
 **Current Route Location:** **DOTHRAKI SEA**, remnant encampment at Drogo’s funeral site  
@@ -223,6 +286,9 @@ At the end of GOT she is **14**. Her final appearance must be distinguished from
 
 ---
 
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+<a id="mcp-source-notes"></a>
 ## Internal Source and Verification Notes
 
 **Primary literary evidence:** User-supplied *A Game of Thrones* EPUB, directly checked at Daenerys’s 10 narrated chapters: **GOT Ch. 3, 11, 23, 36, 46, 54, 61, 64, 68, 72**. The checklist preserves unknown traits rather than filling them from adaptations or imagined physiognomy.
@@ -234,3 +300,5 @@ At the end of GOT she is **14**. Her final appearance must be distinguished from
 **Governing Manuals:** [ROM MCP](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHARACTERS/ROM_MCP.md) · [ROM AP](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHARACTERS/ROM_APPEARANCE_PROFILE.md) · [ROM RT](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHRONOLOGY/ROM_ROUTE_TRACKER.md) · [ROM TS](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md).
 
 **Composite integrity:** Full AP and RT are initial BUILD components, both through **GOT Ch. 72**. The separate ROM CR is not initialised. Construction does not update the reader’s Reading Point or the series MCR. No later-book identities, dragon names, scenes or outcomes are imported.
+
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
