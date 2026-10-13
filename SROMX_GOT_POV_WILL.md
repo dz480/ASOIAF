@@ -1,15 +1,19 @@
 # A Game of Thrones | George R. R. Martin | POV: Will (Full Book)
 
+> **Full-book POV spoilers:** Will full-book selected POV coverage (Prologue only); the declared Spoiler Boundary applies.
+
 **Scope:** **GOT Prologue (Will)**. Will's only POV unit in the complete novel; the Prologue is included alongside the 72 numbered chapters.
 
 **3 Jun 297 AC**  
 *Haunted Forest · Wildling Camp · Sentinel-Tree Ridge*
 
-**GARED** · **WAYMAR ROYCE** · **WILL** · **UNNAMED OTHER DUELIST**
+
 
 **Spoiler Boundary:** End of **GOT Prologue**. Later chapters, including Gared's subsequent fate, are not imported.
 
 <a id="will-toc"></a>
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+
 ## Table of Contents
 
 - [1. Narrative Context](#will-context)
@@ -33,6 +37,8 @@ Beyond **the Wall**, 3 brothers of the **Night's Watch** have spent 9 days track
 
 <a id="will-timeline"></a>
 # 2. Timeline
+
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-prologue) · [Reading Index](README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -70,12 +76,16 @@ An **Other**, clothed in shifting pale armour and carrying a translucent sword, 
 
 Hours later, Will climbs down to retrieve the broken blade as proof. The mutilated knight rises before him, 1 eye shining blue, and closes his icy hands around Will's throat.
 
+**CSRM chapters (publication order):** [Prologue](ROM_CSRM_AGOT.md#agot-prologue)
+
 <p align="right"><a href="#will-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
 <a id="will-rollcall"></a>
 # 5. Roll Call
+
+**Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
 **Character entries:** 5 Total | 0 Principal | 0 Supporting | 4 Tertiary | 1 Collective | 2 Deaths
 
@@ -133,3 +143,6 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 > **Scope-relative threads — Applies to: [Section 3 (Major Narrative Threads)](#will-threads):** The threads reflect the Prologue's own concrete stakes: the vanished wildlings, the Watch's divided judgment and the supernatural assault. They are not asserted to be the cumulative major-thread ranking of the complete novel.
 
 > **Canonical sources and workflow — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [AGOT Master Character Map](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The TOC, return controls and archival notes are repository scaffolding and omitted from ordinary reader-facing ChatGPT publication.
+
+
+> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
