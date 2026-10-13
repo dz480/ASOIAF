@@ -1009,6 +1009,7 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 
 ---
 
+<a id="drafting-sources-and-verification-notes"></a>
 > ## Drafting, Sources and Verification Notes
 >
 > **Protocol:** ROM CSRM v10.27, chapter-only presentation adaptation  
