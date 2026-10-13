@@ -93,10 +93,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 | 18 | **ALLISER THORNE**, Master-at-arms at Castle Black | ⇤ **GOT Ch. 19**<br>⇥ **Not verified**<br>Not verified | Antagonistic trainer of **Jon**, **Samwell** and other recruits | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving the Watch at Castle Black |
 | 19 | **CRASTER**, Wildling host and patriarch beyond the Wall | ⇤ **Not verified**<br>⇥ **COK Ch. 23**<br>1 appearance | Provides uneasy shelter to Mormont's ranging party | 🟢 **Alive**; at his keep |
 | 20 | **JEOR MORMONT**, Lord Commander of the Night's Watch | ⇤ **GOT Ch. 19**<br>⇥ **COK Ch. 43**<br>11 appearances | Leads the Great Ranging against growing threats beyond the Wall. | 🟢 **Alive**; commands Night's Watch rangers beyond the Wall |
-| 21 | **MAESTER AEMON**, Maester of Castle Black | ⇤ **GOT Ch. 21**<br>⇥ **COK Ch. 6**<br>4 appearances | Blind elder of the Night's Watch; secretly established as a member of House Targaryen; counsels **Jon** | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; remains at Castle Black |
-| 22 | **QHORIN HALFHAND**, Veteran ranger of the Night's Watch | ⇤ **COK Ch. 43**<br>⇥ **COK Ch. 68**<br>4 appearances | Leads Jon on a reconnaissance mission beyond the Wall | 🗡 **Deceased**; killed by Jon to preserve Jon's cover among the wildlings |
-| 23 | **SAMWELL TARLY**, Novice and then steward of the Night's Watch | ⇤ **GOT Ch. 26**<br>⇥ **COK Ch. 43**<br>11 appearances | Supports Jon and the rangers during their movement north. | 🟢 **Alive**; serving with the Great Ranging |
-| 24 | **YGRITTE**, Free folk spearwife | ⇤ **Not verified**<br>⇥ **COK Ch. 68**<br>2 appearances | Captured and released by Jon; later encounters him among wildlings | 🟢 **Alive**; with the free folk |
+| 21 | **QHORIN HALFHAND**, Veteran ranger of the Night's Watch | ⇤ **COK Ch. 43**<br>⇥ **COK Ch. 68**<br>4 appearances | Leads Jon on a reconnaissance mission beyond the Wall | 🗡 **Deceased**; killed by Jon to preserve Jon's cover among the wildlings |
+| 22 | **SAMWELL TARLY**, Novice and then steward of the Night's Watch | ⇤ **GOT Ch. 26**<br>⇥ **COK Ch. 43**<br>11 appearances | Supports Jon and the rangers during their movement north. | 🟢 **Alive**; serving with the Great Ranging |
+| 23 | **YGRITTE**, Free folk spearwife | ⇤ **Not verified**<br>⇥ **COK Ch. 68**<br>2 appearances | Captured and released by Jon; later encounters him among wildlings | 🟢 **Alive**; with the free folk |
 
 ### Tertiary Characters
 
@@ -120,30 +119,30 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 25 | **CERSEI LANNISTER**, Queen consort and then queen regent | ⇤ **GOT Ch. 4**<br>⇥ **Not verified**<br>Not verified | Power struggle with Tyrion and defence of Joffrey amid the siege. | 🟢 **Alive**; remains queen regent as Tywin takes control of King's Landing |
-| 26 | **JOFFREY BARATHEON**, Crown prince and then king | ⇤ **GOT Ch. 4**<br>⇥ **Not verified**<br>Not verified | Rules King's Landing harshly through a period of famine and war. | 🟢 **Alive**; remains king and receives new Tyrell betrothal |
-| 27 | **SANSA STARK**, Daughter of Eddard and Catelyn; former betrothed of Joffrey | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 65**<br>24 appearances | Endures Joffrey's abuse, Ser Dontos's promises and the Blackwater siege. | 🟢 **Alive**; kept at King's Landing after her betrothal to Joffrey ends |
-| 28 | **STANNIS BARATHEON**, Lord of Dragonstone; Robert's brother | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>4 appearances | Claims the throne from Dragonstone, draws on Melisandre and besieges Storm's End and King's Landing. | 🟢 **Alive**; survives defeat on the Blackwater |
+| 24 | **CERSEI LANNISTER**, Queen consort and then queen regent | ⇤ **GOT Ch. 4**<br>⇥ **Not verified**<br>Not verified | Power struggle with Tyrion and defence of Joffrey amid the siege. | 🟢 **Alive**; remains queen regent as Tywin takes control of King's Landing |
+| 25 | **JOFFREY BARATHEON**, Crown prince and then king | ⇤ **GOT Ch. 4**<br>⇥ **Not verified**<br>Not verified | Rules King's Landing harshly through a period of famine and war. | 🟢 **Alive**; remains king and receives new Tyrell betrothal |
+| 26 | **SANSA STARK**, Daughter of Eddard and Catelyn; former betrothed of Joffrey | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 65**<br>24 appearances | Endures Joffrey's abuse, Ser Dontos's promises and the Blackwater siege. | 🟢 **Alive**; kept at King's Landing after her betrothal to Joffrey ends |
+| 27 | **STANNIS BARATHEON**, Lord of Dragonstone; Robert's brother | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>4 appearances | Claims the throne from Dragonstone, draws on Melisandre and besieges Storm's End and King's Landing. | 🟢 **Alive**; survives defeat on the Blackwater |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 29 | **ARYS OAKHEART**, Kingsguard knight | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attends royal court | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at King's Landing |
-| 30 | **BARRISTAN SELMY**, Lord Commander of the Kingsguard, later dismissed | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 63**<br>9 appearances | Appears at COK's close under a concealed identity. | 🟢 **Alive**; reaches Daenerys in disguise as Arstan Whitebeard |
-| 31 | **DONTOS HOLLARD**, Knight at court | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Participates in court festivities | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving in King's Landing |
-| 32 | **GENDRY**, Blacksmith's apprentice | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 64**<br>11 appearances | Travels through the war zone after leaving King's Landing. | 🟢 **Alive**; escapes Harrenhal with Arya |
-| 33 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **Not verified**<br>Not verified | Exposed by Tyrion as Cersei's informant and temporarily removed from council. | 🟢 **Alive**; survives his imprisonment and court struggle |
-| 34 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **Not verified**<br>Not verified | Royal executioner; carries out Ned's beheading | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves **Joffrey** as royal executioner |
-| 35 | **JACELYN BYWATER**, Commander of the City Watch | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Commander of the City Watch appointed by Tyrion. | 🗡 **Deceased**; falls in the Battle of the Blackwater |
-| 36 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **Not verified**<br>Not verified | His gold cloaks turn against Ned during the court confrontation | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; rewarded with high office and a lordship |
-| 37 | **LORAS TYRELL**, Knight of Flowers | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Renly's favoured knight whose family's allegiance shifts after his death. | 🟢 **Alive**; participates in the victorious royal relief |
-| 38 | **MERYN TRANT**, Kingsguard knight | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attempts to seize **Arya**; confronts Syrio Forel | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving **Joffrey**'s Kingsguard |
-| 39 | **PETYR BAELISH**, Master of coin; called Littlefinger | ⇤ **GOT Ch. 18**<br>⇥ **Not verified**<br>Not verified | Operates at a distance from the capital for part of COK. | 🟢 **Alive**; brokers an alliance involving the Tyrells |
-| 40 | **PODRICK PAYNE**, Squire to Tyrion | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Assists Tyrion and protects him during the Blackwater fighting | 🟢 **Alive**; remains in Tyrion's service |
-| 41 | **RENLY BARATHEON**, Lord of Storm's End; royal councillor | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 33**<br>11 appearances | Rallies the Reach and Stormlands before his murder splits the coalition. | 🗡 **Deceased**; dies at Storm's End |
-| 42 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **Not verified**<br>Not verified | Defends the Lannister court but suffers severe trauma from wildfire and flees. | 🟢 **Alive**; deserts Joffrey's service during the Blackwater battle |
-| 43 | **VARYS**, Master of whisperers | ⇤ **GOT Ch. 18**<br>⇥ **Not verified**<br>Not verified | Trades information with Tyrion and manoeuvres across rival courts. | 🟢 **Alive**; remains at the capital after Tywin's arrival |
+| 28 | **ARYS OAKHEART**, Kingsguard knight | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attends royal court | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at King's Landing |
+| 29 | **BARRISTAN SELMY**, Lord Commander of the Kingsguard, later dismissed | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 63**<br>9 appearances | Appears at COK's close under a concealed identity. | 🟢 **Alive**; reaches Daenerys in disguise as Arstan Whitebeard |
+| 30 | **DONTOS HOLLARD**, Knight at court | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Participates in court festivities | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving in King's Landing |
+| 31 | **GENDRY**, Blacksmith's apprentice | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 64**<br>11 appearances | Travels through the war zone after leaving King's Landing. | 🟢 **Alive**; escapes Harrenhal with Arya |
+| 32 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **Not verified**<br>Not verified | Exposed by Tyrion as Cersei's informant and temporarily removed from council. | 🟢 **Alive**; survives his imprisonment and court struggle |
+| 33 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **Not verified**<br>Not verified | Royal executioner; carries out Ned's beheading | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves **Joffrey** as royal executioner |
+| 34 | **JACELYN BYWATER**, Commander of the City Watch | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Commander of the City Watch appointed by Tyrion. | 🗡 **Deceased**; falls in the Battle of the Blackwater |
+| 35 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **Not verified**<br>Not verified | His gold cloaks turn against Ned during the court confrontation | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; rewarded with high office and a lordship |
+| 36 | **LORAS TYRELL**, Knight of Flowers | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Renly's favoured knight whose family's allegiance shifts after his death. | 🟢 **Alive**; participates in the victorious royal relief |
+| 37 | **MERYN TRANT**, Kingsguard knight | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attempts to seize **Arya**; confronts Syrio Forel | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving **Joffrey**'s Kingsguard |
+| 38 | **PETYR BAELISH**, Master of coin; called Littlefinger | ⇤ **GOT Ch. 18**<br>⇥ **Not verified**<br>Not verified | Operates at a distance from the capital for part of COK. | 🟢 **Alive**; brokers an alliance involving the Tyrells |
+| 39 | **PODRICK PAYNE**, Squire to Tyrion | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Assists Tyrion and protects him during the Blackwater fighting | 🟢 **Alive**; remains in Tyrion's service |
+| 40 | **RENLY BARATHEON**, Lord of Storm's End; royal councillor | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 33**<br>11 appearances | Rallies the Reach and Stormlands before his murder splits the coalition. | 🗡 **Deceased**; dies at Storm's End |
+| 41 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **Not verified**<br>Not verified | Defends the Lannister court but suffers severe trauma from wildfire and flees. | 🟢 **Alive**; deserts Joffrey's service during the Blackwater battle |
+| 42 | **VARYS**, Master of whisperers | ⇤ **GOT Ch. 18**<br>⇥ **Not verified**<br>Not verified | Trades information with Tyrion and manoeuvres across rival courts. | 🟢 **Alive**; remains at the capital after Tywin's arrival |
 
 ### Tertiary Characters
 
@@ -180,17 +179,17 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 44 | **JAIME LANNISTER**, Knight of the Kingsguard; son of Tywin | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 55**<br>9 appearances | Remains a captive until Catelyn secretly engineers his departure. | 🟢 **Alive**; departs Riverrun with Brienne and Cleos |
-| 45 | **TYRION LANNISTER**, Son of Tywin; brother of Jaime and Cersei | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 67**<br>33 appearances | Acts as Hand, reshapes court security and oversees the city's defence. | 🟢 **Alive**; wounded after the Blackwater |
+| 43 | **JAIME LANNISTER**, Knight of the Kingsguard; son of Tywin | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 55**<br>9 appearances | Remains a captive until Catelyn secretly engineers his departure. | 🟢 **Alive**; departs Riverrun with Brienne and Cleos |
+| 44 | **TYRION LANNISTER**, Son of Tywin; brother of Jaime and Cersei | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 67**<br>33 appearances | Acts as Hand, reshapes court security and oversees the city's defence. | 🟢 **Alive**; wounded after the Blackwater |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 46 | **GREGOR CLEGANE**, Knight called the Mountain | ⇤ **GOT Ch. 29**<br>⇥ **Not verified**<br>Not verified | Brother of Sandor; leads brutal raids for Lannister forces | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commands Lannister soldiers in the Riverlands |
-| 47 | **LANCEL LANNISTER**, Lannister cousin and royal squire | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attends King **Robert** and serves royal household | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves at King's Landing |
-| 48 | **SHAE**, Camp follower | ⇤ **GOT Ch. 62**<br>⇥ **Not verified**<br>Not verified | Maintains a clandestine relationship with Tyrion despite Cersei's attention. | 🟢 **Alive**; survives events in King's Landing |
-| 49 | **TYWIN LANNISTER**, Lord of Casterly Rock; commander of western army | ⇤ **GOT Ch. 56**<br>⇥ **Not verified**<br>Not verified | Takes command after the Blackwater and replaces Tyrion as Hand. | 🟢 **Alive**; arrives in King's Landing as the victorious commander |
+| 45 | **GREGOR CLEGANE**, Knight called the Mountain | ⇤ **GOT Ch. 29**<br>⇥ **Not verified**<br>Not verified | Brother of Sandor; leads brutal raids for Lannister forces | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commands Lannister soldiers in the Riverlands |
+| 46 | **LANCEL LANNISTER**, Lannister cousin and royal squire | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attends King **Robert** and serves royal household | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves at King's Landing |
+| 47 | **SHAE**, Camp follower | ⇤ **GOT Ch. 62**<br>⇥ **Not verified**<br>Not verified | Maintains a clandestine relationship with Tyrion despite Cersei's attention. | 🟢 **Alive**; survives events in King's Landing |
+| 48 | **TYWIN LANNISTER**, Lord of Casterly Rock; commander of western army | ⇤ **GOT Ch. 56**<br>⇥ **Not verified**<br>Not verified | Takes command after the Blackwater and replaces Tyrion as Hand. | 🟢 **Alive**; arrives in King's Landing as the victorious commander |
 
 ### Tertiary Characters
 
@@ -205,11 +204,11 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 50 | **BRONN**, Sellsword | ⇤ **GOT Ch. 31**<br>⇥ **Not verified**<br>Not verified | Serves Tyrion as trusted sellsword and city military asset. | 🟢 **Alive**; survives the Blackwater and remains connected to Tyrion |
-| 51 | **BRYNDEN TULLY**, Blackfish; knight of House Tully | ⇤ **GOT Ch. 34**<br>⇥ **Not verified**<br>Not verified | Uncle of **Catelyn** and **Lysa**; leaves Vale to aid **Robb**'s campaign | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commanding scouts for **Robb** |
-| 52 | **CLEOS FREY**, Frey knight and Lannister relation | ⇤ **COK Ch. 7**<br>⇥ **Not verified**<br>Not verified | Acts as an envoy and prisoner escort | 🟢 **Alive**; travels with Brienne and Jaime |
-| 53 | **EDMURE TULLY**, Heir of Riverrun | ⇤ **GOT Ch. 71**<br>⇥ **Not verified**<br>Not verified | Brother of **Catelyn** and **Lysa**; son of Hoster; defends the Riverlands | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; engaged in war and defence of Riverrun |
-| 54 | **SHAGGA**, Chief of Stone Crows among the mountain clans | ⇤ **GOT Ch. 42**<br>⇥ **Not verified**<br>Not verified | Takes **Tyrion**'s promised rewards and joins his armed following | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving alongside **Tyrion** during Lannister campaign |
+| 49 | **BRONN**, Sellsword | ⇤ **GOT Ch. 31**<br>⇥ **Not verified**<br>Not verified | Serves Tyrion as trusted sellsword and city military asset. | 🟢 **Alive**; survives the Blackwater and remains connected to Tyrion |
+| 50 | **BRYNDEN TULLY**, Blackfish; knight of House Tully | ⇤ **GOT Ch. 34**<br>⇥ **Not verified**<br>Not verified | Uncle of **Catelyn** and **Lysa**; leaves Vale to aid **Robb**'s campaign | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commanding scouts for **Robb** |
+| 51 | **CLEOS FREY**, Frey knight and Lannister relation | ⇤ **COK Ch. 7**<br>⇥ **Not verified**<br>Not verified | Acts as an envoy and prisoner escort | 🟢 **Alive**; travels with Brienne and Jaime |
+| 52 | **EDMURE TULLY**, Heir of Riverrun | ⇤ **GOT Ch. 71**<br>⇥ **Not verified**<br>Not verified | Brother of **Catelyn** and **Lysa**; son of Hoster; defends the Riverlands | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; engaged in war and defence of Riverrun |
+| 53 | **SHAGGA**, Chief of Stone Crows among the mountain clans | ⇤ **GOT Ch. 42**<br>⇥ **Not verified**<br>Not verified | Takes **Tyrion**'s promised rewards and joins his armed following | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving alongside **Tyrion** during Lannister campaign |
 
 ### Tertiary Characters
 
@@ -227,9 +226,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 55 | **AMORY LORCH**, Lannister commander | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Leads attacks on Riverlands civilians and Yoren's band | 🗡 **Deceased**; killed in the Harrenhal fighting |
-| 56 | **JAQEN H'GHAR**, Mysterious prisoner and assassin | ⇤ **COK Ch. 1**<br>⇥ **COK Ch. 47**<br>7 appearances | Repays Arya's saving of his life with 3 deaths; changes his face | 🟢 **Alive**; departs Harrenhal under another identity |
-| 57 | **VARGO HOAT**, Captain of the Brave Companions | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Mercenary leader associated with Harrenhal | 🟢 **Alive**; active at Harrenhal |
+| 54 | **AMORY LORCH**, Lannister commander | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Leads attacks on Riverlands civilians and Yoren's band | 🗡 **Deceased**; killed in the Harrenhal fighting |
+| 55 | **JAQEN H'GHAR**, Mysterious prisoner and assassin | ⇤ **COK Ch. 1**<br>⇥ **COK Ch. 47**<br>7 appearances | Repays Arya's saving of his life with 3 deaths; changes his face | 🟢 **Alive**; departs Harrenhal under another identity |
+| 56 | **VARGO HOAT**, Captain of the Brave Companions | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Mercenary leader associated with Harrenhal | 🟢 **Alive**; active at Harrenhal |
 
 ### Tertiary Characters
 
@@ -251,17 +250,17 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 58 | **DAVOS SEAWORTH**, Former smuggler, Stannis's knight and naval adviser | ⇤ **COK Prologue**<br>⇥ **COK Ch. 58**<br>4 appearances | Loyal to Stannis despite doubts about Melisandre and the war | 🟡 **Missing**; swept into danger at the Blackwater |
+| 57 | **DAVOS SEAWORTH**, Former smuggler, Stannis's knight and naval adviser | ⇤ **COK Prologue**<br>⇥ **COK Ch. 58**<br>4 appearances | Loyal to Stannis despite doubts about Melisandre and the war | 🟡 **Missing**; swept into danger at the Blackwater |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 59 | **CORTNAY PENROSE**, Castellan of Storm's End | ⇤ **Not verified**<br>⇥ **COK Ch. 42**<br>1 appearance | Defends Storm's End in support of Edric Storm against Stannis | 🗡 **Deceased**; killed after refusing Stannis's demands |
-| 60 | **MAESTER CRESSEN**, Maester of Dragonstone | ⇤ **COK Prologue**<br>⇥ **COK Prologue**<br>1 appearance | Longtime servant and adviser to Stannis; formerly guided the Baratheon children | 🪦 **Deceased**; poisoned himself in the Prologue |
-| 61 | **MELISANDRE**, Red priestess from Asshai | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>3 appearances | Influences Stannis through prophecy, ritual and belief in R'hllor | 🟢 **Alive**; remains central to Stannis's religious campaign |
-| 62 | **SALLADHOR SAAN**, Lysene privateer and fleet commander | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Supports Stannis's maritime campaign and converses with Davos | 🟢 **Alive**; commands ships in the war |
-| 63 | **SELYSE FLORENT**, Lady of Dragonstone; wife of Stannis | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Devout supporter of Melisandre and mother of Shireen | 🟢 **Alive**; associated with the Dragonstone court |
+| 58 | **CORTNAY PENROSE**, Castellan of Storm's End | ⇤ **Not verified**<br>⇥ **COK Ch. 42**<br>1 appearance | Defends Storm's End in support of Edric Storm against Stannis | 🗡 **Deceased**; killed after refusing Stannis's demands |
+| 59 | **MAESTER CRESSEN**, Maester of Dragonstone | ⇤ **COK Prologue**<br>⇥ **COK Prologue**<br>1 appearance | Longtime servant and adviser to Stannis; formerly guided the Baratheon children | 🪦 **Deceased**; poisoned himself in the Prologue |
+| 60 | **MELISANDRE**, Red priestess from Asshai | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>3 appearances | Influences Stannis through prophecy, ritual and belief in R'hllor | 🟢 **Alive**; remains central to Stannis's religious campaign |
+| 61 | **SALLADHOR SAAN**, Lysene privateer and fleet commander | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Supports Stannis's maritime campaign and converses with Davos | 🟢 **Alive**; commands ships in the war |
+| 62 | **SELYSE FLORENT**, Lady of Dragonstone; wife of Stannis | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Devout supporter of Melisandre and mother of Shireen | 🟢 **Alive**; associated with the Dragonstone court |
 
 ### Tertiary Characters
 
@@ -282,8 +281,8 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 64 | **BRIENNE OF TARTH**, Knightly warrior and former member of Renly's Rainbow Guard | ⇤ **Not verified**<br>⇥ **COK Ch. 55**<br>6 appearances | Serves Catelyn following Renly's murder; escorts Jaime Lannister | 🟢 **Alive**; travels with Jaime under Catelyn's instructions |
-| 65 | **MARGAERY TYRELL**, Daughter of Mace Tyrell; wife of Renly | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Links the Tyrell cause to the Lannister regime. | 🟢 **Alive**; promised to Joffrey after Renly's death |
+| 63 | **BRIENNE OF TARTH**, Knightly warrior and former member of Renly's Rainbow Guard | ⇤ **Not verified**<br>⇥ **COK Ch. 55**<br>6 appearances | Serves Catelyn following Renly's murder; escorts Jaime Lannister | 🟢 **Alive**; travels with Jaime under Catelyn's instructions |
+| 64 | **MARGAERY TYRELL**, Daughter of Mace Tyrell; wife of Renly | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Links the Tyrell cause to the Lannister regime. | 🟢 **Alive**; promised to Joffrey after Renly's death |
 
 ### Tertiary Characters
 
@@ -304,6 +303,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
+| 65 | **BALON GREYJOY**, Lord of the Iron Islands; King of the Isles and the North | ⇤ **COK Ch. 11**<br>⇥ **COK Ch. 24**<br>Not verified | Father of **Theon** and **Asha**; directs the ironborn campaign against the North | 🟢 **Alive**; rules the Iron Islands and directs the invasion |
 | 66 | **ASHA GREYJOY**, Balon Greyjoy's daughter; ironborn captain | ⇤ **COK Ch. 24**<br>⇥ **COK Ch. 56**<br>2 appearances | Theon's sister, uses the alias Esgred when testing his judgement | 🟢 **Alive**; leading ironborn operations |
 | 67 | **DAGMER CLEFTJAW**, Ironborn raider and captain | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Longstanding associate of Theon; leads an ironborn assault | 🟢 **Alive**; serving the ironborn campaign |
 
@@ -313,7 +313,6 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |---:|---|---|---|---|
 |  | **AERON GREYJOY**, Priest of the Drowned God | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Theon's uncle and Balon's brother | 🟢 **Alive**; active on the Iron Islands |
 |  | **HELYA**, Ironborn woman | ⇤ **COK Ch. 11**<br>⇥ **Not verified**<br>Not verified | Talks to Theon upon his return | ⚪️ **COK end unverified** |
-|  | **VICTARION GREYJOY**, Commander of the Iron Fleet | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Theon's uncle, Balon's brother and military commander | 🟢 **Alive**; supports Balon's campaigns |
 |  | **WEX PYKE**, Mute ironborn youth and Theon's attendant | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Serves Theon during the occupation of Winterfell | 🟡 **Whereabouts uncertain** after Winterfell's fall |
 
 ## 🐉 Targaryens & the East
@@ -351,10 +350,10 @@ Census of qualifying COK participants only; membership and lower-tier completene
 | Classification | Count | Characters |
 |---|---:|---|
 | **Principal** | 14 | **Arya Stark** • **Bran Stark** • **Catelyn Stark** • **Robb Stark** • **Theon Greyjoy** • **Jon Snow** • **Cersei Lannister** • **Joffrey Baratheon** • **Sansa Stark** • **Stannis Baratheon** • **Jaime Lannister** • **Tyrion Lannister** • **Davos Seaworth** • **Daenerys Targaryen** |
-| **Supporting** | 58 | **Balon Greyjoy** • **Hodor** • **Jojen Reed** • Maester Luwin† • **Meera Reed** • **Osha** • **Ramsay Snow** • **Rickon Stark** • Rodrik Cassel† • **Greatjon Umber** • **Rickard Karstark** • **Roose Bolton** • **Alliser Thorne** • **Craster** • **Jeor Mormont** • **Maester Aemon** • Qhorin Halfhand† • **Samwell Tarly** • **Ygritte** • **Arys Oakheart** • **Barristan Selmy** • **Dontos Hollard** • **Gendry** • **Grand Maester Pycelle** • **Ilyn Payne** • Jacelyn Bywater† • **Janos Slynt** • **Loras Tyrell** • **Meryn Trant** • **Petyr Baelish** • **Podrick Payne** • Renly Baratheon† • **Sandor Clegane** • **Varys** • **Gregor Clegane** • **Lancel Lannister** • **Shae** • **Tywin Lannister** • **Bronn** • **Brynden Tully** • **Cleos Frey** • **Edmure Tully** • **Shagga** • Amory Lorch† • **Jaqen H'ghar** • **Vargo Hoat** • Cortnay Penrose† • Maester Cressen† • **Melisandre** • **Salladhor Saan** • **Selyse Florent** • **Brienne Of Tarth** • **Margaery Tyrell** • **Asha Greyjoy** • **Dagmer Cleftjaw** • **Jorah Mormont** • **Pyat Pree** • **Xaro Xhoan Daxos** |
-| **Tertiary** | 95 | Alebelly† • **Beth Cassel** • **Big Walder Frey** • Chayle† • Cley Cerwyn† • **Farlen** • **Gage** • **Grey Wind** • **Hallis Mollen** • **Hayhead** • **Hother Umber** • **Leobald Tallhart** • **Little Walder Frey** • Mikken† • **Mors Umber** • **Shaggydog** • **Summer** • **Wyman Manderly** • **Chett** • **Donal Noye** • **Dywen** • **Eddison Tollett** • **Ghost** • **Gilly** • **Grenn** • **Jarman Buckwell** • **Rattleshirt** • **Thoren Smallwood** • Yoren† • **Alayaya** • **Aron Santagar** • **Balon Swann** • **Boros Blount** • **Chataya** • **Ermesande Hayford** • **Falyse Stokeworth** • **Gyles Rosby** • **Hallyne** • **Hobber Redwyne** • **Horas Redwyne** • **Jalabhar Xho** • **Lollys Stokeworth** • **Lothor Brune** • Mandon Moore† • **Morros Slynt** • **Myrcella Baratheon** • **Osfryd Kettleblack** • **Osmund Kettleblack** • **Osney Kettleblack** • Preston Greenfield† • **Tanda Stokeworth** • **Tommen Baratheon** • **Vylarr** • **Addam Marbrand** • **Chella** • **Hoster Tully** • **Olyvar Frey** • **Robin Ryger** • **Timett** • **Tytos Blackwood** • **Biter** • Chiswyck† • **Hot Pie** • Lommy Greenhands† • **Polliver** • **Rafford** • **Rorge** • **Tickler** • Weese† • **Ardrian Celtigar** • **Axell Florent** • **Duram Bar Emmon** • **Guncer Sunglass** • **Maester Pylos** • Monford Velaryon† • **Patchface** • **Shireen Baratheon** • **Bryce Caron** • **Colen Of Greenpools** • Emmon Cuy† • **Guyard Morrigen** • **Randyll Tarly** • Robar Royce† • **Ronnet Connington** • **Wendel Manderly** • **Aeron Greyjoy** • **Helya** • **Victarion Greyjoy** • **Wex Pyke** • **Irri** • **Jhiqui** • **Jhogo** • **Quaithe** • **Rakharo** • **Strong Belwas** |
+| **Supporting** | 57 | **Balon Greyjoy** • **Hodor** • **Jojen Reed** • Maester Luwin† • **Meera Reed** • **Osha** • **Ramsay Snow** • **Rickon Stark** • Rodrik Cassel† • **Greatjon Umber** • **Rickard Karstark** • **Roose Bolton** • **Alliser Thorne** • **Craster** • **Jeor Mormont** • Qhorin Halfhand† • **Samwell Tarly** • **Ygritte** • **Arys Oakheart** • **Barristan Selmy** • **Dontos Hollard** • **Gendry** • **Grand Maester Pycelle** • **Ilyn Payne** • Jacelyn Bywater† • **Janos Slynt** • **Loras Tyrell** • **Meryn Trant** • **Petyr Baelish** • **Podrick Payne** • Renly Baratheon† • **Sandor Clegane** • **Varys** • **Gregor Clegane** • **Lancel Lannister** • **Shae** • **Tywin Lannister** • **Bronn** • **Brynden Tully** • **Cleos Frey** • **Edmure Tully** • **Shagga** • Amory Lorch† • **Jaqen H'ghar** • **Vargo Hoat** • Cortnay Penrose† • Maester Cressen† • **Melisandre** • **Salladhor Saan** • **Selyse Florent** • **Brienne Of Tarth** • **Margaery Tyrell** • **Asha Greyjoy** • **Dagmer Cleftjaw** • **Jorah Mormont** • **Pyat Pree** • **Xaro Xhoan Daxos** |
+| **Tertiary** | 94 | Alebelly† • **Beth Cassel** • **Big Walder Frey** • Chayle† • Cley Cerwyn† • **Farlen** • **Gage** • **Grey Wind** • **Hallis Mollen** • **Hayhead** • **Hother Umber** • **Leobald Tallhart** • **Little Walder Frey** • Mikken† • **Mors Umber** • **Shaggydog** • **Summer** • **Wyman Manderly** • **Chett** • **Donal Noye** • **Dywen** • **Eddison Tollett** • **Ghost** • **Gilly** • **Grenn** • **Jarman Buckwell** • **Rattleshirt** • **Thoren Smallwood** • Yoren† • **Alayaya** • **Aron Santagar** • **Balon Swann** • **Boros Blount** • **Chataya** • **Ermesande Hayford** • **Falyse Stokeworth** • **Gyles Rosby** • **Hallyne** • **Hobber Redwyne** • **Horas Redwyne** • **Jalabhar Xho** • **Lollys Stokeworth** • **Lothor Brune** • Mandon Moore† • **Morros Slynt** • **Myrcella Baratheon** • **Osfryd Kettleblack** • **Osmund Kettleblack** • **Osney Kettleblack** • Preston Greenfield† • **Tanda Stokeworth** • **Tommen Baratheon** • **Vylarr** • **Addam Marbrand** • **Chella** • **Hoster Tully** • **Olyvar Frey** • **Robin Ryger** • **Timett** • **Tytos Blackwood** • **Biter** • Chiswyck† • **Hot Pie** • Lommy Greenhands† • **Polliver** • **Rafford** • **Rorge** • **Tickler** • Weese† • **Ardrian Celtigar** • **Axell Florent** • **Duram Bar Emmon** • **Guncer Sunglass** • **Maester Pylos** • Monford Velaryon† • **Patchface** • **Shireen Baratheon** • **Bryce Caron** • **Colen Of Greenpools** • Emmon Cuy† • **Guyard Morrigen** • **Randyll Tarly** • Robar Royce† • **Ronnet Connington** • **Wendel Manderly** • **Aeron Greyjoy** • **Helya** • **Wex Pyke** • **Irri** • **Jhiqui** • **Jhogo** • **Quaithe** • **Rakharo** • **Strong Belwas** |
 
-**Total Characters:** 167
+**Total Characters:** 165
 **Deceased:** 21 (provisional: statuses requiring adjudication are flagged in the roster).
 
 <a id="cok-mcm-04"></a>
@@ -425,7 +424,6 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **JORAH MORMONT** | GOT Ch. 3 | COK Ch. 63 | 10 | 5 | 15 | COK Ch. 12, COK Ch. 27, COK Ch. 40, COK Ch. 48, COK Ch. 63 |
 | **LANCEL LANNISTER** | Not verified | Not verified | Not verified | Not verified | Not calculated | Not verified |
 | **LORAS TYRELL** | Not verified | Not verified | Not verified | Not verified | Not calculated | Not verified |
-| **MAESTER AEMON** | GOT Ch. 21 | COK Ch. 6 | 3 | 1 | 4 | COK Ch. 6 |
 | **MAESTER CRESSEN** | COK Prologue | COK Prologue | 0 | 1 | 1 | COK Prologue |
 | **MAESTER LUWIN** | GOT Ch. 6 | COK Ch. 69 | 6 | 8 | 14 | COK Ch. 4, COK Ch. 16, COK Ch. 21, COK Ch. 28, COK Ch. 35, COK Ch. 46, COK Ch. 66, COK Ch. 69 |
 | **MARGAERY TYRELL** | Not verified | Not verified | 0 | Not verified | Not calculated | Not verified |
@@ -543,7 +541,6 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **TIMETT** | Not verified | Not verified | | | | |
 | **TOMMEN BARATHEON** | Not verified | Not verified | | | | |
 | **TYTOS BLACKWOOD** | Not verified | Not verified | | | | |
-| **VICTARION GREYJOY** | Not verified | Not verified | | | | |
 | **VYLARR** | COK Ch. 3 | Not verified | | | | |
 | **WEESE** | Not verified | Not verified | | | | |
 | **WENDEL MANDERLY** | COK Ch. 22 | Not verified | | | | |
@@ -559,6 +556,8 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 **Structural correction:** Previous-book deceased and characters merely recalled or mentioned are excluded from current-book participant tables, while remaining in the 182-identity historical MCR. Characters whose GOT-end Activity State is Inactive qualify for the COK MCM only on enacted participation; it does not retroactively change the live MCR to COK-end spoiler states. The original COK MCM previously mixed active book cast with GOT dead/offstage figures, which caused wasted appearance audits.
 
 **Cumulative arithmetic:** For fully validated priority rows, COK end count equals the frozen GOT count plus the distinct COK chapter list length. New characters have baseline 0. Prior unverified GOT Tertiary totals, including characters newly promoted to Supporting, still require targeted retrospective verification. Tertiary per-book statistics are intentionally deferred unless promoted.
+
+**Confirmed mention-only exclusions:** Maester Aemon remains at Castle Black while Jon joins the Great Ranging; he appears only in reports and discussion, not enacted COK scenes. Victarion Greyjoy is discussed at Pyke but has no qualifying enacted appearance. Both remain Inactive in the GOT-end series MCR and are excluded from the COK MCM.
 
 **Remaining priority issues:** Fully reconcile all non-POV Principal/Supporting direct appearances and disputed aliases against every applicable source chapter; verify the completeness of the current-book named Tertiary inventory; audit the old MCM's provisional end-of-book deaths/conditions; reconstruct 8 proposed upper-tier promotions at their earliest source threshold and backfill formerly Tertiary GOT counts. Some first/latest appearance coordinates remain unverified. The provisional label must stay in force until these tests pass.
 
