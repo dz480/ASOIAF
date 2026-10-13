@@ -11,6 +11,10 @@
 
 > **Spoiler guidance:** All reports currently published here are complete-book or completed-POV references. Opening them can reveal later chapters, character outcomes and major narrative events. Chapter coordinates in this directory describe report coverage, not a live reading position.
 
+## Series Character Continuity
+
+- [ASOIAF ROM MCR | GOT-end baseline, Book 2 opening](SERIES%20CONTINUITY/MASTER_CHARACTER_REGISTRY.csv) · 182 established GOT identities, 39 Deceased and 143 Inactive at COK rollover. Retains first/latest GOT appearances, verified accumulated counts and reference notes. **Historical GOT boundary; COK-end future information excluded.**
+
 ## Book 1: A Game of Thrones (GOT)
 
 ### Complete-book references
@@ -36,7 +40,7 @@ The nine completed full-book POV records are listed in order of their first narr
 ## Book 2: A Clash of Kings (COK)
 
 - [COK readthrough workspace](02. COK/README.md) · Active Book 2 destination and local index.
-- [ROM MCM | Prologue + Ch. 1–69 | Full Book](02. COK/ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES**; preserves verified GOT cumulative baselines, with unresolved COK counts clearly flagged. **Full-book spoilers.**
+- [ROM MCM | Prologue + Ch. 1–69 | Full Book](02. COK/ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES**; reconstructed current-book-only cast, with verified GOT baselines and remaining COK count/audit gaps flagged. **Full-book spoilers.**
 
 ## Repository navigation conventions
 
