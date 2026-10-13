@@ -1,6 +1,6 @@
 # A Game of Thrones | George R. R. Martin | POV: Arya Stark (Full Book)
 
-> **Full-book POV spoilers:** Arya Stark full-book selected POV coverage through GOT Ch. 65; the declared Spoiler Boundary applies.
+> **Full-book POV spoilers:** Covers all arya POV chapters through GOT Ch. 65 within the stated spoiler boundary.
 
 **Scope:** **GOT Ch. 7, 22, 32, 50, 65** (Arya I–V; 5 POV chapters).  
 
@@ -11,9 +11,9 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 65 (Arya V)**.
 
-<a id="arya-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="arya-toc"></a>
 ## Table of Contents
 
 - [1. Narrative Context](#arya-context)
@@ -200,8 +200,6 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 
 <p align="right"><a href="#arya-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
-<p align="right"><a href="#arya-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
-
 ---
 
 <a id="arya-scenes"></a>
@@ -218,11 +216,12 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 | 7 | **The Disguised Child on the Docks** | Arya, city guards, dock workers and passers-by | **GOT Ch. 65:** Hungry after weeks on the streets, Arya threads through the river docks looking for the **Wind Witch**. The vessel lies beyond her reach: armed men stand around the berth, watching for the daughter of House Stark. |
 | 8 | **Yoren Cuts Away Arya's Hair** | Arya, Yoren | **GOT Ch. 65:** After snatching Arya from the crowd near the **Great Sept**, the rough Night's Watch recruiter thrusts her into a doorway, returns her sword and draws a knife across her hair, beginning the disguise needed to carry her out of King's Landing. |
 
+<a id="arya-notes"></a>
+
 <p align="right"><a href="#arya-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
-<a id="arya-notes"></a>
 ## Appendix: Document Notes
 
 > **Primary textual source — Applies to: Entire document:** Built 13 Oct 2026 from the supplied unabridged AGOT EPUB. Only the 5 Arya POV chapters (GOT Ch. 7, 22, 32, 50 and 65) authorise directly enacted scene reconstruction and physical-Presence character inclusion. Events involving Arya in other narrators' chapters are reported or contextualised rather than silently merged into selected POV scenes.
@@ -243,5 +242,4 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 
 > **Protocol and publication authorities — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). Repository-only navigation and this appendix are retained in GitHub, and excluded from the ordinary chat publication view.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs whole-book character significance; [AGOT CSRM](ROM_CSRM_AGOT.md) governs chronology and chapter coordinates. [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) govern presentation; selected scenes remain bounded by the POV's chapters.
