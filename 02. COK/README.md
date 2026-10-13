@@ -13,7 +13,9 @@ This folder is the canonical destination for all published COK-specific readthro
 
 ## Published COK records
 
-- [ROM MCM | Prologue + Ch. 1–69 | Full Book](ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES.** Reconstructed COK-only participant roster (165 qualifying candidates), with original GOT continuity baselines and source-screened current-book appearance counts. No inherited GOT-deceased/offstage roster entries. **Full COK spoilers.**
+- [ROM CSRM | Prologue + Ch. 1–69 | Full Book](ROM_CSRM_ACOK.md) · Nine retrospective Sequences, chapter-level recall and externally reconstructed 299 AC dates. **Full COK spoilers.**
+
+- [ROM MCM | Prologue + Ch. 1–69 | Full Book](ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES.** Reconstructed COK-only participant roster (263 qualifying candidates), with original GOT continuity baselines and source-screened current-book appearance counts. No inherited GOT-deceased/offstage roster entries. **Full COK spoilers.**
 
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
