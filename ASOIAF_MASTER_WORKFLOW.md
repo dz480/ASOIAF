@@ -192,7 +192,7 @@ cross-references, commit the corrected files
 to ASOIAF and validate the results.
 ```
 
-Use **UPDATE** / **UPDATE FORMATTING** for a specific existing ROM record when the objective is structural/manual compliance. Example:
+Use **UPDATE** for a specific existing ROM record when the objective is structural/manual compliance. Example:
 
 ```text
 UPDATE SROMX: [BOOK], POV [CHARACTER]
@@ -257,14 +257,14 @@ These are the ASOIAF project's **operational command conventions**. Specialist p
 |---|---|---|---|
 | **BUILD** | First-time creation of a record, **reserved here for MCM** | Concise completion report + direct file link; full MCM withheld from chat | Create and commit |
 | **B&P** | First-time **Build & Publish** of RTE, CSRM, SROMX, MNT and similar records | Display complete substantive output, in addition to status and link | Create and commit |
-| **UPDATE** or **UPDATE FORMATTING** | Bring an **existing ROM record file** into structural, formatting and terminology compliance with its latest canonical manual | Concise change report and file link, unless full publication is requested | Modify and commit existing record |
+| **UPDATE** | Bring an **existing ROM record file** into structural, formatting and terminology compliance with its latest canonical manual | Concise change report and file link, unless full publication is requested | Modify and commit existing record |
 | **REVISE IN GITHUB** | User's convention for **rewriting or substantively modifying a section of an existing Protocol Manual** | Report the manual changes and direct file link | Modify and commit the canonical **manual** |
 
 **Rules of interpretation:**
 
 - **Initial creation:** Start the file-creation invocation with **B&P**, **except ROM MCM**, which starts with **BUILD**. A separate instruction to save to GitHub is **redundant** for either command.
 - **BUILD is not B&P:** It includes GitHub persistence **without** displaying the complete MCM in the ChatGPT window.
-- **UPDATE is not a rebuild:** Retrieve the current record and manual, identify out-of-date structures and bring the **record** up to date while preserving its evidence and established substance, except for changes genuinely required by protocol compliance.
+- **UPDATE is fixed-boundary maintenance, not ADVANCE:** Retrieve the current record and manual, identify out-of-date structures and bring the **record** up to date while preserving its evidence and established substance, except for changes genuinely required by protocol compliance.
 - **REVISE IN GITHUB is manual maintenance:** In this project's prompt vocabulary, reserve it for rewriting the **Protocol Manual**. The canonical cross-project GitHub workflow remains authoritative for the underlying GitHub mechanics and its broader document-maintenance operation.
 - **Reconciliation is its own audit task:** Source-grounded changes to multiple already-created records are authorised by the explicit Step 7 reconciliation prompt. They must not be mislabeled as rewriting the SROMX manual.
 - **Authorisation:** A request to discuss, inspect or audit a record is read-only unless a recognised command or explicit instruction authorises creation or modification.
