@@ -248,6 +248,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **MAESTER VYMAN**, Maester serving House Tully at Riverrun | ⇤ **COK Ch. 39**<br>⇥ **COK Ch. 39**<br>Not verified | Attends the suffering Hoster Tully in Catelyn's presence | 🟢 **Alive**; at Riverrun |
 |  | **OLYVAR FREY**, Squire to Robb Stark | ⇤ **COK Ch. 7**<br>⇥ **Not verified**<br>Not verified | Accompanies the northern court | 🟢 **Alive** |
 |  | **ROBIN RYGER**, Riverrun knight | ⇤ **COK Ch. 7**<br>⇥ **Not verified**<br>Not verified | Appears at Robb's court | 🟢 **Alive** |
+|  | **RYMUND THE RHYMER**, Singer heard performing at Riverrun | ⇤ **COK Ch. 55**<br>⇥ **COK Ch. 55**<br>Not verified | Direct scene participation in COK Ch. 55 | 🟢 **Alive** at last witnessed scene |
 |  | **TIMETT**, Mountain clansman of the Burned Men | ⇤ **Not verified**<br>⇥ **COK Ch. 3**<br>Not verified | Becomes allied with **Tyrion** after negotiations with clans | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; fighting alongside **Tyrion**'s forces |
 |  | **TYTOS BLACKWOOD**, Lord of Raventree Hall | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Supports Riverrun and appears around the Tully campaign. | 🟢 **Alive**; riverlord involved in conflict |
 |  | **UTHERYDES WAYN**, Steward of Riverrun | ⇤ **COK Ch. 39**<br>⇥ **COK Ch. 39**<br>Not verified | Meets Catelyn at Riverrun and participates in military discussions | 🟢 **Alive**; attending the Tully household |
@@ -272,8 +273,12 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **CHISWYCK**, Soldier serving Gregor Clegane | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Boasts of cruelty during the Riverlands campaign | 🗡 **Deceased**; killed after Arya names him |
 |  | **CUTJACK**, Stonemason among Yoren's recruits | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 19**<br>Not verified | Travels with Arya's group, helps rescue refugees and survives the initial attack | 🟡 **Missing**; separates from Arya's group after Yoren's party is destroyed |
 |  | **DOBBER**, Night's Watch recruit in Yoren's party | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 14**<br>Not verified | Helps defend the company | 🗡 **Deceased**; stabbed during the assault on the holdfast |
+|  | **ELMAR FREY**, Frey youth interacting with Arya | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Direct scene participation in COK Ch. 64 | 🟢 **Alive** at last witnessed scene |
+|  | **HARYS HAIGH**, Knight at Bolton's council | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Direct scene participation in COK Ch. 64 | 🟢 **Alive** at last witnessed scene |
 |  | **HOD**, Traveller at the ivy-covered inn | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 5**<br>Not verified | Argues about Robb Stark and is addressed by the innkeeper while Arya's party stops there | 🟢 **Alive** at his last witnessed scene |
+|  | **HOSTEEN FREY**, Knight at Bolton's council | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Direct scene participation in COK Ch. 64 | 🟢 **Alive** at last witnessed scene |
 |  | **HOT PIE**, Orphan travelling with Yoren's recruits | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Companion to Arya and Gendry | 🟢 **Alive**; escapes Harrenhal with Arya |
+|  | **JARED FREY**, Knight at Bolton's council | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Direct scene participation in COK Ch. 64 | 🟢 **Alive** at last witnessed scene |
 |  | **KOSS**, Archer and poacher with Yoren's party | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 14**<br>Not verified | Hunts for the company and fights when it is attacked | 🗡 **Deceased**; killed after offering to yield in the holdfast battle |
 |  | **KURZ**, Poacher and hunter travelling with Arya | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 14**<br>Not verified | Sounds the warning horn and escapes the assault wounded | 🪦 **Deceased**; dies of his wound after the group escapes |
 |  | **LOMMY GREENHANDS**, Orphan travelling north with Yoren | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Companion of Arya and Hot Pie | 🗡 **Deceased**; killed after Yoren's convoy is attacked |
@@ -285,7 +290,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **QYBURN**, Disgraced maester associated with the Brave Companions | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Stands with Roose Bolton in Harrenhal and speaks to Arya | 🟢 **Alive**; remains at Harrenhal |
 |  | **RAFFORD**, Lannister soldier known as Raff the Sweetling | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Among the men who threaten Arya's companions | 🟢 **Alive**; serving Gregor's forces |
 |  | **REYSEN**, Older recruit travelling with Yoren | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 14**<br>Not verified | Supports Yoren's group during confrontations with gold cloaks and attackers | ⚪️ **Unknown**; ultimate fate not independently confirmed |
+|  | **RONEL RIVERS**, Frey bastard at Bolton's council | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Direct scene participation in COK Ch. 64 | 🟢 **Alive** at last witnessed scene |
 |  | **RORGE**, Violent criminal formerly held in a prison wagon | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Released through Arya's actions; enters the war-torn Riverlands | 🟢 **Alive**; beyond Arya's company |
+|  | **STEELSHANKS WALTON**, Soldier serving Bolton | ⇤ **COK Ch. 64**<br>⇥ **COK Ch. 64**<br>Not verified | Direct scene participation in COK Ch. 64 | 🟢 **Alive** at last witnessed scene |
 |  | **TARBER**, Recruit travelling with Yoren's party | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 5**<br>Not verified | Takes a pitchfork when gold cloaks threaten Gendry and helps in the encounter at the inn | 🟡 **Missing/unknown**; later separation from Arya's party is recalled, without a later enacted appearance |
 |  | **TICKLER**, Lannister interrogator | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Tortures captives during Gregor's campaign | 🟢 **Alive**; active in the Riverlands |
 |  | **WEASEL (ORPHAN GIRL)**, Very young girl rescued by Yoren's party | ⇤ **COK Ch. 9**<br>⇥ **COK Ch. 19**<br>Not verified | Accompanies Arya's group after the attack on her home; flees from soldiers | 🟡 **Missing**; runs away before Arya's companions are captured |
@@ -353,6 +360,8 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **JON FOSSOWAY**, Knight of House Fossoway | ⇤ **COK Ch. 22**<br>⇥ **COK Ch. 22**<br>Not verified | Conversed with Catelyn during Renly's feast | 🟢 **Alive**; at Renly's host |
 |  | **JOSMYN PECKLEDON**, Young squire in the victorious army | ⇤ **COK Ch. 65**<br>⇥ **COK Ch. 65**<br>Not verified | Receives public honour for his feats at the Blackwater | 🟢 **Alive** at last appearance |
 |  | **JOSUA WILLUM**, Son of Lord Willum | ⇤ **COK Ch. 22**<br>⇥ **COK Ch. 65**<br>Not verified | Participates in Renly's feast and later attends the royal victory procession | 🟢 **Alive** at last appearance |
+|  | **LORD ESTERMONT**, Lord appearing at royal court | ⇤ **COK Ch. 65**<br>⇥ **COK Ch. 65**<br>Not verified | Direct scene participation in COK Ch. 65 | 🟢 **Alive** at last witnessed scene |
+|  | **LORD WILLUM**, Lord appearing at royal court | ⇤ **COK Ch. 65**<br>⇥ **COK Ch. 65**<br>Not verified | Direct scene participation in COK Ch. 65 | 🟢 **Alive** at last witnessed scene |
 |  | **LUCAS BLACKWOOD**, Blackwood noble attending Catelyn | ⇤ **COK Ch. 22**<br>⇥ **COK Ch. 22**<br>Not verified | Accompanies Catelyn to Renly's camp | 🟢 **Alive** at last appearance |
 |  | **MACE TYRELL**, Lord of Highgarden and head of House Tyrell | ⇤ **Not verified**<br>⇥ **COK Ch. 65**<br>Not verified | Takes a place of honour in Joffrey's post-Blackwater court | 🟢 **Alive**; the Tyrell-Lannister alliance is established |
 |  | **MARK MULLENDORE**, Knight following Renly | ⇤ **COK Ch. 22**<br>⇥ **COK Ch. 22**<br>Not verified | Participates in Renly's celebratory feast | 🟢 **Alive** at last appearance |
@@ -436,9 +445,9 @@ COK qualifying character census, including confirmed direct participants discove
 |---|---:|---|
 | **Principal** | 14 | **Arya Stark** • **Bran Stark** • **Catelyn Stark** • **Robb Stark** • **Theon Greyjoy** • **Jon Snow** • **Cersei Lannister** • **Joffrey Baratheon** • **Sansa Stark** • **Stannis Baratheon** • **Jaime Lannister** • **Tyrion Lannister** • **Davos Seaworth** • **Daenerys Targaryen** |
 | **Supporting** | 57 | **Hodor** • **Jojen Reed** • Maester Luwin† • **Meera Reed** • **Osha** • **Ramsay Snow** • **Rickon Stark** • Rodrik Cassel† • **Greatjon Umber** • **Rickard Karstark** • **Roose Bolton** • **Alliser Thorne** • **Craster** • **Jeor Mormont** • Qhorin Halfhand† • **Samwell Tarly** • **Ygritte** • **Arys Oakheart** • **Barristan Selmy** • **Dontos Hollard** • **Gendry** • **Grand Maester Pycelle** • **Ilyn Payne** • Jacelyn Bywater† • **Janos Slynt** • **Loras Tyrell** • **Meryn Trant** • **Petyr Baelish** • **Podrick Payne** • Renly Baratheon† • **Sandor Clegane** • **Varys** • **Gregor Clegane** • **Lancel Lannister** • **Shae** • **Tywin Lannister** • **Bronn** • **Brynden Tully** • **Cleos Frey** • **Edmure Tully** • **Shagga** • Amory Lorch† • **Jaqen H'Ghar** • **Vargo Hoat** • Cortnay Penrose† • Maester Cressen† • **Melisandre** • **Salladhor Saan** • **Selyse Florent** • **Brienne Of Tarth** • **Margaery Tyrell** • **Balon Greyjoy** • **Asha Greyjoy** • **Dagmer Cleftjaw** • **Jorah Mormont** • **Pyat Pree** • **Xaro Xhoan Daxos** |
-| **Tertiary** | 173 | Alebelly† • **Beth Cassel** • **Big Walder Frey** • Chayle† • Cley Cerwyn† • **Farlen** • **Gage** • **Grey Wind** • **Hallis Mollen** • **Hayhead** • **Hother Umber** • **Joseth** • **Leobald Tallhart** • **Little Walder Frey** • Mikken† • **Mors Umber** • **Murch (winterfell Huntsman)** • **Palla** • Poxy Tym† • **Shaggydog** • **Summer** • **Wyman Manderly** • **Robett Glover** • **Chett** • **Donal Noye** • **Dywen** • Ebben† • **Eddison Tollett** • **Endrew Tarth** • **Ghost** • **Gilly** • **Grenn** • **Hake** • **Jarman Buckwell** • **Lark** • **Mallador Locke** • **Ottyn Wythers** • **Rattleshirt** • Squire Dalbridge† • **Stonesnake** • **Thoren Smallwood** • Yoren† • **Alayaya** • Aron Santagar† • **Balon Swann** • **Boros Blount** • **Chataya** • **Dancy** • **Ermesande Hayford** • **Falyse Stokeworth** • **Gyles Rosby** • **Hallyne** • **Hobber Redwyne** • **Horas Redwyne** • **Ironbelly** • **Jalabhar Xho** • **Lollys Stokeworth** • **Lothor Brune** • **Maester Frenken** • Mandon Moore† • **Moon Boy** • **Morros Slynt** • **Myrcella Baratheon** • **Osfryd Kettleblack** • **Osmund Kettleblack** • **Osney Kettleblack** • Preston Greenfield† • **Salloreon** • **Tanda Stokeworth** • **Tommen Baratheon** • **Vylarr** • **Willit** • **Addam Marbrand** • **Chella** • **Kevan Lannister** • **Lewys Lydden** • **Roland Crakehall** • **Tyrek Lannister** • **Desmond Grell** • **Hoster Tully** • **Maester Vyman** • **Olyvar Frey** • **Robin Ryger** • **Timett** • **Tytos Blackwood** • **Utherydes Wayn** • **Aenys Frey** • **Amabel** • **Biter** • Chiswyck† • **Cutjack** • Dobber† • **Hod** • **Hot Pie** • Koss† • Kurz† • Lommy Greenhands† • **Lucan** • **Murch (yoren'S Company)** • **Pia** • **Polliver** • Praed† • **Qyburn** • **Rafford** • **Reysen** • **Rorge** • **Tarber** • **Tickler** • **Weasel (orphan Girl)** • Weese† • **Allard Seaworth** • **Ardrian Celtigar** • **Axell Florent** • **Bryen Farring** • **Dale Seaworth** • **Devan Seaworth** • **Duram Bar Emmon** • **Guncer Sunglass** • **Maester Pylos** • Monford Velaryon† • **Patchface** • **Shireen Baratheon** • **Alesander Staedmon** • **Arwyn Oakheart** • **Aurane Waters** • **Bonifer Hasty** • **Bryce Caron** • **Colen Of Greenpools** • **Dermot Of The Rainwood** • **Elyas Willum** • Emmon Cuy† • **Garlan Tyrell** • **Guyard Morrigen** • **Jon Fossoway** • **Josmyn Peckledon** • **Josua Willum** • **Lucas Blackwood** • **Mace Tyrell** • **Mark Mullendore** • **Mathis Rowan** • **Paxter Redwyne** • **Perwyn Frey** • **Philip Foote** • **Randyll Tarly** • Robar Royce† • **Robin Flint** • **Ronnet Connington** • **Ser Tanton** • **Steffon Varner** • **Timon The Scrapesword** • **Wendel Manderly** • **Aeron Greyjoy** • Black Lorren† • **Gevin Harlaw** • **Helya** • Kromm† • Red Rolfe† • **Stygg** • **Tymor** • **Urzen** • **Werlag** • **Wex Pyke** • **Aggo** • **Drogon** • **Irri** • **Jhiqui** • **Jhogo** • **Quaithe** • **Quhuru Mo** • **Rakharo** • **Rhaegal** • **Strong Belwas** • **Viserion** |
+| **Tertiary** | 182 | Alebelly† • **Beth Cassel** • **Big Walder Frey** • Chayle† • Cley Cerwyn† • **Farlen** • **Gage** • **Grey Wind** • **Hallis Mollen** • **Hayhead** • **Hother Umber** • **Joseth** • **Leobald Tallhart** • **Little Walder Frey** • Mikken† • **Mors Umber** • **Murch (winterfell Huntsman)** • **Palla** • Poxy Tym† • **Shaggydog** • **Summer** • **Wyman Manderly** • **Robett Glover** • **Chett** • **Donal Noye** • **Dywen** • Ebben† • **Eddison Tollett** • **Endrew Tarth** • **Ghost** • **Gilly** • **Grenn** • **Hake** • **Jarman Buckwell** • **Lark** • **Mallador Locke** • **Ottyn Wythers** • **Rattleshirt** • Squire Dalbridge† • **Stonesnake** • **Thoren Smallwood** • Yoren† • **Alayaya** • Aron Santagar† • **Balon Swann** • **Boros Blount** • **Chataya** • **Dancy** • **Ermesande Hayford** • **Falyse Stokeworth** • **Gyles Rosby** • **Hallyne** • **Hobber Redwyne** • **Horas Redwyne** • **Ironbelly** • **Jalabhar Xho** • **Lollys Stokeworth** • **Lothor Brune** • **Maester Frenken** • Mandon Moore† • **Moon Boy** • **Morros Slynt** • **Myrcella Baratheon** • **Osfryd Kettleblack** • **Osmund Kettleblack** • **Osney Kettleblack** • Preston Greenfield† • **Salloreon** • **Tanda Stokeworth** • **Tommen Baratheon** • **Vylarr** • **Willit** • **Addam Marbrand** • **Chella** • **Kevan Lannister** • **Lewys Lydden** • **Roland Crakehall** • **Tyrek Lannister** • **Desmond Grell** • **Hoster Tully** • **Maester Vyman** • **Olyvar Frey** • **Robin Ryger** • **Timett** • **Tytos Blackwood** • **Utherydes Wayn** • **Aenys Frey** • **Amabel** • **Biter** • Chiswyck† • **Cutjack** • Dobber† • **Hod** • **Hot Pie** • Koss† • Kurz† • Lommy Greenhands† • **Lucan** • **Murch (yoren'S Company)** • **Pia** • **Polliver** • Praed† • **Qyburn** • **Rafford** • **Reysen** • **Rorge** • **Tarber** • **Tickler** • **Weasel (orphan Girl)** • Weese† • **Allard Seaworth** • **Ardrian Celtigar** • **Axell Florent** • **Bryen Farring** • **Dale Seaworth** • **Devan Seaworth** • **Duram Bar Emmon** • **Guncer Sunglass** • **Maester Pylos** • Monford Velaryon† • **Patchface** • **Shireen Baratheon** • **Alesander Staedmon** • **Arwyn Oakheart** • **Aurane Waters** • **Bonifer Hasty** • **Bryce Caron** • **Colen Of Greenpools** • **Dermot Of The Rainwood** • **Elyas Willum** • Emmon Cuy† • **Garlan Tyrell** • **Guyard Morrigen** • **Jon Fossoway** • **Josmyn Peckledon** • **Josua Willum** • **Lucas Blackwood** • **Mace Tyrell** • **Mark Mullendore** • **Mathis Rowan** • **Paxter Redwyne** • **Perwyn Frey** • **Philip Foote** • **Randyll Tarly** • Robar Royce† • **Robin Flint** • **Ronnet Connington** • **Ser Tanton** • **Steffon Varner** • **Timon The Scrapesword** • **Wendel Manderly** • **Aeron Greyjoy** • Black Lorren† • **Gevin Harlaw** • **Helya** • Kromm† • Red Rolfe† • **Stygg** • **Tymor** • **Urzen** • **Werlag** • **Wex Pyke** • **Aggo** • **Drogon** • **Irri** • **Jhiqui** • **Jhogo** • **Quaithe** • **Quhuru Mo** • **Rakharo** • **Rhaegal** • **Strong Belwas** • **Viserion** • **Elmar Frey** • **Hosteen Frey** • **Jared Frey** • **Harys Haigh** • **Ronel Rivers** • **Steelshanks Walton** • **Rymund The Rhymer** • **Lord Estermont** • **Lord Willum**
 
-**Total Characters:** 244
+**Total Characters:** 253
 **Deceased:** 32 (provisional; all COK-ending conditions have not been independently checked).
 
 <a id="cok-mcm-04"></a>
@@ -581,6 +590,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **DYWEN** | Not verified | Not verified | | | | |
 | **EBBEN** | COK Ch. 53 | COK Ch. 68 | | | | |
 | **EDDISON TOLLETT** | Not verified | Not verified | | | | |
+| **ELMAR FREY** | COK Ch. 64 | COK Ch. 64 | | | | |
 | **ELYAS WILLUM** | COK Ch. 22 | COK Ch. 65 | | | | |
 | **EMMON CUY** | Not verified | Not verified | | | | |
 | **ENDREW TARTH** | COK Ch. 6 | COK Ch. 6 | | | | |
@@ -600,17 +610,20 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **HAKE** | GOT Ch. 52 | COK Ch. 23 | | | | |
 | **HALLIS MOLLEN** | Not verified | Not verified | | | | |
 | **HALLYNE** | Not verified | Not verified | | | | |
+| **HARYS HAIGH** | COK Ch. 64 | COK Ch. 64 | | | | |
 | **HAYHEAD** | COK Ch. 4 | Not verified | | | | |
 | **HELYA** | COK Ch. 11 | Not verified | | | | |
 | **HOBBER REDWYNE** | Not verified | Not verified | | | | |
 | **HOD** | COK Ch. 5 | COK Ch. 5 | | | | |
 | **HORAS REDWYNE** | Not verified | Not verified | | | | |
+| **HOSTEEN FREY** | COK Ch. 64 | COK Ch. 64 | | | | |
 | **HOSTER TULLY** | Not verified | Not verified | | | | |
 | **HOT PIE** | Not verified | Not verified | | | | |
 | **HOTHER UMBER** | COK Ch. 16 | Not verified | | | | |
 | **IRONBELLY** | COK Ch. 15 | COK Ch. 15 | | | | |
 | **IRRI** | Not verified | Not verified | | | | |
 | **JALABHAR XHO** | COK Ch. 2 | Not verified | | | | |
+| **JARED FREY** | COK Ch. 64 | COK Ch. 64 | | | | |
 | **JARMAN BUCKWELL** | Not verified | Not verified | | | | |
 | **JHIQUI** | Not verified | Not verified | | | | |
 | **JHOGO** | Not verified | Not verified | | | | |
@@ -628,6 +641,8 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **LITTLE WALDER FREY** | Not verified | Not verified | | | | |
 | **LOLLYS STOKEWORTH** | Not verified | Not verified | | | | |
 | **LOMMY GREENHANDS** | Not verified | Not verified | | | | |
+| **LORD ESTERMONT** | COK Ch. 65 | COK Ch. 65 | | | | |
+| **LORD WILLUM** | COK Ch. 65 | COK Ch. 65 | | | | |
 | **LOTHOR BRUNE** | Not verified | COK Ch. 65 | | | | |
 | **LUCAN** | COK Ch. 38 | COK Ch. 38 | | | | |
 | **LUCAS BLACKWOOD** | COK Ch. 22 | COK Ch. 22 | | | | |
@@ -677,13 +692,16 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **ROBIN FLINT** | COK Ch. 22 | COK Ch. 22 | | | | |
 | **ROBIN RYGER** | COK Ch. 7 | Not verified | | | | |
 | **ROLAND CRAKEHALL** | COK Ch. 65 | COK Ch. 65 | | | | |
+| **RONEL RIVERS** | COK Ch. 64 | COK Ch. 64 | | | | |
 | **RONNET CONNINGTON** | COK Ch. 22 | Not verified | | | | |
 | **RORGE** | Not verified | Not verified | | | | |
+| **RYMUND THE RHYMER** | COK Ch. 55 | COK Ch. 55 | | | | |
 | **SALLOREON** | COK Ch. 15 | COK Ch. 15 | | | | |
 | **SER TANTON** | COK Ch. 22 | COK Ch. 22 | | | | |
 | **SHAGGYDOG** | COK Ch. 4 | Not verified | | | | |
 | **SHIREEN BARATHEON** | Not verified | Not verified | | | | |
 | **SQUIRE DALBRIDGE** | COK Ch. 53 | COK Ch. 53 | | | | |
+| **STEELSHANKS WALTON** | COK Ch. 64 | COK Ch. 64 | | | | |
 | **STEFFON VARNER** | COK Ch. 22 | COK Ch. 65 | | | | |
 | **STONESNAKE** | COK Ch. 53 | COK Ch. 53 | | | | |
 | **STRONG BELWAS** | Not verified | Not verified | | | | |
@@ -714,6 +732,10 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 
 <a id="cok-mcm-06"></a>
 ## 6. Verification & Source Notes
+
+**Source-backed exception additions (14 Oct 2026):** COK EPUB direct scenes support the nine added characters in COK Ch. 55, 64 and 65: Elmar Frey, Hosteen Frey, Jared Frey, Harys Haigh, Ronel Rivers, Steelshanks Walton, Rymund the Rhymer, Lord Estermont and Lord Willum. External *Appearing* lists served as candidate locators; primary EPUB excerpts establish participation. The records remain under a provisional completeness classification.
+
+
 
 **External dataset exception reconciliation (14 Oct 2026):** Parsed all 70 COK chapter units from the [*Network of Thrones* COK research spreadsheet](https://github.com/colm-connaughton/ASOIAF-data-and_codes/blob/master/data/1-source/02%20A%20Clash%20Of%20Kings.xlsx). The raw source has **644 distinct character labels** and **2,496 individual chapter-associated character-name rows** (exclusive of 70 chapter separator rows). Normalising and comparing its labels with the former 234-entry roster yielded **434 unmatched raw names**, including variant labels for established characters, many historical deceased or inactive GOT people, offstage individuals and genuinely missed COK participants. Source flags comprise 415 marked debuts, 2 Page In events and 88 Page Out events; those labels are not direct-presence determinations. A high-frequency unmatched name (e.g. Eddard Stark, 52 research-chapter reference rows) can be absent from every enacted COK scene; raw frequency was therefore explicitly rejected as a chapter-presence count.
 
