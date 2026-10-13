@@ -7,7 +7,7 @@
 **Chronology:** **18 Apr → 30 Dec 298 AC** (project chronology)  
 *Winterfell · Barrowlands · Darry · King's Landing · Red Keep*
 
-
+**EDDARD STARK** · **ROBERT BARATHEON** · **CATELYN STARK** · **JAIME LANNISTER** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **TYRION LANNISTER** · **ROBB STARK** · **BRAN STARK** · **SANSA STARK** · **ARYA STARK** · **RICKON STARK** · **JORY CASSEL** · **RENLY BARATHEON** · **BARRISTAN SELMY** · **RODRIK CASSEL** · **PETYR BAELISH** · **VARYS** · **PYCELLE** · **GENDRY** · **JANOS SLYNT** · **SANDOR CLEGANE** · **GREGOR CLEGANE** · **ILYN PAYNE**
 
 **Spoiler Boundary:** End of **GOT Ch. 58 (Eddard XV)**. Events established only in subsequent chapters are excluded.
 
@@ -108,7 +108,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
-**Character entries:** 28 Total | 0 Principal | 0 Supporting | 23 Tertiary | 5 Collective | ≥11 Deaths
+**Character entries:** 56 Total | 11 Principal | 13 Supporting | 27 Tertiary | 5 Collective | ≥11 Deaths
 
 *Significance: 🏅 Principal · 🥈 Supporting · Numbered Tertiary / Collective. Deaths include established named human casualties and Lady; additional unnamed casualties prevent a definitive total.*
 
@@ -142,20 +142,20 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 |---:|---|---|---|---|
 | 🥈 | **JORY CASSEL**†, captain of Ned's household guard [Deceased] | Commands the Stark household guard at **Winterfell**. | Protects **Arya**, assists Ned's investigation and fights during **Jaime**'s ambush. | Killed in the streets of **King's Landing**. |
 | 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms [Alive] | Senior household officer at **Winterfell**. | Accompanies **Catelyn** to the capital and participates in her secret reunion with Ned. | Returned north from the capital; outside Ned's immediate storyline. |
-| 2 | **VAYON POOLE**, Winterfell steward [Unknown] | Manages **Ned**'s household. | Assists in finding **Arya** and later prepares arrangements for the daughters' departure. | Serving the household before the coup; subsequent personal circumstances unconfirmed. |
-| 3 | **SEPTA MORDANE**, governess to the Stark daughters [Unknown] | Supervises **Sansa** and **Arya** at **Winterfell**. | Travels south and continues directing the girls' education and conduct. | Last seen with Ned's household before his arrest; later circumstances unconfirmed. |
+| 11 | **VAYON POOLE**, Winterfell steward [Unknown] | Manages **Ned**'s household. | Assists in finding **Arya** and later prepares arrangements for the daughters' departure. | Serving the household before the coup; subsequent personal circumstances unconfirmed. |
+| 12 | **SEPTA MORDANE**, governess to the Stark daughters [Unknown] | Supervises **Sansa** and **Arya** at **Winterfell**. | Travels south and continues directing the girls' education and conduct. | Last seen with Ned's household before his arrest; later circumstances unconfirmed. |
 
 ### Guards and Escort
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 4 | **ALYN**, Stark guardsman [Alive] | In **Ned**'s household service. | Undertakes investigative and protective duties, then joins the expedition commissioned against **Gregor Clegane**. | Sent west with **Beric Dondarrion**'s party; subsequent outcome unconfirmed. |
-| 5 | **TOMARD (FAT TOM)**†, Stark guardsman [Deceased] | In Stark household service. | Assumes command after **Jory**'s death, strengthens security and prepares the daughters' escort. | Killed by a gold cloak during the royal succession confrontation. |
-| 6 | **PORTHER**, Stark household guardsman [Unknown] | In Stark household service. | Assists the injured **Ned** and is considered for command of the girls' departure escort. | Last established in household service before the coup. |
-| 7 | **CAYN**†, Stark guardsman [Deceased] | In Stark household service. | Assists **Ned** and remains among his armed defenders. | Killed by **Sandor Clegane** during the coup. |
+| 13 | **ALYN**, Stark guardsman [Alive] | In **Ned**'s household service. | Undertakes investigative and protective duties, then joins the expedition commissioned against **Gregor Clegane**. | Sent west with **Beric Dondarrion**'s party; subsequent outcome unconfirmed. |
+| 14 | **TOMARD (FAT TOM)**†, Stark guardsman [Deceased] | In Stark household service. | Assumes command after **Jory**'s death, strengthens security and prepares the daughters' escort. | Killed by a gold cloak during the royal succession confrontation. |
+| 15 | **PORTHER**, Stark household guardsman [Unknown] | In Stark household service. | Assists the injured **Ned** and is considered for command of the girls' departure escort. | Last established in household service before the coup. |
+| 16 | **CAYN**†, Stark guardsman [Deceased] | In Stark household service. | Assists **Ned** and remains among his armed defenders. | Killed by **Sandor Clegane** during the coup. |
 | 17 | **VARLY**†, Stark guardsman [Deceased] | In Stark household service. | Supports the wounded **Ned** and remains among his defenders. | Killed personally by **Janos Slynt**. |
-| 9 | **WYL**†, Stark guardsman [Deceased] | In Stark household service. | Escorts **Ned** during his investigation of Robert's illegitimate children. | Killed during **Jaime**'s ambush. |
-| 10 | **HEWARD**†, Stark guardsman [Deceased] | In Stark household service. | Escorts **Ned** during his investigation of Robert's illegitimate children. | Killed during **Jaime**'s ambush. |
+| 18 | **WYL**†, Stark guardsman [Deceased] | In Stark household service. | Escorts **Ned** during his investigation of Robert's illegitimate children. | Killed during **Jaime**'s ambush. |
+| 19 | **HEWARD**†, Stark guardsman [Deceased] | In Stark household service. | Escorts **Ned** during his investigation of Robert's illegitimate children. | Killed during **Jaime**'s ambush. |
 | 20 | **STARK HOUSEHOLD GUARDS**, unnamed remaining guards [Mixed / not individually tracked] | Serving the Stark household and travelling escort. | Conduct surveillance, protect the Tower of the Hand and oppose the gold cloaks during Ned's attempted regency. | Additional men are killed during the coup; survivors' fates are not individually established. |
 
 <a id="eddard-royal-house"></a>
@@ -170,14 +170,14 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 | 🏅 | **JOFFREY BARATHEON**, king [Alive] | Crown prince travelling with his parents. | Clashes with **Arya**, remains betrothed to **Sansa** and inherits the throne following Robert's death. | Reigning as king under **Cersei**'s influence. |
 | 🏅 | **JAIME LANNISTER**, knight of the Kingsguard [Alive] | Travelling north with the royal entourage. | Attacks **Ned** after **Tyrion**'s capture and reveals his willingness to retaliate through Ned's guards. | Reported to be fighting in the riverlands against Stark and Tully forces. |
 | 🏅 | **TYRION LANNISTER**, younger brother of Cersei and Jaime [Unknown] | Present with the royal party at **Winterfell**. | Becomes implicated in the dagger accusation and is subsequently captured by **Catelyn**, developments learned indirectly by Ned. | His release is reported, but his whereabouts and condition remain uncertain to Ned. |
-| 🥈 | **TOMMEN BARATHEON**, younger royal prince [Alive] | Travelling north with **Cersei**. | Remains part of the royal family at the centre of the succession dispute. | Under Lannister protection in the capital. |
-| 🥈 | **MYRCELLA BARATHEON**, royal princess [Alive] | Travelling north with **Cersei**. | Witnesses the royal household's political upheaval and questions the dispute over **Joffrey**'s kingship. | Under Lannister protection in the capital. |
+| 26 | **TOMMEN BARATHEON**, younger royal prince [Alive] | Travelling north with **Cersei**. | Remains part of the royal family at the centre of the succession dispute. | Under Lannister protection in the capital. |
+| 27 | **MYRCELLA BARATHEON**, royal princess [Alive] | Travelling north with **Cersei**. | Witnesses the royal household's political upheaval and questions the dispute over **Joffrey**'s kingship. | Under Lannister protection in the capital. |
 
 ### Royal Household Service
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 12 | **LANCEL LANNISTER**, royal squire [Alive] | Serving **Robert** as a squire. | Attends the king during the tournament and hunt; later becomes the subject of questions concerning the strong wine Robert consumed. | Remains implicated in Ned's suspicions about the fatal hunt; no punishment established. |
+| 28 | **LANCEL LANNISTER**, royal squire [Alive] | Serving **Robert** as a squire. | Attends the king during the tournament and hunt; later becomes the subject of questions concerning the strong wine Robert consumed. | Remains implicated in Ned's suspicions about the fatal hunt; no punishment established. |
 
 <a id="eddard-council"></a>
 ## 🏛️ Small Council & Royal Administration
@@ -186,7 +186,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **PETYR BAELISH (LITTLEFINGER)**, Master of Coin [Alive] | Serving on the small council at **King's Landing**. | Helps **Ned** investigate, supplies contacts and information, then engineers the decisive betrayal during the succession crisis. | Retains influence in the victorious royal administration. |
+| 🥈 | **PETYR BAELISH (LITTLEFINGER)**, Master of Coin [Alive] | Serving on the small council at **King's Landing**. | Helps **Ned** investigate, supplies contacts and information, then engineers the decisive betrayal during the succession crisis. | Retains influence in the victorious royal administration. |
 | 🥈 | **VARYS**, Master of Whisperers [Alive] | Serving the Crown as its intelligence chief. | Provides information about **Jon Arryn**, warns **Ned** about court dangers and later visits him in disguise. | Active at court, seeking Ned's cooperation while he remains imprisoned. |
 | 🥈 | **GRAND MAESTER PYCELLE**, Grand Maester [Alive] | Senior royal adviser at **King's Landing**. | Describes **Jon Arryn**'s illness, supplies the genealogy book and attends **Robert** during his fatal injury. | Remains part of the royal administration following the coup. |
 | 🥈 | **RENLY BARATHEON**, Lord of Storm's End; royal councillor [Alive] | Attached to **Robert**'s government. | Assists in council, participates in tournament affairs and proposes that **Ned** seize Cersei's children. | Leaves **King's Landing** with **Loras Tyrell** and retainers. |
@@ -198,7 +198,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 | 🥈 | **BARRISTAN SELMY**, Lord Commander of the Kingsguard [Alive] | Serving **Robert** and the royal household. | Attends the tournament, guards the wounded king and witnesses **Ned**'s attempted assertion of authority. | Present during the succession confrontation; his later personal position is not established in Ned's chapters. |
 | 🥈 | **JANOS SLYNT**, Commander of the City Watch [Alive] | Commanding **King's Landing**'s gold cloaks. | Negotiates security needs during the tournament and becomes essential to **Ned**'s succession plan. | Directs his men against Ned, personally killing **Varly**. |
 | 🥈 | **ILYN PAYNE**, King's Justice [Alive] | Royal executioner attached to the Crown. | Present around the court's judgments; **Ned** chooses to send another force against **Gregor Clegane** rather than employ him. | Still attached to the royal administration. |
-| 14 | **MERYN TRANT**, knight of the Kingsguard [Alive] | Serving the royal household. | Carries out royal protection duties and subsequently pursues **Arya**, according to **Varys**. | Alive and serving the Crown; Arya escapes his attempt to capture her. |
+| 36 | **MERYN TRANT**, knight of the Kingsguard [Alive] | Serving the royal household. | Carries out royal protection duties and subsequently pursues **Arya**, according to **Varys**. | Alive and serving the Crown; Arya escapes his attempt to capture her. |
 | 37 | **CITY WATCH (GOLD CLOAKS)**, municipal armed force [Mixed / not individually tracked] | Policing **King's Landing** under **Janos Slynt**. | Provide security and become the armed force upon which **Ned** relies for the succession. | Side with **Cersei** and attack Ned's guards. |
 | 38 | **ROYAL KINGSGUARD**, other knights acting collectively [Mixed / not individually tracked] | Protecting the royal family. | Escort royal household members and surround the throne during the succession crisis. | Remain with the royal court as **Joffrey** is proclaimed king. |
 
@@ -209,9 +209,9 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 |---:|---|---|---|---|
 | 🥈 | **SANDOR CLEGANE (THE HOUND)**, sworn protector of Joffrey [Alive] | Travelling with the royal entourage. | Kills **Mycah**, wins the Hand's tournament after saving **Loras** and fights for **Cersei** during the coup. | Serving Joffrey after killing **Cayn**. |
 | 🥈 | **GREGOR CLEGANE (THE MOUNTAIN)**, knight and Lannister bannerman [Alive] | Holds lands under House Lannister. | Kills **Ser Hugh** in the tournament, attacks **Loras**, and is later accused of leading raids in the riverlands. | Subject to **Ned**'s royal attainder and an expedition under **Beric**; outcome unknown. |
-| 🥈 | **LORAS TYRELL**, Knight of Flowers [Alive] | Noble knight associated with **Renly**'s circle. | Defeats **Gregor** at the tournament, survives the ensuing attack and volunteers for Ned's punitive expedition. | Leaves **King's Landing** with **Renly**. |
+| 41 | **LORAS TYRELL**, Knight of Flowers [Alive] | Noble knight associated with **Renly**'s circle. | Defeats **Gregor** at the tournament, survives the ensuing attack and volunteers for Ned's punitive expedition. | Leaves **King's Landing** with **Renly**. |
 | 42 | **SER HUGH OF THE VALE**†, newly knighted former squire of Jon Arryn [Deceased] | Recently knighted after serving **Jon Arryn**. | Competes in the Hand's tournament and is killed by **Gregor Clegane**. | His death becomes part of Ned's investigation into dangerous questions surrounding Jon Arryn. |
-| 18 | **THOROS OF MYR**, red priest and warrior [Alive] | Present in the royal and tournament circles. | Wins the tournament melee and is subsequently commissioned to accompany **Beric**. | Sent west on the royal justice expedition. |
+| 43 | **THOROS OF MYR**, red priest and warrior [Alive] | Present in the royal and tournament circles. | Wins the tournament melee and is subsequently commissioned to accompany **Beric**. | Sent west on the royal justice expedition. |
 | 44 | **ANGUY**, archer from the Dornish Marches [Alive] | An archer whose immediate location is not established. | Wins the tournament's archery competition and declines **Ned**'s offer of employment. | Leaves the contest wealthy; subsequent location not established. |
 | 45 | **TREGAR**†, Lannister guardsman [Deceased] | In armed service to House Lannister. | Fights in **Jaime**'s ambush and receives a head wound from **Ned**. | Dies from the injury, as later reported by **Cersei**. |
 | 46 | **LANNISTER ARMED MEN**, unnamed soldiers and guards [Mixed / not individually tracked] | Serving the interests of House Lannister. | Attack Ned's escort in the streets and support the royal succession coup. | Help secure Lannister control over the capital; individual casualties and fates vary. |
@@ -223,7 +223,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **BERIC DONDARRION**, Lord of Blackhaven [Alive] | Stormlands nobleman, subsequently attending the royal tournament. | Arrives at **King's Landing** and accepts **Ned**'s command to pursue **Gregor Clegane**. | Leading the expedition west; subsequent outcome not established within Ned's chapters. |
+| 47 | **BERIC DONDARRION**, Lord of Blackhaven [Alive] | Stormlands nobleman, subsequently attending the royal tournament. | Arrives at **King's Landing** and accepts **Ned**'s command to pursue **Gregor Clegane**. | Leading the expedition west; subsequent outcome not established within Ned's chapters. |
 | 52 | **ROBAR ROYCE**, knight of House Royce [Alive] | Noble knight serving in royal circles. | Accepts **Ned**'s instruction to report the riverlands judgment to his father, who is accompanying **Robert**. | Assigned to carry news of the commission; subsequent personal position unconfirmed. |
 
 ### Riverlands Witnesses and Representatives
@@ -232,7 +232,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 |---:|---|---|---|---|
 | 48 | **RAYMUN DARRY**, riverlands knight [Alive] | Noble retainer associated with **House Darry** and the Tully cause. | Presents accusations against **Gregor Clegane** before **Ned**. | Has obtained a royal response to the reported attacks; subsequent whereabouts unconfirmed. |
 | 49 | **KARYL VANCE**, riverlands knight [Alive] | Knight serving his house in the riverlands. | Corroborates reports of organised Lannister attacks and explains their military consequences. | His evidence contributes to Ned's commission against Gregor. |
-| 25 | **MARQ PIPER**, riverlands knight [Alive] | Young riverlands nobleman. | Argues forcefully for retaliation against **Gregor** and **Tywin Lannister**. | Receives Ned's judgment rejecting private vengeance in favour of royal justice. |
+| 50 | **MARQ PIPER**, riverlands knight [Alive] | Young riverlands nobleman. | Argues forcefully for retaliation against **Gregor** and **Tywin Lannister**. | Receives Ned's judgment rejecting private vengeance in favour of royal justice. |
 | 51 | **JOSS**, brewer of Sherrer [Alive] | Operates an alehouse in the riverlands settlement of **Sherrer**. | Survives the raid and provides detailed eyewitness testimony to **Ned**. | Displaced by the destruction of his settlement. |
 | 53 | **SHERRER SURVIVORS**, petitioning villagers [Mixed / not individually tracked] | Inhabitants of a riverlands settlement. | Survive the burning of homes and killings, then testify before the Iron Throne. | Receive a promise of royal justice, although their losses remain. |
 
@@ -241,7 +241,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 28 | **TOBHO MOTT**, master armorer [Alive] | Operating a prestigious forge in **King's Landing**. | Introduces **Gendry** to Ned and recounts the boy's connection to **Jon Arryn**. | Continuing as a master armorer; later individual position not established. |
+| 54 | **TOBHO MOTT**, master armorer [Alive] | Operating a prestigious forge in **King's Landing**. | Introduces **Gendry** to Ned and recounts the boy's connection to **Jon Arryn**. | Continuing as a master armorer; later individual position not established. |
 | 🥈 | **GENDRY**, blacksmith's apprentice; Robert's illegitimate son [Alive] | Apprenticed to **Tobho Mott**. | Meets **Ned**, reveals his resemblance to **Robert**, and becomes a crucial part of the investigation. | Last established at the forge; true parentage remains politically consequential. |
 | 56 | **MYCAH**†, butcher's boy [Deceased] | Attached to the travelling royal household's supply company. | Becomes involved in **Arya** and **Joffrey**'s confrontation and flees. | Killed by **Sandor Clegane**; his body is shown to **Ned** at Darry. |
 
