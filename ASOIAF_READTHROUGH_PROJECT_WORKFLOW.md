@@ -1,13 +1,14 @@
 # ASOIAF READTHROUGH PROJECT WORKFLOW
 
 **Status:** Canonical project operating document  
-**Version:** 1.5
+**Version:** 1.6
 **Last Updated:** 13 Oct 2026  
 **Established:** 13 Oct 2026  
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
 **Permanent filename:** `ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md`  
 **Recognised document abbreviation:** ASOIAF RPW  
-**Scope:** Repeatable book-by-book reread, source analysis, ROM production, reconciliation and GitHub archival workflow
+**Scope:** Repeatable book-by-book reread, source analysis, ROM production, reconciliation and GitHub archival workflow  
+**Revision (v1.6, 13 Oct 2026):** Integrated mandatory MCM → MCR → next-book MCM transfer from universal ROM RPW v1.2; distinguished next-book participant roster from preserved historical identities and backend foresight from live MCR.
 
 **Operating principle:** Prepare the entire book's reference architecture **before reading**; conduct the readthrough and POV SROMX construction **concurrently**; then reconcile all completed POV accounts and synthesise the final, whole-book ROM MNT. This document is the ASOIAF **Type C continuous-series reread specialisation** of the universal six-phase lifecycle.
 
@@ -115,6 +116,8 @@ Complete **both** reference records before the live readthrough.
 ### Step 3 — BUILD ROM MCM
 
 Construct the **whole-book Master Character Map**, using the primary text and, for later series books, eligible prior-book continuity. The MCM provides the authoritative book-level cast, character classifications, appearance evidence and supported continuity. Its source endpoint is the completed book, not the reader's present progress.
+
+**Required series MCR prerequisite:** For Book 2 and beyond, follow universal [ROM RPW §11.3.1](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md) and the [ROM MCR Manual](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHARACTERS/ROM_MASTER_CHARACTER_REGISTRY.md). At GOT → COK, initialise the ASOIAF MCR from **every qualifying established GOT identity** and preserve GOT cumulative counts and final appearance coordinates, including deceased/historical people. Freeze the GOT-end baseline before COK updates. GOT deceased remain Deceased; other GOT characters become Inactive at COK opening. Construct COK MCM only from **actual COK enacted participants**, including those who die in COK, while all nonreturning survivors and GOT deceased remain preserved in MCR only. Inherit historical first appearances and verified counts for returning characters; add COK chapter counts only with source-supported enacted presence. Complete-COK MCM activity/death states are **spoiler-bearing projected book-end facts** and must not preemptively modify live reader-bounded MCR. An already-existing COK MCM violating current-book membership requires an explicitly authorised in-place UPDATE/reconstruction, not a second BUILD.
 
 **Invocation:**
 
@@ -348,7 +351,8 @@ After a book passes **Step 9**, preserve the validated book dossier. **Series ro
 - If a POV has no further chapter until late in the book, leave its SROMX incomplete until that last chapter is read; other completed POV records can be built and published in parallel with the ongoing read.
 - After the readthrough, conduct the same cross-record reconciliation, final whole-book MNT synthesis and final repository audit.
 - Keep previous books' published records intact; add the new book's links under the appropriate spoiler-labelled index section.
-- Where established and applicable, reconcile the series MCR before rollover (retaining deceased status, historical identities and inactive opening state for surviving characters), chronology authority and continuing narrative threads. Preserve the previous book's scope and rankings as historical snapshots rather than overwriting them with later evidence.
+- **Mandatory character-continuity transfer:** reconcile/create the MCR from the just-completed book, preserve every established identity and a frozen book-end baseline, roll deceased to Deceased and all other people to Inactive at next-book opening, then construct the next MCM from that book's enacted participants only. Distinguish the spoiler-bearing full-book projected end state from the reader-safe live MCR; see universal ROM RPW §11.3.1.
+- Reconcile chronology authority and continuing narrative threads, preserving all historical book dossiers. Preserve the previous book's scope and rankings as historical snapshots rather than overwriting them with later evidence.
 - Validate new book paths, cross-book navigation and any authorised registry state. If no further published book is available, retain the verified completed dossier without inventing a successor workspace.
 
 **Reusable book-level command sequence:** Use following explicitly authorised rollover where applicable. Incremental navigation is included automatically in each committed ROM record operation; the final APPLY remains the comprehensive check.
