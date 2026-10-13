@@ -2,7 +2,7 @@
 
 ## Repository Operating Manual
 
-**[ASOIAF MASTER WORKFLOW](ASOIAF_MASTER_WORKFLOW.md)** — The canonical operational brain of this repository: the five phases, nine practical steps, invocation prompts, BUILD/B&P/UPDATE/REVISE conventions, readthrough/SROMX concurrency, reconciliation, spoiler boundaries and final validation. **Start here when beginning a new book.**
+**[ASOIAF READTHROUGH PROJECT WORKFLOW (ASOIAF RPW)](ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md)** — The series-specific Type C overview-led implementation of the [universal ROM RPW](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md): six-phase parent lifecycle, nine local practical steps, POV SROMX concurrency, reconciliation, spoiler boundaries and incremental plus final navigation validation. **Start here when beginning a new book.**
 
 
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
