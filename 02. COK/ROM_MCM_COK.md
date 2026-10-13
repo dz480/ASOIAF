@@ -56,7 +56,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **CLEY CERWYN**, Northern nobleman | ⇤ **COK Ch. 16**<br>⇥ **Not verified**<br>Not verified | Attends Bran's harvest feast | 🗡 **Deceased**; killed at Winterfell |
 |  | **FARLEN**, Winterfell kennelmaster | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Responsible for the Stark hunting dogs | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at Winterfell |
 |  | **GAGE**, Winterfell cook | ⇤ **COK Ch. 4**<br>⇥ **Not verified**<br>Not verified | Enacted participant in the Winterfell household | ⚪️ **COK end unverified** |
-|  | **GREY WIND**, Robb Stark's direwolf | ⇤ **GOT Ch. 53**<br>⇥ **Not verified**<br>Not verified | Accompanies Robb at the opening of the war | 🟢 **Alive** |
+|  | **GREY WIND**, Robb Stark's direwolf | ⇤ **GOT Ch. 53**<br>⇥ **COK Ch. 7**<br>Not verified | Accompanies Robb at the opening of the war | 🟢 **Alive** |
 |  | **HALLIS MOLLEN**, Captain of Winterfell guard | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Placed in charge of the household garrison after **Rodrik**'s departure | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commanding Winterfell's guards |
 |  | **HAYHEAD**, Winterfell servant | ⇤ **COK Ch. 4**<br>⇥ **Not verified**<br>Not verified | Enacted household participant | ⚪️ **COK end unverified** |
 |  | **HOTHER UMBER**, Northern lord, Whoresbane | ⇤ **COK Ch. 16**<br>⇥ **Not verified**<br>Not verified | Participates in northern court business | 🟢 **Alive** |
@@ -190,7 +190,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **SALLOREON**, Master armorer | ⇤ **COK Ch. 15**<br>⇥ **COK Ch. 15**<br>Not verified | Discusses forging equipment with Tyrion | 🟢 **Alive** at last appearance |
 |  | **TANDA STOKEWORTH**, Lady of Stokeworth | ⇤ **COK Ch. 2**<br>⇥ **Not verified**<br>Not verified | Attends royal festivities | 🟢 **Alive** |
 |  | **TOMMEN BARATHEON**, Royal prince | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Youngest child of **Cersei** and **Jaime**; publicly regarded as **Robert**'s son | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at King's Landing |
-|  | **VYLARR**, Lannister household captain | ⇤ **COK Ch. 3**<br>⇥ **Not verified**<br>Not verified | Serves among Tyrion's men | 🟢 **Alive** |
+|  | **VYLARR**, Lannister household captain | ⇤ **COK Ch. 3**<br>⇥ **COK Ch. 3**<br>Not verified | Serves among Tyrion's men | 🟢 **Alive** |
 
 ## 🦁 Lannisters & Westerlands
 
@@ -215,7 +215,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
 |  | **ADDAM MARBRAND**, Westerlands knight | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Serves **Tywin** in battle planning and cavalry actions | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; with Lannister host |
-|  | **CHELLA**, Mountain clanswoman | ⇤ **GOT Ch. 42**<br>⇥ **Not verified**<br>Not verified | Acts among Tyrion's entourage | 🟢 **Alive** |
+|  | **CHELLA**, Mountain clanswoman | ⇤ **GOT Ch. 42**<br>⇥ **COK Ch. 3**<br>Not verified | Acts among Tyrion's entourage | 🟢 **Alive** |
 |  | **KEVAN LANNISTER**, Tywin's brother and adviser | ⇤ **GOT Ch. 56**<br>⇥ **COK Ch. 65**<br>Not verified | Publicly participates in the royal honours after the Blackwater | 🟢 **Alive**; attends the court's victory ceremony |
 |  | **TYREK LANNISTER**, Young Lannister knight married to Ermesande Hayford | ⇤ **COK Ch. 25**<br>⇥ **COK Ch. 25**<br>Not verified | Appears in the King's Landing royal court in wedding attire | 🟡 **Missing**; disappearance reported following the King's Landing riot |
 
@@ -229,7 +229,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 | 50 | **BRYNDEN TULLY**, Blackfish; knight of House Tully | ⇤ **GOT Ch. 34**<br>⇥ **COK Ch. 7**<br>8 appearances | Uncle of **Catelyn** and **Lysa**; leaves Vale to aid **Robb**'s campaign | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commanding scouts for **Robb** |
 | 51 | **CLEOS FREY**, Frey knight and Lannister relation | ⇤ **COK Ch. 7**<br>⇥ **COK Ch. 45**<br>4 appearances | Acts as an envoy and prisoner escort | 🟢 **Alive**; travels with Brienne and Jaime |
 | 52 | **EDMURE TULLY**, Heir of Riverrun | ⇤ **GOT Ch. 71**<br>⇥ **COK Ch. 45**<br>4 appearances | Brother of **Catelyn** and **Lysa**; son of Hoster; defends the Riverlands | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; engaged in war and defence of Riverrun |
-| 53 | **SHAGGA**, Chief of Stone Crows among the mountain clans | ⇤ **GOT Ch. 42**<br>⇥ **COK Ch. 49**<br>6 appearances | Takes **Tyrion**'s promised rewards and joins his armed following | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving alongside **Tyrion** during Lannister campaign |
+| 53 | **SHAGGA**, Chief of Stone Crows among the mountain clans | ⇤ **GOT Ch. 42**<br>⇥ **COK Ch. 49**<br>**7 appearances** | Takes **Tyrion**'s promised rewards and joins his armed following | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving alongside **Tyrion** during Lannister campaign |
 
 ### Tertiary Characters
 
@@ -240,7 +240,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **MAESTER VYMAN**, Maester serving House Tully at Riverrun | ⇤ **COK Ch. 39**<br>⇥ **COK Ch. 39**<br>Not verified | Attends the suffering Hoster Tully in Catelyn's presence | 🟢 **Alive**; at Riverrun |
 |  | **OLYVAR FREY**, Squire to Robb Stark | ⇤ **COK Ch. 7**<br>⇥ **Not verified**<br>Not verified | Accompanies the northern court | 🟢 **Alive** |
 |  | **ROBIN RYGER**, Riverrun knight | ⇤ **COK Ch. 7**<br>⇥ **Not verified**<br>Not verified | Appears at Robb's court | 🟢 **Alive** |
-|  | **TIMETT**, Mountain clansman of the Burned Men | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Becomes allied with **Tyrion** after negotiations with clans | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; fighting alongside **Tyrion**'s forces |
+|  | **TIMETT**, Mountain clansman of the Burned Men | ⇤ **Not verified**<br>⇥ **COK Ch. 3**<br>Not verified | Becomes allied with **Tyrion** after negotiations with clans | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; fighting alongside **Tyrion**'s forces |
 |  | **TYTOS BLACKWOOD**, Lord of Raventree Hall | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Supports Riverrun and appears around the Tully campaign. | 🟢 **Alive**; riverlord involved in conflict |
 |  | **UTHERYDES WAYN**, Steward of Riverrun | ⇤ **COK Ch. 39**<br>⇥ **COK Ch. 39**<br>Not verified | Meets Catelyn at Riverrun and participates in military discussions | 🟢 **Alive**; attending the Tully household |
 
@@ -300,9 +300,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-|  | **ARDRIAN CELTIGAR**, Lord of Claw Isle | ⇤ **COK Prologue**<br>⇥ **Not verified**<br>Not verified | Dragonstone bannerman and feast participant | ⚪️ **COK end unverified** |
+|  | **ARDRIAN CELTIGAR**, Lord of Claw Isle | ⇤ **COK Prologue**<br>⇥ **COK Ch. 10**<br>Not verified | Dragonstone bannerman and feast participant | ⚪️ **COK end unverified** |
 |  | **AXELL FLORENT**, Florent knight and supporter of Stannis | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Member of Stannis's Dragonstone circle | ⚪️ **COK endpoint unverified**; further presence requires source review |
-|  | **DURAM BAR EMMON**, Lord of Sharp Point | ⇤ **COK Prologue**<br>⇥ **Not verified**<br>Not verified | Bannerman at Dragonstone | ⚪️ **COK end unverified** |
+|  | **DURAM BAR EMMON**, Lord of Sharp Point | ⇤ **COK Prologue**<br>⇥ **COK Ch. 10**<br>Not verified | Bannerman at Dragonstone | ⚪️ **COK end unverified** |
 |  | **GUNCER SUNGLASS**, Lord of Sweetport Sound | ⇤ **COK Prologue**<br>⇥ **Not verified**<br>Not verified | Appears in Stannis's court | ⚪️ **COK end unverified** |
 |  | **MAESTER PYLOS**, Maester serving on Dragonstone | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Succeeds Cressen's service at Dragonstone | 🟢 **Alive**; attached to Stannis's court |
 |  | **MONFORD VELARYON**, Lord of Driftmark | ⇤ **COK Prologue**<br>⇥ **Not verified**<br>Not verified | Appears among Stannis's bannermen | 🗡 **Deceased**; dies in the Blackwater campaign |
@@ -509,7 +509,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **SANDOR CLEGANE** | GOT Ch. 4 | COK Ch. 62 | 11 | 7 | 18 | COK Ch. 2, COK Ch. 18, COK Ch. 32, COK Ch. 41, COK Ch. 52, COK Ch. 59, COK Ch. 62 |
 | **SELYSE FLORENT** | COK Prologue | COK Ch. 10 | 0 | 2 | 2 | COK Prologue, COK Ch. 10 |
 | **SHAE** | GOT Ch. 62 | COK Ch. 54 | 2 | 4 | 6 | COK Ch. 3, COK Ch. 29, COK Ch. 44, COK Ch. 54 |
-| **SHAGGA** | GOT Ch. 42 | COK Ch. 49 | 3 | 3 | 6 | COK Ch. 25, COK Ch. 41, COK Ch. 49 |
+| **SHAGGA** | GOT Ch. 42 | COK Ch. 49 | 3 | 4 | 7 | COK Ch. 2, COK Ch. 25, COK Ch. 41, COK Ch. 49 |
 | **TYWIN LANNISTER** | GOT Ch. 56 | COK Ch. 65 | 3 | 3 | 6 | COK Ch. 30, COK Ch. 38, COK Ch. 65 |
 | **VARGO HOAT** | COK Ch. 30 | COK Ch. 47 | 0 | 2 | 2 | COK Ch. 30, COK Ch. 47 |
 | **VARYS** | GOT Ch. 18 | COK Ch. 67 | 13 | 12 | 25 | COK Ch. 3, COK Ch. 8, COK Ch. 15, COK Ch. 17, COK Ch. 25, COK Ch. 36, COK Ch. 41, COK Ch. 44, COK Ch. 49, COK Ch. 54, COK Ch. 65, COK Ch. 67 |
@@ -522,7 +522,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **AGGO** | GOT Ch. 46 | COK Ch. 63 | | | | |
 | **ALAYAYA** | Not verified | Not verified | | | | |
 | **ALEBELLY** | Not verified | Not verified | | | | |
-| **ARDRIAN CELTIGAR** | COK Prologue | Not verified | | | | |
+| **ARDRIAN CELTIGAR** | COK Prologue | COK Ch. 10 | | | | |
 | **ARON SANTAGAR** | Not verified | Not verified | | | | |
 | **AURANE WATERS** | COK Ch. 65 | COK Ch. 65 | | | | |
 | **AXELL FLORENT** | Not verified | Not verified | | | | |
@@ -536,7 +536,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **BRYCE CARON** | Not verified | Not verified | | | | |
 | **CHATAYA** | Not verified | Not verified | | | | |
 | **CHAYLE** | Not verified | Not verified | | | | |
-| **CHELLA** | GOT Ch. 42 | Not verified | | | | |
+| **CHELLA** | GOT Ch. 42 | COK Ch. 3 | | | | |
 | **CHETT** | Not verified | Not verified | | | | |
 | **CHISWYCK** | Not verified | Not verified | | | | |
 | **CLEY CERWYN** | COK Ch. 16 | Not verified | | | | |
@@ -548,7 +548,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **DOBBER** | COK Ch. 5 | COK Ch. 14 | | | | |
 | **DONAL NOYE** | Not verified | Not verified | | | | |
 | **DROGON** | GOT Ch. 72 | COK Ch. 63 | | | | |
-| **DURAM BAR EMMON** | COK Prologue | Not verified | | | | |
+| **DURAM BAR EMMON** | COK Prologue | COK Ch. 10 | | | | |
 | **DYWEN** | Not verified | Not verified | | | | |
 | **EBBEN** | COK Ch. 53 | COK Ch. 68 | | | | |
 | **EDDISON TOLLETT** | Not verified | Not verified | | | | |
@@ -563,7 +563,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **GHOST** | Not verified | Not verified | | | | |
 | **GILLY** | Not verified | Not verified | | | | |
 | **GRENN** | Not verified | Not verified | | | | |
-| **GREY WIND** | GOT Ch. 53 | Not verified | | | | |
+| **GREY WIND** | GOT Ch. 53 | COK Ch. 7 | | | | |
 | **GUNCER SUNGLASS** | COK Prologue | Not verified | | | | |
 | **GUYARD MORRIGEN** | Not verified | Not verified | | | | |
 | **GYLES ROSBY** | COK Ch. 2 | Not verified | | | | |
@@ -651,7 +651,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **TANDA STOKEWORTH** | COK Ch. 2 | Not verified | | | | |
 | **THOREN SMALLWOOD** | Not verified | Not verified | | | | |
 | **TICKLER** | Not verified | Not verified | | | | |
-| **TIMETT** | Not verified | Not verified | | | | |
+| **TIMETT** | Not verified | COK Ch. 3 | | | | |
 | **TOMMEN BARATHEON** | Not verified | Not verified | | | | |
 | **TYMOR** | COK Ch. 37 | COK Ch. 66 | | | | |
 | **TYREK LANNISTER** | COK Ch. 25 | COK Ch. 25 | | | | |
@@ -659,7 +659,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **URZEN** | COK Ch. 37 | COK Ch. 66 | | | | |
 | **UTHERYDES WAYN** | COK Ch. 39 | COK Ch. 39 | | | | |
 | **VISERION** | GOT Ch. 72 | COK Ch. 40 | | | | |
-| **VYLARR** | COK Ch. 3 | Not verified | | | | |
+| **VYLARR** | COK Ch. 3 | COK Ch. 3 | | | | |
 | **WEASEL (ORPHAN GIRL)** | COK Ch. 9 | COK Ch. 19 | | | | |
 | **WEESE** | Not verified | Not verified | | | | |
 | **WENDEL MANDERLY** | COK Ch. 22 | Not verified | | | | |
@@ -670,6 +670,12 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 
 <a id="cok-mcm-06"></a>
 ## 6. Verification & Source Notes
+
+**External bulk source extraction — 13 Oct 2026:** Retrieved and decompressed the original published *Network of Thrones* research spreadsheet [02 A Clash Of Kings.xlsx](https://github.com/colm-connaughton/ASOIAF-data-and_codes/blob/master/data/1-source/02%20A%20Clash%20Of%20Kings.xlsx). Parsed **2,567 named/spacer source rows**, **70 numbered chapter delimiters including the Prologue**, and **644 distinct raw character-name labels**. This is a complete-book, chapter-indexed external name-reference candidate pool, **not** a certified enacted-presence register: its rows explicitly include characters discussed in memories, reports and dialogue. Blindly importing these raw counts would violate ROM MCM's direct-presence rule; for example, the source contains Ned and Robert in the COK Prologue as references. Use this bulk source to flag candidate missing chapters and names, then adjudicate the narrowed cases through [A Wiki of Ice and Fire's Appearing/Mentioned lists](https://awoiaf.westeros.org/index.php/Chapters) and enacted EPUB scenes. The prior compiled manual counts cannot be considered certified solely because they match or differ from this dataset.
+
+**Externally cross-checked positive-presence updates:** [COK Ch. 2 Appearing](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_2) places Shagga at Tyrion's arrival to Joffrey's nameday festivities, adding one chapter to Shagga's cumulative total. The same page establishes Timett's presence. [COK Ch. 3 Appearing](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_3) establishes Chella and Vylarr. [COK Ch. 7 Appearing](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_7) establishes Grey Wind. [COK Ch. 10 Appearing](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_10) establishes Ardrian Celtigar and Duram Bar Emmon. First/Latest coordinates were updated in Sections 2 and 5 without fabricating Tertiary counts.
+
+
 
 **Actual source coverage:** The COK EPUB has 70 chapter files, from Prologue (chapter index 0) through Bran VII (Ch. 69). Name occurrences were screened against context rather than treated as direct appearances. Wiki chapter pages' separate *Appearing* and *Mentioned* lists were used to distinguish novel-scene candidates from recollections (for example: [Prologue](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Prologue), [Ch. 2](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_2), [Ch. 7](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_7), [Ch. 11](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_11), [Ch. 16](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_16), [Ch. 22](https://awoiaf.westeros.org/index.php/A_Clash_of_Kings-Chapter_22)).
 
