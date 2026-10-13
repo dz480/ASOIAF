@@ -152,8 +152,8 @@ else:
             memberships[number] = (pov, report.name)
         if "**Full-book POV spoilers:**" not in content:
             fail(f"{report.name}: front-of-document spoiler notice absent.")
-        timeline = re.search(r'^# 2\\. Timeline\\s*\\n([\\s\\S]*?)(?=^# 3\\. Major Narrative Threads)', content, re.M)
-        overview = re.search(r'^# 4\\. Narrative Overview\\s*\\n([\\s\\S]*?)(?=^# 5\\. Roll Call)', content, re.M)
+        timeline = re.search(r'^# 2\. Timeline\s*\n([\s\S]*?)(?=^# 3\. Major Narrative Threads)', content, re.M)
+        overview = re.search(r'^# 4\. Narrative Overview\s*\n([\s\S]*?)(?=^# 5\. Roll Call)', content, re.M)
         if not timeline or f"(ROM_CSRM_AGOT.md#{entry_anchor})" not in timeline.group(1):
             fail(f"{report.name}: Timeline first-unit CSRM deep link is absent or wrong.")
         if not overview:
@@ -163,12 +163,12 @@ else:
                             if line.startswith("**CSRM chapters (publication order):**")), "")
             expected = ["(ROM_CSRM_AGOT.md#agot-prologue)"] if is_prologue else [
                 f"(ROM_CSRM_AGOT.md#agot-ch-{n})" for n in chapters]
-            actual = re.findall(r'\\(ROM_CSRM_AGOT\\.md#agot-(?:prologue|ch-\\d+)\\)', navline)
+            actual = re.findall(r'\(ROM_CSRM_AGOT\.md#agot-(?:prologue|ch-\d+)\)', navline)
             if actual != expected:
                 fail(f"{report.name}: Overview source-unit links do not match Scope order.")
         required_sections = ["Narrative Context", "Timeline", "Major Narrative Threads",
                              "Narrative Overview", "Roll Call", "Top Cinematic Scenes"]
-        section_names = re.findall(r'^# [1-6]\\. ([^\\n]+)$', content, re.M)
+        section_names = re.findall(r'^# [1-6]\. ([^\n]+)$', content, re.M)
         if section_names != required_sections:
             fail(f"{report.name}: six mandatory SROMX sections not in canonical order.")
         if len(re.findall(r'^---$', content, re.M)) != 6:
@@ -176,14 +176,14 @@ else:
         if len(TOC_RETURN.findall(content)) != 6:
             fail(f"{report.name}: expected six standardised section return controls.")
         census = re.search(
-            r'^\\*\\*Character entries:\\*\\*\\s*(\\d+)(?: Total)?\\s*(?:\\(|\\|)\\s*'
-            r'(\\d+) Principal\\s*\\|\\s*(\\d+) Supporting\\s*\\|\\s*'
-            r'(\\d+) Tertiary\\s*\\|\\s*(\\d+) Collective', content, re.M)
-        roll = re.search(r'^# 5\\. Roll Call\\s*\\n([\\s\\S]*?)(?=^# 6\\. Top Cinematic Scenes)', content, re.M)
+            r'^\*\*Character entries:\*\*\s*(\d+)(?: Total)?\s*(?:\(|\|)\s*'
+            r'(\d+) Principal\s*\|\s*(\d+) Supporting\s*\|\s*'
+            r'(\d+) Tertiary\s*\|\s*(\d+) Collective', content, re.M)
+        roll = re.search(r'^# 5\. Roll Call\s*\n([\s\S]*?)(?=^# 6\. Top Cinematic Scenes)', content, re.M)
         if not census or not roll:
             fail(f"{report.name}: Roll Call or census header missing.")
         else:
-            entries = re.findall(r'^\\|\\s*(🏅|🥈|\\d+)\\s*\\|\\s*\\*\\*[^*]+\\*\\*', roll.group(1), re.M)
+            entries = re.findall(r'^\|\s*(🏅|🥈|\d+)\s*\|\s*\*\*[^*]+\*\*', roll.group(1), re.M)
             if len(entries) != int(census.group(1)):
                 fail(f"{report.name}: census total differs from actual entries.")
             if entries.count("🏅") != int(census.group(2)) or entries.count("🥈") != int(census.group(3)):
@@ -199,7 +199,7 @@ else:
     if len(memberships) != 72:
         fail(f"Expected complete 72-chapter POV coverage, mapped {len(memberships)} chapters.")
     will_link = "[SROMX | Will | Full Book](SROMX_GOT_POV_WILL.md)"
-    prologue = re.search(r'^### Prologue \\(Will\\)\\s*\\n([\\s\\S]*?)(?=^---$|^<a id="agot-ch-1")', csrm, re.M)
+    prologue = re.search(r'^### Prologue \(Will\)\s*\n([\s\S]*?)(?=^---$|^<a id="agot-ch-1")', csrm, re.M)
     if not prologue or will_link not in prologue.group(1):
         fail("CSRM Prologue must link to Will's full-book SROMX.")
     for n in range(1, 73):
