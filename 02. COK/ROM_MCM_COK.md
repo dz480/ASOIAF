@@ -250,7 +250,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |---:|---|---|---|---|
 | 54 | **AMORY LORCH**, Lannister commander | ⇤ **COK Ch. 14**<br>⇥ **COK Ch. 47**<br>4 appearances | Leads attacks on Riverlands civilians and Yoren's band | 🗡 **Deceased**; killed in the Harrenhal fighting |
 | 55 | **JAQEN H'GHAR**, Mysterious prisoner and assassin | ⇤ **COK Ch. 1**<br>⇥ **COK Ch. 47**<br>7 appearances | Repays Arya's saving of his life with 3 deaths; changes his face | 🟢 **Alive**; departs Harrenhal under another identity |
-| 56 | **VARGO HOAT**, Captain of the Brave Companions | ⇤ **COK Ch. 47**<br>⇥ **COK Ch. 47**<br>2 appearances | Mercenary leader associated with Harrenhal | 🟢 **Alive**; active at Harrenhal |
+| 56 | **VARGO HOAT**, Captain of the Brave Companions | ⇤ **COK Ch. 30**<br>⇥ **COK Ch. 47**<br>2 appearances | Mercenary leader associated with Harrenhal | 🟢 **Alive**; active at Harrenhal |
 
 ### Tertiary Characters
 
@@ -497,7 +497,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **SHAE** | GOT Ch. 62 | COK Ch. 54 | 2 | 4 | 6 | COK Ch. 3, COK Ch. 29, COK Ch. 44, COK Ch. 54 |
 | **SHAGGA** | GOT Ch. 42 | COK Ch. 49 | 3 | 3 | 6 | COK Ch. 25, COK Ch. 41, COK Ch. 49 |
 | **TYWIN LANNISTER** | GOT Ch. 56 | COK Ch. 65 | 3 | 3 | 6 | COK Ch. 30, COK Ch. 38, COK Ch. 65 |
-| **VARGO HOAT** | COK Ch. 47 | COK Ch. 47 | 0 | 2 | 2 | COK Ch. 30, COK Ch. 47 |
+| **VARGO HOAT** | COK Ch. 30 | COK Ch. 47 | 0 | 2 | 2 | COK Ch. 30, COK Ch. 47 |
 | **VARYS** | GOT Ch. 18 | COK Ch. 67 | 13 | 12 | 25 | COK Ch. 3, COK Ch. 8, COK Ch. 15, COK Ch. 17, COK Ch. 25, COK Ch. 36, COK Ch. 41, COK Ch. 44, COK Ch. 49, COK Ch. 54, COK Ch. 65, COK Ch. 67 |
 | **XARO XHOAN DAXOS** | COK Ch. 27 | COK Ch. 63 | 0 | 3 | 3 | COK Ch. 27, COK Ch. 40, COK Ch. 63 |
 | **YGRITTE** | Not verified | COK Ch. 68 | 0 | 2 | 2 | COK Ch. 51, COK Ch. 68 |
@@ -658,6 +658,8 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 **Primary-text targeted corrections (13 Oct 2026):** Excluded mention-only COK chapter counts for Cersei (Ch. 29), Janos (Ch. 2), Sandor (Ch. 57), and Varys (Ch. 29); added enacted chapters for Bronn (Ch. 2, identifiable as the black-haired sellsword accompanying Tyrion), Shagga (Ch. 41), Podrick (Ch. 54 and 59), Meryn (Ch. 25 and 59), Vargo Hoat (Ch. 30) and Ramsay, physically encountered under the Reek disguise (Ch. 35). Verified the existing physical scenes for Luwin (Ch. 28), Rodrik (Ch. 35), Gregor (Ch. 38) and Bronn (Ch. 49) against the full primary text, overriding omissions in secondary chapter indexes. Other ambiguous fever/dream appearances remain subject to boundary adjudication.
 
 **Confirmed additional current-book enacted characters:** Added 28 source-traced named character records, including Daenerys's named dragons and bloodrider, Qhorin's ranging companions, Winterfell/ironborn participants, armourers, and guests in Renly's camp and the Blackwater victory court. Their first/latest coordinates are supported by witnessed scenes. Current-book Tertiary counts deliberately remain unverified where no priority promotion requires them.
+
+**First-appearance correction:** Vargo Hoat has enacted presence in COK Ch. 30, before his later involvement in Ch. 47; his series first-appearance field has been corrected without changing his two counted source-supported chapter appearances.
 
 **Remaining priority issues:** Fully reconcile all Principal/Supporting direct appearances and disputed aliases against every applicable source chapter; verify the completeness of the current-book named Tertiary inventory; audit the original MCM's provisional end-of-book deaths/conditions; verify earliest sufficient chapter and significance for 8 upper-tier promotions, and ensure no other historical backfill is required. Some first/latest appearance coordinates remain unverified. The provisional label must stay in force until these tests pass.
 
