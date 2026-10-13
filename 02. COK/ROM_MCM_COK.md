@@ -152,7 +152,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 | 30 | **DONTOS HOLLARD**, Knight at court | ⇤ **GOT Ch. 57**<br>⇥ **COK Ch. 65**<br>8 appearances | Participates in court festivities | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving in King's Landing |
 | 31 | **GENDRY**, Blacksmith's apprentice | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 64**<br>11 appearances | Travels through the war zone after leaving King's Landing. | 🟢 **Alive**; escapes Harrenhal with Arya |
 | 32 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **COK Ch. 25**<br>16 appearances | Exposed by Tyrion as Cersei's informant and temporarily removed from council. | 🟢 **Alive**; survives his imprisonment and court struggle |
-| 33 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 60**<br>7 appearances | Royal executioner; carries out Ned's beheading | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves **Joffrey** as royal executioner |
+| 33 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 65**<br>8 appearances | Royal executioner; carries out Ned's beheading | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves **Joffrey** as royal executioner |
 | 34 | **JACELYN BYWATER**, Commander of the City Watch | ⇤ **COK Ch. 8**<br>⇥ **COK Ch. 49**<br>5 appearances | Commander of the City Watch appointed by Tyrion. | 🗡 **Deceased**; falls in the Battle of the Blackwater |
 | 35 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 8**<br>7 appearances | His gold cloaks turn against Ned during the court confrontation | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; rewarded with high office and a lordship |
 | 36 | **LORAS TYRELL**, Knight of Flowers | ⇤ **GOT Ch. 29**<br>⇥ **COK Ch. 65**<br>5 appearances | Renly's favoured knight whose family's allegiance shifts after his death. | 🟢 **Alive**; participates in the victorious royal relief |
@@ -267,7 +267,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
 |  | **AENYS FREY**, Frey knight serving with Roose Bolton | ⇤ **COK Ch. 47**<br>⇥ **COK Ch. 47**<br>Not verified | Appears after the rescue of northern captives from Harrenhal | 🟢 **Alive**; with Roose Bolton's forces |
-|  | **AMABEL**, Goodwife at Harrenhal | ⇤ **COK Ch. 38**<br>⇥ **COK Ch. 38**<br>Not verified | Speaks to the household about Harren's ghost in Arya's hearing | 🟢 **Alive** at her last directly established appearance |
+|  | **AMABEL**, Goodwife at Harrenhal | ⇤ **COK Ch. 38**<br>⇥ **COK Ch. 64**<br>Not verified | Speaks to the household about Harren's ghost in Arya's hearing | 🟢 **Alive** at her last directly established appearance |
 |  | **BITER**, Violent criminal formerly held in a prison wagon | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Travels with Rorge and Jaqen after their release | 🟢 **Alive**; beyond Arya's company |
 |  | **CHISWYCK**, Soldier serving Gregor Clegane | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Boasts of cruelty during the Riverlands campaign | 🗡 **Deceased**; killed after Arya names him |
 |  | **CUTJACK**, Stonemason among Yoren's recruits | ⇤ **COK Ch. 5**<br>⇥ **COK Ch. 19**<br>Not verified | Travels with Arya's group, helps rescue refugees and survives the initial attack | 🟡 **Missing**; separates from Arya's group after Yoren's party is destroyed |
@@ -500,7 +500,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **GREATJON UMBER** | GOT Ch. 53 | COK Ch. 7 | 5 | 1 | 6 | COK Ch. 7 |
 | **GREGOR CLEGANE** | GOT Ch. 29 | COK Ch. 38 | 4 | 3 | 7 | COK Ch. 19, COK Ch. 26, COK Ch. 38 |
 | **HODOR** | GOT Ch. 24 | COK Ch. 69 | 2 | 5 | 7 | COK Ch. 16, COK Ch. 21, COK Ch. 28, COK Ch. 46, COK Ch. 69 |
-| **ILYN PAYNE** | GOT Ch. 15 | COK Ch. 60 | 4 | 3 | 7 | COK Ch. 25, COK Ch. 57, COK Ch. 60 |
+| **ILYN PAYNE** | GOT Ch. 15 | COK Ch. 65 | 4 | 4 | 8 | COK Ch. 25, COK Ch. 57, COK Ch. 60, COK Ch. 65 |
 | **JACELYN BYWATER** | COK Ch. 8 | COK Ch. 49 | 0 | 5 | 5 | COK Ch. 8, COK Ch. 20, COK Ch. 25, COK Ch. 41, COK Ch. 49 |
 | **JANOS SLYNT** | GOT Ch. 27 | COK Ch. 8 | 5 | 2 | 7 | COK Ch. 3, COK Ch. 8 |
 | **JAQEN H'GHAR** | COK Ch. 1 | COK Ch. 47 | 0 | 7 | 7 | COK Ch. 1, COK Ch. 5, COK Ch. 9, COK Ch. 14, COK Ch. 30, COK Ch. 38, COK Ch. 47 |
@@ -546,7 +546,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **ALEBELLY** | Not verified | Not verified | | | | |
 | **ALESANDER STAEDMON** | COK Ch. 65 | COK Ch. 65 | | | | |
 | **ALLARD SEAWORTH** | COK Ch. 10 | COK Ch. 58 | | | | |
-| **AMABEL** | COK Ch. 38 | COK Ch. 38 | | | | |
+| **AMABEL** | COK Ch. 38 | COK Ch. 64 | | | | |
 | **ARDRIAN CELTIGAR** | COK Prologue | COK Ch. 65 | | | | |
 | **ARON SANTAGAR** | Not verified | COK Ch. 41 | | | | |
 | **ARWYN OAKHEART** | COK Ch. 22 | COK Ch. 22 | | | | |
