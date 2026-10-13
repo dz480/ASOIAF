@@ -1,5 +1,7 @@
 # A Game of Thrones | George R. R. Martin | POV Catelyn Stark (Full Book)
 
+> **Full-book POV spoilers:** This reconstruction covers Catelyn's published POV chapters through **GOT Ch. 71**. It reveals developments from later chapters when opened early.
+
 **Scope:** **GOT Ch. 2, 6, 14, 18, 28, 34, 40, 55, 59, 63, 71** (Catelyn I–XI, in original publication order).  
 **Date:** **Long summer, ninth year**; precise in-universe dates are not established.  
 *Winterfell · White Harbor–King’s Landing sea route · King’s Landing · Crossroads Inn · Vale of Arryn · Moat Cailin · Twins · Whispering Wood · Riverrun*
@@ -43,6 +45,8 @@
 <a id="catelyn-timeline"></a>
 # 2. Timeline
 
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-2) · [Reading Index](README.md)
+
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
 | 1 | **Long summer, ninth year** | **THE NORTH**<br>• **Winterfell**<br>&nbsp;&nbsp;⤷ Godswood; Great Keep | **GOT Ch. 2, 6:** Catelyn reports Jon Arryn's death and Robert's impending visit; a secret letter from Lysa blames the Lannisters. Catelyn urges Ned to accept the Handship to discover the truth and protect the family. |
@@ -73,6 +77,8 @@
 
 <a id="catelyn-overview"></a>
 # 4. Narrative Overview
+
+**CSRM chapters (publication order):** [Ch. 2](ROM_CSRM_AGOT.md#agot-ch-2) · [Ch. 6](ROM_CSRM_AGOT.md#agot-ch-6) · [Ch. 14](ROM_CSRM_AGOT.md#agot-ch-14) · [Ch. 18](ROM_CSRM_AGOT.md#agot-ch-18) · [Ch. 28](ROM_CSRM_AGOT.md#agot-ch-28) · [Ch. 34](ROM_CSRM_AGOT.md#agot-ch-34) · [Ch. 40](ROM_CSRM_AGOT.md#agot-ch-40) · [Ch. 55](ROM_CSRM_AGOT.md#agot-ch-55) · [Ch. 59](ROM_CSRM_AGOT.md#agot-ch-59) · [Ch. 63](ROM_CSRM_AGOT.md#agot-ch-63) · [Ch. 71](ROM_CSRM_AGOT.md#agot-ch-71)
 
 In the **Winterfell** godswood, **Catelyn Stark** tells **Eddard** that **Jon Arryn** has died and **King Robert** is coming north. A hidden letter from her sister **Lysa** subsequently alleges that the Lannisters murdered Jon. Catelyn and **Maester Luwin** urge Ned to accept Robert’s offer of the Handship so he can investigate and protect his friend. Ned agrees to leave for **King’s Landing** with their daughters and Bran, while Catelyn remains to counsel **Robb**. Their family is already dividing when Bran falls from a tower and is left unconscious.
 

@@ -1,5 +1,7 @@
 # A Game of Thrones | George R. R. Martin | POV: Daenerys Targaryen (Full Book)
 
+> **Full-book POV spoilers:** This reconstruction covers Daenerys's published POV chapters through **GOT Ch. 72**. It reveals developments from later chapters when opened early.
+
 **Scope:** **GOT Ch. 3, 11, 23, 36, 46, 54, 61, 64, 68, 72** (Daenerys I–X; 10 POV chapters).  
 
 **22 Oct 297 AC → 23 Jan 299 AC**  
@@ -39,6 +41,8 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 <a id="daenerys-timeline"></a>
 # 2. Timeline
 
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-3) · [Reading Index](README.md)
+
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
 | 1 | **22 Oct 297 AC** | **PENTOS**<br>• **Illyrio's manse**<br>• **Drogo's manse** | **GOT Ch. 3:** **Viserys** presents **Daenerys** to **Khal Drogo**; **Illyrio** introduces the exiled **Jorah Mormont**. |
@@ -75,6 +79,8 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 
 <a id="daenerys-overview"></a>
 # 4. Narrative Overview
+
+**CSRM chapters (publication order):** [Ch. 3](ROM_CSRM_AGOT.md#agot-ch-3) · [Ch. 11](ROM_CSRM_AGOT.md#agot-ch-11) · [Ch. 23](ROM_CSRM_AGOT.md#agot-ch-23) · [Ch. 36](ROM_CSRM_AGOT.md#agot-ch-36) · [Ch. 46](ROM_CSRM_AGOT.md#agot-ch-46) · [Ch. 54](ROM_CSRM_AGOT.md#agot-ch-54) · [Ch. 61](ROM_CSRM_AGOT.md#agot-ch-61) · [Ch. 64](ROM_CSRM_AGOT.md#agot-ch-64) · [Ch. 68](ROM_CSRM_AGOT.md#agot-ch-68) · [Ch. 72](ROM_CSRM_AGOT.md#agot-ch-72)
 
 In **PENTOS**, **Daenerys Targaryen** lives under her brother **Viserys**'s control while their patron **Illyrio Mopatis** arranges her marriage to **Khal Drogo** in return for promised military support. **Jorah Mormont**, an exiled Westerosi knight, attends their introduction. At the wedding, Daenerys receives a silver mare, 3 dragon eggs and 3 handmaids. Travelling across the **DOTHRAKI SEA**, she learns riding from **Irri**, language from **Jhiqui** and intimate customs from **Doreah**. Her confidence and affection for Drogo grow; she defies Viserys, orders **Jhogo** to restrain him and realises she is pregnant.
 

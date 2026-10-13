@@ -1,5 +1,7 @@
 # A Game of Thrones | George R. R. Martin | POV: Eddard Stark (Full Book)
 
+> **Full-book POV spoilers:** This reconstruction covers Eddard's published POV chapters through **GOT Ch. 58**. It reveals developments from later chapters when opened early.
+
 **Scope:** **GOT Ch. 4, 12, 16, 20, 25, 27, 30, 33, 35, 39, 43, 45, 47, 49, 58** (Eddard I–XV).  
 **Source Words:** 53,935 · 15 POV chapters  
 **Chronology:** **18 Apr → 30 Dec 298 AC** (project chronology)  
@@ -40,6 +42,8 @@ The recent death of **Jon Arryn**, who fostered both men and subsequently served
 <a id="eddard-timeline"></a>
 # 2. Timeline
 
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-4) · [Reading Index](README.md)
+
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
 | 1 | **18 Apr 298 AC** | **THE NORTH**<br>• **Winterfell**<br>&nbsp;&nbsp;⤷ Castle crypts | **GOT Ch. 4:** **Robert** arrives, mourns **Lyanna Stark**, offers **Ned** the Handship and proposes the **Joffrey–Sansa** marriage. |
@@ -76,6 +80,8 @@ The recent death of **Jon Arryn**, who fostered both men and subsequently served
 
 <a id="eddard-overview"></a>
 # 4. Narrative Overview
+
+**CSRM chapters (publication order):** [Ch. 4](ROM_CSRM_AGOT.md#agot-ch-4) · [Ch. 12](ROM_CSRM_AGOT.md#agot-ch-12) · [Ch. 16](ROM_CSRM_AGOT.md#agot-ch-16) · [Ch. 20](ROM_CSRM_AGOT.md#agot-ch-20) · [Ch. 25](ROM_CSRM_AGOT.md#agot-ch-25) · [Ch. 27](ROM_CSRM_AGOT.md#agot-ch-27) · [Ch. 30](ROM_CSRM_AGOT.md#agot-ch-30) · [Ch. 33](ROM_CSRM_AGOT.md#agot-ch-33) · [Ch. 35](ROM_CSRM_AGOT.md#agot-ch-35) · [Ch. 39](ROM_CSRM_AGOT.md#agot-ch-39) · [Ch. 43](ROM_CSRM_AGOT.md#agot-ch-43) · [Ch. 45](ROM_CSRM_AGOT.md#agot-ch-45) · [Ch. 47](ROM_CSRM_AGOT.md#agot-ch-47) · [Ch. 49](ROM_CSRM_AGOT.md#agot-ch-49) · [Ch. 58](ROM_CSRM_AGOT.md#agot-ch-58)
 
 **Robert Baratheon** arrives at **WINTERFELL** with his royal entourage, and **Eddard Stark** accompanies his old friend into the family crypts to honour **Lyanna Stark**. Robert offers Ned the vacant Handship and proposes a marriage between **Joffrey** and **Sansa**. Reluctantly accepting, Ned leaves the North with his daughters. During the journey, Robert's hostility towards the surviving Targaryens exposes their longstanding disagreement over the killing of children. At **Darry**, a confrontation involving **Arya**, Joffrey and the butcher's boy **Mycah** ends with Mycah dead, Arya's direwolf **Nymeria** missing, and Ned forced to kill Sansa's innocent direwolf, **Lady**.
 

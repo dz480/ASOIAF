@@ -1,0 +1,24 @@
+name: ROM Navigation Validation
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+      - 'scripts/validate_rom_navigation.py'
+      - '.github/workflows/rom-navigation.yml'
+  pull_request:
+    paths:
+      - '**/*.md'
+      - 'scripts/validate_rom_navigation.py'
+      - '.github/workflows/rom-navigation.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check-links-and-scopes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate ROM repository navigation
+        run: python3 scripts/validate_rom_navigation.py

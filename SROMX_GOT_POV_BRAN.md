@@ -1,5 +1,7 @@
 # A Game of Thrones | George R. R. Martin | POV Bran Stark (Full Book)
 
+> **Full-book POV spoilers:** This reconstruction covers Bran's published POV chapters through **GOT Ch. 66**. It reveals developments from later chapters when opened early.
+
 **Scope:** **GOT Ch. 1, 8, 17, 24, 37, 53, 66** (Bran I–VII; seven non-consecutive POV chapters presented in published order).  
 **Chronology:** Long summer, ninth year; successive episodes from Bran's seventh year to the aftermath of Eddard's death.  
 *The North · Winterfell · Wolfswood*
@@ -33,6 +35,8 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 <a id="bran-timeline"></a>
 # 2. Timeline
 
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-1) · [Reading Index](README.md)
+
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
 | 1 | **Long summer, ninth year** | **THE NORTH**<br>• **Lands near Winterfell**<br>&nbsp;&nbsp;⤷ Holdfast and execution site | **GOT Ch. 1:** Bran witnesses his father's execution of a Night's Watch deserter. The party finds direwolf pups beside their dead mother on the return ride. |
@@ -56,6 +60,8 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 
 <a id="bran-overview"></a>
 # 4. Narrative Overview
+
+**CSRM chapters (publication order):** [Ch. 1](ROM_CSRM_AGOT.md#agot-ch-1) · [Ch. 8](ROM_CSRM_AGOT.md#agot-ch-8) · [Ch. 17](ROM_CSRM_AGOT.md#agot-ch-17) · [Ch. 24](ROM_CSRM_AGOT.md#agot-ch-24) · [Ch. 37](ROM_CSRM_AGOT.md#agot-ch-37) · [Ch. 53](ROM_CSRM_AGOT.md#agot-ch-53) · [Ch. 66](ROM_CSRM_AGOT.md#agot-ch-66)
 
 **Bran Stark's** story begins on a clear, cold morning when his father **Eddard** takes him to witness the execution of a deserter from the Night's Watch. Bran is old enough to join **Robb**, **Jon Snow** and the men on the ride, but the sight of death disturbs him. Eddard later explains that a ruler who passes judgment ought to wield the sword. On the journey home, the party discovers a dead direwolf with surviving pups. The children are allowed to keep them, and Bran comes to call his own wolf **Summer**. The episode places family obligation, mortality and the bond with the direwolves at the beginning of his personal narrative.
 

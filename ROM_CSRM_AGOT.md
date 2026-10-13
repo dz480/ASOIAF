@@ -1,5 +1,9 @@
 # ROM CSRM: A GAME OF THRONES (GOT) — WHOLE BOOK
 
+> **Full-book spoilers:** This chronology and recall index covers the Prologue and all **72 chapters** of *A Game of Thrones*. Chapter descriptions disclose the complete novel.
+
+**Navigation:** [Reading Index](README.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book character spoilers)
+
 ## Table of Contents
 
 - [Prologue (Will)](#prologue-will)
@@ -80,6 +84,7 @@
 
 ---
 
+<a id="agot-prologue"></a>
 ### Prologue (Will)
 
 **3 Jun 297 AC**  
@@ -90,7 +95,10 @@
 
 ---
 
+<a id="agot-ch-1"></a>
 ### GOT Ch. 1: Bran I
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **1 Mar 298 AC**  
 *Winterfell* · *Wolfswood*  
@@ -100,7 +108,10 @@
 
 ---
 
+<a id="agot-ch-2"></a>
 ### GOT Ch. 2: Catelyn I
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **1 Mar 298 AC**  
 *Winterfell*  
@@ -110,7 +121,10 @@
 
 ---
 
+<a id="agot-ch-3"></a>
 ### GOT Ch. 3: Daenerys I
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **22 Oct 297 AC**  
 *Pentos*  
@@ -120,7 +134,10 @@
 
 ---
 
+<a id="agot-ch-4"></a>
 ### GOT Ch. 4: Eddard I
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **18 Apr 298 AC**  
 *Winterfell*  
@@ -132,6 +149,7 @@
 
 ---
 
+<a id="agot-ch-5"></a>
 ### GOT Ch. 5: Jon I
 
 **18 Apr 298 AC**  
@@ -142,7 +160,10 @@ Excluded from the royal feast’s high table, **Jon** considers the **Night’s 
 
 ---
 
+<a id="agot-ch-6"></a>
 ### GOT Ch. 6: Catelyn II
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **23 Apr 298 AC**  
 *Winterfell*  
@@ -152,6 +173,7 @@ Excluded from the royal feast’s high table, **Jon** considers the **Night’s 
 
 ---
 
+<a id="agot-ch-7"></a>
 ### GOT Ch. 7: Arya I
 
 **24 Apr 298 AC**  
@@ -162,7 +184,10 @@ Excluded from the royal feast’s high table, **Jon** considers the **Night’s 
 
 ---
 
+<a id="agot-ch-8"></a>
 ### GOT Ch. 8: Bran II
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **8 May 298 AC**  
 *Winterfell*  
@@ -174,6 +199,7 @@ While climbing, **Bran** witnesses **Jaime** and **Cersei** together. Jaime shov
 
 ---
 
+<a id="agot-ch-9"></a>
 ### GOT Ch. 9: Tyrion I
 
 **13 May 298 AC**  
@@ -184,6 +210,7 @@ While climbing, **Bran** witnesses **Jaime** and **Cersei** together. Jaime shov
 
 ---
 
+<a id="agot-ch-10"></a>
 ### GOT Ch. 10: Jon II
 
 **20 May 298 AC**  
@@ -194,7 +221,10 @@ Before leaving for **the Wall**, **Jon** gives **Arya** a sword they name Needle
 
 ---
 
+<a id="agot-ch-11"></a>
 ### GOT Ch. 11: Daenerys II
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **21 Dec 297 AC**  
 *Pentos*  
@@ -204,7 +234,10 @@ Before leaving for **the Wall**, **Jon** gives **Arya** a sword they name Needle
 
 ---
 
+<a id="agot-ch-12"></a>
 ### GOT Ch. 12: Eddard II
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **10 Jun 298 AC**  
 *Barrowlands*  
@@ -216,6 +249,7 @@ Travelling south, **Ned** learns of **Daenerys**’s marriage to **Drogo**. **Ro
 
 ---
 
+<a id="agot-ch-13"></a>
 ### GOT Ch. 13: Tyrion II
 
 **7 Jun 298 AC**  
@@ -226,7 +260,10 @@ Accompanying the **Night’s Watch** north, **Tyrion** reflects on the harsh nor
 
 ---
 
+<a id="agot-ch-14"></a>
 ### GOT Ch. 14: Catelyn III
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **28 May–2 Jun 298 AC**  
 *Winterfell*  
@@ -236,6 +273,7 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-15"></a>
 ### GOT Ch. 15: Sansa I
 
 **23 Jul 298 AC**  
@@ -246,7 +284,10 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-16"></a>
 ### GOT Ch. 16: Eddard III
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **27 Jul 298 AC**  
 *Darry*  
@@ -258,7 +299,10 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-17"></a>
 ### GOT Ch. 17: Bran III
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **4 Aug 298 AC**  
 *Winterfell*  
@@ -268,7 +312,10 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-18"></a>
 ### GOT Ch. 18: Catelyn IV
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **6 Aug 298 AC**  
 *King’s Landing*  
@@ -278,6 +325,7 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-19"></a>
 ### GOT Ch. 19: Jon III
 
 **14 Aug 298 AC**  
@@ -288,7 +336,10 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-20"></a>
 ### GOT Ch. 20: Eddard IV
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **10 Aug 298 AC**  
 *King’s Landing*  
@@ -300,6 +351,7 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 ---
 
+<a id="agot-ch-21"></a>
 ### GOT Ch. 21: Tyrion III
 
 **15 Aug 298 AC**  
@@ -310,6 +362,7 @@ Preparing to leave, **Tyrion** discusses **the Wall**’s neglected defences wit
 
 ---
 
+<a id="agot-ch-22"></a>
 ### GOT Ch. 22: Arya II
 
 **16–20 Aug 298 AC**  
@@ -320,7 +373,10 @@ Preparing to leave, **Tyrion** discusses **the Wall**’s neglected defences wit
 
 ---
 
+<a id="agot-ch-23"></a>
 ### GOT Ch. 23: Daenerys III
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **26 Mar–10 May 298 AC**  
 *Dothraki Sea*  
@@ -330,7 +386,10 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-24"></a>
 ### GOT Ch. 24: Bran IV
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **22 Aug 298 AC**  
 *Winterfell*  
@@ -342,7 +401,10 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-25"></a>
 ### GOT Ch. 25: Eddard V
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **28 Aug 298 AC**  
 *King’s Landing*  
@@ -352,6 +414,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-26"></a>
 ### GOT Ch. 26: Jon IV
 
 **10 Sep 298 AC**  
@@ -362,7 +425,10 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-27"></a>
 ### GOT Ch. 27: Eddard VI
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **20 Sep 298 AC**  
 *King’s Landing*  
@@ -372,7 +438,10 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-28"></a>
 ### GOT Ch. 28: Catelyn V
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **13 Sep 298 AC**  
 *Inn at the Crossroads*  
@@ -384,6 +453,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-29"></a>
 ### GOT Ch. 29: Sansa II
 
 **22 Sep 298 AC**  
@@ -394,7 +464,10 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-30"></a>
 ### GOT Ch. 30: Eddard VII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **23 Sep 298 AC**  
 *King’s Landing*  
@@ -404,6 +477,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-31"></a>
 ### GOT Ch. 31: Tyrion IV
 
 **20 Sep 298 AC**  
@@ -414,6 +488,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 ---
 
+<a id="agot-ch-32"></a>
 ### GOT Ch. 32: Arya III
 
 **24 Sep 298 AC**  
@@ -426,7 +501,10 @@ While chasing cats, **Arya** overhears **Varys** and **Illyrio** discussing civi
 
 ---
 
+<a id="agot-ch-33"></a>
 ### GOT Ch. 33: Eddard VIII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **25 Sep 298 AC**  
 *King’s Landing*  
@@ -436,7 +514,10 @@ While chasing cats, **Arya** overhears **Varys** and **Illyrio** discussing civi
 
 ---
 
+<a id="agot-ch-34"></a>
 ### GOT Ch. 34: Catelyn VI
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **28–29 Sep 298 AC**  
 *Bloody Gate* · *The Eyrie*  
@@ -446,7 +527,10 @@ While chasing cats, **Arya** overhears **Varys** and **Illyrio** discussing civi
 
 ---
 
+<a id="agot-ch-35"></a>
 ### GOT Ch. 35: Eddard IX
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **25 Sep 298 AC**  
 *King’s Landing*  
@@ -456,7 +540,10 @@ Investigating one of **Robert**’s illegitimate children, **Ned** is ambushed b
 
 ---
 
+<a id="agot-ch-36"></a>
 ### GOT Ch. 36: Daenerys IV
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **9 Jun 298 AC**  
 *Vaes Dothrak*  
@@ -468,7 +555,10 @@ Investigating one of **Robert**’s illegitimate children, **Ned** is ambushed b
 
 ---
 
+<a id="agot-ch-37"></a>
 ### GOT Ch. 37: Bran V
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **18 Oct 298 AC**  
 *Wolfswood*  
@@ -478,6 +568,7 @@ On his new horse, **Bran** is seized by wildlings until **Robb** and **Theon** i
 
 ---
 
+<a id="agot-ch-38"></a>
 ### GOT Ch. 38: Tyrion V
 
 **15 Oct 298 AC**  
@@ -488,7 +579,10 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 
 ---
 
+<a id="agot-ch-39"></a>
 ### GOT Ch. 39: Eddard X
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **2 Oct 298 AC**  
 *King’s Landing*  
@@ -498,7 +592,10 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 
 ---
 
+<a id="agot-ch-40"></a>
 ### GOT Ch. 40: Catelyn VII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **16 Oct 298 AC**  
 *The Eyrie*  
@@ -510,6 +607,7 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 
 ---
 
+<a id="agot-ch-41"></a>
 ### GOT Ch. 41: Jon V
 
 **6 Nov 298 AC**  
@@ -520,6 +618,7 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 
 ---
 
+<a id="agot-ch-42"></a>
 ### GOT Ch. 42: Tyrion VI
 
 **17 Oct 298 AC**  
@@ -530,7 +629,10 @@ After leaving the Vale, **Tyrion** and **Bronn** negotiate with mountain clans, 
 
 ---
 
+<a id="agot-ch-43"></a>
 ### GOT Ch. 43: Eddard XI
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **5 Oct 298 AC**  
 *King’s Landing*  
@@ -540,6 +642,7 @@ Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** se
 
 ---
 
+<a id="agot-ch-44"></a>
 ### GOT Ch. 44: Sansa III
 
 **5–6 Oct 298 AC**  
@@ -552,7 +655,10 @@ Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** se
 
 ---
 
+<a id="agot-ch-45"></a>
 ### GOT Ch. 45: Eddard XII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **19 Oct 298 AC**  
 *King’s Landing*  
@@ -562,7 +668,10 @@ Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** se
 
 ---
 
+<a id="agot-ch-46"></a>
 ### GOT Ch. 46: Daenerys V
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **10 Nov 298 AC**  
 *Vaes Dothrak*  
@@ -572,7 +681,10 @@ Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** se
 
 ---
 
+<a id="agot-ch-47"></a>
 ### GOT Ch. 47: Eddard XIII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **23 Oct 298 AC**  
 *King’s Landing*  
@@ -582,6 +694,7 @@ With **Robert** dying, **Ned** alters the king’s final instructions to preserv
 
 ---
 
+<a id="agot-ch-48"></a>
 ### GOT Ch. 48: Jon VI
 
 **7 Nov 298 AC**  
@@ -594,7 +707,10 @@ With **Robert** dying, **Ned** alters the king’s final instructions to preserv
 
 ---
 
+<a id="agot-ch-49"></a>
 ### GOT Ch. 49: Eddard XIV
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **24 Oct 298 AC**  
 *King’s Landing*  
@@ -604,6 +720,7 @@ After **Robert**’s death, **Ned** attempts to assert his regency; the City Wat
 
 ---
 
+<a id="agot-ch-50"></a>
 ### GOT Ch. 50: Arya IV
 
 **24 Oct 298 AC**  
@@ -614,6 +731,7 @@ After **Robert**’s death, **Ned** attempts to assert his regency; the City Wat
 
 ---
 
+<a id="agot-ch-51"></a>
 ### GOT Ch. 51: Sansa IV
 
 **23–26 Oct 298 AC**  
@@ -624,6 +742,7 @@ Detained after **Ned**’s arrest, **Sansa** obeys **Cersei**’s request to wri
 
 ---
 
+<a id="agot-ch-52"></a>
 ### GOT Ch. 52: Jon VII
 
 **8 Nov 298 AC**  
@@ -636,7 +755,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-53"></a>
 ### GOT Ch. 53: Bran VI
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **7 Dec 298 AC**  
 *Winterfell*  
@@ -646,7 +768,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-54"></a>
 ### GOT Ch. 54: Daenerys VI
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **16 Dec 298 AC**  
 *Vaes Dothrak*  
@@ -656,7 +781,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-55"></a>
 ### GOT Ch. 55: Catelyn VIII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **25 Dec 298 AC**  
 *Moat Cailin*  
@@ -666,6 +794,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-56"></a>
 ### GOT Ch. 56: Tyrion VII
 
 **30 Dec 298 AC**  
@@ -678,6 +807,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-57"></a>
 ### GOT Ch. 57: Sansa V
 
 **23 Dec 298 AC**  
@@ -688,7 +818,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-58"></a>
 ### GOT Ch. 58: Eddard XV
+
+**POV reconstruction (full-book spoilers through GOT Ch. 58):** [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md)
 
 **30 Dec 298 AC**  
 *King’s Landing*  
@@ -698,7 +831,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-59"></a>
 ### GOT Ch. 59: Catelyn IX
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **2 Jan 299 AC**  
 *The Twins*  
@@ -708,6 +844,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-60"></a>
 ### GOT Ch. 60: Jon VIII
 
 **1 Jan 299 AC**  
@@ -720,7 +857,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-61"></a>
 ### GOT Ch. 61: Daenerys VII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **31 Dec 298 AC**  
 *Lhazareen Village*  
@@ -730,6 +870,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-62"></a>
 ### GOT Ch. 62: Tyrion VIII
 
 **5–6 Jan 299 AC**  
@@ -740,7 +881,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-63"></a>
 ### GOT Ch. 63: Catelyn X
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **9 Jan 299 AC**  
 *Whispering Wood*  
@@ -750,7 +894,10 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 ---
 
+<a id="agot-ch-64"></a>
 ### GOT Ch. 64: Daenerys VIII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **9 Jan 299 AC**  
 *Dothraki Sea*  
@@ -762,6 +909,7 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 ---
 
+<a id="agot-ch-65"></a>
 ### GOT Ch. 65: Arya V
 
 **10 Jan 299 AC**  
@@ -772,7 +920,10 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 ---
 
+<a id="agot-ch-66"></a>
 ### GOT Ch. 66: Bran VII
+
+**POV reconstruction (full-book spoilers through GOT Ch. 66):** [SROMX | Bran](SROMX_GOT_POV_BRAN.md)
 
 **24 Jan 299 AC**  
 *Winterfell*  
@@ -782,6 +933,7 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 ---
 
+<a id="agot-ch-67"></a>
 ### GOT Ch. 67: Sansa VI
 
 **15 Jan 299 AC**  
@@ -792,7 +944,10 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 ---
 
+<a id="agot-ch-68"></a>
 ### GOT Ch. 68: Daenerys IX
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **22 Jan 299 AC**  
 *Dothraki Sea*  
@@ -804,6 +959,7 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 ---
 
+<a id="agot-ch-69"></a>
 ### GOT Ch. 69: Tyrion IX
 
 **22 Jan 299 AC**  
@@ -814,6 +970,7 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 ---
 
+<a id="agot-ch-70"></a>
 ### GOT Ch. 70: Jon IX
 
 **26 Jan 299 AC**  
@@ -824,7 +981,10 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 
 ---
 
+<a id="agot-ch-71"></a>
 ### GOT Ch. 71: Catelyn XI
+
+**POV reconstruction (full-book spoilers through GOT Ch. 71):** [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md)
 
 **16 Jan 299 AC**  
 *Riverrun*  
@@ -834,7 +994,10 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 
 ---
 
+<a id="agot-ch-72"></a>
 ### GOT Ch. 72: Daenerys X
+
+**POV reconstruction (full-book spoilers through GOT Ch. 72):** [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md)
 
 **23 Jan 299 AC**  
 *Dothraki Sea*  
