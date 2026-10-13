@@ -1,6 +1,6 @@
 # A Game of Thrones | George R. R. Martin | POV: Jon Snow (Full Book)
 
-> **Full-book POV spoilers:** Jon Snow full-book selected POV coverage through GOT Ch. 70; the declared Spoiler Boundary applies.
+> **Full-book POV spoilers:** Complete Jon Snow POV scope through GOT Ch. 70. The stated spoiler boundary applies.
 
 **Scope:** **GOT Ch. 5, 10, 19, 26, 41, 48, 52, 60, 70** (Jon I–IX; 9 POV chapters).  
 
@@ -11,9 +11,9 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 70 (Jon IX)**. This composite Scope contains only Jon's 9 POV chapters.
 
-<a id="jon-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="jon-toc"></a>
 ## Table of Contents
 
 - [1. Narrative Context](#jon-context)
@@ -110,7 +110,7 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
-**Character entries:** 36 Total | 10 Principal | 6 Supporting | 19 Tertiary | 1 Collective | 4 Deaths
+**Character entries:** 36 Total | 10 Principal | 6 Supporting | 19 Tertiary | 1 Collective| 4 Deaths
 
 *Significance: 🏅 Principal · 🥈 Supporting · numbered Tertiary and Collective entries. Current Status follows each roster name in brackets. The Scope-local Death Count includes **Robert Baratheon**, **Eddard Stark**, **Othor** and **Jafer Flowers**; all die after the opening chapter, although Jon encounters their deaths only through reports or the recovered remains.*
 
@@ -225,11 +225,12 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 | 7 | **The Targaryen in the Rookery** | Jon, Maester Aemon, Clydas | **GOT Ch. 60:** Among caged ravens in **Castle Black**'s rookery, the blind **Aemon** speaks with Jon about loyalty and sacrifice. As birds clamour around them, he quietly discloses his own royal ancestry and leaves Jon alone with an impossible choice. |
 | 8 | **Catelyn at Bran's Bedside** | Jon, Catelyn Stark, Bran Stark, Ghost | **GOT Ch. 10:** In a still, warm room at **Winterfell**, **Catelyn** keeps vigil beside an unconscious **Bran**. Jon approaches to say farewell, carefully taking his brother's hand while the grieving mother resents his presence and delivers a devastating final remark. |
 
+<a id="jon-document-notes"></a>
+
 <p align="right"><a href="#jon-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
-<a id="jon-document-notes"></a>
 ## Appendix: Document Notes
 
 > **Primary source and POV selection — Applies to: Entire document:** Built 13 Oct 2026 from the supplied, unabridged *A Game of Thrones* EPUB. Physically enacted scenes in the requested Scope are drawn only from Jon I–IX. Appearance in another narrator's chapter does not independently confer POV-scene or Roll Call eligibility.
@@ -248,5 +249,4 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 > **Publication and formatting authority — Applies to: Entire document:** Canonical [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). GitHub-only TOC, return buttons and this archival appendix are retained in the canonical record and omitted from ordinary ChatGPT publication.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs book-wide character significance; [AGOT CSRM](ROM_CSRM_AGOT.md) governs chapter chronology. Formatting follows [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md). Selected POV scenes preserve source and spoiler boundaries.
