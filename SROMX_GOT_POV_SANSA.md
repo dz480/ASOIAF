@@ -7,7 +7,7 @@
 **23 Jul 298 AC → 15 Jan 299 AC**  
 *Ruby Ford · King's Landing · Tourney Grounds · Red Keep · Great Sept of Baelor (seen from the city)*
 
-**SANSA STARK** · **ARYA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **SANDOR CLEGANE** · **BARRISTAN SELMY** · **RENLY BARATHEON** · **ROBERT BARATHEON** · **JAIME LANNISTER** · **GREGOR CLEGANE** · **PETYR BAELISH** · **EDDARD STARK** · **VARYS** · **GRAND MAESTER PYCELLE** · **JORY CASSEL** · **ILYN PAYNE** · **JANOS SLYNT**
+**SANSA STARK** · **ARYA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **SANDOR CLEGANE** · **BARRISTAN SELMY** · **RENLY BARATHEON** · **ILYN PAYNE** · **ROBERT BARATHEON** · **JAIME LANNISTER** · **GREGOR CLEGANE** · **PETYR BAELISH** · **JORY CASSEL** · **EDDARD STARK** · **VARYS** · **GRAND MAESTER PYCELLE** · **JANOS SLYNT**
 
 **Spoiler Boundary:** End of **GOT Ch. 67 (Sansa VI)**. Only Sansa's 6 POV chapters are enacted Scope.
 
