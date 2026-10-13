@@ -47,24 +47,24 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 1 | **ARYA STARK**, Daughter of Eddard and Catelyn | ⇤ **GOT Ch. 5**<br>⇥ **COK Ch. 64**<br>23 appearances | Escapes from Harrenhal with companions after serving there under concealed identities. | 🟢 **Alive**; leaves Harrenhal with companions |
-| 2 | **BRAN STARK**, Second son of Eddard and Catelyn; heir at Winterfell during Robb's absence | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 69**<br>17 appearances | His wolf dreams and greenseer education develop amid the occupation and destruction of Winterfell. | 🟢 **Alive**; escapes the burning of Winterfell |
-| 3 | **CATELYN STARK**, Lady of Winterfell; née Tully | ⇤ **GOT Ch. 2**<br>⇥ **COK Ch. 55**<br>25 appearances | Counsels Renly's camp and Riverrun, then sends Jaime toward King's Landing with Brienne. | 🟢 **Alive**; at Riverrun following Jaime's release |
-| 4 | **ROBB STARK**, Heir and then Lord of Winterfell; King in the North | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 7**<br>14 appearances | Military successes widen the war while his mother pursues alliances. | 🟢 **Alive**; at war in the west |
-| 5 | **THEON GREYJOY**, Ironborn ward of House Stark | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 66**<br>19 appearances | Breaks from Robb, captures Winterfell and is betrayed by Ramsay's disguise. | 🟡 **Missing**; last seen at Winterfell amid Ramsay's betrayal |
+| 1 | **ARYA STARK**, Daughter of Eddard and Catelyn | ⇤ **GOT Ch. 5**<br>⇥ **COK Ch. 64**<br>23 appearances | Daughter of **Eddard** and **Catelyn**, sister of **Sansa**, Bran, Robb and Rickon, and close to Jon Snow. **Gendry** and Hot Pie are her travelling companions; **Jaqen H'ghar** owes her a debt. | 🟢 **Alive**; leaves Harrenhal with companions |
+| 2 | **BRAN STARK**, Second son of Eddard and Catelyn; heir at Winterfell during Robb's absence | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 69**<br>17 appearances | Son of **Eddard** and **Catelyn**, brother of Robb, Sansa, Arya and **Rickon**. **Hodor** carries him; **Maester Luwin**, **Jojen** and **Meera** guide and protect him. | 🟢 **Alive**; escapes the burning of Winterfell |
+| 3 | **CATELYN STARK**, Lady of Winterfell; née Tully | ⇤ **GOT Ch. 2**<br>⇥ **COK Ch. 55**<br>25 appearances | Widow of **Eddard**, mother of **Robb** and his siblings, and sister of **Edmure** and Lysa. **Brienne** swears service to her; she sends **Jaime** with Brienne as an exchange for her daughters. | 🟢 **Alive**; at Riverrun following Jaime's release |
+| 4 | **ROBB STARK**, Heir and then Lord of Winterfell; King in the North | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 7**<br>14 appearances | Eldest son of **Eddard** and **Catelyn**, brother of the Stark children and bonded to Grey Wind. Commands **Greatjon Umber**, **Rickard Karstark** and **Roose Bolton**; former friend **Theon** defects to the ironborn. | 🟢 **Alive**; at war in the west |
+| 5 | **THEON GREYJOY**, Ironborn ward of House Stark | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 66**<br>19 appearances | Son of **Balon**, brother of **Asha** and former ward of Eddard Stark. Raised alongside **Robb**; seeks his father's approval and relies on Dagmer and ironborn retainers. **Ramsay** deceives and betrays him. | 🟡 **Missing**; last seen at Winterfell amid Ramsay's betrayal |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 6 | **HODOR**, Stablehand and carer for Bran | ⇤ **GOT Ch. 8**<br>⇥ **COK Ch. 69**<br>8 appearances | Carries Bran to safety and continues as his companion. | 🟢 **Alive**; accompanies Bran and the Reed children |
-| 7 | **JOJEN REED**, Younger son of Howland Reed; greenseer | ⇤ **Not verified**<br>⇥ **COK Ch. 69**<br>5 appearances | Meera's brother; interprets dreams and counsels Bran | 🟢 **Alive**; flees ruined Winterfell with Bran's party |
-| 8 | **MAESTER LUWIN**, Maester of Winterfell | ⇤ **GOT Ch. 6**<br>⇥ **COK Ch. 69**<br>16 appearances | Continues advising Bran and later witnesses the castle's destruction. | 🪦 **Deceased**; dies after Winterfell's destruction |
-| 9 | **MEERA REED**, Daughter of Howland Reed | ⇤ **Not verified**<br>⇥ **COK Ch. 69**<br>5 appearances | Jojen's sister and skilled defender of Bran | 🟢 **Alive**; accompanies Bran beyond Winterfell |
-| 10 | **OSHA**, Wildling captive in Winterfell | ⇤ **GOT Ch. 37**<br>⇥ **COK Ch. 69**<br>9 appearances | Helps save the Stark boys by concealing them and dividing their escape routes. | 🟢 **Alive**; leaves Winterfell protecting Rickon |
-| 11 | **RAMSAY SNOW**, Roose Bolton's bastard son; disguised as Reek | ⇤ **COK Ch. 35**<br>⇥ **COK Ch. 66**<br>5 appearances | Manipulates Theon's desperate position at Winterfell | 🟢 **Alive**; reveals identity after taking Winterfell |
-| 12 | **RICKON STARK**, Youngest son of Eddard and Catelyn | ⇤ **GOT Ch. 5**<br>⇥ **COK Ch. 69**<br>7 appearances | Survives the sack after his presumed death is staged. | 🟢 **Alive**; flees Winterfell with Osha and Shaggydog |
-| 13 | **RODRIK CASSEL**, Master-at-arms of Winterfell | ⇤ **GOT Ch. 7**<br>⇥ **COK Ch. 66**<br>14 appearances | Attempts to retake the castle and protect its inhabitants. | 🗡 **Deceased**; killed outside Winterfell |
+| 6 | **HODOR**, Stablehand and carer for Bran | ⇤ **GOT Ch. 8**<br>⇥ **COK Ch. 69**<br>8 appearances | Winterfell retainer and devoted caretaker of **Bran**, whom he carries; travels with the Reed siblings and **Osha**. | 🟢 **Alive**; accompanies Bran and the Reed children |
+| 7 | **JOJEN REED**, Younger son of Howland Reed; greenseer | ⇤ **Not verified**<br>⇥ **COK Ch. 69**<br>5 appearances | Son of Howland Reed and brother of **Meera**; becomes **Bran**'s adviser and confidant concerning dreams. | 🟢 **Alive**; flees ruined Winterfell with Bran's party |
+| 8 | **MAESTER LUWIN**, Maester of Winterfell | ⇤ **GOT Ch. 6**<br>⇥ **COK Ch. 69**<br>16 appearances | Maester and adviser to the Stark household, especially **Bran**, Robb and Catelyn; attempts to protect them during **Theon**'s occupation. | 🪦 **Deceased**; dies after Winterfell's destruction |
+| 9 | **MEERA REED**, Daughter of Howland Reed | ⇤ **Not verified**<br>⇥ **COK Ch. 69**<br>5 appearances | Daughter of Howland Reed and sister of **Jojen**; befriends and protects **Bran**, working alongside Hodor. | 🟢 **Alive**; accompanies Bran beyond Winterfell |
+| 10 | **OSHA**, Wildling captive in Winterfell | ⇤ **GOT Ch. 37**<br>⇥ **COK Ch. 69**<br>9 appearances | Former wildling captive who becomes guardian to **Bran** and **Rickon**; cooperates with Maester Luwin and escapes with Rickon. | 🟢 **Alive**; leaves Winterfell protecting Rickon |
+| 11 | **RAMSAY SNOW**, Roose Bolton's bastard son; disguised as Reek | ⇤ **COK Ch. 35**<br>⇥ **COK Ch. 66**<br>5 appearances | Bastard son of **Roose Bolton**; assumes Reek's identity to gain **Theon**'s trust and eventually betrays him. | 🟢 **Alive**; reveals identity after taking Winterfell |
+| 12 | **RICKON STARK**, Youngest son of Eddard and Catelyn | ⇤ **GOT Ch. 5**<br>⇥ **COK Ch. 69**<br>7 appearances | Youngest child of **Eddard** and **Catelyn**, brother of **Bran** and the other Stark children; bonded to Shaggydog and protected by **Osha**. | 🟢 **Alive**; flees Winterfell with Osha and Shaggydog |
+| 13 | **RODRIK CASSEL**, Master-at-arms of Winterfell | ⇤ **GOT Ch. 7**<br>⇥ **COK Ch. 66**<br>14 appearances | Winterfell castellan, father of Beth Cassel and uncle of Jory; loyal to **Catelyn** and the Stark children, and opposed to **Theon**. | 🗡 **Deceased**; killed outside Winterfell |
 
 ### Tertiary Characters
 
@@ -104,9 +104,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 14 | **GREATJON UMBER**, Lord of Last Hearth | ⇤ **GOT Ch. 53**<br>⇥ **COK Ch. 7**<br>6 appearances | Northern bannerman of **Robb**; submits after confrontation involving Grey Wind; supports northern kingship | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; prominent in **Robb**'s army |
-| 15 | **RICKARD KARSTARK**, Lord of Karhold | ⇤ **GOT Ch. 53**<br>⇥ **COK Ch. 7**<br>5 appearances | One of Robb's prominent northern bannermen. | 🟢 **Alive**; continues serving the northern cause |
-| 16 | **ROOSE BOLTON**, Lord of the Dreadfort | ⇤ **GOT Ch. 55**<br>⇥ **COK Ch. 64**<br>4 appearances | Commands and manoeuvres in the Riverlands, while Ramsay pursues northern ambitions. | 🟢 **Alive**; remains commander of northern troops |
+| 14 | **GREATJON UMBER**, Lord of Last Hearth | ⇤ **GOT Ch. 53**<br>⇥ **COK Ch. 7**<br>6 appearances | Northern lord and bannerman of **Robb Stark**, whose authority he accepts after a confrontation involving Grey Wind. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; prominent in **Robb**'s army |
+| 15 | **RICKARD KARSTARK**, Lord of Karhold | ⇤ **GOT Ch. 53**<br>⇥ **COK Ch. 7**<br>5 appearances | Lord of Karhold, sworn bannerman of **Robb Stark** and father of Eddard and Torrhen Karstark. | 🟢 **Alive**; continues serving the northern cause |
+| 16 | **ROOSE BOLTON**, Lord of the Dreadfort | ⇤ **GOT Ch. 55**<br>⇥ **COK Ch. 64**<br>4 appearances | Northern lord serving **Robb Stark** and father of **Ramsay Snow**; cultivates Frey relationships while commanding Robb's troops. | 🟢 **Alive**; remains commander of northern troops |
 
 ### Tertiary Characters
 
@@ -122,18 +122,18 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 17 | **JON SNOW**, Stark-raised bastard; sworn brother of the Night's Watch | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 68**<br>21 appearances | Travels beyond the Wall on the ranging and makes a dangerous infiltration choice. | 🟢 **Alive**; joins free folk under Qhorin's covert instructions |
+| 17 | **JON SNOW**, Stark-raised bastard; sworn brother of the Night's Watch | ⇤ **GOT Ch. 1**<br>⇥ **COK Ch. 68**<br>21 appearances | Raised as **Eddard Stark**'s son; close to Arya and Robb, friend of **Samwell**, subordinate of **Jeor Mormont** and **Qhorin**, and drawn to **Ygritte**. | 🟢 **Alive**; joins free folk under Qhorin's covert instructions |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 18 | **ALLISER THORNE**, Master-at-arms at Castle Black | ⇤ **GOT Ch. 19**<br>⇥ **COK Ch. 25**<br>7 appearances | Antagonistic trainer of **Jon**, **Samwell** and other recruits | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving the Watch at Castle Black |
-| 19 | **CRASTER**, Wildling host and patriarch beyond the Wall | ⇤ **Not verified**<br>⇥ **COK Ch. 23**<br>1 appearances | Provides uneasy shelter to Mormont's ranging party | 🟢 **Alive**; at his keep |
-| 20 | **JEOR MORMONT**, Lord Commander of the Night's Watch | ⇤ **GOT Ch. 19**<br>⇥ **COK Ch. 43**<br>11 appearances | Leads the Great Ranging against growing threats beyond the Wall. | 🟢 **Alive**; commands Night's Watch rangers beyond the Wall |
-| 21 | **QHORIN HALFHAND**, Veteran ranger of the Night's Watch | ⇤ **COK Ch. 43**<br>⇥ **COK Ch. 68**<br>4 appearances | Leads Jon on a reconnaissance mission beyond the Wall | 🗡 **Deceased**; killed by Jon to preserve Jon's cover among the wildlings |
-| 22 | **SAMWELL TARLY**, Novice and then steward of the Night's Watch | ⇤ **GOT Ch. 26**<br>⇥ **COK Ch. 43**<br>11 appearances | Supports Jon and the rangers during their movement north. | 🟢 **Alive**; serving with the Great Ranging |
-| 23 | **YGRITTE**, Free folk spearwife | ⇤ **Not verified**<br>⇥ **COK Ch. 68**<br>2 appearances | Captured and released by Jon; later encounters him among wildlings | 🟢 **Alive**; with the free folk |
+| 18 | **ALLISER THORNE**, Master-at-arms at Castle Black | ⇤ **GOT Ch. 19**<br>⇥ **COK Ch. 25**<br>7 appearances | Night's Watch trainer antagonistic to **Jon Snow** and **Samwell Tarly**; serves under Lord Commander **Jeor Mormont**. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving the Watch at Castle Black |
+| 19 | **CRASTER**, Wildling host and patriarch beyond the Wall | ⇤ **Not verified**<br>⇥ **COK Ch. 23**<br>1 appearances | Wildling host in an uneasy arrangement with **Jeor Mormont**; father and husband to **Gilly**, who seeks protection from him through Samwell. | 🟢 **Alive**; at his keep |
+| 20 | **JEOR MORMONT**, Lord Commander of the Night's Watch | ⇤ **GOT Ch. 19**<br>⇥ **COK Ch. 43**<br>11 appearances | Lord Commander of the Night's Watch, father of **Jorah**, mentor and superior of **Jon Snow**, and commander of Samwell and Qhorin. | 🟢 **Alive**; commands Night's Watch rangers beyond the Wall |
+| 21 | **QHORIN HALFHAND**, Veteran ranger of the Night's Watch | ⇤ **COK Ch. 43**<br>⇥ **COK Ch. 68**<br>4 appearances | Senior Night's Watch ranger under **Jeor Mormont**; commander of **Jon Snow**, Stonesnake and their scouting party. | 🗡 **Deceased**; killed by Jon to preserve Jon's cover among the wildlings |
+| 22 | **SAMWELL TARLY**, Novice and then steward of the Night's Watch | ⇤ **GOT Ch. 26**<br>⇥ **COK Ch. 43**<br>11 appearances | Estranged son of Randyll Tarly and close friend of **Jon Snow**; subordinate of **Jeor Mormont** and protector of **Gilly**. | 🟢 **Alive**; serving with the Great Ranging |
+| 23 | **YGRITTE**, Free folk spearwife | ⇤ **Not verified**<br>⇥ **COK Ch. 68**<br>2 appearances | Wildling captured and released by **Jon Snow**; mutual attraction complicates his Night's Watch vows and her allegiance to the free folk. | 🟢 **Alive**; with the free folk |
 
 ### Tertiary Characters
 
@@ -166,30 +166,30 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 24 | **CERSEI LANNISTER**, Queen consort and then queen regent | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 67**<br>29 appearances | Power struggle with Tyrion and defence of Joffrey amid the siege. | 🟢 **Alive**; remains queen regent as Tywin takes control of King's Landing |
-| 25 | **JOFFREY BARATHEON**, Crown prince and then king | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 65**<br>20 appearances | Rules King's Landing harshly through a period of famine and war. | 🟢 **Alive**; remains king and receives new Tyrell betrothal |
-| 26 | **SANSA STARK**, Daughter of Eddard and Catelyn; former betrothed of Joffrey | ⇤ **GOT Ch. 5**<br>⇥ **COK Ch. 65**<br>24 appearances | Endures Joffrey's abuse, Ser Dontos's promises and the Blackwater siege. | 🟢 **Alive**; kept at King's Landing after her betrothal to Joffrey ends |
-| 27 | **STANNIS BARATHEON**, Lord of Dragonstone; Robert's brother | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>4 appearances | Claims the throne from Dragonstone, draws on Melisandre and besieges Storm's End and King's Landing. | 🟢 **Alive**; survives defeat on the Blackwater |
+| 24 | **CERSEI LANNISTER**, Queen consort and then queen regent | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 67**<br>29 appearances | Daughter of **Tywin**, twin and lover of **Jaime**, sister and rival of **Tyrion**, and mother of **Joffrey**, Myrcella and Tommen. | 🟢 **Alive**; remains queen regent as Tywin takes control of King's Landing |
+| 25 | **JOFFREY BARATHEON**, Crown prince and then king | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 65**<br>20 appearances | Son of **Cersei** and Jaime, publicly Robert's son; brother of Myrcella and Tommen. Abusive former betrothed of **Sansa** and prospective husband of **Margaery**. | 🟢 **Alive**; remains king and receives new Tyrell betrothal |
+| 26 | **SANSA STARK**, Daughter of Eddard and Catelyn; former betrothed of Joffrey | ⇤ **GOT Ch. 5**<br>⇥ **COK Ch. 65**<br>24 appearances | Daughter of **Eddard** and **Catelyn** and sister of Arya; former betrothed and hostage of **Joffrey**. **Dontos** secretly assists her; **Sandor** sometimes protects her. | 🟢 **Alive**; kept at King's Landing after her betrothal to Joffrey ends |
+| 27 | **STANNIS BARATHEON**, Lord of Dragonstone; Robert's brother | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>4 appearances | Brother of **Robert** and **Renly**, husband of **Selyse** and father of Shireen. Advised by **Davos** and **Melisandre**; rival claimant to Joffrey. | 🟢 **Alive**; survives defeat on the Blackwater |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 28 | **ARYS OAKHEART**, Kingsguard knight | ⇤ **GOT Ch. 43**<br>⇥ **COK Ch. 41**<br>5 appearances | Attends royal court | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at King's Landing |
-| 29 | **BARRISTAN SELMY**, Lord Commander of the Kingsguard, later dismissed | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 63**<br>9 appearances | Appears at COK's close under a concealed identity. | 🟢 **Alive**; reaches Daenerys in disguise as Arstan Whitebeard |
-| 30 | **DONTOS HOLLARD**, Knight at court | ⇤ **GOT Ch. 57**<br>⇥ **COK Ch. 65**<br>8 appearances | Participates in court festivities | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving in King's Landing |
-| 31 | **GENDRY**, Blacksmith's apprentice | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 64**<br>9 appearances | Travels through the war zone after leaving King's Landing. | 🟢 **Alive**; escapes Harrenhal with Arya |
-| 32 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **COK Ch. 25**<br>16 appearances | Exposed by Tyrion as Cersei's informant and temporarily removed from council. | 🟢 **Alive**; survives his imprisonment and court struggle |
-| 33 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 65**<br>7 appearances | Royal executioner; carries out Ned's beheading | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves **Joffrey** as royal executioner |
-| 34 | **JACELYN BYWATER**, Commander of the City Watch | ⇤ **COK Ch. 8**<br>⇥ **COK Ch. 49**<br>5 appearances | Commander of the City Watch appointed by Tyrion. | 🗡 **Deceased**; falls in the Battle of the Blackwater |
-| 35 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 8**<br>6 appearances | His gold cloaks turn against Ned during the court confrontation | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; rewarded with high office and a lordship |
-| 36 | **LORAS TYRELL**, Knight of Flowers | ⇤ **GOT Ch. 29**<br>⇥ **COK Ch. 65**<br>6 appearances | Renly's favoured knight whose family's allegiance shifts after his death. | 🟢 **Alive**; participates in the victorious royal relief |
-| 37 | **MERYN TRANT**, Kingsguard knight | ⇤ **GOT Ch. 12**<br>⇥ **COK Ch. 65**<br>14 appearances | Attempts to seize **Arya**; confronts Syrio Forel | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving **Joffrey**'s Kingsguard |
-| 38 | **PETYR BAELISH**, Master of coin; called Littlefinger | ⇤ **GOT Ch. 18**<br>⇥ **COK Ch. 67**<br>23 appearances | Operates at a distance from the capital for part of COK. | 🟢 **Alive**; brokers an alliance involving the Tyrells |
-| 39 | **PODRICK PAYNE**, Squire to Tyrion | ⇤ **GOT Ch. 62**<br>⇥ **COK Ch. 67**<br>9 appearances | Assists Tyrion and protects him during the Blackwater fighting | 🟢 **Alive**; remains in Tyrion's service |
-| 40 | **RENLY BARATHEON**, Lord of Storm's End; royal councillor | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 33**<br>11 appearances | Rallies the Reach and Stormlands before his murder splits the coalition. | 🗡 **Deceased**; dies at Storm's End |
-| 41 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 62**<br>19 appearances | Defends the Lannister court but suffers severe trauma from wildfire and flees. | 🟢 **Alive**; deserts Joffrey's service during the Blackwater battle |
-| 42 | **VARYS**, Master of whisperers | ⇤ **GOT Ch. 18**<br>⇥ **COK Ch. 67**<br>25 appearances | Trades information with Tyrion and manoeuvres across rival courts. | 🟢 **Alive**; remains at the capital after Tywin's arrival |
+| 28 | **ARYS OAKHEART**, Kingsguard knight | ⇤ **GOT Ch. 43**<br>⇥ **COK Ch. 41**<br>5 appearances | Kingsguard sworn to protect **Joffrey** and the royal household; occasionally shows courtesy towards **Sansa**. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at King's Landing |
+| 29 | **BARRISTAN SELMY**, Lord Commander of the Kingsguard, later dismissed | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 63**<br>9 appearances | Former Lord Commander of **Robert** and **Joffrey**'s Kingsguard; dismissed from court and later attached to **Daenerys** as Arstan Whitebeard. | 🟢 **Alive**; reaches Daenerys in disguise as Arstan Whitebeard |
+| 30 | **DONTOS HOLLARD**, Knight at court | ⇤ **GOT Ch. 57**<br>⇥ **COK Ch. 65**<br>8 appearances | Disgraced knight whose life **Sansa** saves; becomes her secret confidant and offers to help her escape. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving in King's Landing |
+| 31 | **GENDRY**, Blacksmith's apprentice | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 64**<br>9 appearances | Unacknowledged son of **Robert Baratheon** and former apprentice of Tobho Mott; develops a strong companionship with **Arya** and Hot Pie. | 🟢 **Alive**; escapes Harrenhal with Arya |
+| 32 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **COK Ch. 25**<br>16 appearances | Royal maester allied with **Tywin** and **Cersei Lannister**; opposed by **Tyrion** after exposing his reports to Cersei. | 🟢 **Alive**; survives his imprisonment and court struggle |
+| 33 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 65**<br>7 appearances | Royal executioner serving **Joffrey**; killed **Eddard Stark** and intimidates **Sansa**. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves **Joffrey** as royal executioner |
+| 34 | **JACELYN BYWATER**, Commander of the City Watch | ⇤ **COK Ch. 8**<br>⇥ **COK Ch. 49**<br>5 appearances | Commander of the King's Landing City Watch appointed by **Tyrion** to replace **Janos Slynt**; owes his authority to Tyrion. | 🗡 **Deceased**; falls in the Battle of the Blackwater |
+| 35 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **COK Ch. 8**<br>6 appearances | Former commander of the Gold Cloaks rewarded by **Cersei** and **Joffrey**, then dismissed and exiled by **Tyrion**. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; rewarded with high office and a lordship |
+| 36 | **LORAS TYRELL**, Knight of Flowers | ⇤ **GOT Ch. 29**<br>⇥ **COK Ch. 65**<br>6 appearances | Son of **Mace**, brother of **Margaery**, and beloved companion and champion of **Renly Baratheon**; allied to the Tyrell household. | 🟢 **Alive**; participates in the victorious royal relief |
+| 37 | **MERYN TRANT**, Kingsguard knight | ⇤ **GOT Ch. 12**<br>⇥ **COK Ch. 65**<br>14 appearances | Kingsguard serving **Joffrey**, enforcing his orders against **Sansa** and formerly opposing Syrio Forel in the attempt to seize Arya. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving **Joffrey**'s Kingsguard |
+| 38 | **PETYR BAELISH**, Master of coin; called Littlefinger | ⇤ **GOT Ch. 18**<br>⇥ **COK Ch. 67**<br>23 appearances | Childhood acquaintance of **Catelyn** and Lysa, political broker allied at times with **Cersei**, **Tyrion** and **Tywin**; negotiates with the Tyrells. | 🟢 **Alive**; brokers an alliance involving the Tyrells |
+| 39 | **PODRICK PAYNE**, Squire to Tyrion | ⇤ **GOT Ch. 62**<br>⇥ **COK Ch. 67**<br>9 appearances | Young squire personally serving **Tyrion Lannister**, who protects him during the Blackwater; distant kinsman of Ilyn Payne. | 🟢 **Alive**; remains in Tyrion's service |
+| 40 | **RENLY BARATHEON**, Lord of Storm's End; royal councillor | ⇤ **GOT Ch. 15**<br>⇥ **COK Ch. 33**<br>11 appearances | Younger brother of **Robert** and **Stannis**, husband of **Margaery**, beloved companion of **Loras**, and claimant backed by Mace Tyrell and **Brienne**. | 🗡 **Deceased**; dies at Storm's End |
+| 41 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 62**<br>19 appearances | Younger brother and bitter adversary of **Gregor**; serves **Joffrey** but develops a troubled, protective connection with **Sansa**. | 🟢 **Alive**; deserts Joffrey's service during the Blackwater battle |
+| 42 | **VARYS**, Master of whisperers | ⇤ **GOT Ch. 18**<br>⇥ **COK Ch. 67**<br>25 appearances | Royal spymaster and secretive adviser to **Tyrion** and the small council; trades information with **Cersei** and Littlefinger while concealing his loyalties. | 🟢 **Alive**; remains at the capital after Tywin's arrival |
 
 ### Tertiary Characters
 
@@ -233,17 +233,17 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 43 | **JAIME LANNISTER**, Knight of the Kingsguard; son of Tywin | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 55**<br>9 appearances | Remains a captive until Catelyn secretly engineers his departure. | 🟢 **Alive**; departs Riverrun with Brienne and Cleos |
-| 44 | **TYRION LANNISTER**, Son of Tywin; brother of Jaime and Cersei | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 67**<br>34 appearances | Acts as Hand, reshapes court security and oversees the city's defence. | 🟢 **Alive**; wounded after the Blackwater |
+| 43 | **JAIME LANNISTER**, Knight of the Kingsguard; son of Tywin | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 55**<br>9 appearances | Twin and lover of **Cersei**, brother of **Tyrion** and son of **Tywin**; captive of **Robb** and **Catelyn**, then entrusted to **Brienne**. | 🟢 **Alive**; departs Riverrun with Brienne and Cleos |
+| 44 | **TYRION LANNISTER**, Son of Tywin; brother of Jaime and Cersei | ⇤ **GOT Ch. 4**<br>⇥ **COK Ch. 67**<br>34 appearances | Son of **Tywin**, brother of **Jaime** and **Cersei**, lover of **Shae** and patron of **Bronn**; allied to Varys while competing for power with Joffrey and Cersei. | 🟢 **Alive**; wounded after the Blackwater |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 45 | **GREGOR CLEGANE**, Knight called the Mountain | ⇤ **GOT Ch. 29**<br>⇥ **COK Ch. 38**<br>8 appearances | Brother of Sandor; leads brutal raids for Lannister forces | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commands Lannister soldiers in the Riverlands |
-| 46 | **LANCEL LANNISTER**, Lannister cousin and royal squire | ⇤ **GOT Ch. 30**<br>⇥ **COK Ch. 65**<br>9 appearances | Attends King **Robert** and serves royal household | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves at King's Landing |
-| 47 | **SHAE**, Camp follower | ⇤ **GOT Ch. 62**<br>⇥ **COK Ch. 57**<br>7 appearances | Maintains a clandestine relationship with Tyrion despite Cersei's attention. | 🟢 **Alive**; survives events in King's Landing |
-| 48 | **TYWIN LANNISTER**, Lord of Casterly Rock; commander of western army | ⇤ **GOT Ch. 56**<br>⇥ **COK Ch. 67**<br>7 appearances | Takes command after the Blackwater and replaces Tyrion as Hand. | 🟢 **Alive**; arrives in King's Landing as the victorious commander |
+| 45 | **GREGOR CLEGANE**, Knight called the Mountain | ⇤ **GOT Ch. 29**<br>⇥ **COK Ch. 38**<br>8 appearances | Elder brother and tormentor of **Sandor**; brutal commander in **Tywin**'s service and enemy of Riverlands civilians and the Stark cause. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commands Lannister soldiers in the Riverlands |
+| 46 | **LANCEL LANNISTER**, Lannister cousin and royal squire | ⇤ **GOT Ch. 30**<br>⇥ **COK Ch. 65**<br>9 appearances | Cousin of **Cersei**, **Jaime** and **Tyrion**; intimate with Cersei and coerced by Tyrion into informing on her. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serves at King's Landing |
+| 47 | **SHAE**, Camp follower | ⇤ **GOT Ch. 62**<br>⇥ **COK Ch. 57**<br>7 appearances | **Tyrion**'s secret lover, assisted by **Bronn**; threatened by **Cersei**'s attempts to influence Tyrion through those close to him. | 🟢 **Alive**; survives events in King's Landing |
+| 48 | **TYWIN LANNISTER**, Lord of Casterly Rock; commander of western army | ⇤ **GOT Ch. 56**<br>⇥ **COK Ch. 67**<br>7 appearances | Father of **Cersei**, **Jaime** and **Tyrion**, brother of Kevan and patron of Gregor Clegane; negotiates an alliance with **Mace Tyrell**. | 🟢 **Alive**; arrives in King's Landing as the victorious commander |
 
 ### Tertiary Characters
 
@@ -263,11 +263,11 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 49 | **BRONN**, Sellsword | ⇤ **GOT Ch. 31**<br>⇥ **COK Ch. 49**<br>20 appearances | Serves Tyrion as trusted sellsword and city military asset. | 🟢 **Alive**; survives the Blackwater and remains connected to Tyrion |
-| 50 | **BRYNDEN TULLY**, Blackfish; knight of House Tully | ⇤ **GOT Ch. 34**<br>⇥ **COK Ch. 7**<br>8 appearances | Uncle of **Catelyn** and **Lysa**; leaves Vale to aid **Robb**'s campaign | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commanding scouts for **Robb** |
-| 51 | **CLEOS FREY**, Frey knight and Lannister relation | ⇤ **COK Ch. 7**<br>⇥ **COK Ch. 45**<br>4 appearances | Acts as an envoy and prisoner escort | 🟢 **Alive**; travels with Brienne and Jaime |
-| 52 | **EDMURE TULLY**, Heir of Riverrun | ⇤ **GOT Ch. 71**<br>⇥ **COK Ch. 45**<br>4 appearances | Brother of **Catelyn** and **Lysa**; son of Hoster; defends the Riverlands | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; engaged in war and defence of Riverrun |
-| 53 | **SHAGGA**, Chief of Stone Crows among the mountain clans | ⇤ **GOT Ch. 42**<br>⇥ **COK Ch. 49**<br>7 appearances | Takes **Tyrion**'s promised rewards and joins his armed following | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving alongside **Tyrion** during Lannister campaign |
+| 49 | **BRONN**, Sellsword | ⇤ **GOT Ch. 31**<br>⇥ **COK Ch. 49**<br>20 appearances | Sellsword and trusted enforcer of **Tyrion**, with a practical loyalty based on reward; helps arrange his meetings with **Shae**. | 🟢 **Alive**; survives the Blackwater and remains connected to Tyrion |
+| 50 | **BRYNDEN TULLY**, Blackfish; knight of House Tully | ⇤ **GOT Ch. 34**<br>⇥ **COK Ch. 7**<br>8 appearances | Uncle of **Catelyn**, **Edmure** and Lysa; adviser and ally of **Robb Stark** and the Tully forces. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; commanding scouts for **Robb** |
+| 51 | **CLEOS FREY**, Frey knight and Lannister relation | ⇤ **COK Ch. 7**<br>⇥ **COK Ch. 45**<br>4 appearances | Frey knight with Lannister kinship ties, serving as intermediary between **Robb**, **Catelyn** and captive **Jaime**. | 🟢 **Alive**; travels with Brienne and Jaime |
+| 52 | **EDMURE TULLY**, Heir of Riverrun | ⇤ **GOT Ch. 71**<br>⇥ **COK Ch. 45**<br>4 appearances | Son of **Hoster**, brother of **Catelyn** and Lysa, nephew of **Brynden**; military ally of Robb and lordly protector of his people. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; engaged in war and defence of Riverrun |
+| 53 | **SHAGGA**, Chief of Stone Crows among the mountain clans | ⇤ **GOT Ch. 42**<br>⇥ **COK Ch. 49**<br>7 appearances | Chief of the Stone Crows, allied to **Tyrion** by promises of reward; commands clansmen serving Tyrion. | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; serving alongside **Tyrion** during Lannister campaign |
 
 ### Tertiary Characters
 
@@ -290,9 +290,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 54 | **AMORY LORCH**, Lannister commander | ⇤ **COK Ch. 14**<br>⇥ **COK Ch. 47**<br>3 appearances | Leads attacks on Riverlands civilians and Yoren's band | 🗡 **Deceased**; killed in the Harrenhal fighting |
-| 55 | **JAQEN H'GHAR**, Mysterious prisoner and assassin | ⇤ **COK Ch. 1**<br>⇥ **COK Ch. 47**<br>7 appearances | Repays Arya's saving of his life with 3 deaths; changes his face | 🟢 **Alive**; departs Harrenhal under another identity |
-| 56 | **VARGO HOAT**, Captain of the Brave Companions | ⇤ **COK Ch. 30**<br>⇥ **COK Ch. 47**<br>2 appearances | Mercenary leader associated with Harrenhal | 🟢 **Alive**; active at Harrenhal |
+| 54 | **AMORY LORCH**, Lannister commander | ⇤ **COK Ch. 14**<br>⇥ **COK Ch. 47**<br>3 appearances | Lannister commander under **Tywin**, enemy of **Yoren**'s recruits and **Arya**'s companions. | 🗡 **Deceased**; killed in the Harrenhal fighting |
+| 55 | **JAQEN H'GHAR**, Mysterious prisoner and assassin | ⇤ **COK Ch. 1**<br>⇥ **COK Ch. 47**<br>7 appearances | Mysterious prisoner saved by **Arya**; repays her with three deaths. Former fellow prisoner of Rorge and Biter. | 🟢 **Alive**; departs Harrenhal under another identity |
+| 56 | **VARGO HOAT**, Captain of the Brave Companions | ⇤ **COK Ch. 30**<br>⇥ **COK Ch. 47**<br>2 appearances | Captain of the Brave Companions, initially serving **Tywin**'s cause and later aligned with **Roose Bolton** at Harrenhal. | 🟢 **Alive**; active at Harrenhal |
 
 ### Tertiary Characters
 
@@ -336,17 +336,17 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 57 | **DAVOS SEAWORTH**, Former smuggler, Stannis's knight and naval adviser | ⇤ **COK Prologue**<br>⇥ **COK Ch. 58**<br>4 appearances | Loyal to Stannis despite doubts about Melisandre and the war | 🟡 **Missing**; swept into danger at the Blackwater |
+| 57 | **DAVOS SEAWORTH**, Former smuggler, Stannis's knight and naval adviser | ⇤ **COK Prologue**<br>⇥ **COK Ch. 58**<br>4 appearances | Husband of Marya and father of Devan, Dale and other sons; knight and devoted adviser of **Stannis**, skeptical of **Melisandre**. | 🟡 **Missing**; swept into danger at the Blackwater |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 58 | **CORTNAY PENROSE**, Castellan of Storm's End | ⇤ **Not verified**<br>⇥ **COK Ch. 42**<br>1 appearance | Defends Storm's End in support of Edric Storm against Stannis | 🗡 **Deceased**; killed after refusing Stannis's demands |
-| 59 | **MAESTER CRESSEN**, Maester of Dragonstone | ⇤ **COK Prologue**<br>⇥ **COK Prologue**<br>1 appearance | Longtime servant and adviser to Stannis; formerly guided the Baratheon children | 🪦 **Deceased**; poisoned himself in the Prologue |
-| 60 | **MELISANDRE**, Red priestess from Asshai | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>4 appearances | Influences Stannis through prophecy, ritual and belief in R'hllor | 🟢 **Alive**; remains central to Stannis's religious campaign |
-| 61 | **SALLADHOR SAAN**, Lysene privateer and fleet commander | ⇤ **COK Prologue**<br>⇥ **COK Ch. 10**<br>2 appearances | Supports Stannis's maritime campaign and converses with Davos | 🟢 **Alive**; commands ships in the war |
-| 62 | **SELYSE FLORENT**, Lady of Dragonstone; wife of Stannis | ⇤ **COK Prologue**<br>⇥ **COK Ch. 10**<br>2 appearances | Devout supporter of Melisandre and mother of Shireen | 🟢 **Alive**; associated with the Dragonstone court |
+| 58 | **CORTNAY PENROSE**, Castellan of Storm's End | ⇤ **Not verified**<br>⇥ **COK Ch. 42**<br>1 appearance | Castellan loyal to **Renly**'s household and protector of Edric Storm; defies **Stannis**'s siege. | 🗡 **Deceased**; killed after refusing Stannis's demands |
+| 59 | **MAESTER CRESSEN**, Maester of Dragonstone | ⇤ **COK Prologue**<br>⇥ **COK Prologue**<br>1 appearance | Elder maester and paternal mentor to **Stannis**, **Renly** and Robert; loyal to Shireen and distrustful of **Melisandre**. | 🪦 **Deceased**; poisoned himself in the Prologue |
+| 60 | **MELISANDRE**, Red priestess from Asshai | ⇤ **COK Prologue**<br>⇥ **COK Ch. 42**<br>4 appearances | Red priestess and religious confidante of **Stannis**, supported by **Selyse** and distrusted by **Davos** and Cressen. | 🟢 **Alive**; remains central to Stannis's religious campaign |
+| 61 | **SALLADHOR SAAN**, Lysene privateer and fleet commander | ⇤ **COK Prologue**<br>⇥ **COK Ch. 10**<br>2 appearances | Lysene privateer and contracted naval ally of **Stannis**; old friend of **Davos Seaworth**. | 🟢 **Alive**; commands ships in the war |
+| 62 | **SELYSE FLORENT**, Lady of Dragonstone; wife of Stannis | ⇤ **COK Prologue**<br>⇥ **COK Ch. 10**<br>2 appearances | Wife of **Stannis**, mother of Shireen and supporter of **Melisandre**, whose counsel she promotes. | 🟢 **Alive**; associated with the Dragonstone court |
 
 ### Tertiary Characters
 
@@ -372,8 +372,8 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 63 | **BRIENNE OF TARTH**, Knightly warrior and former member of Renly's Rainbow Guard | ⇤ **Not verified**<br>⇥ **COK Ch. 55**<br>6 appearances | Serves Catelyn following Renly's murder; escorts Jaime Lannister | 🟢 **Alive**; travels with Jaime under Catelyn's instructions |
-| 64 | **MARGAERY TYRELL**, Daughter of Mace Tyrell; wife of Renly | ⇤ **COK Ch. 22**<br>⇥ **COK Ch. 22**<br>1 appearances | Links the Tyrell cause to the Lannister regime. | 🟢 **Alive**; promised to Joffrey after Renly's death |
+| 63 | **BRIENNE OF TARTH**, Knightly warrior and former member of Renly's Rainbow Guard | ⇤ **Not verified**<br>⇥ **COK Ch. 55**<br>6 appearances | Daughter of Selwyn Tarth and sworn admirer of **Renly**; later serves **Catelyn** and escorts **Jaime** at her request. | 🟢 **Alive**; travels with Jaime under Catelyn's instructions |
+| 64 | **MARGAERY TYRELL**, Daughter of Mace Tyrell; wife of Renly | ⇤ **COK Ch. 22**<br>⇥ **COK Ch. 22**<br>1 appearances | Daughter of **Mace**, sister of **Loras** and widow of **Renly**; promised in marriage to **Joffrey** to secure the Tyrell alliance. | 🟢 **Alive**; promised to Joffrey after Renly's death |
 
 ### Tertiary Characters
 
@@ -418,9 +418,9 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 65 | **BALON GREYJOY**, Lord of the Iron Islands; King of the Isles and the North | ⇤ **COK Ch. 11**<br>⇥ **COK Ch. 24**<br>2 appearances | Father of **Theon** and **Asha**; directs the ironborn campaign against the North | 🟢 **Alive**; rules the Iron Islands and directs the invasion |
-| 66 | **ASHA GREYJOY**, Balon Greyjoy's daughter; ironborn captain | ⇤ **COK Ch. 24**<br>⇥ **COK Ch. 56**<br>2 appearances | Theon's sister, uses the alias Esgred when testing his judgement | 🟢 **Alive**; leading ironborn operations |
-| 67 | **DAGMER CLEFTJAW**, Ironborn raider and captain | ⇤ **COK Ch. 37**<br>⇥ **COK Ch. 37**<br>1 appearance | Longstanding associate of Theon; leads an ironborn assault | 🟢 **Alive**; serving the ironborn campaign |
+| 65 | **BALON GREYJOY**, Lord of the Iron Islands; King of the Isles and the North | ⇤ **COK Ch. 11**<br>⇥ **COK Ch. 24**<br>2 appearances | Lord of the Iron Islands, father of **Theon** and **Asha** and brother of Aeron; demands his family's allegiance against the Starks. | 🟢 **Alive**; rules the Iron Islands and directs the invasion |
+| 66 | **ASHA GREYJOY**, Balon Greyjoy's daughter; ironborn captain | ⇤ **COK Ch. 24**<br>⇥ **COK Ch. 56**<br>2 appearances | Daughter of **Balon**, sister and rival of **Theon**; trusted naval leader within her father's household. | 🟢 **Alive**; leading ironborn operations |
+| 67 | **DAGMER CLEFTJAW**, Ironborn raider and captain | ⇤ **COK Ch. 37**<br>⇥ **COK Ch. 37**<br>1 appearance | Veteran ironborn captain and mentor of **Theon** serving **Balon Greyjoy**. | 🟢 **Alive**; serving the ironborn campaign |
 
 ### Tertiary Characters
 
@@ -451,15 +451,15 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 68 | **DAENERYS TARGARYEN**, Last known surviving daughter of Aerys II; khaleesi | ⇤ **GOT Ch. 3**<br>⇥ **COK Ch. 63**<br>15 appearances | Crosses the Red Waste and confronts the warlocks of Qarth. | 🟢 **Alive**; departs Qarth with surviving dragons and retainers |
+| 68 | **DAENERYS TARGARYEN**, Last known surviving daughter of Aerys II; khaleesi | ⇤ **GOT Ch. 3**<br>⇥ **COK Ch. 63**<br>15 appearances | Daughter of Aerys II, sister of Viserys and widow of Drogo; advised by **Jorah**, attended by Irri and Jhiqui, and courted by **Xaro**. | 🟢 **Alive**; departs Qarth with surviving dragons and retainers |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 69 | **JORAH MORMONT**, Exiled Westerosi knight; adviser to Daenerys | ⇤ **GOT Ch. 3**<br>⇥ **COK Ch. 63**<br>15 appearances | Escorts Daenerys through the Red Waste and Qarth. | 🟢 **Alive**; remains an adviser to Daenerys |
-| 70 | **PYAT PREE**, Warlock of Qarth | ⇤ **COK Ch. 27**<br>⇥ **COK Ch. 48**<br>3 appearances | Draws Daenerys into the House of the Undying | 🟢 **Alive**; survives the House of the Undying's destruction according to COK evidence only where established |
-| 71 | **XARO XHOAN DAXOS**, Qartheen merchant prince | ⇤ **COK Ch. 27**<br>⇥ **COK Ch. 48**<br>4 appearances | Hosts Daenerys and seeks political advantage from her dragons | 🟢 **Alive**; remains in Qarth |
+| 69 | **JORAH MORMONT**, Exiled Westerosi knight; adviser to Daenerys | ⇤ **GOT Ch. 3**<br>⇥ **COK Ch. 63**<br>15 appearances | Exiled son of **Jeor**, sworn protector and adviser of **Daenerys**, for whom he develops romantic feelings. | 🟢 **Alive**; remains an adviser to Daenerys |
+| 70 | **PYAT PREE**, Warlock of Qarth | ⇤ **COK Ch. 27**<br>⇥ **COK Ch. 48**<br>3 appearances | Qartheen warlock who entices **Daenerys** to the House of the Undying and seeks access to her dragons. | 🟢 **Alive**; survives the House of the Undying's destruction according to COK evidence only where established |
+| 71 | **XARO XHOAN DAXOS**, Qartheen merchant prince | ⇤ **COK Ch. 27**<br>⇥ **COK Ch. 48**<br>4 appearances | Wealthy merchant and would-be husband of **Daenerys**; offers hospitality while seeking control of her dragons. | 🟢 **Alive**; remains in Qarth |
 
 ### Tertiary Characters
 
