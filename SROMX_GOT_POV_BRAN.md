@@ -10,6 +10,8 @@
 
 **Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
 
+**BRAN STARK** · **EDDARD STARK** · **JON SNOW** · **ROBB STARK** · **THEON GREYJOY** · **MAESTER LUWIN** · **TYRION LANNISTER** · **HODOR** · **OSHA** · **GREATJON UMBER** · **RICKON STARK** · **JORY CASSEL** · **RODRIK CASSEL** · **CERSEI LANNISTER** · **JAIME LANNISTER** · **RICKARD KARSTARK**
+
 <a id="bran-toc"></a>
 ## Table of Contents
 
@@ -81,9 +83,7 @@ As the Lannister conflict escalates, Winterfell becomes a gathering place for no
 After the departure, Bran's sense of connection to unseen events grows more unsettling. He dreams of his father in the crypts, and Rickon has experienced a similarly troubling dream. Amid a discussion of the children of the forest and the persistence of old magic, a wounded raven arrives bearing a message. Luwin's reaction confirms what the children already dread: Eddard is dead. The boy introduced through his father's uncompromising act of justice now faces that father's loss, confined to Winterfell yet increasingly responsible for the home and family that remain.
 
 <a id="bran-roll-call"></a>
-**CSRM chapters (publication order):** [Ch. 1](ROM_CSRM_AGOT.md#agot-ch-1) · [Ch. 8](ROM_CSRM_AGOT.md#agot-ch-8) · [Ch. 17](ROM_CSRM_AGOT.md#agot-ch-17) · [Ch. 24](ROM_CSRM_AGOT.md#agot-ch-24) · [Ch. 37](ROM_CSRM_AGOT.md#agot-ch-37) · [Ch. 53](ROM_CSRM_AGOT.md#agot-ch-53) · [Ch. 66](ROM_CSRM_AGOT.md#agot-ch-66)
-
-# 5. Roll Call
+**CSRM chapters# 5. Roll Call
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
@@ -174,7 +174,10 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 35 | **GREY WIND**, Robb's direwolf [Alive] | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | Accompanies Robb south. |
 | 36 | **SHAGGYDOG**, Rickon's direwolf [Alive] | A newly discovered direwolf pup. | Becomes dangerous and aggressive as Rickon's distress increases. | Remains at Winterfell with Rickon. |
 
-**Character entries:** 36 (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
+**Character entries:** 36 (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Scope-local estimate retained from source audit.
+
+<a id="bran-cinematic-scenes"></a>
+ (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
 
 <a id="bran-cinematic-scenes"></a>
 # 6. Top Cinematic Scenes
