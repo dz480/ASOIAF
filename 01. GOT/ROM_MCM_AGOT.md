@@ -48,21 +48,21 @@
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 1 | **ARYA STARK**, Daughter of Eddard and Catelyn | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 65**<br>14 appearances | Younger sister of **Sansa**; pupil of Syrio Forel; close to **Jon**; travels in hiding after father's execution | 🟢 **Alive**; leaves King's Landing in disguise with Yoren |
-| 2 | **BRAN STARK**, Second son of Eddard and Catelyn; heir at Winterfell during Robb's absence | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 66**<br>11 appearances | Brother of **Robb**, **Sansa**, **Arya**, Rickon and Jon; protected by Hodor, Maester Luwin and Summer | 🟢 **Alive**; recovering from paralysis at Winterfell, experiencing wolf dreams |
+| 1 | **ARYA STARK**, Daughter of Eddard and Catelyn | ⇤ **GOT Ch. 5**<br>⇥ **GOT Ch. 65**<br>13 appearances | Younger sister of **Sansa**; pupil of Syrio Forel; close to **Jon**; travels in hiding after father's execution | 🟢 **Alive**; leaves King's Landing in disguise with Yoren |
+| 2 | **BRAN STARK**, Second son of Eddard and Catelyn; heir at Winterfell during Robb's absence | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 66**<br>10 appearances | Brother of **Robb**, **Sansa**, **Arya**, Rickon and Jon; protected by Hodor, Maester Luwin and Summer | 🟢 **Alive**; recovering from paralysis at Winterfell, experiencing wolf dreams |
 | 3 | **CATELYN STARK**, Lady of Winterfell; née Tully | ⇤ **GOT Ch. 2**<br>⇥ **GOT Ch. 71**<br>18 appearances | Wife of **Eddard**; mother of five Stark children; sister of **Lysa** and Edmure; counsels **Robb** during war | 🟢 **Alive**; with **Robb** and the northern host after Ned's death |
-| 4 | **EDDARD STARK**, Lord of Winterfell; Hand of the King | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 67**<br>24 appearances | Husband of **Catelyn**; father of Robb, **Sansa**, Arya, Bran and Rickon; guardian of Jon Snow; loyal friend of **Robert** Baratheon | 🗡 **Deceased**; executed publicly in King's Landing at **Joffrey**'s order |
-| 5 | **ROBB STARK**, Heir and then Lord of Winterfell; King in the North | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 71**<br>14 appearances | Eldest child of **Eddard** and **Catelyn**; brother of the Stark children; leads northern rebellion; accompanied by Grey Wind | 🟢 **Alive**; proclaimed King in the North following battlefield victories |
+| 4 | **EDDARD STARK**, Lord of Winterfell; Hand of the King | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 65**<br>23 appearances | Husband of **Catelyn**; father of Robb, **Sansa**, Arya, Bran and Rickon; guardian of Jon Snow; loyal friend of **Robert** Baratheon | 🗡 **Deceased**; executed publicly in King's Landing at **Joffrey**'s order |
+| 5 | **ROBB STARK**, Heir and then Lord of Winterfell; King in the North | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 71**<br>13 appearances | Eldest child of **Eddard** and **Catelyn**; brother of the Stark children; leads northern rebellion; accompanied by Grey Wind | 🟢 **Alive**; proclaimed King in the North following battlefield victories |
 
 ### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 6 | **HODOR**, Stablehand and carer for Bran | ⇤ **GOT Ch. 24**<br>⇥ **GOT Ch. 53**<br>2 appearances | Carries **Bran** after his injury; allied with the Stark household | 🟢 **Alive**; serving **Bran** at Winterfell |
+| 6 | **HODOR**, Stablehand and carer for Bran | ⇤ **GOT Ch. 8**<br>⇥ **GOT Ch. 53**<br>3 appearances | Carries **Bran** after his injury; allied with the Stark household | 🟢 **Alive**; serving **Bran** at Winterfell |
 | 7 | **JORY CASSEL**, Captain of Eddard's household guard | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 35**<br>7 appearances | Nephew of **Rodrik** Cassel; loyal bodyguard to Ned | 🗡 **Deceased**; slain during **Jaime**'s attack on Ned's party |
 | 8 | **MAESTER LUWIN**, Maester of Winterfell | ⇤ **GOT Ch. 6**<br>⇥ **GOT Ch. 66**<br>6 appearances | Counsels **Eddard** and **Catelyn**; teaches Bran; advises **Robb** during wartime | 🟢 **Alive**; remains in Winterfell |
 | 9 | **OSHA**, Wildling captive in Winterfell | ⇤ **GOT Ch. 37**<br>⇥ **GOT Ch. 66**<br>3 appearances | Captured following an attack on **Bran**; becomes an adviser to Bran concerning the north | 🟢 **Alive**; captive and working at Winterfell |
-| 10 | **RICKON STARK**, Youngest son of Eddard and Catelyn | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 66**<br>5 appearances | Younger brother of the Stark children; accompanied by Shaggydog | 🟢 **Alive**; remains at Winterfell |
+| 10 | **RICKON STARK**, Youngest son of Eddard and Catelyn | ⇤ **GOT Ch. 5**<br>⇥ **GOT Ch. 66**<br>3 appearances | Younger brother of the Stark children; accompanied by Shaggydog | 🟢 **Alive**; remains at Winterfell |
 | 11 | **RODRIK CASSEL**, Master-at-arms of Winterfell | ⇤ **GOT Ch. 7**<br>⇥ **GOT Ch. 66**<br>10 appearances | Father of Beth Cassel; uncle of Jory; accompanies **Catelyn** south then returns north | 🟢 **Alive**; supervising Winterfell's defences |
 | 12 | **THEON GREYJOY**, Ironborn ward of House Stark | ⇤ **GOT Ch. 1**<br>⇥ **GOT Ch. 71**<br>11 appearances | Son of Balon Greyjoy; companion of **Robb**; participates in northern campaign | 🟢 **Alive**; in **Robb**'s service among northern forces |
 
@@ -103,7 +103,7 @@
 |---:|---|---|---|---|
 | 13 | **GREATJON UMBER**, Lord of Last Hearth | ⇤ **GOT Ch. 53**<br>⇥ **GOT Ch. 71**<br>5 appearances | Northern bannerman of **Robb**; submits after confrontation involving Grey Wind; supports northern kingship | 🟢 **Alive**; prominent in **Robb**'s army |
 | 14 | **RICKARD KARSTARK**, Lord of Karhold | ⇤ **GOT Ch. 53**<br>⇥ **GOT Ch. 71**<br>4 appearances | Northern vassal of House Stark; father of Torrhen and **Eddard** Karstark | 🟢 **Alive**; serving **Robb**'s army after his sons' deaths |
-| 15 | **ROOSE BOLTON**, Lord of the Dreadfort | ⇤ **GOT Ch. 53**<br>⇥ **GOT Ch. 59**<br>3 appearances | Northern bannerman chosen by **Robb** to command one division of his army | 🟢 **Alive**; commands northern forces |
+| 15 | **ROOSE BOLTON**, Lord of the Dreadfort | ⇤ **GOT Ch. 55**<br>⇥ **GOT Ch. 59**<br>2 appearances | Northern bannerman chosen by **Robb** to command one division of his army | 🟢 **Alive**; commands northern forces |
 
 ### Tertiary Characters
 
@@ -132,7 +132,7 @@
 | 17 | **ALLISER THORNE**, Master-at-arms at Castle Black | ⇤ **GOT Ch. 19**<br>⇥ **GOT Ch. 52**<br>6 appearances | Antagonistic trainer of **Jon**, **Samwell** and other recruits | 🟢 **Alive**; serving the Watch at Castle Black |
 | 18 | **BENJEN STARK**, First Ranger of the Night's Watch | ⇤ **GOT Ch. 5**<br>⇥ **GOT Ch. 19**<br>3 appearances | Younger brother of **Eddard**; uncle of Stark children; helps bring **Jon** to the Wall | 🟡 **Missing**; disappears on a ranging beyond the Wall |
 | 19 | **JEOR MORMONT**, Lord Commander of the Night's Watch | ⇤ **GOT Ch. 19**<br>⇥ **GOT Ch. 70**<br>6 appearances | Father of **Jorah**; commands **Jon** and his brothers at Castle Black | 🟢 **Alive**; leads the Watch and plans a great ranging |
-| 20 | **MAESTER AEMON**, Maester of Castle Black | ⇤ **GOT Ch. 21**<br>⇥ **GOT Ch. 60**<br>3 appearances | Blind elder of the Night's Watch; secretly established as a member of House Targaryen; counsels **Jon** | 🟢 **Alive**; remains at Castle Black |
+| 20 | **MAESTER AEMON**, Maester of Castle Black | ⇤ **GOT Ch. 21**<br>⇥ **GOT Ch. 60**<br>4 appearances | Blind elder of the Night's Watch; secretly established as a member of House Targaryen; counsels **Jon** | 🟢 **Alive**; remains at Castle Black |
 | 21 | **SAMWELL TARLY**, Novice and then steward of the Night's Watch | ⇤ **GOT Ch. 26**<br>⇥ **GOT Ch. 70**<br>6 appearances | Disowned son of Randyll Tarly; becomes **Jon**'s friend and ally | 🟢 **Alive**; serves the Night's Watch at Castle Black |
 
 ### Tertiary Characters
@@ -170,8 +170,8 @@
 |---:|---|---|---|---|
 | 22 | **CERSEI LANNISTER**, Queen consort and then queen regent | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 67**<br>15 appearances | Wife of **Robert**; sister and lover of **Jaime**; mother of **Joffrey**, Myrcella and Tommen; daughter of Tywin | 🟢 **Alive**; secures the regency and **Joffrey**'s succession after **Robert**'s death |
 | 23 | **JOFFREY BARATHEON**, Crown prince and then king | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 67**<br>11 appearances | Son of **Cersei** and Jaime, publicly recognised as **Robert**'s son; formerly promised to **Sansa** | 🟢 **Alive**; crowned king and orders Ned's execution |
-| 24 | **ROBERT BARATHEON**, King of the Seven Kingdoms at book opening | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 47**<br>10 appearances | Husband of **Cersei**; elder brother of Stannis and Renly; old friend of **Eddard**; publicly acknowledged father of **Joffrey**, Myrcella and Tommen | 🪦 **Deceased**; dies of wounds sustained during a boar hunt |
-| 25 | **SANSA STARK**, Daughter of Eddard and Catelyn; former betrothed of Joffrey | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 67**<br>14 appearances | Sister of **Arya**; initially enamoured of court; subjected to **Joffrey** and **Cersei**'s control | 🟢 **Alive**; retained in King's Landing under Lannister power |
+| 24 | **ROBERT BARATHEON**, King of the Seven Kingdoms at book opening | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 47**<br>9 appearances | Husband of **Cersei**; elder brother of Stannis and Renly; old friend of **Eddard**; publicly acknowledged father of **Joffrey**, Myrcella and Tommen | 🪦 **Deceased**; dies of wounds sustained during a boar hunt |
+| 25 | **SANSA STARK**, Daughter of Eddard and Catelyn; former betrothed of Joffrey | ⇤ **GOT Ch. 5**<br>⇥ **GOT Ch. 67**<br>14 appearances | Sister of **Arya**; initially enamoured of court; subjected to **Joffrey** and **Cersei**'s control | 🟢 **Alive**; retained in King's Landing under Lannister power |
 
 ### Supporting Characters
 
@@ -180,9 +180,9 @@
 | 26 | **BARRISTAN SELMY**, Lord Commander of the Kingsguard, later dismissed | ⇤ **GOT Ch. 15**<br>⇥ **GOT Ch. 57**<br>8 appearances | Serves **Robert** and earlier Targaryen kings; refuses humiliating dismissal by **Joffrey** | 🟢 **Alive**; leaves King's Landing after dismissal |
 | 27 | **GENDRY**, Blacksmith's apprentice | ⇤ **GOT Ch. 27**<br>⇥ **GOT Ch. 27**<br>1 appearance | **Robert** Baratheon's unacknowledged son; Ned discovers his identity while investigating the succession | 🟢 **Alive**; travelling north with Yoren under recruitment to the Night's Watch |
 | 28 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **GOT Ch. 67**<br>12 appearances | Serves kings and their council in King's Landing; maintains ties to the Lannisters | 🟢 **Alive**; continues in office under **Joffrey** |
-| 29 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **GOT Ch. 67**<br>4 appearances | Royal executioner; carries out Ned's beheading | 🟢 **Alive**; serves **Joffrey** as royal executioner |
-| 30 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **GOT Ch. 67**<br>5 appearances | His gold cloaks turn against Ned during the court confrontation | 🟢 **Alive**; rewarded with high office and a lordship |
-| 31 | **PETYR BAELISH**, Master of coin; called Littlefinger | ⇤ **GOT Ch. 18**<br>⇥ **GOT Ch. 67**<br>17 appearances | Childhood acquaintance of **Catelyn** and **Lysa**; serves on **Robert**'s small council; betrays Ned in the throne room | 🟢 **Alive**; retains influence at **Joffrey**'s court |
+| 29 | **ILYN PAYNE**, King's Justice | ⇤ **GOT Ch. 15**<br>⇥ **GOT Ch. 67**<br>3 appearances | Royal executioner; carries out Ned's beheading | 🟢 **Alive**; serves **Joffrey** as royal executioner |
+| 30 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **GOT Ch. 67**<br>4 appearances | His gold cloaks turn against Ned during the court confrontation | 🟢 **Alive**; rewarded with high office and a lordship |
+| 31 | **PETYR BAELISH**, Master of coin; called Littlefinger | ⇤ **GOT Ch. 18**<br>⇥ **GOT Ch. 67**<br>16 appearances | Childhood acquaintance of **Catelyn** and **Lysa**; serves on **Robert**'s small council; betrays Ned in the throne room | 🟢 **Alive**; retains influence at **Joffrey**'s court |
 | 32 | **RENLY BARATHEON**, Lord of Storm's End; royal councillor | ⇤ **GOT Ch. 15**<br>⇥ **GOT Ch. 47**<br>8 appearances | Youngest brother of **Robert** and Stannis; offers Ned support then flees the capital | 🟢 **Alive**; gathering support after **Robert**'s death |
 | 33 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **GOT Ch. 67**<br>11 appearances | Personal guard to **Joffrey**; younger brother of Gregor Clegane; interacts with **Sansa** | 🟢 **Alive**; elevated to Kingsguard after Barristan's dismissal |
 | 34 | **STANNIS BARATHEON**, Lord of Dragonstone; Robert's brother | ⇤ No direct appearance<br>⇥ No direct appearance<br>0 appearances | Brother of **Robert** and Renly; Ned discovers his legitimate claim to the succession | 🟢 **Alive**; offstage at Dragonstone |
@@ -291,7 +291,7 @@
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
 | 48 | **DAENERYS TARGARYEN**, Last known surviving daughter of Aerys II; khaleesi | ⇤ **GOT Ch. 3**<br>⇥ **GOT Ch. 72**<br>10 appearances | Sister of **Viserys**; married to **Drogo**; aided by Jorah Mormont; mother of **Rhaego** and hatchling dragons | 🟢 **Alive**; emerges from **Drogo**'s pyre with three living dragons |
-| 49 | **KHAL DROGO**, Dothraki khal | ⇤ **GOT Ch. 3**<br>⇥ **GOT Ch. 72**<br>10 appearances | Husband of **Daenerys**; father of her unborn son **Rhaego**; attended by bloodriders | 🗡 **Deceased**; smothered by **Daenerys** after a ritual leaves him unresponsive |
+| 49 | **KHAL DROGO**, Dothraki khal | ⇤ **GOT Ch. 3**<br>⇥ **GOT Ch. 68**<br>9 appearances | Husband of **Daenerys**; father of her unborn son **Rhaego**; attended by bloodriders | 🗡 **Deceased**; smothered by **Daenerys** after a ritual leaves him unresponsive |
 
 ### Supporting Characters
 
@@ -378,19 +378,19 @@
 | Character | First Series Appearance | Latest Book Appearance | Cumulative Chapter Count — Book Start | Book Chapter Count | Cumulative Chapter Count — Book End | List of Book Chapter Appearances |
 |---|---|---|---:|---:|---:|---|
 | **PRINCIPAL CHARACTERS** | | | | | | |
-| **ARYA STARK** | **GOT Ch. 4** | **GOT Ch. 65** | 0 | 14 | 14 | Ch. 4, Ch. 5, Ch. 7, Ch. 10, Ch. 15, Ch. 16, Ch. 22, Ch. 25, Ch. 30, Ch. 32, Ch. 44, Ch. 49, Ch. 50, Ch. 65 |
-| **BRAN STARK** | **GOT Ch. 1** | **GOT Ch. 66** | 0 | 11 | 11 | Ch. 1, Ch. 4, Ch. 7, Ch. 8, Ch. 10, Ch. 14, Ch. 17, Ch. 24, Ch. 37, Ch. 53, Ch. 66 |
+| **ARYA STARK** | **GOT Ch. 5** | **GOT Ch. 65** | 0 | 13 | 13 | Ch. 5, Ch. 7, Ch. 10, Ch. 15, Ch. 16, Ch. 22, Ch. 25, Ch. 30, Ch. 32, Ch. 44, Ch. 49, Ch. 50, Ch. 65 |
+| **BRAN STARK** | **GOT Ch. 1** | **GOT Ch. 66** | 0 | 10 | 10 | Ch. 1, Ch. 7, Ch. 8, Ch. 10, Ch. 14, Ch. 17, Ch. 24, Ch. 37, Ch. 53, Ch. 66 |
 | **CATELYN STARK** | **GOT Ch. 2** | **GOT Ch. 71** | 0 | 18 | 18 | Ch. 2, Ch. 4, Ch. 5, Ch. 6, Ch. 7, Ch. 10, Ch. 14, Ch. 18, Ch. 20, Ch. 28, Ch. 31, Ch. 34, Ch. 38, Ch. 40, Ch. 55, Ch. 59, Ch. 63, Ch. 71 |
 | **CERSEI LANNISTER** | **GOT Ch. 4** | **GOT Ch. 67** | 0 | 15 | 15 | Ch. 4, Ch. 5, Ch. 8, Ch. 9, Ch. 15, Ch. 16, Ch. 29, Ch. 39, Ch. 45, Ch. 47, Ch. 49, Ch. 51, Ch. 57, Ch. 65, Ch. 67 |
 | **DAENERYS TARGARYEN** | **GOT Ch. 3** | **GOT Ch. 72** | 0 | 10 | 10 | Ch. 3, Ch. 11, Ch. 23, Ch. 36, Ch. 46, Ch. 54, Ch. 61, Ch. 64, Ch. 68, Ch. 72 |
-| **EDDARD STARK** | **GOT Ch. 1** | **GOT Ch. 67** | 0 | 24 | 24 | Ch. 1, Ch. 2, Ch. 4, Ch. 5, Ch. 6, Ch. 12, Ch. 16, Ch. 20, Ch. 22, Ch. 25, Ch. 27, Ch. 30, Ch. 32, Ch. 33, Ch. 35, Ch. 39, Ch. 43, Ch. 44, Ch. 45, Ch. 47, Ch. 49, Ch. 58, Ch. 65, Ch. 67 |
+| **EDDARD STARK** | **GOT Ch. 1** | **GOT Ch. 65** | 0 | 23 | 23 | Ch. 1, Ch. 2, Ch. 4, Ch. 5, Ch. 6, Ch. 12, Ch. 16, Ch. 20, Ch. 22, Ch. 25, Ch. 27, Ch. 30, Ch. 32, Ch. 33, Ch. 35, Ch. 39, Ch. 43, Ch. 44, Ch. 45, Ch. 47, Ch. 49, Ch. 58, Ch. 65 |
 | **JAIME LANNISTER** | **GOT Ch. 4** | **GOT Ch. 63** | 0 | 8 | 8 | Ch. 4, Ch. 5, Ch. 8, Ch. 9, Ch. 29, Ch. 30, Ch. 35, Ch. 63 |
 | **JOFFREY BARATHEON** | **GOT Ch. 4** | **GOT Ch. 67** | 0 | 11 | 11 | Ch. 4, Ch. 5, Ch. 7, Ch. 9, Ch. 15, Ch. 16, Ch. 29, Ch. 49, Ch. 57, Ch. 65, Ch. 67 |
 | **JON SNOW** | **GOT Ch. 1** | **GOT Ch. 70** | 0 | 13 | 13 | Ch. 1, Ch. 5, Ch. 7, Ch. 10, Ch. 13, Ch. 19, Ch. 21, Ch. 26, Ch. 41, Ch. 48, Ch. 52, Ch. 60, Ch. 70 |
-| **KHAL DROGO** | **GOT Ch. 3** | **GOT Ch. 72** | 0 | 10 | 10 | Ch. 3, Ch. 11, Ch. 23, Ch. 36, Ch. 46, Ch. 54, Ch. 61, Ch. 64, Ch. 68, Ch. 72 |
-| **ROBB STARK** | **GOT Ch. 1** | **GOT Ch. 71** | 0 | 14 | 14 | Ch. 1, Ch. 4, Ch. 5, Ch. 7, Ch. 10, Ch. 14, Ch. 17, Ch. 24, Ch. 37, Ch. 53, Ch. 55, Ch. 59, Ch. 63, Ch. 71 |
-| **ROBERT BARATHEON** | **GOT Ch. 4** | **GOT Ch. 47** | 0 | 10 | 10 | Ch. 4, Ch. 5, Ch. 12, Ch. 16, Ch. 27, Ch. 29, Ch. 30, Ch. 33, Ch. 39, Ch. 47 |
-| **SANSA STARK** | **GOT Ch. 4** | **GOT Ch. 67** | 0 | 14 | 14 | Ch. 4, Ch. 5, Ch. 7, Ch. 15, Ch. 16, Ch. 22, Ch. 29, Ch. 30, Ch. 44, Ch. 49, Ch. 51, Ch. 57, Ch. 65, Ch. 67 |
+| **KHAL DROGO** | **GOT Ch. 3** | **GOT Ch. 68** | 0 | 9 | 9 | Ch. 3, Ch. 11, Ch. 23, Ch. 36, Ch. 46, Ch. 54, Ch. 61, Ch. 64, Ch. 68 |
+| **ROBB STARK** | **GOT Ch. 1** | **GOT Ch. 71** | 0 | 13 | 13 | Ch. 1, Ch. 5, Ch. 7, Ch. 10, Ch. 14, Ch. 17, Ch. 24, Ch. 37, Ch. 53, Ch. 55, Ch. 59, Ch. 63, Ch. 71 |
+| **ROBERT BARATHEON** | **GOT Ch. 4** | **GOT Ch. 47** | 0 | 9 | 9 | Ch. 4, Ch. 5, Ch. 12, Ch. 16, Ch. 29, Ch. 30, Ch. 33, Ch. 39, Ch. 47 |
+| **SANSA STARK** | **GOT Ch. 5** | **GOT Ch. 67** | 0 | 14 | 14 | Ch. 5, Ch. 7, Ch. 15, Ch. 16, Ch. 22, Ch. 29, Ch. 30, Ch. 43, Ch. 44, Ch. 49, Ch. 51, Ch. 57, Ch. 65, Ch. 67 |
 | **TYRION LANNISTER** | **GOT Ch. 4** | **GOT Ch. 69** | 0 | 16 | 16 | Ch. 4, Ch. 5, Ch. 9, Ch. 13, Ch. 19, Ch. 21, Ch. 24, Ch. 28, Ch. 31, Ch. 34, Ch. 38, Ch. 40, Ch. 42, Ch. 56, Ch. 62, Ch. 69 |
 | **SUPPORTING CHARACTERS** | | | | | | |
 | **ALLISER THORNE** | **GOT Ch. 19** | **GOT Ch. 52** | 0 | 6 | 6 | Ch. 19, Ch. 21, Ch. 26, Ch. 41, Ch. 48, Ch. 52 |
@@ -403,26 +403,26 @@
 | **GRAND MAESTER PYCELLE** | **GOT Ch. 20** | **GOT Ch. 67** | 0 | 12 | 12 | Ch. 20, Ch. 25, Ch. 27, Ch. 33, Ch. 35, Ch. 43, Ch. 45, Ch. 47, Ch. 49, Ch. 51, Ch. 57, Ch. 67 |
 | **GREATJON UMBER** | **GOT Ch. 53** | **GOT Ch. 71** | 0 | 5 | 5 | Ch. 53, Ch. 55, Ch. 59, Ch. 63, Ch. 71 |
 | **GREGOR CLEGANE** | **GOT Ch. 29** | **GOT Ch. 69** | 0 | 4 | 4 | Ch. 29, Ch. 30, Ch. 62, Ch. 69 |
-| **HODOR** | **GOT Ch. 24** | **GOT Ch. 53** | 0 | 2 | 2 | Ch. 24, Ch. 53 |
+| **HODOR** | **GOT Ch. 8** | **GOT Ch. 53** | 0 | 3 | 3 | Ch. 8, Ch. 24, Ch. 53 |
 | **ILLYRIO MOPATIS** | **GOT Ch. 3** | **GOT Ch. 32** | 0 | 3 | 3 | Ch. 3, Ch. 11, Ch. 32 |
-| **ILYN PAYNE** | **GOT Ch. 15** | **GOT Ch. 67** | 0 | 4 | 4 | Ch. 15, Ch. 43, Ch. 65, Ch. 67 |
-| **JANOS SLYNT** | **GOT Ch. 27** | **GOT Ch. 67** | 0 | 5 | 5 | Ch. 27, Ch. 49, Ch. 57, Ch. 65, Ch. 67 |
+| **ILYN PAYNE** | **GOT Ch. 15** | **GOT Ch. 67** | 0 | 3 | 3 | Ch. 15, Ch. 65, Ch. 67 |
+| **JANOS SLYNT** | **GOT Ch. 27** | **GOT Ch. 67** | 0 | 4 | 4 | Ch. 27, Ch. 49, Ch. 57, Ch. 67 |
 | **JEOR MORMONT** | **GOT Ch. 19** | **GOT Ch. 70** | 0 | 6 | 6 | Ch. 19, Ch. 21, Ch. 48, Ch. 52, Ch. 60, Ch. 70 |
 | **JON ARRYN** | No direct appearance | No direct appearance | 0 | 0 | 0 | None |
 | **JORAH MORMONT** | **GOT Ch. 3** | **GOT Ch. 72** | 0 | 10 | 10 | Ch. 3, Ch. 11, Ch. 23, Ch. 36, Ch. 46, Ch. 54, Ch. 61, Ch. 64, Ch. 68, Ch. 72 |
 | **JORY CASSEL** | **GOT Ch. 1** | **GOT Ch. 35** | 0 | 7 | 7 | Ch. 1, Ch. 16, Ch. 22, Ch. 27, Ch. 29, Ch. 30, Ch. 35 |
 | **LYSA ARRYN** | **GOT Ch. 34** | **GOT Ch. 40** | 0 | 3 | 3 | Ch. 34, Ch. 38, Ch. 40 |
-| **MAESTER AEMON** | **GOT Ch. 21** | **GOT Ch. 60** | 0 | 3 | 3 | Ch. 21, Ch. 48, Ch. 60 |
+| **MAESTER AEMON** | **GOT Ch. 21** | **GOT Ch. 60** | 0 | 4 | 4 | Ch. 21, Ch. 41, Ch. 48, Ch. 60 |
 | **MAESTER LUWIN** | **GOT Ch. 6** | **GOT Ch. 66** | 0 | 6 | 6 | Ch. 6, Ch. 14, Ch. 24, Ch. 37, Ch. 53, Ch. 66 |
 | **MIRRI MAZ DUUR** | **GOT Ch. 61** | **GOT Ch. 72** | 0 | 4 | 4 | Ch. 61, Ch. 64, Ch. 68, Ch. 72 |
 | **OSHA** | **GOT Ch. 37** | **GOT Ch. 66** | 0 | 3 | 3 | Ch. 37, Ch. 53, Ch. 66 |
-| **PETYR BAELISH** | **GOT Ch. 18** | **GOT Ch. 67** | 0 | 17 | 17 | Ch. 18, Ch. 20, Ch. 25, Ch. 27, Ch. 29, Ch. 30, Ch. 33, Ch. 35, Ch. 43, Ch. 44, Ch. 45, Ch. 47, Ch. 49, Ch. 51, Ch. 57, Ch. 65, Ch. 67 |
+| **PETYR BAELISH** | **GOT Ch. 18** | **GOT Ch. 67** | 0 | 16 | 16 | Ch. 18, Ch. 20, Ch. 25, Ch. 27, Ch. 29, Ch. 30, Ch. 33, Ch. 35, Ch. 43, Ch. 45, Ch. 47, Ch. 49, Ch. 51, Ch. 57, Ch. 65, Ch. 67 |
 | **RENLY BARATHEON** | **GOT Ch. 15** | **GOT Ch. 47** | 0 | 8 | 8 | Ch. 15, Ch. 16, Ch. 20, Ch. 27, Ch. 29, Ch. 30, Ch. 33, Ch. 47 |
 | **RHAEGO** | No direct appearance | No direct appearance | 0 | 0 | 0 | None |
 | **RICKARD KARSTARK** | **GOT Ch. 53** | **GOT Ch. 71** | 0 | 4 | 4 | Ch. 53, Ch. 55, Ch. 59, Ch. 71 |
-| **RICKON STARK** | **GOT Ch. 4** | **GOT Ch. 66** | 0 | 5 | 5 | Ch. 4, Ch. 5, Ch. 24, Ch. 53, Ch. 66 |
+| **RICKON STARK** | **GOT Ch. 5** | **GOT Ch. 66** | 0 | 3 | 3 | Ch. 5, Ch. 24, Ch. 66 |
 | **RODRIK CASSEL** | **GOT Ch. 7** | **GOT Ch. 66** | 0 | 10 | 10 | Ch. 7, Ch. 14, Ch. 18, Ch. 20, Ch. 28, Ch. 31, Ch. 34, Ch. 38, Ch. 40, Ch. 66 |
-| **ROOSE BOLTON** | **GOT Ch. 53** | **GOT Ch. 59** | 0 | 3 | 3 | Ch. 53, Ch. 55, Ch. 59 |
+| **ROOSE BOLTON** | **GOT Ch. 55** | **GOT Ch. 59** | 0 | 2 | 2 | Ch. 55, Ch. 59 |
 | **SAMWELL TARLY** | **GOT Ch. 26** | **GOT Ch. 70** | 0 | 6 | 6 | Ch. 26, Ch. 41, Ch. 48, Ch. 52, Ch. 60, Ch. 70 |
 | **SANDOR CLEGANE** | **GOT Ch. 4** | **GOT Ch. 67** | 0 | 11 | 11 | Ch. 4, Ch. 7, Ch. 9, Ch. 15, Ch. 16, Ch. 29, Ch. 30, Ch. 49, Ch. 57, Ch. 65, Ch. 67 |
 | **SHAE** | **GOT Ch. 62** | **GOT Ch. 69** | 0 | 2 | 2 | Ch. 62, Ch. 69 |
@@ -565,6 +565,10 @@
 
 <a id="agot-verification"></a>
 ## 6. Verification & Source Notes
+
+**14 Oct 2026 — historical appearance-source reconciliation:** Compared all 55 GOT Principal/Supporting lists against the reader-supplied published [ASOIAF comprehensive character appearance workbook](https://www.reddit.com/r/pureasoiaf/comments/e0s67x), using its **GoT** tab marker grid (73 narrative units). **52** of the priority records matched the author's indexed identity; **14** chapter lists differed and have been reconciled, including first/latest chapter and book-end counts where affected. The other three priority records (Jon Arryn, Rhaego, Stannis Baratheon) have no qualifying direct GoT appearance according to their established MCM treatment and remain at zero. Distinct direct-presence chapter markers were imported; recollections, corpses and other source-definition disagreements are recorded as source-based adjustments, not newly invented enactments. This source-based workbook reconciliation supersedes the older self-described chapter lists, but does not independently establish textual certification across all scenes. The equivalent historical MCR data were reconciled without advancing its GOT-end reading boundary.
+
+
 
 ### Validated scope and identity controls
 
