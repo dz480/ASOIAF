@@ -3,6 +3,7 @@
 > **Full-book POV spoilers:** This reconstruction covers Bran's published POV chapters through **GOT Ch. 66**. It reveals developments from later chapters when opened early.
 
 **Scope:** **GOT Ch. 1, 8, 17, 24, 37, 53, 66** (Bran I–VII; seven non-consecutive POV chapters presented in published order).  
+**Spoiler Boundary:** End of **GOT Ch. 66 (Bran VII)**; later chapters are outside this POV Scope.
 **1 Mar 298 AC → 24 Jan 299 AC**  
 *The North · Winterfell · Wolfswood*
 
@@ -125,9 +126,9 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 🥈 | **THEON GREYJOY**, Stark ward [Alive] | Ward of Eddard; rides with the Stark party. | Helps at the execution and kills Stiv during the attack on Bran. | Accompanies Robb's army south. |
 | 🥈 | **MAESTER LUWIN**, Winterfell maester [Alive] | Advises and educates the Stark household. | Supervises Bran's recovery, weighs Osha's claims and oversees the boys' care. | Remains at Winterfell and receives confirmation of Eddard's death. |
 | 🥈 | **HODOR**, Winterfell stablehand [Alive] | Works with horses at Winterfell. | Carries Bran and becomes essential to his movement through the castle. | Continues serving Bran at Winterfell. |
-| 9 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
-| 10 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
-| 11 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
+| 11 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
+| 12 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
+| 15 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
 
 <a id="bran-guards-military"></a>
 ### Guards & Military Service
@@ -136,8 +137,8 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 |---:|---|---|---|---|
 | 🥈 | **JORY CASSEL**†, Stark guard captain [Deceased] | Commands Eddard's household guards. | Attends the opening execution; subsequently accompanies Eddard south. | Killed in King's Landing; his death is known at Winterfell. |
 | 🥈 | **RODRIK CASSEL**, master-at-arms [Alive] | Serves the Stark household and trains its men. | Helps sustain Winterfell's defence as its soldiers depart. | Remains associated with the depleted Winterfell garrison. |
-| 14 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
-| 15 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
+| 13 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
+| 14 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
 | 16 | **QUENT**, Stark guardsman [Alive] | In Stark household service. | Takes part in the Wolfswood escort and responds to the ambush. | Survives the incident and remains in Stark service. |
 | 17 | **WAYN**, Stark guardsman [Alive] | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | Continues in Stark service. |
 | 18 | **MIKKEN**, Winterfell smith [Alive] | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
