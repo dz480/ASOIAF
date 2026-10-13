@@ -1,7 +1,7 @@
 # ASOIAF — Master Reread Workflow
 
 **Status:** Canonical project operating document  
-**Version:** 1.1
+**Version:** 1.2
 **Last Updated:** 13 Oct 2026  
 **Established:** 13 Oct 2026  
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
@@ -63,7 +63,7 @@ The completed *A Game of Thrones* workflow is the foundation for this repeatable
 - Steps **5 and 6 are one ongoing parallel activity**. There is no requirement to finish the entire book before beginning POV reconstructions.
 - A complete, full-book **POV** SROMX becomes ready when that POV's **last selected chapter** has been read; other POV reconstructions may continue.
 - Steps **7–9** follow completion of the novel and all its POV records. Step 8 includes MNT creation **and** publication; Step 9 is a final audit, not a second publication step.
-- **No manual MLRP / Reading Point update is required** for this project. Use the book's RTE plan and explicitly authorised source scope; never infer a current reading point from GitHub navigation.
+- **No automatic or routine Reading Point registry updates are required** for this project. For a spoiler-bounded A&P CSRM request, supply the current MLRP or resolve it from an already established authoritative Reading Point; never infer reading progress from GitHub navigation.
 
 <p align="right"><a href="#asoiaf-workflow-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -283,7 +283,7 @@ These are the ASOIAF project's **operational command conventions**. Specialist p
 ```text
 BUILD ROM MCM: [BOOK], WHOLE BOOK
 BUILD ROM CSRM: [BOOK], WHOLE BOOK
-[A&P ROM CSRM: [BOOK], MLRP — when a reader-facing CSRM is requested]
+[Optional: A&P ROM CSRM: [BOOK], MLRP after establishing reading progress]
 B&P SROMX: [BOOK], FULL BOOK, POV [CHARACTER]
 UPDATE SROMX: [BOOK], POV [CHARACTER]
 REVISE IN GITHUB: ROM SROMX
@@ -374,7 +374,7 @@ APPLY ROM NAVIGATION: dz480/ASOIAF
 
 > **GOT completed records — Applies to: Sections 1, 2 and 10:** The first completed exemplar consists of [ROM MCM](ROM_MCM_AGOT.md), [ROM CSRM](ROM_CSRM_AGOT.md), nine [POV SROMX reports](README.md#sromx--pov-selected-narrative-reconstructions) and [ROM MNT](ROM_MNT_AGOT.md), indexed in the [README](README.md). The previously supplied GOT RTE schedule is an external project source asset, not currently a published root-level file in this repository. Future B&P RTE operations follow Section 3's creation convention.
 
-> **Command scope — Applies to: Section 8:** The BUILD/B&P/UPDATE/REVISE definitions preserve the user's project-level invocation rules. The canonical GitHub workflow has a broader general-purpose meaning for REVISE IN GITHUB, but the narrower ASOIAF usage should control interpretation within this project's reread prompts.
+> **Command scope — Applies to: Section 8:** BUILD, CREATE, DRAFT REVISIONS, UPDATE, REVISE IN GITHUB and PUBLISH follow the current canonical ROM and GitHub definitions: BUILD is first-time persistence, CREATE and DRAFT REVISIONS are chat-only, UPDATE is fixed-boundary record maintenance, REVISE IN GITHUB changes Protocol Manual rules/structure and PUBLISH displays only reader-facing eligible content.
 
 > **Manual precedence — Applies to: Sections 4, 8 and 9:** The manual-specific mandatory MCM creation gate remains applicable even though this workflow requires a concise BUILD output. Any later manual changes take effect on subsequent records and structural UPDATEs; this file sets the sequence, not a frozen copy of manual output schemas.
 
