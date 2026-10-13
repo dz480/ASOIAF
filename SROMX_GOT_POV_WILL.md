@@ -1,6 +1,6 @@
 # A Game of Thrones | George R. R. Martin | POV: Will (Full Book)
 
-> **Full-book POV spoilers:** Will full-book selected POV coverage (Prologue only); the declared Spoiler Boundary applies.
+> **Full-book POV spoilers:** Complete Will POV scope, Prologue only. The stated spoiler boundary applies.
 
 **Scope:** **GOT Prologue (Will)**. Will's only POV unit in the complete novel; the Prologue is included alongside the 72 numbered chapters.
 
@@ -11,9 +11,9 @@
 
 **Spoiler Boundary:** End of **GOT Prologue**. Later chapters, including Gared's subsequent fate, are not imported.
 
-<a id="will-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="will-toc"></a>
 ## Table of Contents
 
 - [1. Narrative Context](#will-context)
@@ -87,7 +87,7 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
-**Character entries:** 5 Total | 0 Principal | 0 Supporting | 4 Tertiary | 1 Collective | 2 Deaths
+**Character entries:**5 Total | 0 Principal | 0 Supporting | 4 Tertiary | 1 Collective | 2 Deaths
 
 *Significance: original numerical Entry indices for Tertiary and Collective entries. **Gared**, **Ser Waymar Royce** and **Will** retain the full-book **Tertiary** classification in the canonical AGOT MCM. The unnamed Other duelist is also classified **Tertiary** for this Scope; as an unnamed character, it is not individually ranked in the MCM. Deaths are limited to **Waymar Royce** and **Will**; the 8 missing wildlings are not confirmed dead, and **Gared** survives the Prologue.*
 
@@ -123,11 +123,12 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 | 4 | **Pale Shapes among the Ironwoods** | Will, Ser Waymar Royce, unnamed Other duelist, additional Others | High in a sentinel tree, Will glimpses white figures sliding through the moonlit woods as the air turns bitterly cold. Below, Waymar calls into the darkness, unaware that pale armoured figures are assembling around him. |
 | 5 | **Gared Uncovers the Price of Cold** | Will, Gared, Ser Waymar Royce | During the nightfall dispute, Gared pulls back his hood to reveal the ruined places where frostbite took his ears. He recounts lost toes and a dead brother, warning that cold can kill without warning while the young knight dismisses him. |
 
+<a id="will-notes"></a>
+
 <p align="right"><a href="#will-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
-<a id="will-notes"></a>
 ## Appendix: Document Notes
 
 > **Prologue POV validity — Applies to: Entire document:** Built 13 Oct 2026. The user explicitly includes **Will**, narrator of the Prologue, among the book's POV characters. `FULL BOOK, POV WILL` therefore includes his **single full contribution**, the **GOT Prologue**, rather than creating a false numbered chapter or borrowing other narrators' chapters.
@@ -144,5 +145,4 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 
 > **Canonical sources and workflow — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [AGOT Master Character Map](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The TOC, return controls and archival notes are repository scaffolding and omitted from ordinary reader-facing ChatGPT publication.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs the book-wide Significance of listed named characters; [AGOT CSRM](ROM_CSRM_AGOT.md) governs the project's estimated chronology and chapter coordinates. Formatting follows [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md). Selected POV scenes retain their own source and spoiler boundaries.
