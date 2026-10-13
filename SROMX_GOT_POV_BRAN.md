@@ -216,7 +216,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 
 ## Appendix: Document Notes
 
-> **Source-word scaling — Applies to: [Section 1 (Narrative Context)](#bran-context) and [Section 4 (Narrative Overview)](#bran-overview):** The Project [GOT RTE](https://github.com/dz480/ASOIAF/blob/main/README.md) counts **27,964 words** in Bran I–VII. The SROMX reference expression `300 + 12 × √W`, rounded to 50, gives an approximate **2,300-character Narrative Overview** target and **575-character Narrative Context** target; these are structural guides rather than hard ceilings.
+> **Source-word scaling — Applies to: [Section 1 (Narrative Context)](#bran-context) and [Section 4 (Narrative Overview)](#bran-overview):** The supplied Project GOT RTE schedule records a combined **27,964 words** across Bran I–VII. The SROMX reference expression `300 + 12 × √W`, rounded to 50, gives an approximate **2,300-character Narrative Overview** target and **575-character Narrative Context** target; these are structural guides rather than hard ceilings.
 
 > **Source and POV boundary — Applies to: Entire document:** The primary narrative material consists solely of Bran's seven chapters in the Project-supplied *A Game of Thrones* EPUB, arranged in the novel's chapter order. Other POVs are not stitched into this reconstruction. Events learned through reports, memories and dreams are distinguished from actions directly enacted in Bran's chapters. Whole-book retrospective through **GOT Ch. 66** in Bran's POV, with no later-book knowledge. **SROMX v11.27**, including the compact five-column **Arc** Roll Call, significance medals and nested Character Subgroups. This is a POV-selected Scope, not a contiguous source Sequence.
 
