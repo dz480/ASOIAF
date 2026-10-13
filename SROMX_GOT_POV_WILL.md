@@ -77,25 +77,25 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 <a id="will-rollcall"></a>
 # 5. Roll Call
 
-**Character entries:** 5 Total | 2 Principal | 2 Supporting | 0 Tertiary | 1 Collective | 2 Deaths
+**Character entries:** 5 Total | 0 Principal | 0 Supporting | 4 Tertiary | 1 Collective | 2 Deaths
 
-*Significance: 🏅 Principal · 🥈 Supporting · numbered Collective entry. Deaths are limited to **Waymar Royce** and **Will**; the 8 missing wildlings are not confirmed dead, and **Gared** survives the Prologue.*
+*Significance: original numerical Entry indices for Tertiary and Collective entries. **Gared**, **Ser Waymar Royce** and **Will** retain the full-book **Tertiary** classification in the canonical AGOT MCM. The unnamed Other duelist is also classified **Tertiary** for this Scope; as an unnamed character, it is not individually ranked in the MCM. Deaths are limited to **Waymar Royce** and **Will**; the 8 missing wildlings are not confirmed dead, and **Gared** survives the Prologue.*
 
 <a id="will-watch"></a>
 ## 🛡️ Night's Watch Ranging Party
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **GARED**, veteran ranger of the Night's Watch [Alive; separated from party] | In the **Haunted Forest**, nearing the end of a 9-day ranging and urging retreat. | Warns against remaining in the dark, challenges Waymar's judgment and requests a fire. | Left with the horses below the ridge; his subsequent movements are not shown in the Prologue. |
-| 🏅 | **SER WAYMAR ROYCE**†, young knight and commander of the ranging [Deceased; reanimated] | Leading his first ranging, intent on inspecting the alleged wildling dead. | Overrules the veterans, advances to the clearing, confronts an **Other** and fights until his blade shatters. | Killed by the Others; rises with a blue eye and strangles Will. |
-| 🏅 | **WILL**†, scout and former poacher [Deceased] | Tracking wildlings for Waymar after 9 days beyond the Wall, troubled by the cold. | Describes 8 unmoving raiders, finds their camp empty, watches the duel from a tree and retrieves Waymar's broken blade. | Killed when the reanimated Waymar tightens his hands around his throat. |
+| 1 | **GARED**, veteran ranger of the Night's Watch [Alive; separated from party] | In the **Haunted Forest**, nearing the end of a 9-day ranging and urging retreat. | Warns against remaining in the dark, challenges Waymar's judgment and requests a fire. | Left with the horses below the ridge; his subsequent movements are not shown in the Prologue. |
+| 2 | **SER WAYMAR ROYCE**†, young knight and commander of the ranging [Deceased; reanimated] | Leading his first ranging, intent on inspecting the alleged wildling dead. | Overrules the veterans, advances to the clearing, confronts an **Other** and fights until his blade shatters. | Killed by the Others; rises with a blue eye and strangles Will. |
+| 3 | **WILL**†, scout and former poacher [Deceased] | Tracking wildlings for Waymar after 9 days beyond the Wall, troubled by the cold. | Describes 8 unmoving raiders, finds their camp empty, watches the duel from a tree and retrieves Waymar's broken blade. | Killed when the reanimated Waymar tightens his hands around his throat. |
 
 <a id="will-others"></a>
 ## ❄️ The Others
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **UNNAMED OTHER DUELIST**, pale supernatural warrior [Alive] | Concealed within the **Haunted Forest**, not yet seen by the rangers. | Approaches Waymar, fights him with a translucent sword and breaks his ordinary steel blade. | Leaves the ridge with the other attackers after Waymar's death; exact destination unknown. |
+| 4 | **UNNAMED OTHER DUELIST**, pale supernatural warrior [Alive] | Concealed within the **Haunted Forest**, not yet seen by the rangers. | Approaches Waymar, fights him with a translucent sword and breaks his ordinary steel blade. | Leaves the ridge with the other attackers after Waymar's death; exact destination unknown. |
 | 5 | **OTHER WATCHERS**, additional pale warriors [Alive; collectively observed] | Concealed around the wildling camp and the approaching rangers. | Appear silently during Waymar's duel, surround him and converge to kill him after his sword breaks. | Depart the ridge after killing Waymar; individual identities and subsequent positions unknown. |
 
 <p align="right"><a href="#will-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
@@ -126,7 +126,7 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 
 > **Chronology — Applies to: [Section 2 (Timeline)](#will-timeline):** [ROM_CSRM_AGOT.md](https://github.com/dz480/ASOIAF/blob/main/ROM_CSRM_AGOT.md) assigns **3 Jun 297 AC** to the Prologue. Dusk, night and later-night phases follow the primary narration; the passage of hours is known, but clock times are not. No RSDP anchor is authorised for this Project scope.
 
-> **Presence, significance and death counting — Applies to: [Section 5 (Roll Call)](#will-rollcall):** The roster distinguishes the single duelling Other from the collective watchers who act alongside it. All 3 Night's Watch rangers are physically present in the Prologue. Waymar's killing and Will's subsequent fatal strangulation comprise **2 Scope-local deaths**. The allegedly dead wildlings have vanished by the return to their encampment; their condition and final whereabouts are unresolved, so they are not counted as certain deaths or represented as materially individualised present characters.
+> **Presence, significance and death counting — Applies to: [Section 5 (Roll Call)](#will-rollcall):** The canonical [AGOT MCM](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) lists **Gared**, **Waymar Royce** and **Will** under the **Night's Watch Tertiary Characters**, regardless of their prominence in this single POV unit. The duelling Other has no individual classification in the MCM, whose individual character listings concern named characters; SROMX independently assigns that one-scene combatant **Tertiary** significance. The roster distinguishes the individual Other from the collective watchers who act alongside it. All 3 Night's Watch rangers are physically present in the Prologue. Waymar's killing and Will's subsequent fatal strangulation comprise **2 Scope-local deaths**. The allegedly dead wildlings have vanished by the return to their encampment; their condition and final whereabouts are unresolved, so they are not counted as certain deaths or represented as materially individualised present characters.
 
 > **Gared's later fate — Applies to: [Section 5 (Roll Call)](#will-rollcall):** **Gared** is alive when Waymar and Will leave him with the horses. The reader may encounter a later outcome in other POV material; that event lies beyond the Prologue boundary and is intentionally excluded from his closing status.
 
