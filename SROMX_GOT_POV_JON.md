@@ -1,15 +1,19 @@
 # A Game of Thrones | George R. R. Martin | POV: Jon Snow (Full Book)
 
+> **Full-book POV spoilers:** Jon Snow full-book selected POV coverage through GOT Ch. 70; the declared Spoiler Boundary applies.
+
 **Scope:** **GOT Ch. 5, 10, 19, 26, 41, 48, 52, 60, 70** (Jon I–IX; 9 POV chapters).  
 
 **18 Apr 298 AC → 26 Jan 299 AC**  
 *Winterfell · Kingsroad · Castle Black · Haunted Forest · Mole's Town and the Gift*
 
-**JON SNOW** · **EDDARD STARK** · **CATELYN STARK** · **ROBERT BARATHEON** · **ROBB STARK** · **RICKON STARK** · **ARYA STARK** · **SANSA STARK** · **JOFFREY BARATHEON** · **TYRION LANNISTER** · **BENJEN STARK** · **BRAN STARK** · **ALLISER THORNE** · **JEOR MORMONT** · **SAMWELL TARLY** · **MAESTER AEMON**
+
 
 **Spoiler Boundary:** End of **GOT Ch. 70 (Jon IX)**. This composite Scope contains only Jon's 9 POV chapters.
 
 <a id="jon-toc"></a>
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+
 ## Table of Contents
 
 - [1. Narrative Context](#jon-context)
@@ -42,6 +46,8 @@ After years of rule from **Winterfell**, **Eddard Stark** welcomes **King Robert
 
 <a id="jon-timeline"></a>
 # 2. Timeline
+
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-5) · [Reading Index](README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -93,6 +99,8 @@ Recovering from his burns, Jon receives the ancestral Valyrian steel sword **Lon
 
 News of **Ned**'s death brings Jon to the limit of that commitment. He secretly saddles a horse and rides south to join Robb, but Ghost and a party of friends led by Pyp and Grenn intercept him near **Mole's Town**. They recite the Watch's vows, and Jon returns. Mormont, who expected him to attempt departure, tells him that the approaching danger beyond the Wall demands his service. Jon accepts that the Watch is his place and pledges to remain for the great ranging.
 
+**CSRM chapters (publication order):** [Ch. 5](ROM_CSRM_AGOT.md#agot-ch-5) · [Ch. 10](ROM_CSRM_AGOT.md#agot-ch-10) · [Ch. 19](ROM_CSRM_AGOT.md#agot-ch-19) · [Ch. 26](ROM_CSRM_AGOT.md#agot-ch-26) · [Ch. 41](ROM_CSRM_AGOT.md#agot-ch-41) · [Ch. 48](ROM_CSRM_AGOT.md#agot-ch-48) · [Ch. 52](ROM_CSRM_AGOT.md#agot-ch-52) · [Ch. 60](ROM_CSRM_AGOT.md#agot-ch-60) · [Ch. 70](ROM_CSRM_AGOT.md#agot-ch-70)
+
 <p align="right"><a href="#jon-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
@@ -100,7 +108,9 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 <a id="jon-rollcall"></a>
 # 5. Roll Call
 
-**Character entries:** 36 Total | 10 Principal | 6 Supporting | 19 Tertiary | 1 Collective | 4 Deaths
+**Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
+
+**Character entries:** 20 Total | 0 Principal | 0 Supporting | 19 Tertiary | 1 Collective | 4 Deaths
 
 *Significance: 🏅 Principal · 🥈 Supporting · numbered Tertiary and Collective entries. Current Status follows each roster name in brackets. The Scope-local Death Count includes **Robert Baratheon**, **Eddard Stark**, **Othor** and **Jafer Flowers**; all die after the opening chapter, although Jon encounters their deaths only through reports or the recovered remains.*
 
@@ -127,7 +137,7 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 10 | **GHOST**, Jon's white direwolf [Alive] | At **Winterfell**, bonded with Jon. | Accompanies him to Castle Black, discovers remains, warns of danger and attacks **Othor**; helps find Jon during his flight south. | With Jon at **Castle Black**, an alert and protective companion. |
+| 1 | **GHOST**, Jon's white direwolf [Alive] | At **Winterfell**, bonded with Jon. | Accompanies him to Castle Black, discovers remains, warns of danger and attacks **Othor**; helps find Jon during his flight south. | With Jon at **Castle Black**, an alert and protective companion. |
 | 11 | **NYMERIA**, Arya's direwolf [Alive] | At **Winterfell**, bonded with Arya. | Helps Arya with packing and guards the door during Jon's private gift of Needle. | Last directly witnessed by Jon at Winterfell; later circumstances outside his POV. |
 
 <a id="jon-visitors"></a>
@@ -150,17 +160,17 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 | 🥈 | **JEOR MORMONT**, Lord Commander [Alive] | Commanding the **Night's Watch** from **Castle Black**. | Oversees Jon's assignment, reports his family's news, survives a wight attack and rewards Jon with **Longclaw**. | Leads the Watch and prepares to range beyond the Wall with Jon. |
 | 🥈 | **ALLISER THORNE**, master-at-arms [Alive] | Training recruits at **Castle Black**. | Taunts Jon and **Sam**, provokes confrontations and is later dispatched south carrying evidence of the risen dead. | Away from Castle Black on Watch business, following **Mormont**'s orders. |
 | 🥈 | **MAESTER AEMON**, Watch maester [Alive] | Ancient blind maester serving the Watch at **Castle Black**. | Finds an appropriate place for Sam, tends Jon's injuries and reveals his own **Targaryen** origins while counselling Jon about duty. | At **Castle Black**, leaving Jon free to decide his obligations. |
-| 18 | **DONAL NOYE**, one-armed armorer [Alive] | Working at the **Castle Black** forge. | Rebukes Jon's contempt for lesser-trained recruits and helps establish the respect that allows Jon to find companions. | Serving at the Wall's forge. |
-| 19 | **BOWEN MARSH**, Lord Steward [Alive] | Responsible for the Watch's stewards at **Castle Black**. | Explains the recruit assignments, placing Jon with **Mormont** and Sam with Aemon. | Administering Watch stewardship at Castle Black. |
-| 20 | **JAREMY RYKKER**, senior ranger [Alive] | Ranger and knight serving the Watch at **Castle Black**. | Helps direct the sworn recruits and examines the remains of **Othor** and **Jafer Flowers**. | Continuing ranger duties amid inquiries into the missing and the dead. |
+| 3 | **DONAL NOYE**, one-armed armorer [Alive] | Working at the **Castle Black** forge. | Rebukes Jon's contempt for lesser-trained recruits and helps establish the respect that allows Jon to find companions. | Serving at the Wall's forge. |
+| 4 | **BOWEN MARSH**, Lord Steward [Alive] | Responsible for the Watch's stewards at **Castle Black**. | Explains the recruit assignments, placing Jon with **Mormont** and Sam with Aemon. | Administering Watch stewardship at Castle Black. |
+| 5 | **JAREMY RYKKER**, senior ranger [Alive] | Ranger and knight serving the Watch at **Castle Black**. | Helps direct the sworn recruits and examines the remains of **Othor** and **Jafer Flowers**. | Continuing ranger duties amid inquiries into the missing and the dead. |
 
 <a id="jon-command-service"></a>
 ### Patrol, Care & Service
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 21 | **DYWEN**, veteran ranger and forester [Alive] | Serving the Watch as an experienced ranger. | Joins the expedition to the strange corpses and notes their unnatural smell and condition. | Still serving at the Wall; subsequent searches bring no news of Benjen. |
-| 22 | **CHETT**, steward and kennel worker [Alive] | Attached to **Maester Aemon**'s service at Castle Black. | Attempts to impede Jon's appeal for Sam, is reassigned from Aemon's assistance and handles dogs during the discovery of the corpses. | Continues Watch service, no longer assigned as Aemon's principal assistant. |
+| 6 | **DYWEN**, veteran ranger and forester [Alive] | Serving the Watch as an experienced ranger. | Joins the expedition to the strange corpses and notes their unnatural smell and condition. | Still serving at the Wall; subsequent searches bring no news of Benjen. |
+| 7 | **CHETT**, steward and kennel worker [Alive] | Attached to **Maester Aemon**'s service at Castle Black. | Attempts to impede Jon's appeal for Sam, is reassigned from Aemon's assistance and handles dogs during the discovery of the corpses. | Continues Watch service, no longer assigned as Aemon's principal assistant. |
 | 23 | **CLYDAS**, attendant to Maester Aemon [Alive] | Assisting the blind maester at **Castle Black**. | Guides **Aemon** to the vow ceremony, helps with the rookery and conveys official correspondence. | Remains a helper to Aemon at the Wall. |
 
 <a id="jon-recruits"></a>
@@ -172,28 +182,28 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **SAMWELL TARLY**, novice; later Watch steward [Alive] | At his family's home in the south before his forced departure for the Wall. | Endures harsh training, befriends Jon, gains placement with **Aemon** and helps restore Jon's allegiance. | Serving as Aemon's assistant and supporting Jon at **Castle Black**. |
-| 25 | **GRENN**, recruit; later ranger [Alive] | At the Wall, beginning harsh military instruction. | Resents Jon after a training injury but becomes his friend, helps defend Sam and rides after the departing Jon. | Sworn brother of the Watch at Castle Black. |
+| 9 | **GRENN**, recruit; later ranger [Alive] | At the Wall, beginning harsh military instruction. | Resents Jon after a training injury but becomes his friend, helps defend Sam and rides after the departing Jon. | Sworn brother of the Watch at Castle Black. |
 | 26 | **PYPAR (PYP)**, former mummer and Watch recruit [Alive] | Training at **Castle Black** among the new recruits. | Supports Jon against other trainees, befriends Sam and leads the attempt to bring Jon back after his flight. | Sworn brother at Castle Black; a principal force in Jon's return. |
-| 27 | **HALDER**, quarryman's son and Watch recruit [Alive] | Learning military skills at **Castle Black**. | Initially injures Sam in practice, later becomes part of the group protecting him and rides to intercept Jon. | Serving among the Watch's builders. |
-| 28 | **DAREON**, singer and Watch recruit [Alive] | Training at **Castle Black** after punishment for a scandal in the south. | Practices with Jon, offers music in the common hall and is assigned to Eastwatch duties. | Sent towards **Eastwatch-by-the-Sea** as a steward. |
-| 32 | **MATTHAR**, Watch recruit [Alive] | Training among the men of Castle Black. | Joins the graduating class and expresses solidarity with Jon over his father's imprisonment. | Sworn brother of the Night's Watch. |
+| 11 | **HALDER**, quarryman's son and Watch recruit [Alive] | Learning military skills at **Castle Black**. | Initially injures Sam in practice, later becomes part of the group protecting him and rides to intercept Jon. | Serving among the Watch's builders. |
+| 12 | **DAREON**, singer and Watch recruit [Alive] | Training at **Castle Black** after punishment for a scandal in the south. | Practices with Jon, offers music in the common hall and is assigned to Eastwatch duties. | Sent towards **Eastwatch-by-the-Sea** as a steward. |
+| 13 | **MATTHAR**, Watch recruit [Alive] | Training among the men of Castle Black. | Joins the graduating class and expresses solidarity with Jon over his father's imprisonment. | Sworn brother of the Night's Watch. |
 
 <a id="jon-hostiles"></a>
 ### Hostile Recruits
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 29 | **RAST**, Watch recruit [Alive] | Training under **Alliser Thorne**. | Participates in tormenting **Sam** and is threatened by Jon and his allies until he desists. | Continues service in the Watch. |
+| 14 | **RAST**, Watch recruit [Alive] | Training under **Alliser Thorne**. | Participates in tormenting **Sam** and is threatened by Jon and his allies until he desists. | Continues service in the Watch. |
 | 30 | **TODDER (TOAD)**, Watch recruit [Alive] | Training among **Thorne**'s novices. | Initially joins a confrontation with Jon, later accepts the new brotherhood and helps intercept him on the kingsroad. | A sworn brother who assists in returning Jon to the Watch. |
-| 31 | **ALBETT**, Watch recruit [Alive] | Training with other newcomers at **Castle Black**. | Fights beside other boys during Jon's confrontations and is ultimately assigned to the builders. | Working as a sworn brother in the builder order. |
+| 16 | **ALBETT**, Watch recruit [Alive] | Training with other newcomers at **Castle Black**. | Fights beside other boys during Jon's confrontations and is ultimately assigned to the builders. | Working as a sworn brother in the builder order. |
 
 <a id="jon-dead-rangers"></a>
 ## ☠️ Dead Rangers & the Warning
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 33 | **OTHOR**†, missing ranger; later wight [Deceased] | Alive and serving among the Watch's rangers before **Benjen**'s fateful expedition. | Found dead with little decomposition, taken to Castle Black and reanimated as a deadly attacker. | Burned by **Jon** in Mormont's tower; no longer active. |
-| 34 | **JAFER FLOWERS**†, missing ranger; later wight [Deceased] | Alive and serving as a ranger before **Benjen**'s expedition. | Found dead, with a hand torn away by **Ghost**; his corpse is returned to Castle Black and reanimates. | Destroyed after rising; his severed hand is preserved as evidence. |
+| 17 | **OTHOR**†, missing ranger; later wight [Deceased] | Alive and serving among the Watch's rangers before **Benjen**'s fateful expedition. | Found dead with little decomposition, taken to Castle Black and reanimated as a deadly attacker. | Burned by **Jon** in Mormont's tower; no longer active. |
+| 18 | **JAFER FLOWERS**†, missing ranger; later wight [Deceased] | Alive and serving as a ranger before **Benjen**'s expedition. | Found dead, with a hand torn away by **Ghost**; his corpse is returned to Castle Black and reanimates. | Destroyed after rising; his severed hand is preserved as evidence. |
 | 35 | **MORMONT'S RAVEN**, distinctive talking raven [Alive] | Living with **Jeor Mormont** in his quarters at Castle Black. | Repeats the Lord Commander's words, reacts to visitors and cries out during the wight's incursion. | Attending Mormont at Castle Black. |
 | 36 | **NIGHT'S WATCH RANGERS**, unnamed search and escort brothers [Mixed / not individually tracked] | Serving in ranger units based at the Wall. | Accompany officers on searches, recover the strange corpses and provide patrol coverage. | Remain operational amid unresolved danger north of the Wall. |
 
@@ -236,4 +246,7 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 > **Animal inclusion — Applies to: [Section 5 (Roll Call)](#jon-rollcall) and [Section 6 (Top Cinematic Scenes)](#jon-scenes):** Ghost qualifies through independent tracking, warning and defence; Nymeria assists Arya during Jon's last visit, and Mormont's speaking raven has an identifiable recurrent role and warning function. Ordinary dogs and horses remain below the individual character threshold.
 
-> **Publication and formatting authority — Applies to: Entire document:** Canonical [SROMX v11.26](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.73](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). GitHub-only TOC, return buttons and this archival appendix are retained in the canonical record and omitted from ordinary ChatGPT publication.
+> **Publication and formatting authority — Applies to: Entire document:** Canonical [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). GitHub-only TOC, return buttons and this archival appendix are retained in the canonical record and omitted from ordinary ChatGPT publication.
+
+
+> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
