@@ -34,7 +34,7 @@
 
 After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal siblings **Viserys** and **Daenerys** wander among the **FREE CITIES**, dependent on wealthier patrons. Viserys dreams of restoring his rule over **Westeros**; Daenerys longs instead for the house with the red door in **Braavos**. Their host in **PENTOS**, **Illyrio Mopatis**, arranges for Daenerys to meet **Khal Drogo**, a powerful **Dothraki** warlord. Viserys believes that marrying her to the khal will secure the mounted army he lacks. Daenerys begins without independent wealth, political authority or a safe home, and is expected to submit to her brother's bargain.
 
-<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -56,7 +56,7 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 | 9 | **22 Jan 299 AC** | **DOTHRAKI SEA**<br>• **Remnant encampment** | **GOT Ch. 68:** **Rhaego** is stillborn, **Drogo** is unresponsive, and the khalasar is dispersed. Dany ends Drogo's life. |
 | 10 | **23 Jan 299 AC** | **DOTHRAKI SEA**<br>• **Funeral pyre** | **GOT Ch. 72:** **Dany** frees the remaining captives, claims leadership, burns **Mirri** with Drogo's remains, and emerges with 3 dragons. |
 
-<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -73,7 +73,7 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 | 6 | **Jorah's Protective Service** | **Jorah Mormont** advises **Dany**, identifies the wine poisoner and fights to defend her during the ritual. He then becomes her first sworn Queensguard. |
 | 7 | **The Dragon Eggs** | **Illyrio** gives **Dany** 3 apparently petrified eggs; she grows fascinated by them and eventually places them on **Drogo**'s funeral pyre. All 3 hatch. |
 
-<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -94,7 +94,7 @@ After a prolonged unconsciousness, Daenerys learns that Rhaego was stillborn and
 
 For the funeral, she frees the remaining enslaved people, asserts her claim as Viserys's heir and offers the survivors a place beside her. She gives weapons to Jhogo, **Aggo** and Rakharo, seeking their loyalty; Jorah swears as her first Queensguard. She lays the eggs upon Drogo's funeral pyre, orders Mirri bound to it and walks into the flames. At dawn she emerges alive with **3 newly hatched dragons**, and the remaining Dothraki kneel before her.
 
-<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -174,7 +174,7 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 | 24 | **GREEN-AND-BRONZE DRAGON**, unnamed hatchling [Alive] | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | Hatched, suckling at Dany's breast. |
 | 25 | **CREAM-AND-GOLD DRAGON**, unnamed hatchling [Alive] | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | Hatched, suckling at Dany's breast. |
 
-<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -192,7 +192,7 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 | 7 | **The Silver Mare** | Daenerys, Drogo, Viserys, Illyrio, Jorah, handmaids, guests | **GOT Ch. 11:** At a lavish Dothraki wedding, **Drogo** guides a splendid silver-grey mare through the crowd and lifts his bride into the saddle. |
 | 8 | **Drogo's Final Night** | Daenerys, Drogo | **GOT Ch. 68:** **Daenerys** washes and tends her unresponsive husband and keeps vigil beneath a barren sky before ending his life. |
 
-<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 

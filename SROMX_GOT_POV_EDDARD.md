@@ -35,7 +35,7 @@ The long summer continues across **Westeros**, 15 years after **Robert Baratheon
 
 The recent death of **Jon Arryn**, who fostered both men and subsequently served as Robert's Hand, has left the king without his principal adviser. Robert travels north with **Cersei Lannister**, their children and a formidable royal entourage. Although the rebellion established Robert's kingship, the old conflicts between the Starks, Lannisters and Targaryens remain embedded in their personal histories. Ned's attachment to his family and northern duties stands against the obligations of his friendship with the king.
 
-[↑ Back to TOC](#eddard-toc)
+<p align="right"><a href="#eddard-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -57,7 +57,7 @@ The recent death of **Jon Arryn**, who fostered both men and subsequently served
 | 9 | **24 Oct 298 AC** | **CROWNLANDS**<br>• **King's Landing**<br>&nbsp;&nbsp;⤷ Tower of the Hand; Iron Throne | **GOT Ch. 49:** Robert dies. Ned attempts to establish his regency and contest Joffrey's succession, but **Janos Slynt**'s gold cloaks support Cersei. Littlefinger betrays Ned, whose guards are slaughtered. |
 | 10 | **30 Dec 298 AC** | **CROWNLANDS**<br>• **King's Landing**<br>&nbsp;&nbsp;⤷ Red Keep<br>&nbsp;&nbsp;&nbsp;&nbsp;⤷ Black cells | **GOT Ch. 58:** Imprisoned and injured, Ned receives **Varys**, who reports on his daughters and proposes a confession of treason in exchange for a possible reprieve. |
 
-[↑ Back to TOC](#eddard-toc)
+<p align="right"><a href="#eddard-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -74,7 +74,7 @@ The recent death of **Jon Arryn**, who fostered both men and subsequently served
 | 6 | **Royal Justice in the Riverlands** | Petitioners accuse **Gregor Clegane** of devastating settlements along the western riverlands. With **Robert** absent, **Ned** strips Gregor of his titles and commissions **Beric Dondarrion** to bring him to justice, placing royal authority directly against a powerful Lannister bannerman. |
 | 7 | **The Government of an Indebted Kingdom** | **Ned** inherits a small council dominated by experienced courtiers and discovers that the Crown owes more than 6 million gold dragons. **Robert**'s extravagant spending and habitual avoidance of administration force Ned to confront a government whose formal authority exceeds its practical independence. |
 
-[↑ Back to TOC](#eddard-toc)
+<p align="right"><a href="#eddard-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -95,7 +95,7 @@ Robert returns from hunting mortally wounded by a boar. Ned writes the king's fi
 
 Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, isolation and uncertainty over his family. Varys eventually visits disguised as a gaoler. He reports that Arya escaped capture, Sansa remains under Cersei's control, and **Robb** has raised an army, while the Lannisters face increasing danger from Robert's surviving brothers. Varys proposes that Ned confess to treason, recognise Joffrey and abandon Stannis's cause in exchange for the possibility of taking the black. Ned initially rejects the dishonourable confession, but Varys invokes Sansa's vulnerability. Their conversation ends with Ned confronting a decision whose consequences extend far beyond his own imprisonment.
 
-[↑ Back to TOC](#eddard-toc)
+<p align="right"><a href="#eddard-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -239,7 +239,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 | 🥈 | **GENDRY**, blacksmith's apprentice; Robert's illegitimate son [Alive] | Apprenticed to **Tobho Mott**. | Meets **Ned**, reveals his resemblance to **Robert**, and becomes a crucial part of the investigation. | Last established at the forge; true parentage remains politically consequential. |
 | 56 | **MYCAH**†, butcher's boy [Deceased] | Attached to the travelling royal household's supply company. | Becomes involved in **Arya** and **Joffrey**'s confrontation and flees. | Killed by **Sandor Clegane**; his body is shown to **Ned** at Darry. |
 
-[↑ Back to TOC](#eddard-toc)
+<p align="right"><a href="#eddard-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 
@@ -257,7 +257,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 | 7 | **The Kings in the Crypts** | Eddard, Robert | **GOT Ch. 4:** Beneath **Winterfell**, the 2 old friends descend past generations of stone kings and direwolves to the tomb of **Lyanna Stark**. Robert's grief and his offer of the Handship unfold in the cold darkness, surrounded by the dead rulers of the North. |
 | 8 | **The Spider in the Black Cells** | Eddard, Varys | **GOT Ch. 58:** A gaoler enters Ned's lightless dungeon carrying wine. Beneath the rough clothing and false beard is **Varys**, who recounts the destruction of Ned's position and offers a possible escape through confession. The conversation concludes with Ned's daughter's life weighing upon his decision. |
 
-[↑ Back to TOC](#eddard-toc)
+<p align="right"><a href="#eddard-toc" title="Return to Table of Contents">↑</a></p>
 
 ---
 

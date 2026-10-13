@@ -57,6 +57,22 @@ def anchors(text: str, label: str) -> set[str]:
 markdown = {p.resolve(): p.read_text(encoding="utf-8") for p in ROOT.rglob("*.md") if ".git" not in p.parts}
 anchor_map = {p: anchors(text, str(p.relative_to(ROOT))) for p, text in markdown.items()}
 
+# Uniform return-to-contents controls are a plain, right-aligned linked ↑.
+TOC_RETURN = re.compile(
+    r'<p align="right"><a href="#[a-z0-9-]+" '
+    r'title="Return to Table of Contents">↑</a></p>'
+)
+toc_return_count = 0
+for path, content in markdown.items():
+    for line_number, line in enumerate(content.splitlines(), 1):
+        if any(marker in line for marker in
+               ("Back to TOC", "<kbd>↑</kbd>", "Return to Table of Contents", ">↑</a>")):
+            if not TOC_RETURN.fullmatch(line.strip()):
+                fail(f"{path.relative_to(ROOT)}:{line_number}: nonstandard TOC return control")
+            else:
+                toc_return_count += 1
+
+
 for path, content in markdown.items():
     label = str(path.relative_to(ROOT))
     for destination in LINK.findall(content) + HTML_HREF.findall(content):
