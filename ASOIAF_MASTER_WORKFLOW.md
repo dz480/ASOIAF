@@ -1,7 +1,8 @@
 # ASOIAF — Master Reread Workflow
 
 **Status:** Canonical project operating document  
-**Version:** 1.0  
+**Version:** 1.1
+**Last Updated:** 13 Oct 2026  
 **Established:** 13 Oct 2026  
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
 **Permanent filename:** `ASOIAF_MASTER_WORKFLOW.md`  
@@ -49,7 +50,7 @@ The completed *A Game of Thrones* workflow is the foundation for this repeatable
 | I — Preparation | 1 | Acquire complete EPUB | Before reading | Authoritative source file |
 | I — Preparation | 2 | RTE Scan & Schedule | Before reading | Complete reading-unit plan |
 | II — Reference Construction | 3 | BUILD ROM MCM | Before reading | Whole-book character map in GitHub |
-| II — Reference Construction | 4 | B&P ROM CSRM | Before reading | Whole-book chronology in GitHub and chat |
+| II — Reference Construction | 4 | BUILD ROM CSRM | Before reading | Whole-book chronology in GitHub only |
 | III — Readthrough & POV Reconstruction | 5 | Read the novel | **Concurrent with Step 6** | Chapters completed against RTE |
 | III — Readthrough & POV Reconstruction | 6 | B&P SROMX by POV | **Concurrent with Step 5** | One complete POV record per narrator |
 | IV — Reconciliation | 7 | Reconcile every POV SROMX | After all POV records are complete | Corrected, cross-consistent POV reports |
@@ -114,25 +115,31 @@ Construct the **whole-book Master Character Map**, using the primary text and, f
 BUILD ROM MCM: [BOOK], WHOLE BOOK
 ```
 
-**Delivery rule:** **BUILD** creates and commits the record to GitHub, then returns only a **concise completion report and direct file link**. Do not print the full MCM in the ChatGPT conversation.
+**Delivery rule:** **BUILD** creates and commits the record to GitHub for the first time, then returns only a concise completion report and direct link. Do not print the full MCM in ChatGPT.
 
 **Protocol constraint:** Follow the current [ROM MCM](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHARACTERS/ROM_MASTER_CHARACTER_MAP.md) manual, including its **ten-minute creation/initialisation feasibility gate**. If the initial build exceeds that gate, stop and request the explicit authorisation the manual requires, rather than silently commencing an extended operation.
 
 **Completion test:** A usable, priority-accurate MCM is committed to GitHub and its quality state is reported truthfully.
 
-### Step 4 — B&P ROM CSRM
+### Step 4 — BUILD ROM CSRM
 
 Construct the **whole-book Chapter Sequence Recall Map**, including every qualifying chapter and any Prologue/Epilogue. The CSRM establishes chapter coordinates, chronology, key events and the chapter-level reference structure used for later POV navigation.
 
 **Invocation:**
 
 ```text
-B&P ROM CSRM: [BOOK], WHOLE BOOK
+BUILD ROM CSRM: [BOOK], WHOLE BOOK
 ```
 
-**Delivery rule:** **B&P** both saves to GitHub and displays the substantive document in ChatGPT.
+**Delivery rule:** **BUILD** constructs and commits the complete whole-book CSRM to GitHub **without showing it in ChatGPT**. The whole-book reference is advance-built and spoiler-bearing. Its reader-facing counterpart is requested later, only through the latest established Reading Point or an explicitly supplied completed endpoint:
 
-**Completion test:** All authorised narrative units have a stable chapter reference, chronological information is source-supported and the document is published.
+```text
+A&P ROM CSRM: [BOOK], MLRP
+```
+
+Here A&P updates/maintains the **reader-facing CSRM coverage through MLRP** and displays **only that eligible bounded copy**, while the complete advance-built whole-book master remains intact in GitHub. Establish MLRP explicitly from the current conversation or the authorised registry; if unavailable, request it rather than inferring it. The specialist CSRM manual governs the mechanics of protecting the stored whole-book master.
+
+**Completion test:** All authorised narrative units have a stable chapter reference, chronological information is source-supported and the complete CSRM is committed to GitHub, without unrestricted chat publication.
 
 **Spoiler separation:** Both preparatory documents may contain **whole-book foresight**. Their existence never authorises an unsolicited spoiler-bearing reading response or a change to the user's live readthrough position.
 
@@ -255,17 +262,19 @@ These are the ASOIAF project's **operational command conventions**. Specialist p
 
 | Command | Meaning in ASOIAF | ChatGPT delivery | GitHub action |
 |---|---|---|---|
-| **BUILD** | First-time creation of a record, **reserved here for MCM** | Concise completion report + direct file link; full MCM withheld from chat | Create and commit |
-| **B&P** | First-time **Build & Publish** of RTE, CSRM, SROMX, MNT and similar records | Display complete substantive output, in addition to status and link | Create and commit |
+| **BUILD** | First-time construction and GitHub commit of a new Protocol Record; used here for MCM and whole-book CSRM | Concise confirmation + link; no full record display | Create and commit for the first time |
+| **B&P** | First-time Build & Publish of RTE, SROMX, MNT and other authorised reader-eligible outputs | Display the eligible reader-facing substantive output | Create and commit for the first time |
 | **UPDATE** | Bring an **existing ROM record file** into structural, formatting and terminology compliance with its latest canonical manual | Concise change report and file link, unless full publication is requested | Modify and commit existing record |
-| **REVISE IN GITHUB** | User's convention for **rewriting or substantively modifying a section of an existing Protocol Manual** | Report the manual changes and direct file link | Modify and commit the canonical **manual** |
+| **CREATE** | Construct a new ROM output in ChatGPT only | Full draft output in chat | None |
+| **DRAFT REVISIONS** | Test proposed changes to a named record Section, optionally labelled `Test:` | Revised test Section in chat only | None |
+| **REVISE IN GITHUB** | Rewrite, revise or add permanent rules/structure in an existing canonical Protocol Manual | Eligible substantive manual content unless a summary is requested | Modify and commit the canonical Manual |
 
 **Rules of interpretation:**
 
-- **Initial creation:** Start the file-creation invocation with **B&P**, **except ROM MCM**, which starts with **BUILD**. A separate instruction to save to GitHub is **redundant** for either command.
-- **BUILD is not B&P:** It includes GitHub persistence **without** displaying the complete MCM in the ChatGPT window.
+- **Initial creation:** Use **BUILD** for the MCM and whole-book CSRM; use **B&P** for the reader-eligible RTE, SROMX and MNT. CREATE is chat-only and makes no GitHub file. A separate instruction to save to GitHub is **redundant** for either command.
+- **BUILD is not B&P:** It creates a new file in GitHub without displaying its contents. BUILD cannot overwrite existing records. Both MCM and the full CSRM remain GitHub-only.
 - **UPDATE is fixed-boundary maintenance, not ADVANCE:** Retrieve the current record and manual, identify out-of-date structures and bring the **record** up to date while preserving its evidence and established substance, except for changes genuinely required by protocol compliance.
-- **REVISE IN GITHUB is manual maintenance:** In this project's prompt vocabulary, reserve it for rewriting the **Protocol Manual**. The canonical cross-project GitHub workflow remains authoritative for the underlying GitHub mechanics and its broader document-maintenance operation.
+- **REVISE IN GITHUB is strictly manual maintenance:** It changes permanent Protocol Manual rules or structures, often after a DRAFT REVISIONS test. A subsequent UPDATE or U&P brings the **existing record** into compliance. DRAFT REVISIONS itself never commits.
 - **Reconciliation is its own audit task:** Source-grounded changes to multiple already-created records are authorised by the explicit Step 7 reconciliation prompt. They must not be mislabeled as rewriting the SROMX manual.
 - **Authorisation:** A request to discuss, inspect or audit a record is read-only unless a recognised command or explicit instruction authorises creation or modification.
 
@@ -273,7 +282,8 @@ These are the ASOIAF project's **operational command conventions**. Specialist p
 
 ```text
 BUILD ROM MCM: [BOOK], WHOLE BOOK
-B&P ROM CSRM: [BOOK], WHOLE BOOK
+BUILD ROM CSRM: [BOOK], WHOLE BOOK
+[A&P ROM CSRM: [BOOK], MLRP — when a reader-facing CSRM is requested]
 B&P SROMX: [BOOK], FULL BOOK, POV [CHARACTER]
 UPDATE SROMX: [BOOK], POV [CHARACTER]
 REVISE IN GITHUB: ROM SROMX
@@ -337,7 +347,7 @@ RTE SCAN: [BOOK]
 B&P RTE: [BOOK], WHOLE BOOK
 
 BUILD ROM MCM: [BOOK], WHOLE BOOK
-B&P ROM CSRM: [BOOK], WHOLE BOOK
+BUILD ROM CSRM: [BOOK], WHOLE BOOK
 
 [READ IN RTE ORDER]
 B&P SROMX: [BOOK], FULL BOOK, POV [CHARACTER]
@@ -348,6 +358,8 @@ B&P SROMX: [BOOK], FULL BOOK, POV [CHARACTER]
 B&P ROM MNT: [BOOK], WHOLE BOOK
 APPLY ROM NAVIGATION: dz480/ASOIAF
 ```
+
+**PUBLISH presentation:** PUBLISH and composite publication display only reader-eligible substantive material: omit GitHub-only TOCs, return-to-TOC buttons, greyed/muted notes, standalone references, sources, internal drafting notes and backend appendices, retaining them in GitHub.
 
 **Terminal state for each novel:** A complete and mutually consistent book dossier, with every POV accounted for, a final ranked MNT and verified GitHub access. The repository as a whole remains an **expanding series record**, not a finished one-book archive.
 
