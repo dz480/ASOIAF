@@ -1,16 +1,16 @@
 # ASOIAF — Master Reread Workflow
 
 **Status:** Canonical project operating document  
-**Version:** 1.3
+**Version:** 1.4
 **Last Updated:** 13 Oct 2026  
 **Established:** 13 Oct 2026  
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
 **Permanent filename:** `ASOIAF_MASTER_WORKFLOW.md`  
 **Scope:** Repeatable book-by-book reread, source analysis, ROM production, reconciliation and GitHub archival workflow
 
-**Operating principle:** Prepare the entire book's reference architecture **before reading**; conduct the readthrough and POV SROMX construction **concurrently**; then reconcile all completed POV accounts and synthesise the final, whole-book ROM MNT. This document is the central operational guide for the ASOIAF repository.
+**Operating principle:** Prepare the entire book's reference architecture **before reading**; conduct the readthrough and POV SROMX construction **concurrently**; then reconcile all completed POV accounts and synthesise the final, whole-book ROM MNT. This document is the ASOIAF **Type C continuous-series reread specialisation** of the universal six-phase lifecycle.
 
-**Authority boundary:** This document governs *which operations occur, in what order, with which prompts and completion conditions*. The canonical [RTE](https://github.com/dz480/CG-Protocols/blob/main/RTE/RTE.md), [ROM](https://github.com/dz480/CG-Protocols/tree/main/ROM) and [ChatGPT ↔ GitHub](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md) manuals govern their respective protocol structures and GitHub mechanics. This project document does not replace those manuals.
+**Authority boundary and inheritance:** This Project Manual explicitly inherits the [universal ROM READTHROUGH PROJECT WORKFLOW v1.0](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md), including its six phases, commands, automatic navigation duties, reconciliation requirements and authorised series rollover. This document governs *which operations occur, in what order, with which prompts and completion conditions*. The canonical [RTE](https://github.com/dz480/CG-Protocols/blob/main/RTE/RTE.md), [ROM](https://github.com/dz480/CG-Protocols/tree/main/ROM) and [ChatGPT ↔ GitHub](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md) manuals govern their respective protocol structures and GitHub mechanics. This project document does not replace those manuals.
 
 <a id="asoiaf-workflow-toc"></a>
 ## Table of Contents
@@ -36,6 +36,10 @@ This master workflow is the repository's **control document**: use it to plan th
 
 The **book** is the basic completion unit. Within each book, **source chapters** are the evidence units; **RTE reading units** may be chapters, Sequences or character POVs according to the authorised schedule; **SROMX POV selections** assemble the actual chapters narrated by a particular character, retaining their source-order coordinates. The final MNT is a **book-wide** reconstruction across those POV perspectives, not an aggregation of their rankings.
 
+**Profile and phase mapping:** ASOIAF follows the **Type C, overview-led continuous-series reread** profile. Its established nine steps are a local checklist, not a competing universal lifecycle: universal Phase I corresponds to local Steps 1–2 (source commitment and RTE); Phase II to the already-established Project/repository and reaffirmed Type C configuration for each book; Phase III to Steps 3–4 (whole-book MCM and CSRM); Phase IV to Steps 5–6 (reread and POV SROMX); Phase V to Steps 7–8 (reconciliation and whole-book MNT), with automatic incremental navigation on every committed record write; Phase VI to Step 9 (final book validation) and separately authorised series rollover.
+
+**Supported reread variations:** The Project deliberately uses complete-book advance-built character and chronology references; omits routine chapter SNRs; does not require routine LRP/MLRP registry changes; publishes non-consecutive, full-book POV-selected SROMX reports only after their respective selected chapters have been read; and constructs the whole-book MNT from reconciled POV records. These are authorised specialisations rather than changes to universal command semantics or source/spoiler rules.
+
 The completed *A Game of Thrones* workflow is the foundation for this repeatable process. Later books inherit its **method**, not its exact character counts, chapter totals, thread rankings, plot events or filenames.
 
 <p align="right"><a href="#asoiaf-workflow-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
@@ -57,13 +61,15 @@ The completed *A Game of Thrones* workflow is the foundation for this repeatable
 | V — Synthesis & Completion | 8 | B&P whole-book ROM MNT | After Step 7 | Unified, ranked macro-narrative record |
 | V — Synthesis & Completion | 9 | Repository navigation & validation | After Step 8 | Indexed and verified book dossier |
 
+**Project establishment:** Universal Phase II is already satisfied by the established `dz480/ASOIAF` repository and ChatGPT Project. On each later book, reconfirm source, RTE, book paths and Type C overview-led configuration without recreating those foundations. The local `B&P RTE` is the Project's persisted-and-published full-book RTE variation.
+
 **Critical timing rules:**
 
 - Steps **3–4 precede 5–6**. The MCM and CSRM are whole-book preparatory reference materials, even though the user has not yet read that book in the current reread.
 - Steps **5 and 6 are one ongoing parallel activity**. There is no requirement to finish the entire book before beginning POV reconstructions.
 - A complete, full-book **POV** SROMX becomes ready when that POV's **last selected chapter** has been read; other POV reconstructions may continue.
 - Steps **7–9** follow completion of the novel and all its POV records. Step 8 includes MNT creation **and** publication; Step 9 is a final audit, not a second publication step.
-- **No automatic or routine Reading Point registry updates are required** for this project. For a spoiler-bounded A&P CSRM request, supply the current MLRP or resolve it from an already established authoritative Reading Point; never infer reading progress from GitHub navigation.
+- **No automatic or routine Reading Point registry updates are required** for this project. Universal `COMMENCE READTHROUGH` remains an optional, explicitly user-authorised administrative initialisation; abbreviated recap-led `A&P:` refers only to `A&P ROM SNR` and does not alter ASOIAF's overview-led policy. For a spoiler-bounded A&P CSRM request, supply the current MLRP or resolve it from an already established authoritative Reading Point; never infer reading progress from GitHub navigation.
 
 <p align="right"><a href="#asoiaf-workflow-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -168,7 +174,7 @@ Repeat for all POVs, including a Prologue-only or Epilogue-only narrator where a
 
 Each SROMX must follow the current [SROMX manual](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), including its narrative-context, timeline, POV-local MNT, narrative-overview, roll-call and cinematic-scene requirements. Reconcile character classifications to the MCM and chapter coordinates to the CSRM as each record is constructed.
 
-**Completion test:** Every qualifying POV has a published, source-grounded SROMX covering its declared chapter list; all POV-local MNT assessments exist within their respective records.
+**Completion test:** Every qualifying POV has a published, source-grounded SROMX covering its declared chapter list; all POV-local MNT assessments exist within their respective records. Each B&P includes applicable incremental ROM NAVIGATION verification and repair, including valid CSRM reciprocals and Reading Index links, rather than deferring those links until book completion.
 
 **Scope rule:** The term **FULL BOOK, POV [CHARACTER]** identifies the **complete POV chapter selection** in the book, not permission to insert unexplained knowledge from chapters outside that POV or from later books. Handle wider-book context only as permitted by the current SROMX manual.
 
@@ -237,7 +243,7 @@ MNTs into the final book-wide hierarchy.
 
 ### Step 9 — Final Repository Navigation and Validation
 
-Apply the universal ROM navigation system to the repository, now that the whole-book MNT exists. Check the book's reading-index entries, genuine chapter/POV links, MCM/CSRM/SROMX/MNT relationships, spoiler labels, explicit anchors and validator results.
+Perform the **final comprehensive audit and application** of the universal ROM navigation system, now that the whole-book MNT exists. Earlier committed BUILD, ADVANCE and UPDATE operations, including B&P, A&P and U&P, must already have maintained applicable links incrementally; this step verifies the complete repository rather than first creating its navigation. Check the book's reading-index entries, genuine chapter/POV links, MCM/CSRM/SROMX/MNT relationships, spoiler labels, explicit anchors and validator results.
 
 **Invocation:**
 
@@ -276,6 +282,7 @@ These are the ASOIAF project's **operational command conventions**. Specialist p
 - **UPDATE is fixed-boundary maintenance, not ADVANCE:** Retrieve the current record and manual, identify out-of-date structures and bring the **record** up to date while preserving its evidence and established substance, except for changes genuinely required by protocol compliance.
 - **REVISE IN GITHUB is strictly manual maintenance:** It changes permanent Protocol Manual rules or structures, often after a DRAFT REVISIONS test. A subsequent UPDATE or U&P brings the **existing record** into compliance. DRAFT REVISIONS itself never commits.
 - **Reconciliation is its own audit task:** Source-grounded changes to multiple already-created records are authorised by the explicit Step 7 reconciliation prompt. They must not be mislabeled as rewriting the SROMX manual.
+- **Automatic incremental ROM navigation:** Every successful committed ROM Record BUILD, ADVANCE and UPDATE, including B&P, A&P and U&P, checks and repairs applicable contextual and reciprocal links and Reading Index entries as part of the same operation. A read-only PUBLISH, chat-only CREATE or DRAFT REVISIONS does not trigger navigation writes. The final APPLY is a distinct full-repository audit.
 - **Authorisation:** A request to discuss, inspect or audit a record is read-only unless a recognised command or explicit instruction authorises creation or modification.
 
 **Examples:**
@@ -306,13 +313,14 @@ REVISE IN GITHUB: ROM SROMX
 
 ### Canonical hierarchy
 
-- **This file:** Defines ASOIAF project stages, sequencing, invocations and completion gates.
+- **[Universal ROM Readthrough Project Workflow](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md):** Parent lifecycle, project classification, shared commands, incremental navigation, reconciliation and series rollover.
+- **This file:** Defines the subordinate ASOIAF Type C project stages, POV-based source selections, existing no-routine-LRP policy, invocations and completion gates.
 - **[RTE manual](https://github.com/dz480/CG-Protocols/blob/main/RTE/RTE.md):** Source counting, reading-time calculations and RTE formatting.
 - **[MCM](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHARACTERS/ROM_MASTER_CHARACTER_MAP.md), [CSRM](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/ROM_CSRM.md), [SROMX](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [MNT](https://github.com/dz480/CG-Protocols/blob/main/ROM/ANALYSIS/ROM_MNT.md) manuals:** Specialist record content, structure and evidence.
 - **[ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md):** Universal contextual links, spoiler-aware navigation and repository-level graph integrity.
 - **[ChatGPT ↔ GitHub Workflow](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md):** GitHub persistence, verification, maintenance and Markdown navigation presentation.
 
-Where requirements conflict, apply the governing **specialist manual** to the record's substance and the canonical cross-project workflow to GitHub mechanics. The user-agreed BUILD/B&P/UPDATE/REVISE invocation vocabulary in Section 8 governs how the ASOIAF workflow is requested.
+Apply the **universal readthrough parent** to lifecycle and project duties, each governing **specialist manual** to record substance and source boundaries, ROM NAVIGATION to contextual links, and the canonical cross-project workflow to GitHub mechanics. The user-agreed BUILD/B&P/UPDATE/REVISE invocation vocabulary in Section 8 governs how the ASOIAF workflow is requested.
 
 ### Repository integrity
 
@@ -331,7 +339,7 @@ Where requirements conflict, apply the governing **specialist manual** to the re
 <a id="workflow-10"></a>
 ## 10. Book Transition and Reuse
 
-After a book passes **Step 9**, begin the next novel at **Phase I**, taking its complete EPUB and repeating the same nine-step process.
+After a book passes **Step 9**, preserve the validated book dossier. **Series rollover requires explicit user authorisation** under universal Phase VI; completing a book or publishing its MNT does not automatically create the next workspace or change reading registries. Once rollover has been authorised, begin the next novel at **local Stage I**, taking its complete EPUB and repeating the same nine-step process.
 
 - Update `[BOOK]` to the next novel's recognised book identifier, such as **COK** for *A Clash of Kings*.
 - Build the next book's RTE, MCM and CSRM **before** continuing that reread.
@@ -339,8 +347,10 @@ After a book passes **Step 9**, begin the next novel at **Phase I**, taking its 
 - If a POV has no further chapter until late in the book, leave its SROMX incomplete until that last chapter is read; other completed POV records can be built and published in parallel with the ongoing read.
 - After the readthrough, conduct the same cross-record reconciliation, final whole-book MNT synthesis and final repository audit.
 - Keep previous books' published records intact; add the new book's links under the appropriate spoiler-labelled index section.
+- Where established and applicable, reconcile the series MCR before rollover (retaining deceased status, historical identities and inactive opening state for surviving characters), chronology authority and continuing narrative threads. Preserve the previous book's scope and rankings as historical snapshots rather than overwriting them with later evidence.
+- Validate new book paths, cross-book navigation and any authorised registry state. If no further published book is available, retain the verified completed dossier without inventing a successor workspace.
 
-**Reusable end-to-end command sequence:**
+**Reusable book-level command sequence:** Use following explicitly authorised rollover where applicable. Incremental navigation is included automatically in each committed ROM record operation; the final APPLY remains the comprehensive check.
 
 ```text
 RTE SCAN: [BOOK]
@@ -369,6 +379,8 @@ APPLY ROM NAVIGATION: dz480/ASOIAF
 
 <a id="workflow-notes"></a>
 ## Appendix: Document Notes
+
+> **Universal lifecycle alignment (v1.4, 13 Oct 2026) — Applies to: Entire document:** Explicitly inherits ROM READTHROUGH PROJECT WORKFLOW v1.0, maintains the ASOIAF Type C overview-led and POV-selected reread variations, integrates automatic incremental navigation, and requires express rollover authorisation. The discontinued WOT Project is outside the scope of this revision.
 
 > **Formalisation basis — Applies to: Entire document:** Initial publication formalises the GOT reread workflow agreed in the current project: source acquisition; RTE scan/schedule; pre-read MCM and CSRM; concurrent reading and SROMX; nine-POV-style reconciliation where applicable; whole-book MNT; and final navigation verification. The first GOT book required nine POV SROMX records, including Will's Prologue; that count is evidence for GOT only, not a fixed series-wide rule.
 
