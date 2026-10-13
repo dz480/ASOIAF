@@ -7,11 +7,13 @@
 **22 Oct 297 AC → 23 Jan 299 AC**  
 *Pentos · Dothraki Sea · Vaes Dothrak · Lhazareen lands*
 
-**DAENERYS TARGARYEN** · **VISERYS TARGARYEN** · **ILLYRIO MOPATIS** · **JORAH MORMONT** · **KHAL DROGO** · **MIRRI MAZ DUUR**
+
 
 **Spoiler Boundary:** End of **GOT Ch. 72 (Daenerys X)**.
 
 <a id="daenerys-toc"></a>
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+
 ## Table of Contents
 - [1. Narrative Context](#daenerys-context)
 - [2. Timeline](#daenerys-timeline)
@@ -42,6 +44,7 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 # 2. Timeline
 
 **Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-3) · [Reading Index](README.md)
+
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -80,7 +83,6 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 <a id="daenerys-overview"></a>
 # 4. Narrative Overview
 
-**CSRM chapters (publication order):** [Ch. 3](ROM_CSRM_AGOT.md#agot-ch-3) · [Ch. 11](ROM_CSRM_AGOT.md#agot-ch-11) · [Ch. 23](ROM_CSRM_AGOT.md#agot-ch-23) · [Ch. 36](ROM_CSRM_AGOT.md#agot-ch-36) · [Ch. 46](ROM_CSRM_AGOT.md#agot-ch-46) · [Ch. 54](ROM_CSRM_AGOT.md#agot-ch-54) · [Ch. 61](ROM_CSRM_AGOT.md#agot-ch-61) · [Ch. 64](ROM_CSRM_AGOT.md#agot-ch-64) · [Ch. 68](ROM_CSRM_AGOT.md#agot-ch-68) · [Ch. 72](ROM_CSRM_AGOT.md#agot-ch-72)
 
 In **PENTOS**, **Daenerys Targaryen** lives under her brother **Viserys**'s control while their patron **Illyrio Mopatis** arranges her marriage to **Khal Drogo** in return for promised military support. **Jorah Mormont**, an exiled Westerosi knight, attends their introduction. At the wedding, Daenerys receives a silver mare, 3 dragon eggs and 3 handmaids. Travelling across the **DOTHRAKI SEA**, she learns riding from **Irri**, language from **Jhiqui** and intimate customs from **Doreah**. Her confidence and affection for Drogo grow; she defies Viserys, orders **Jhogo** to restrain him and realises she is pregnant.
 
@@ -94,6 +96,8 @@ After a prolonged unconsciousness, Daenerys learns that Rhaego was stillborn and
 
 For the funeral, she frees the remaining enslaved people, asserts her claim as Viserys's heir and offers the survivors a place beside her. She gives weapons to Jhogo, **Aggo** and Rakharo, seeking their loyalty; Jorah swears as her first Queensguard. She lays the eggs upon Drogo's funeral pyre, orders Mirri bound to it and walks into the flames. At dawn she emerges alive with **3 newly hatched dragons**, and the remaining Dothraki kneel before her.
 
+**CSRM chapters (publication order):** [Ch. 3](ROM_CSRM_AGOT.md#agot-ch-3) · [Ch. 11](ROM_CSRM_AGOT.md#agot-ch-11) · [Ch. 23](ROM_CSRM_AGOT.md#agot-ch-23) · [Ch. 36](ROM_CSRM_AGOT.md#agot-ch-36) · [Ch. 46](ROM_CSRM_AGOT.md#agot-ch-46) · [Ch. 54](ROM_CSRM_AGOT.md#agot-ch-54) · [Ch. 61](ROM_CSRM_AGOT.md#agot-ch-61) · [Ch. 64](ROM_CSRM_AGOT.md#agot-ch-64) · [Ch. 68](ROM_CSRM_AGOT.md#agot-ch-68) · [Ch. 72](ROM_CSRM_AGOT.md#agot-ch-72)
+
 <p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
@@ -101,7 +105,9 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 <a id="daenerys-rollcall"></a>
 # 5. Roll Call
 
-**Character entries:** 25 Total | 2 Principal | 4 Supporting | 19 Tertiary | 0 Collective | ≥25 Deaths
+**Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
+
+**Character entries:** 19 Total | 0 Principal | 0 Supporting | 19 Tertiary | 0 Collective | ≥25 Deaths
 
 *🏅 Principal · 🥈 Supporting · Original numeric indices for Tertiary characters. Death count includes the 12 wedding deaths, other identified fatalities and the stillborn Rhaego; the overall toll of the Lhazareen raids is not established. Rhaego is outside the physically Present Roll Call.*
 
@@ -123,9 +129,9 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 | 🥈 | **JORAH MORMONT**, exiled knight [Alive; wounded] | Serving the Targaryen cause in exile. | Guides and protects **Daenerys**, exposing the poisoner and fighting **Qotho**. | Sworn as her first Queensguard. |
 | 🥈 | **MIRRI MAZ DUUR**†, Lhazareen healer and godswife [Deceased] | At her village temple before the raid. | Enters **Dany**'s protection, treats **Drogo** and carries out the ritual. | Dies in Drogo's funeral pyre. |
 
-| 7 | **IRRI**, Dothraki handmaid [Alive] | Assigned to **Dany**'s new household. | Teaches riding and attends her through the journey and recovery. | With Dany after the funeral. |
-| 8 | **JHIQUI**, Dothraki handmaid [Alive] | Assigned to **Dany**'s new household. | Teaches language and custom, assists during her pregnancy. | With Dany after the funeral. |
-| 9 | **DOREAH**, Lysene handmaid [Alive] | Assigned to **Dany**'s new household. | Offers personal guidance and nurses her during the crisis. | With Dany after the funeral. |
+| 1 | **IRRI**, Dothraki handmaid [Alive] | Assigned to **Dany**'s new household. | Teaches riding and attends her through the journey and recovery. | With Dany after the funeral. |
+| 2 | **JHIQUI**, Dothraki handmaid [Alive] | Assigned to **Dany**'s new household. | Teaches language and custom, assists during her pregnancy. | With Dany after the funeral. |
+| 3 | **DOREAH**, Lysene handmaid [Alive] | Assigned to **Dany**'s new household. | Offers personal guidance and nurses her during the crisis. | With Dany after the funeral. |
 
 <a id="daenerys-warriors"></a>
 ## ⚔️ Dothraki Guards & Bloodriders
@@ -134,18 +140,18 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 ### Daenerys's Khas
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 10 | **JHOGO**, Dothraki champion [Alive] | Serving in **Drogo**'s khalasar. | Restrains **Viserys**, enforces **Dany**'s commands and helps defeat **Haggo**. | Offers allegiance to Dany. |
-| 11 | **AGGO**, Dothraki archer [Alive] | Serving **Drogo**'s khalasar. | Guards **Dany**, protects captives and supports her after Drogo falls. | Receives a dragonbone bow from Dany. |
-| 12 | **RAKHARO**, Dothraki champion [Alive] | Serving **Drogo**'s khalasar. | Guards **Dany**, kills **Haggo** and remains when other riders leave. | Receives an arakh and remains beside Dany. |
-| 13 | **QUARO**†, Dothraki guard [Deceased] | Serving in the khalasar. | Assists **Dany** and defends the ritual tent. | Killed by **Qotho**. |
+| 4 | **JHOGO**, Dothraki champion [Alive] | Serving in **Drogo**'s khalasar. | Restrains **Viserys**, enforces **Dany**'s commands and helps defeat **Haggo**. | Offers allegiance to Dany. |
+| 5 | **AGGO**, Dothraki archer [Alive] | Serving **Drogo**'s khalasar. | Guards **Dany**, protects captives and supports her after Drogo falls. | Receives a dragonbone bow from Dany. |
+| 6 | **RAKHARO**, Dothraki champion [Alive] | Serving **Drogo**'s khalasar. | Guards **Dany**, kills **Haggo** and remains when other riders leave. | Receives an arakh and remains beside Dany. |
+| 7 | **QUARO**†, Dothraki guard [Deceased] | Serving in the khalasar. | Assists **Dany** and defends the ritual tent. | Killed by **Qotho**. |
 
 <a id="daenerys-bloodriders"></a>
 ### Drogo's Bloodriders
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 14 | **COHOLLO**†, elder bloodrider [Deceased] | Long-serving companion of **Drogo**. | Attends the khal's downfall and opposes the ritual. | Death confirmed retrospectively by **Daenerys**. |
-| 15 | **HAGGO**†, bloodrider [Deceased] | Sworn to **Drogo**. | Opposes **Mirri** and fights Dany's protectors. | Killed by **Rakharo**. |
-| 16 | **QOTHO**†, bloodrider [Deceased] | Sworn to **Drogo**. | Threatens **Mirri** and attempts to prevent the blood rite. | Kills **Quaro** and falls to **Jorah**. |
+| 8 | **COHOLLO**†, elder bloodrider [Deceased] | Long-serving companion of **Drogo**. | Attends the khal's downfall and opposes the ritual. | Death confirmed retrospectively by **Daenerys**. |
+| 9 | **HAGGO**†, bloodrider [Deceased] | Sworn to **Drogo**. | Opposes **Mirri** and fights Dany's protectors. | Killed by **Rakharo**. |
+| 10 | **QOTHO**†, bloodrider [Deceased] | Sworn to **Drogo**. | Threatens **Mirri** and attempts to prevent the blood rite. | Kills **Quaro** and falls to **Jorah**. |
 
 <a id="daenerys-rivals"></a>
 ## 🐎 Vaes Dothrak & Rival Khalasar
@@ -153,16 +159,16 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 17 | **ELDEST ONE-EYED CRONE**, dosh khaleen prophet [Alive] | Sacred elder of **Vaes Dothrak**. | Leads the prophecy about **Rhaego**. | Last established at Vaes Dothrak. |
-| 18 | **KHAL OGO**†, rival khal [Deceased] | Commands his own riders. | Attends the naming feast; later fights **Drogo**. | Reportedly killed by Drogo. |
-| 19 | **FOGO**†, Ogo's son [Deceased] | Son and heir of **Ogo**. | Attends the feast and briefly succeeds his father. | Reportedly killed by **Drogo**. |
+| 12 | **KHAL OGO**†, rival khal [Deceased] | Commands his own riders. | Attends the naming feast; later fights **Drogo**. | Reportedly killed by Drogo. |
+| 13 | **FOGO**†, Ogo's son [Deceased] | Son and heir of **Ogo**. | Attends the feast and briefly succeeds his father. | Reportedly killed by **Drogo**. |
 
 <a id="daenerys-outsiders"></a>
 ## 🏺 Captives & Outside Agents
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 20 | **MAGO**, Dothraki rider [Alive] | Warrior in **Ko Jhaqo**'s command. | Challenges **Dany**'s protection of captives; later seizes **Eroeh**. | Reportedly serving the new **Khal Jhaqo**. |
-| 21 | **EROEH**†, Lhazareen captive [Deceased] | Living in the raided **Lhazareen** village. | Protected by **Dany** and later helps in Drogo's tent. | Seized and killed after the khalasar disperses. |
+| 14 | **MAGO**, Dothraki rider [Alive] | Warrior in **Ko Jhaqo**'s command. | Challenges **Dany**'s protection of captives; later seizes **Eroeh**. | Reportedly serving the new **Khal Jhaqo**. |
+| 15 | **EROEH**†, Lhazareen captive [Deceased] | Living in the raided **Lhazareen** village. | Protected by **Dany** and later helps in Drogo's tent. | Seized and killed after the khalasar disperses. |
 | 22 | **UNNAMED WINE MERCHANT**, poisoner [Unknown] | Selling wine in **Vaes Dothrak**. | Attempts to poison **Daenerys** and flees when **Jorah** intervenes. | Captured after fleeing; later fate unestablished. |
 
 <a id="daenerys-dragons"></a>
@@ -211,4 +217,7 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 
 > **Unresolved fates — Applies to: [Section 5 (Roll Call)](#daenerys-rollcall):** Cohollo's death is retrospectively established rather than shown individually. The poisoned-wine seller's fate after capture is unresolved.
 
-> **Protocol and formatting authorities — Applies to: Entire document:** [SROMX v11.26](https://github.com/dz480/CG-Protocols/blob/main/SROMX.md), [ROM Terminology Standard v10.73](https://github.com/dz480/CG-Protocols/blob/main/ROM_TERMINOLOGY_STANDARD.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). Section 5's 6-person Drogo household is grouped without unnecessary subgroups; larger natural divisions keep nested headings. Repository navigation remains separate from the ordinary reader-facing publication view.
+> **Protocol and formatting authorities — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). Section 5's 6-person Drogo household is grouped without unnecessary subgroups; larger natural divisions keep nested headings. Repository navigation remains separate from the ordinary reader-facing publication view.
+
+
+> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
