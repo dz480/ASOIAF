@@ -40,7 +40,7 @@
 
 **Catelyn Stark**, born a **Tully of Riverrun** and married to **Eddard Stark**, is Lady of **Winterfell** and mother to the Stark children. She has made a home in the North without fully sharing her husband's faith in its old gods. After Eddard executes a terrified Night's Watch deserter, she finds him cleaning **Ice** beside the godswood's heart tree. **Jon Arryn**, the foster father of Eddard and King Robert, has died, while the king and his household are travelling north. Catelyn values her family's present security, yet Jon's death and the king's approaching visit threaten to draw her husband, children and northern household into the dangers of southern politics.
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-timeline"></a>
 # 2. Timeline
@@ -60,7 +60,7 @@
 | 9 | **Night into dawn, before Riverrun's relief** | **RIVERLANDS**<br>• **Whispering Wood**<br>&nbsp;&nbsp;⤷ Forested valley outside Riverrun | **GOT Ch. 63:** Catelyn waits as Robb's ambush closes on Jaime's cavalry. Jaime is captured, though members of Robb's personal guard are killed. |
 | 10 | **After Riverrun is relieved and Eddard's death is known** | **RIVERLANDS**<br>• **Riverrun**<br>&nbsp;&nbsp;⤷ Hoster's bedchamber; godswood; Great Hall | **GOT Ch. 71:** Catelyn visits her dying father, hears the riverlords and northmen debate allegiance and peace, pleads for the lives of her children, and witnesses Robb acclaimed King in the North. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-threads"></a>
 # 3. Major Narrative Threads
@@ -73,7 +73,7 @@
 | 4 | **The unreliable alliance with the Vale** | **Lysa Arryn** warns her sister about the Lannisters but refuses to expose the Vale to war. Her handling of Tyrion and her determination to shield young **Robert Arryn** frustrate Catelyn and drive **Brynden Tully** to leave the Vale's service. |
 | 5 | **The Frey bargain and the North's choice of king** | Walder's crossing depends upon future Stark marriages and Frey service. Following Eddard's execution and Robb's victories, the assembled lords reject accommodation with the Lannisters and acclaim Robb **King in the North**, despite Catelyn's appeal for peace and her daughters' return. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-overview"></a>
 # 4. Narrative Overview
@@ -92,7 +92,7 @@ At the **Twins**, **Walder Frey** bars their path and demands guarantees for his
 
 Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure and her dying father. **Eddard’s execution** has left her grieving and fearful for the daughters she cannot protect. As the lords debate **Renly**, **Stannis** and possible peace, she urges an end to the killing and hopes to recover her children. Greatjon instead calls for an independent northern king; Rickard Karstark, **Maege Mormont** and the riverlords kneel to Robb. Catelyn’s effort to keep the family together ends with her eldest son acclaimed **King in the North**, committed to a wider war whose outcome remains uncertain.
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-rollcall"></a>
 # 5. Roll Call
@@ -114,7 +114,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 5 | **SUMMER**, Bran's direwolf [Alive] | Young direwolf pup living with Bran at Winterfell. | Kills the intruder threatening the unconscious Bran. | Alive, remaining with Bran at Winterfell. |
 | 6 | **GREY WIND**, Robb's direwolf [Alive] | Young direwolf pup bonded to Robb. | Accompanies Robb's host and moves beside him before and after battle. | With Robb at Riverrun after the victories. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-1-sub-2"></a>
 ### Winterfell Household & Retainers
@@ -128,7 +128,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 11 | **DESMOND**, Stark guard [Unknown] | Serves the Stark household at Winterfell. | Brings the secret visitor and message to Ned and Catelyn. | Later circumstances not established within her chapters. |
 | 12 | **OLD NAN**, Elderly Winterfell nurse [Alive] | Long-serving member of the Winterfell household. | Assists during the household crisis surrounding Bran's sickroom. | Remains at Winterfell; no further change established. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-2"></a>
 ## 🔎 The Dagger Inquiry
@@ -139,7 +139,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 🥈 | **VARYS**, Master of whisperers [Alive] | Oversees royal intelligence at King's Landing. | Detects Catelyn's arrival and participates in questioning over the dagger. | Remains at the royal court. |
 | 15 | **CATSPAW ASSASSIN**†, Unidentified hired intruder [Deceased] | His identity and employer are unknown before the attack. | Attempts to murder Bran and wounds Catelyn, exposing the danger. | Killed in Bran's sickroom by Summer. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-3"></a>
 ## 🦁 House Lannister
@@ -149,7 +149,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 🏅 | **TYRION LANNISTER**, Lannister nobleman [Alive] | Travelling with the royal entourage and later the Night's Watch party. | Is seized by Catelyn, brought to the Vale and freed after Bronn's victory. | Released from the Eyrie and allowed to leave with Bronn. |
 | 🏅 | **JAIME LANNISTER**, Kingsguard knight; Lannister commander [Alive; captive] | Serves in King Robert's royal entourage. | Later commands near Riverrun, battles Robb and kills Stark retainers. | Prisoner of Robb after the Whispering Wood. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-4"></a>
 ## ⛵ Sea Passage & Crossroads
@@ -161,7 +161,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 20 | **MARILLION**, Travelling singer [Alive] | A wandering young singer without a fixed court. | Recognises Catelyn at the inn and follows the party toward the Eyrie. | Last seen among the companions admitted into the Vale. |
 | 21 | **WILLIS WODE**, Knight sworn to House Whent [Alive] | Serves the Whents of Harrenhal. | Answers Catelyn's call at the crossroads and survives the mountain journey. | Recuperates below the Eyrie with Rodrik. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-5"></a>
 ## 🏔️ The Vale of Arryn
@@ -179,7 +179,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 27 | **LYN CORBRAY**, Vale knight and Lysa's suitor [Alive] | Vale nobleman associated with the Arryn court. | Demands harsh punishment for Tyrion before the combat. | Remains among Vale courtiers. |
 | 28 | **MORTON WAYNWOOD**, Vale knight and Lysa's suitor [Alive] | Nobleman within the Vale's circle of suitors. | Confidently predicts Vardis will defeat Bronn. | Remains at the Eyrie after the failed trial. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-5-sub-2"></a>
 ### The Bloody Gate & Mountain Ascent
@@ -190,7 +190,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 30 | **NESTOR ROYCE**, High Steward of the Vale [Alive] | Commands the Gates of the Moon under the Arryns. | Receives Catelyn and arranges her immediate ascent. | Continues his stewardship at the lower castle. |
 | 31 | **DONNEL WAYNWOOD**, Vale knight at the Bloody Gate [Alive] | Serves the Arryn household and guards access to the Vale. | Receives Catelyn's party and escorts it through the mountain pass. | Remains in Arryn service in the Vale. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-6"></a>
 ## 🌊 House Tully & Riverlords
@@ -204,7 +204,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 🥈 | **EDMURE TULLY**, Heir of Riverrun; Catelyn's brother [Alive] | At Riverrun, overseeing defence as Hoster's health declines. | Leads resistance to Lannisters, is captured and subsequently freed. | At Riverrun with Catelyn and their dying father. |
 | 34 | **HOSTER TULLY**, Lord of Riverrun [Alive; gravely ill] | At Riverrun, incapacitated by prolonged illness. | The siege endangers his home; he receives Catelyn when the castle is relieved. | At Riverrun, gravely ill and hoping to see Brynden. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-6-sub-2"></a>
 ### Riverlords & Tully Bannermen
@@ -216,7 +216,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 37 | **MARQ PIPER**, Riverland knight of House Piper [Alive] | Supports the Tullys in the riverlands. | Argues for Renly's coalition and against submitting to the Lannisters. | At Riverrun as the lords proclaim Robb king. |
 | 38 | **JASON MALLISTER**, Lord of Seagard [Alive] | Tully bannerman commanding Seagard's forces. | Passes Catelyn on the road without recognition and attends the Riverrun council. | Among riverlords acknowledging Robb's kingship. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-7"></a>
 ## 🌉 House Frey & the Crossing
@@ -228,7 +228,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 41 | **PERWYN FREY**, Son of Walder Frey [Alive] | Member of the powerful Frey household. | Offers to remain with Robb's host as a guarantee during negotiations. | Remains aligned with the Frey host. |
 | 42 | **OLYVAR FREY**, Robb's new squire [Alive] | A younger son of Walder Frey. | Is pledged as Robb's squire and attends his horse before battle. | Serving Robb among the northern forces. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-8"></a>
 ## 🐺 Robb's Northern Host
@@ -248,7 +248,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 50 | **MAEGE MORMONT**, Lady of Bear Island [Alive] | Northwoman ruling Bear Island in Stark allegiance. | Her horn sounds during the ambush; she later endorses Robb's kingship. | Acclaims the King of Winter at Riverrun. |
 | 51 | **HELMAN TALLHART**, Northern knight [Alive] | Stark bannerman mustering for war. | Assists the strategic preparations and guards the passage at the Twins. | Maintains security around the crossing. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-group-8-sub-2"></a>
 ### Battle Guard & Fallen Companions
@@ -260,7 +260,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 54 | **TORRHEN KARSTARK**†, Son of Rickard Karstark [Deceased] | Young nobleman accompanying House Karstark's forces. | Serves among Robb's chosen guards against Jaime's cavalry. | Killed by Jaime while defending Robb. |
 | 55 | **EDDARD KARSTARK**†, Son of Rickard Karstark [Deceased] | Young nobleman accompanying his father into war. | Defends Robb against Jaime's desperate attack. | Killed by Jaime in the Whispering Wood. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 <a id="catelyn-scenes"></a>
 # 6. Top Cinematic Scenes
@@ -275,7 +275,7 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 | 6 | **The horns of the Whispering Wood** | Catelyn, Robb, Brynden, Jaime, Theon, Greatjon and the northern riders | In **GOT Ch. 63**, Catelyn waits in the dark forest as enemy riders enter the valley. Horns answer from several directions, and moonlight flashes along northern lances charging from the trees. At dawn, Jaime is brought to her captive. |
 | 7 | **The King in the North** | Catelyn, Robb, Greatjon, Rickard Karstark, Maege Mormont, Edmure, Brynden, Tytos Blackwood and the assembled lords | In **GOT Ch. 71**, after arguments over rival kings and peace, Greatjon rises in Riverrun’s hall, raises his sword and kneels before Robb. Steel is drawn and laid down as northmen and riverlords repeat the ancient acclamation. |
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -298,4 +298,4 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 > **Protocol and supporting evidence — Applies to: Entire document.** Built under [SROMX v11.25](https://github.com/dz480/CG-Protocols/blob/main/SROMX.md), the [ROM Terminology Standard](https://github.com/dz480/CG-Protocols/blob/main/ROM_TERMINOLOGY_STANDARD.md) and the [ChatGPT ↔ GitHub Workflow](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The RTE supplies the canonical GOT chapter numbering. A Wiki of Ice and Fire’s character lists served only as secondary candidate checks; the supplied EPUB remains authoritative.
 
-<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>

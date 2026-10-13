@@ -145,7 +145,7 @@
 
 **Robert** arrives at **Winterfell**, visits Lyanna’s tomb, offers **Ned** the Handship, and proposes marrying **Joffrey** to **Sansa**.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -195,7 +195,7 @@ Excluded from the royal feast’s high table, **Jon** considers the **Night’s 
 
 While climbing, **Bran** witnesses **Jaime** and **Cersei** together. Jaime shoves the boy from the tower to conceal their incestuous relationship.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -245,7 +245,7 @@ Before leaving for **the Wall**, **Jon** gives **Arya** a sword they name Needle
 
 Travelling south, **Ned** learns of **Daenerys**’s marriage to **Drogo**. **Robert** argues over the Targaryen threat, exposing an old fracture in their friendship.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -295,7 +295,7 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 **Ned** defends **Arya** during **Robert**’s judgment but must execute **Sansa**’s direwolf **Lady**. **Sandor** Clegane returns with **Mycah**’s body.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -347,7 +347,7 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 **Ned** discovers crushing crown debt and begins investigating **Jon Arryn**’s death. **Littlefinger** reunites him with **Catelyn**, who recounts the attack on **Bran**.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -397,7 +397,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 **Bran** grieves his paralysis until **Tyrion** arrives with plans for a specially designed riding saddle. **Robb** accepts the unexpected kindness.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -449,7 +449,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 **Catelyn** encounters **Tyrion** during her journey north and invokes her father’s bannermen to arrest him for the attempt on **Bran**’s life.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -497,7 +497,7 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 While chasing cats, **Arya** overhears **Varys** and **Illyrio** discussing civil war and **Daenerys**’s pregnancy, then struggles to warn **Ned**.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -551,7 +551,7 @@ Investigating one of **Robert**’s illegitimate children, **Ned** is ambushed b
 
 **Daenerys** enters the **Dothraki** sacred city with **Drogo**, **Jorah**, and **Viserys**, whose position among the riders has deteriorated.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -603,7 +603,7 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 
 **Bronn** defeats Ser Vardis Egen in single combat, securing **Tyrion**’s release despite **Lysa**’s desire to see him dead.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -651,7 +651,7 @@ Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** se
 
 **Sansa** is distressed when **Ned** orders her and **Arya** home. Her attachment to **Joffrey** clashes with her father’s wish to protect them.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -703,7 +703,7 @@ With **Robert** dying, **Ned** alters the king’s final instructions to preserv
 
 **Jon** and **Sam** take their Watch vows before a heart tree. **Ghost** uncovers a dead ranger’s hand, triggering a search for missing men.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -751,7 +751,7 @@ Detained after **Ned**’s arrest, **Sansa** obeys **Cersei**’s request to wri
 
 The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by burning one, revealing the power of fire against them.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -803,7 +803,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 **Tyrion** meets **Tywin**, offers the mountain clans as fighters, and discovers that his father intends to place him in the battle line.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -853,7 +853,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 **Jeor Mormont** gives **Jon** the sword Longclaw. **Maester Aemon** reveals his Targaryen descent and explains the cost of choosing duty.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -905,7 +905,7 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. Fighting and labour pains erupt as Dany is carried into the tent.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -955,7 +955,7 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 **Daenerys** wakes to a stillborn child and a living but unresponsive **Drogo**. **Mirri Maz Duur** explains the ritual’s price; Dany kills Drogo.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -1005,7 +1005,7 @@ Grieving **Ned**, **Jon** tries to desert to join **Robb**, but his friends brin
 
 **Daenerys** burns **Drogo** and **Mirri Maz Duur** with the dragon eggs. She emerges unharmed with 3 hatchlings and a renewed following.
 
-<p align="right"><a href="#table-of-contents" title="Return to Table of Contents">↑</a></p>
+<p align="right"><a href="#table-of-contents" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
