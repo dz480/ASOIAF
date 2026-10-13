@@ -112,7 +112,7 @@ else:
             if chapter_to_pov.get(number) != pov:
                 fail(f"{report.name}: GOT Ch. {number} is not a {pov} chapter in CSRM.")
             if number in memberships:
-    if "**POV reconstruction (" in csrm:
+                fail(f"GOT Ch. {number} allocated to multiple POV reconstructions.")
             memberships[number] = (pov, report.name)
         last, first = chapters[-1], chapters[0]
         if "**Full-book POV spoilers:**" not in content:
@@ -146,7 +146,7 @@ else:
         expected = [(FULL_POV_NAMES[memberships[n][0]], memberships[n][1])] if n in memberships else []
         if present != expected:
             fail(f"CSRM chapter {n}: unexpected/missing SROMX back-reference {present} vs {expected}.")
-    if re.search(r"(?m)^\\*\\*POV reconstruction \\(", csrm):
+    if "**POV reconstruction (" in csrm:
         fail("CSRM contains redundant standalone POV reconstruction labels.")
     if "[ROM CSRM | Prologue + Ch. 1–72](ROM_CSRM_AGOT.md)" not in index:
         fail("Reading Index missing whole-book CSRM entry.")
