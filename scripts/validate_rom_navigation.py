@@ -112,7 +112,7 @@ else:
             if chapter_to_pov.get(number) != pov:
                 fail(f"{report.name}: GOT Ch. {number} is not a {pov} chapter in CSRM.")
             if number in memberships:
-                fail(f"GOT Ch. {number} allocated to multiple POV reconstructions.")
+    if "**POV reconstruction (" in csrm:
             memberships[number] = (pov, report.name)
         last, first = chapters[-1], chapters[0]
         if "**Full-book POV spoilers:**" not in content:
