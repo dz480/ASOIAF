@@ -12,6 +12,7 @@
 
 - [ROM CSRM | Prologue + Ch. 1–72](ROM_CSRM_AGOT.md) · Complete-book chapter chronology and recap index. **Full-book spoilers.**
 - [ROM MCM | Whole book](ROM_MCM_AGOT.md) · Master character map and appearance register. **Full-book spoilers.**
+- [ROM MNT | Whole book](ROM_MNT_AGOT.md) · Final ranked synthesis of all nine POV-local narrative thread assessments, including a cross-thread flow chart. **Full-book spoilers.**
 
 ### SROMX | POV-selected narrative reconstructions
 
@@ -31,7 +32,7 @@ The nine completed full-book POV records are listed in order of their first narr
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
 - Each POV report links to the **first selected CSRM unit** beneath Timeline and to **every constituent chapter or Prologue** beneath Narrative Overview.
-- No SNR, CM, CRM, MNT or reader-bounded snapshot has been published in this repository. These destinations will be added when actual files exist.
+- No SNR, CM, CRM or reader-bounded snapshot has been published in this repository. These destinations will be added when actual files exist.
 - Current Reading Point / MLRP is not tracked or changed by repository navigation.
 
 **Canonical navigation rules:** [ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md).
