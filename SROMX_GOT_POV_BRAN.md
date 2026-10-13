@@ -6,11 +6,9 @@
 **1 Mar 298 AC → 24 Jan 299 AC**  
 *The North · Winterfell · Wolfswood*
 
-
-
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
-
 **BRAN STARK** · **EDDARD STARK** · **JON SNOW** · **ROBB STARK** · **THEON GREYJOY** · **MAESTER LUWIN** · **TYRION LANNISTER** · **HODOR** · **OSHA** · **GREATJON UMBER** · **RICKON STARK** · **JORY CASSEL** · **RODRIK CASSEL** · **CERSEI LANNISTER** · **JAIME LANNISTER** · **RICKARD KARSTARK**
+
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="bran-toc"></a>
 ## Table of Contents
@@ -37,6 +35,10 @@
 
 The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, the young son of **Eddard Stark**, looks forward to becoming a knight and is fascinated by climbing the castle's walls and towers. His father rules the North and expects his sons to learn the burdens of justice. Meanwhile, stories from beyond **the Wall** trouble the edges of Bran's childhood: **Old Nan** speaks of the Others and the Long Night, while the Night's Watch still guards against threats in the far North. Bran begins among his family, with freedom of movement and an apparently secure place in his father's household, unaware of the changes about to overtake both.
 
+<p align="right"><a href="#bran-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
+
 <a id="bran-timeline"></a>
 # 2. Timeline
 
@@ -53,6 +55,10 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 | 6 | **7 Dec 298 AC** | **THE NORTH**<br>• **Winterfell**<br>&nbsp;&nbsp;⤷ Great Hall and godswood | **GOT Ch. 53:** Northern bannermen assemble and Robb prepares to march south. Osha speaks of dangers beyond the Wall, and Bran remains in Winterfell's care. |
 | 7 | **24 Jan 299 AC** | **THE NORTH**<br>• **Winterfell**<br>&nbsp;&nbsp;⤷ Crypts and maester's tower | **GOT Ch. 66:** Bran and Rickon are troubled by dreams about Eddard. A wounded raven arrives; Maester Luwin confirms their father's death. |
 
+<p align="right"><a href="#bran-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
+
 <a id="bran-threads"></a>
 # 3. Major Narrative Threads
 
@@ -63,6 +69,10 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 | 3 | **Dreams and the three-eyed crow** | Bran's fall-dream introduces the mysterious crow, flight and visions that reach beyond his ordinary experience. Later dreams concerning the crypts and his father deepen the tension between uncanny intimations and tangible news. |
 | 4 | **Warnings from the far North** | Stories from **Old Nan** and warnings from **Osha** present ancient dangers beyond the Wall as potentially real. Luwin remains sceptical, and the Stark household directs its military strength toward southern conflict. |
 | 5 | **The direwolves' growing involvement** | **Summer** and **Grey Wind** actively defend Bran against danger; the wolves' behaviour, together with Rickon's increasingly fierce **Shaggydog**, becomes inseparable from the Stark children's vulnerability and protection. |
+
+<p align="right"><a href="#bran-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
 
 <a id="bran-overview"></a>
 # 4. Narrative Overview
@@ -82,8 +92,14 @@ As the Lannister conflict escalates, Winterfell becomes a gathering place for no
 
 After the departure, Bran's sense of connection to unseen events grows more unsettling. He dreams of his father in the crypts, and Rickon has experienced a similarly troubling dream. Amid a discussion of the children of the forest and the persistence of old magic, a wounded raven arrives bearing a message. Luwin's reaction confirms what the children already dread: Eddard is dead. The boy introduced through his father's uncompromising act of justice now faces that father's loss, confined to Winterfell yet increasingly responsible for the home and family that remain.
 
+**CSRM chapters (publication order):** [Ch. 1](ROM_CSRM_AGOT.md#agot-ch-1) · [Ch. 8](ROM_CSRM_AGOT.md#agot-ch-8) · [Ch. 17](ROM_CSRM_AGOT.md#agot-ch-17) · [Ch. 24](ROM_CSRM_AGOT.md#agot-ch-24) · [Ch. 37](ROM_CSRM_AGOT.md#agot-ch-37) · [Ch. 53](ROM_CSRM_AGOT.md#agot-ch-53) · [Ch. 66](ROM_CSRM_AGOT.md#agot-ch-66)
+
+<p align="right"><a href="#bran-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
+
 <a id="bran-roll-call"></a>
-**CSRM chapters# 5. Roll Call
+# 5. Roll Call
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
@@ -109,9 +125,9 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 🥈 | **THEON GREYJOY**, Stark ward [Alive] | Ward of Eddard; rides with the Stark party. | Helps at the execution and kills Stiv during the attack on Bran. | Accompanies Robb's army south. |
 | 🥈 | **MAESTER LUWIN**, Winterfell maester [Alive] | Advises and educates the Stark household. | Supervises Bran's recovery, weighs Osha's claims and oversees the boys' care. | Remains at Winterfell and receives confirmation of Eddard's death. |
 | 🥈 | **HODOR**, Winterfell stablehand [Alive] | Works with horses at Winterfell. | Carries Bran and becomes essential to his movement through the castle. | Continues serving Bran at Winterfell. |
-| 11 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
-| 12 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
-| 15 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
+| 9 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
+| 10 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
+| 11 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
 
 <a id="bran-guards-military"></a>
 ### Guards & Military Service
@@ -120,8 +136,8 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 |---:|---|---|---|---|
 | 🥈 | **JORY CASSEL**†, Stark guard captain [Deceased] | Commands Eddard's household guards. | Attends the opening execution; subsequently accompanies Eddard south. | Killed in King's Landing; his death is known at Winterfell. |
 | 🥈 | **RODRIK CASSEL**, master-at-arms [Alive] | Serves the Stark household and trains its men. | Helps sustain Winterfell's defence as its soldiers depart. | Remains associated with the depleted Winterfell garrison. |
-| 13 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
-| 14 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
+| 14 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
+| 15 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
 | 16 | **QUENT**, Stark guardsman [Alive] | In Stark household service. | Takes part in the Wolfswood escort and responds to the ambush. | Survives the incident and remains in Stark service. |
 | 17 | **WAYN**, Stark guardsman [Alive] | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | Continues in Stark service. |
 | 18 | **MIKKEN**, Winterfell smith [Alive] | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
@@ -174,10 +190,11 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 35 | **GREY WIND**, Robb's direwolf [Alive] | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | Accompanies Robb south. |
 | 36 | **SHAGGYDOG**, Rickon's direwolf [Alive] | A newly discovered direwolf pup. | Becomes dangerous and aggressive as Rickon's distress increases. | Remains at Winterfell with Rickon. |
 
-**Character entries:** 36 (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Scope-local estimate retained from source audit.
+**Character entries:**36 Total | 7 Principal | 9 Supporting | 19 Tertiary | 1 Collective | Deaths not fully enumerable from selected chapters
 
-<a id="bran-cinematic-scenes"></a>
- (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
+<p align="right"><a href="#bran-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
 
 <a id="bran-cinematic-scenes"></a>
 # 6. Top Cinematic Scenes
@@ -190,24 +207,26 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 4 | **The Execution and the Direwolf Pups** | Eddard, Bran, Robb, Jon, Theon, Jory and other Stark retainers | In **GOT Ch. 1**, Bran observes Eddard carry out a sentence with Ice; later the returning party encounters a dead direwolf and her surviving litter beside the road. |
 | 5 | **The Raven's Message** | Bran, Rickon, Luwin, Osha and the direwolves | In **GOT Ch. 66**, the wolves' howls accompany the arrival of a wounded raven in Luwin's tower. The maester reads its letter and tells the Stark children they will need a likeness of their father for his tomb. |
 
+<a id="bran-document-notes"></a>
+
+<p align="right"><a href="#bran-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
 ---
 
-<a id="bran-document-notes"></a>
 ## Appendix: Document Notes
 
-> **Source and POV boundary:** The primary narrative material consists solely of Bran's seven chapters in the Project-supplied *A Game of Thrones* EPUB, arranged in the novel's chapter order. Other POVs are not stitched into this reconstruction. Events learned through reports, memories and dreams are distinguished from actions directly enacted in Bran's chapters. Whole-book retrospective through **GOT Ch. 66** in Bran's POV, with no later-book knowledge. **SROMX v11.27**, including the compact five-column **Arc** Roll Call, significance medals and nested Character Subgroups. This is a POV-selected Scope, not a contiguous source Sequence.
->
-> **Chronology note:** The CSRM supplies project-assigned chapter dates, now used in Timeline. No RSDP time-zero is authorised.
->
-> **Roll Call display:** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Named roster entries retain bracketed textual Current Status; † marks deceased individuals. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
->
-> **Boundary rule:** Position at Start means the opening of **GOT Ch. 1**, not the character's first appearance within this selected chapter set. **Arc** summarises intervening participation in the seven Bran chapters. Position at End is the strongest established condition by the conclusion of **GOT Ch. 66**. Mentioned-only and ordinary dream representations are not counted as physically Present.
->
-> **Direwolf inclusion:** Named direwolves are included where their independent interventions materially affect Bran's narrative. The remaining non-speaking-animal threshold continues to follow the current ROM Terminology Standard.
->
-> **Source note:** Primary text: project AGOT EPUB, Bran I–VII. Chapter order and structural coordinates: project AGOT RTE schedule. Characters' broader series identities have not been imported beyond the authorised AGOT scope. The selected POV chapters are discontinuous; Roll Call boundary positions refer to the start of Bran I and end of Bran VII. The Arc Field is intentionally concise and does not create a separate, free-standing character biography. The Winterfell household is subdivided into Household & Personal Service and Guards & Military Service without altering character inclusion or original Entry numbers.
->
-> **Protocol authority:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and current ROM Terminology Standard.
+> **Source and POV boundary — Applies to: Entire document:** The primary narrative material consists solely of Bran's seven chapters in the Project-supplied *A Game of Thrones* EPUB, arranged in the novel's chapter order. Other POVs are not stitched into this reconstruction. Events learned through reports, memories and dreams are distinguished from actions directly enacted in Bran's chapters. Whole-book retrospective through **GOT Ch. 66** in Bran's POV, with no later-book knowledge. **SROMX v11.27**, including the compact five-column **Arc** Roll Call, significance medals and nested Character Subgroups. This is a POV-selected Scope, not a contiguous source Sequence.
 
+> **Chronology note — Applies to: Section 2 (Timeline):** The project CSRM supplies estimated native dates for every selected chapter; an RSDP time-zero has not been authorised.
 
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Roll Call display — Applies to: Section 5 (Roll Call):** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Named roster entries retain bracketed textual Current Status; † marks deceased individuals. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
+
+> **Boundary rule — Applies to: Section 5 (Roll Call):** Position at Start means the opening of **GOT Ch. 1**, not the character's first appearance within this selected chapter set. **Arc** summarises intervening participation in the seven Bran chapters. Position at End is the strongest established condition by the conclusion of **GOT Ch. 66**. Mentioned-only and ordinary dream representations are not counted as physically Present.
+
+> **Direwolf inclusion — Applies to: Section 5 (Roll Call):** Named direwolves are included where their independent interventions materially affect Bran's narrative. The remaining non-speaking-animal threshold continues to follow the current ROM Terminology Standard.
+
+> **Source note — Applies to: Entire document:** Primary text: project AGOT EPUB, Bran I–VII. Chapter order and structural coordinates: project AGOT RTE schedule. Characters' broader series identities have not been imported beyond the authorised AGOT scope. The selected POV chapters are discontinuous; Roll Call boundary positions refer to the start of Bran I and end of Bran VII. The Arc Field is intentionally concise and does not create a separate, free-standing character biography. The Winterfell household is subdivided into Household & Personal Service and Guards & Military Service without altering character inclusion or original Entry numbers.
+
+> **Protocol authority — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and current ROM Terminology Standard.
+
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs the book-wide Significance of listed named characters; [AGOT CSRM](ROM_CSRM_AGOT.md) governs the project's estimated chronology and chapter coordinates. Formatting follows [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md). Selected POV scenes retain their own source and spoiler boundaries.
