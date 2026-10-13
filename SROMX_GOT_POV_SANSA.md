@@ -1,15 +1,19 @@
 # A Game of Thrones | George R. R. Martin | POV: Sansa Stark (Full Book)
 
+> **Full-book POV spoilers:** Sansa Stark full-book selected POV coverage through GOT Ch. 67; the declared Spoiler Boundary applies.
+
 **Scope:** **GOT Ch. 15, 29, 44, 51, 57, 67** (Sansa I–VI; 6 POV chapters).  
 
 **23 Jul 298 AC → 15 Jan 299 AC**  
 *Ruby Ford · King's Landing · Tourney Grounds · Red Keep · Great Sept of Baelor (seen from the city)*
 
-**SANSA STARK** · **ARYA STARK** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **SANDOR CLEGANE** · **BARRISTAN SELMY** · **RENLY BARATHEON** · **ROBERT BARATHEON** · **JAIME LANNISTER** · **GREGOR CLEGANE** · **LORAS TYRELL** · **PETYR BAELISH** · **EDDARD STARK** · **VARYS** · **GRAND MAESTER PYCELLE**
+
 
 **Spoiler Boundary:** End of **GOT Ch. 67 (Sansa VI)**. Only Sansa's 6 POV chapters are enacted Scope.
 
 <a id="sansa-toc"></a>
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+
 ## Table of Contents
 
 - [1. Narrative Context](#sansa-context)
@@ -38,6 +42,8 @@
 
 <a id="sansa-timeline"></a>
 # 2. Timeline
+
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-15) · [Reading Index](README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -83,6 +89,8 @@ At Joffrey's court, Sansa witnesses honours granted to his supporters, Barristan
 
 In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her into public attendance, and **Meryn Trant** strikes her for defiance. After watching Joffrey issue cruel judgments, she must climb the castle wall and look at the tarred heads of Ned and **Septa Mordane**. Sansa answers Joffrey's threats with a reference to Robb taking his head; Meryn beats her again. For a moment she considers pushing Joffrey from the parapet, before Sandor steps between them and gently wipes the blood from her face.
 
+**CSRM chapters (publication order):** [Ch. 15](ROM_CSRM_AGOT.md#agot-ch-15) · [Ch. 29](ROM_CSRM_AGOT.md#agot-ch-29) · [Ch. 44](ROM_CSRM_AGOT.md#agot-ch-44) · [Ch. 51](ROM_CSRM_AGOT.md#agot-ch-51) · [Ch. 57](ROM_CSRM_AGOT.md#agot-ch-57) · [Ch. 67](ROM_CSRM_AGOT.md#agot-ch-67)
+
 <p align="right"><a href="#sansa-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
@@ -90,7 +98,9 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 <a id="sansa-roll"></a>
 # 5. Roll Call
 
-**Character entries:** 37 Total | 7 Principal | 8 Supporting | 20 Tertiary | 2 Collective | ≥9 Deaths
+**Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
+
+**Character entries:** 19 Total | 0 Principal | 0 Supporting | 17 Tertiary | 2 Collective | ≥9 Deaths
 
 *🏅 Principal · 🥈 Supporting · numbered Tertiary and Collective entries. The Scope-local minimum of 9 deaths counts **Mycah**, **Lady**, **Ser Hugh**, **Jory**, **Wyl**, **Heward**, **Robert**, **Eddard** and **Septa Mordane**, while leaving other unquantified casualties unresolved. The 37 entries are physically encountered in Sansa's selected chapters, including recognised remains.*
 
@@ -110,11 +120,11 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 6 | **SEPTA MORDANE**†, governess to Stark daughters [Deceased] | Supervising Sansa and Arya during the royal journey. | Attends the Hand's tourney, mediates the sisters' quarrels and stays in King's Landing as the coup unfolds. | Killed under the new regime; her decaying head is displayed beside Ned's. |
-| 7 | **JEYNE POOLE**, Sansa's companion [Unknown] | Travelling with the Stark household and attending Sansa. | Watches the tourney, is confined with Sansa and becomes distraught over her father's fate. | Removed from Sansa's rooms under **Littlefinger**'s supervision; further whereabouts unconfirmed. |
-| 8 | **JORY CASSEL**†, captain of Stark household guards [Deceased] | Leading guards travelling with Ned's household. | Competes in the Hand's tourney and is later killed during **Jaime**'s street attack, as Sansa learns. | Dead before Sansa's forced confinement. |
-| 9 | **ALYN**, Stark household guardsman [Alive; location uncertain] | Travelling with the Stark escort. | Competes in the tourney and rides out beneath the Stark banner with **Beric Dondarrion**. | Last directly seen departing King's Landing with the royal commission. |
-| 10 | **HARWIN**, Stark guardsman and rider [Alive; location uncertain] | Serving the Stark household on the royal journey. | Jousts at the Hand's tourney and subsequently joins the men riding out under Beric. | Last known among the departing royal justice party. |
+| 3 | **SEPTA MORDANE**†, governess to Stark daughters [Deceased] | Supervising Sansa and Arya during the royal journey. | Attends the Hand's tourney, mediates the sisters' quarrels and stays in King's Landing as the coup unfolds. | Killed under the new regime; her decaying head is displayed beside Ned's. |
+| 4 | **JEYNE POOLE**, Sansa's companion [Unknown] | Travelling with the Stark household and attending Sansa. | Watches the tourney, is confined with Sansa and becomes distraught over her father's fate. | Removed from Sansa's rooms under **Littlefinger**'s supervision; further whereabouts unconfirmed. |
+| 🥈 | **JORY CASSEL**†, captain of Stark household guards [Deceased] | Leading guards travelling with Ned's household. | Competes in the Hand's tourney and is later killed during **Jaime**'s street attack, as Sansa learns. | Dead before Sansa's forced confinement. |
+| 6 | **ALYN**, Stark household guardsman [Alive; location uncertain] | Travelling with the Stark escort. | Competes in the tourney and rides out beneath the Stark banner with **Beric Dondarrion**. | Last directly seen departing King's Landing with the royal commission. |
+| 7 | **HARWIN**, Stark guardsman and rider [Alive; location uncertain] | Serving the Stark household on the royal journey. | Jousts at the Hand's tourney and subsequently joins the men riding out under Beric. | Last known among the departing royal justice party. |
 
 <a id="sansa-royal"></a>
 ## 👑 Royal Family & Royal Companions
@@ -128,7 +138,7 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 | 🥈 | **SANDOR CLEGANE (THE HOUND)**, Joffrey's sworn shield; Kingsguard appointee [Alive] | Protecting Joffrey at the Ruby Ford. | Frightens Sansa, reveals the childhood burning, is appointed to the Kingsguard and later intervenes during Joffrey's cruelty. | Serving Joffrey; kneels to wipe the blood from Sansa's face. |
 | 🥈 | **BARRISTAN SELMY**, former Lord Commander of the Kingsguard [Alive] | Guarding Robert and welcoming the arriving royal knights. | Jousts at the tourney, is publicly dismissed by Cersei and repudiates Joffrey's council. | Leaves the Red Keep without his cloak and armour; subsequent whereabouts unknown to Sansa. |
 | 🥈 | **RENLY BARATHEON**, Robert's brother and lord of Storm's End [Alive] | Joining the royal company at the Ruby Ford. | Meets Sansa, jousts at the tourney and later disappears from Joffrey's court after Robert's death. | Away from the capital; named among those summoned to swear loyalty. |
-| 18 | **ILYN PAYNE**, King's Justice [Alive] | Arriving as part of the royal escort at the Ruby Ford. | Frightens Sansa by his silence; is later remembered executing her father and acts in Joffrey's court. | Serving as executioner under Joffrey. |
+| 🥈 | **ILYN PAYNE**, King's Justice [Alive] | Arriving as part of the royal escort at the Ruby Ford. | Frightens Sansa by his silence; is later remembered executing her father and acts in Joffrey's court. | Serving as executioner under Joffrey. |
 
 <a id="sansa-tourney"></a>
 ## 🌹 Tourney Knights & Combatants
@@ -138,8 +148,8 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 | 🥈 | **LORAS TYRELL**, Knight of Flowers [Alive] | Young Reach knight riding toward the capital's festivities. | Unhorses **Robar Royce**, gives Sansa a red rose and receives her admiration. | Away from the capital by Joffrey's reign; summoned to declare fealty. |
 | 🥈 | **GREGOR CLEGANE**, knight called the Mountain [Alive] | Powerful Lannister bannerman preparing for the tournament. | Kills a young Vale knight with a lance; Sansa subsequently hears how he burned his brother's face. | Away from Sansa and the court, conducting Lannister military operations as reported. |
 | 21 | **SER HUGH OF THE VALE**†, newly knighted Vale retainer [Deceased] | Young knight attached to the Vale and entered in the Hand's tourney. | Meets Gregor in the lists and is pierced through the throat by his lance. | Dies before Sansa's eyes, his body carried from the field. |
-| 22 | **BERIC DONDARRION**, lord of Blackhaven [Alive] | Young stormlands lord attending the tourney. | Fights in the jousts and later rides west with royal authority to pursue Gregor. | Last known departing King's Landing with an armed commission. |
-| 23 | **THOROS OF MYR**, red priest and tourney combatant [Alive] | Attending the tourney with Robert's court. | Unhorses Beric in a joust and remains prominent in discussions of the warriors of the realm. | Last physically seen on the tourney grounds. |
+| 10 | **BERIC DONDARRION**, lord of Blackhaven [Alive] | Young stormlands lord attending the tourney. | Fights in the jousts and later rides west with royal authority to pursue Gregor. | Last known departing King's Landing with an armed commission. |
+| 11 | **THOROS OF MYR**, red priest and tourney combatant [Alive] | Attending the tourney with Robert's court. | Unhorses Beric in a joust and remains prominent in discussions of the warriors of the realm. | Last physically seen on the tourney grounds. |
 | 24 | **ROBAR ROYCE**, Vale knight [Alive; injured] | Contesting the Hand's tourney. | Is unhorsed by Loras, carried off injured, and provides the occasion for Loras to offer Sansa a rose. | Last seen being borne from the joust field to receive care. |
 
 <a id="sansa-council"></a>
@@ -150,17 +160,17 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 | 🥈 | **PETYR BAELISH (LITTLEFINGER)**, Master of Coin [Alive] | Serving in Robert's royal government at King's Landing. | Remarks on Sansa's resemblance to Catelyn, takes responsibility for Jeyne Poole and supports the new administration. | Active on Joffrey's council, including at Sansa's plea for her father's life. |
 | 🥈 | **VARYS**, Master of Whisperers [Alive] | Serving Robert's court in King's Landing. | Helps Cersei question Sansa, seals her coerced letters and witnesses the petitions and new honours. | Continues to serve the new royal council. |
 | 🥈 | **GRAND MAESTER PYCELLE**, royal maester [Alive] | Serving the crown under Robert. | Denounces Ned as a traitor, guides Sansa's letters and announces Joffrey's new appointments. | Still advising the court and administering the king's decrees. |
-| 28 | **JANOS SLYNT**, commander of the City Watch; newly ennobled lord [Alive] | Commanding King's Landing's armed gold cloaks. | Enforces Joffrey's rule, receives Harrenhal and a council seat, and approves royal punishments. | Sits on the council as Lord Slynt, enforcing Joffrey's decisions. |
+| 🥈 | **JANOS SLYNT**, commander of the City Watch; newly ennobled lord [Alive] | Commanding King's Landing's armed gold cloaks. | Enforces Joffrey's rule, receives Harrenhal and a council seat, and approves royal punishments. | Sits on the council as Lord Slynt, enforcing Joffrey's decisions. |
 
 <a id="sansa-guards"></a>
 ## ⚔️ Kingsguard & Armed Functionaries
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 29 | **BOROS BLOUNT**, Kingsguard knight [Alive] | Guarding the royal household under Robert. | Escorts the confined Sansa before Cersei and later attends Joffrey's court. | Serving as a white-cloaked guard under Joffrey. |
-| 30 | **MANDON MOORE**, Kingsguard knight [Alive] | Serving Robert's Kingsguard. | Receives Sansa at the council chamber and returns her to her rooms after she writes the letters. | Continues guarding the royal household. |
-| 31 | **MERYN TRANT**, Kingsguard knight [Alive] | In service to Robert's royal household. | Threatens Barristan at his dismissal and later repeatedly strikes Sansa on Joffrey's orders. | Remains with Joffrey's protection detail. |
-| 32 | **ARYS OAKHEART**, Kingsguard knight [Alive] | Sworn to protect the royal household. | Escorts Cersei during the enthronement and accompanies Joffrey into Sansa's room after Ned's death. | Continues serving the new king. |
+| 14 | **BOROS BLOUNT**, Kingsguard knight [Alive] | Guarding the royal household under Robert. | Escorts the confined Sansa before Cersei and later attends Joffrey's court. | Serving as a white-cloaked guard under Joffrey. |
+| 15 | **MANDON MOORE**, Kingsguard knight [Alive] | Serving Robert's Kingsguard. | Receives Sansa at the council chamber and returns her to her rooms after she writes the letters. | Continues guarding the royal household. |
+| 16 | **MERYN TRANT**, Kingsguard knight [Alive] | In service to Robert's royal household. | Threatens Barristan at his dismissal and later repeatedly strikes Sansa on Joffrey's orders. | Remains with Joffrey's protection detail. |
+| 17 | **ARYS OAKHEART**, Kingsguard knight [Alive] | Sworn to protect the royal household. | Escorts Cersei during the enthronement and accompanies Joffrey into Sansa's room after Ned's death. | Continues serving the new king. |
 | 36 | **LANNISTER HOUSE GUARDS**, unnamed royal-security soldiers [Mixed / not individually tracked] | Guarding the queen and royal entourage. | Confine Sansa and Jeyne, restrict movement within the Red Keep and reinforce the new regime. | Remain in control of Sansa's accessible quarters and exits. |
 | 37 | **CITY WATCH GOLD CLOAKS**, King's Landing municipal guards [Mixed / not individually tracked] | Serving the city under Janos Slynt. | Secure gates and public courts; Sansa recalls them forcing her father down before his execution. | Defend Joffrey's authority and enforce judicial punishments. |
 
@@ -170,8 +180,8 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 33 | **MYCAH**†, butcher's boy [Deceased] | With the royal travelling camp, playing swords with Arya at the river. | Is threatened by Joffrey, who cuts his face, then flees during the encounter. | Killed after fleeing, as Sansa learns following the incident. |
-| 34 | **DONTOS HOLLARD**, court knight [Alive] | Attached to the capital's courtly and tourney circles. | Attempts to greet Sansa at Joffrey's court but withdraws when another knight warns him. | Continues at court, avoiding public association with Sansa. |
-| 35 | **BALON SWANN**, knight and courtier [Alive] | Serving among Robert's courtly knights. | Is unhorsed by Gregor at the tourney and later signals Dontos not to approach Sansa. | Present among Joffrey's court, maintaining distance from her. |
+| 21 | **DONTOS HOLLARD**, court knight [Alive] | Attached to the capital's courtly and tourney circles. | Attempts to greet Sansa at Joffrey's court but withdraws when another knight warns him. | Continues at court, avoiding public association with Sansa. |
+| 22 | **BALON SWANN**, knight and courtier [Alive] | Serving among Robert's courtly knights. | Is unhorsed by Gregor at the tourney and later signals Dontos not to approach Sansa. | Present among Joffrey's court, maintaining distance from her. |
 
 <p align="right"><a href="#sansa-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -212,4 +222,7 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 
 > **Scope-relative Threads — Applies to: [Section 3 (Major Narrative Threads)](#sansa-threads):** These are ranked by their prominence within Sansa I–VI. The headings describe actual objectives, threats, relationships and political decisions rather than abstract themes. They do not claim to replace or continue a cumulative full-book ROM MNT hierarchy.
 
-> **Formatting and authority — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.74](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The Table of Contents, GitHub-styled return-to-TOC controls and archival notes belong to the canonical repository copy and not to the normal ChatGPT publication view.
+> **Formatting and authority — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The Table of Contents, GitHub-styled return-to-TOC controls and archival notes belong to the canonical repository copy and not to the normal ChatGPT publication view.
+
+
+> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
