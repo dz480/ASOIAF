@@ -35,7 +35,8 @@ The nine completed full-book POV records are listed in order of their first narr
 
 ## Book 2: A Clash of Kings (COK)
 
-- [COK readthrough workspace](02. COK/README.md) · Active Book 2 destination. Records will be indexed here as they are published; none have been published yet.
+- [COK readthrough workspace](02. COK/README.md) · Active Book 2 destination and local index.
+- [ROM MCM | Prologue + Ch. 1–69 | Full Book](02. COK/ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES**; preserves verified GOT cumulative baselines, with unresolved COK counts clearly flagged. **Full-book spoilers.**
 
 ## Repository navigation conventions
 
