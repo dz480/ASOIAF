@@ -15,6 +15,8 @@
 
 - [ASOIAF ROM MCR | GOT-end baseline, Book 2 opening](SERIES%20CONTINUITY/MASTER_CHARACTER_REGISTRY.csv) · 182 established GOT identities, 39 Deceased and 143 Inactive at COK rollover. Retains first/latest GOT appearances, verified accumulated counts and reference notes. **Historical GOT boundary; COK-end future information excluded.**
 
+- [MCP | Daenerys Targaryen | GOT-end](SERIES%20CONTINUITY/MCP/DAENERYS_TARGARYEN_MCP.md) · Full ROM AP and ROM RT through GOT Ch. 72; ROM CR pending. **Full-book spoilers.**
+
 ## Book 1: A Game of Thrones (GOT)
 
 ### Complete-book references
