@@ -9,7 +9,7 @@ This folder is the canonical destination for all published COK-specific readthro
 
 ## Published COK records
 
-None yet. New records will be linked here and from the [series reading index](../README.md) as they are committed.
+- [ROM MCM | Prologue + Ch. 1–69 | Full Book](ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES.** Whole-book character reference, including verified inherited GOT upper-tier baselines; COK priority appearance counts are still under primary-text verification. **Full COK spoilers.**
 
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
