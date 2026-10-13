@@ -6,7 +6,7 @@
 **1 Mar 298 AC → 16 Jan 299 AC**  
 *Winterfell · White Harbor–King’s Landing sea route · King’s Landing · Crossroads Inn · Vale of Arryn · Moat Cailin · Twins · Whispering Wood · Riverrun*
 
-**CATELYN STARK** · **EDDARD STARK** · **BRAN STARK** · **ROBB STARK** · **TYRION LANNISTER** · **JAIME LANNISTER** · **RODRIK CASSEL** · **MAESTER LUWIN** · **PETYR BAELISH** · **VARYS** · **LYSA ARRYN** · **BRONN** · **BRYNDEN TULLY** · **WALDER FREY** · **ROOSE BOLTON** · **RICKARD KARSTARK** · **EDMURE TULLY** · **THEON GREYJOY** · **JON UMBER**
+**CATELYN STARK** · **EDDARD STARK** · **MAESTER LUWIN** · **BRAN STARK** · **ROBB STARK** · **RODRIK CASSEL** · **THEON GREYJOY** · **PETYR BAELISH** · **VARYS** · **TYRION LANNISTER** · **LYSA ARRYN** · **BRONN** · **BRYNDEN TULLY** · **ROOSE BOLTON** · **RICKARD KARSTARK** · **JON UMBER** · **WALDER FREY** · **JAIME LANNISTER** · **EDMURE TULLY**
 
 **Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
