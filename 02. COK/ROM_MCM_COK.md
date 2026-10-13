@@ -55,7 +55,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **BIG WALDER FREY**, Young Frey ward at Winterfell | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Cousin of Little Walder; one of the Frey boys in Bran's household | 🟢 **Alive**; survived the occupation of Winterfell |
 |  | **CHAYLE**, Septon of Winterfell | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Resident cleric in the Stark household | 🗡 **Deceased**; killed at Winterfell |
 |  | **CLEY CERWYN**, Northern nobleman | ⇤ **COK Ch. 16**<br>⇥ **Not verified**<br>Not verified | Attends Bran's harvest feast | 🗡 **Deceased**; killed at Winterfell |
-|  | **FARLEN**, Winterfell kennelmaster | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Responsible for the Stark hunting dogs | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; at Winterfell |
+|  | **FARLEN**, Winterfell kennelmaster | ⇤ **Not verified**<br>⇥ **COK Ch. 50**<br>Not verified | Responsible for the Stark hunting dogs | 🗡 **Deceased**; executed by Theon in COK Ch. 56 |
 |  | **GAGE**, Winterfell cook | ⇤ **COK Ch. 4**<br>⇥ **Not verified**<br>Not verified | Enacted participant in the Winterfell household | ⚪️ **COK end unverified** |
 |  | **GARISS**, Winterfell huntsman | ⇤ **COK Ch. 50**<br>⇥ **COK Ch. 50**<br>Not verified | Enacted participation in COK | ⚪️ **End fate unconfirmed** |
 |  | **GREY WIND**, Robb Stark's direwolf | ⇤ **GOT Ch. 53**<br>⇥ **COK Ch. 7**<br>Not verified | Accompanies Robb at the opening of the war | 🟢 **Alive** |
@@ -71,7 +71,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **MURCH (WINTERFELL HUNTSMAN)**, Huntsman in Winterfell's household | ⇤ **COK Ch. 50**<br>⇥ **COK Ch. 50**<br>Not verified | Joins Theon's search party pursuing the vanished Stark boys | ⚪️ **Unknown**; no later fate confirmed |
 |  | **OLD NAN**, Winterfell storyteller | ⇤ **GOT Ch. 14**<br>⇥ **COK Ch. 56**<br>Not verified | Enacted participation in COK | ⚪️ **End fate unconfirmed** |
 |  | **PALLA**, Winterfell kennel girl | ⇤ **COK Ch. 46**<br>⇥ **COK Ch. 46**<br>Not verified | Farlen supports her following abuse during Theon's occupation; she physically enters Bran's Winterfell scene | 🟢 **Alive** at her final directly established scene |
-|  | **POXY TYM**, Winterfell guard | ⇤ **COK Ch. 46**<br>⇥ **COK Ch. 69**<br>Not verified | Present in Bran's household and later found among Winterfell's dead | 🗡 **Deceased**; remains found following Winterfell's destruction |
+|  | **POXY TYM**, Winterfell guard | ⇤ **COK Ch. 46**<br>⇥ **COK Ch. 50**<br>Not verified | Present in Bran's household and later found among Winterfell's dead | 🗡 **Deceased**; remains found following Winterfell's destruction |
 |  | **SHAGGYDOG**, Rickon's direwolf | ⇤ **COK Ch. 4**<br>⇥ **Not verified**<br>Not verified | Acts at Winterfell | 🟢 **Alive** |
 |  | **SUMMER**, Direwolf | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | **Bran**'s direwolf; protects him from an assassin and other threats | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; remains at Winterfell |
 |  | **WYMAN MANDERLY**, Lord of White Harbor | ⇤ **COK Ch. 16**<br>⇥ **Not verified**<br>Not verified | Attends the Winterfell court | 🟢 **Alive** |
@@ -458,7 +458,7 @@ COK qualifying character census, including confirmed direct participants discove
 | **Tertiary** | 192 | Alebelly† • **Beth Cassel** • **Big Walder Frey** • Chayle† • Cley Cerwyn† • **Farlen** • **Gage** • **Grey Wind** • **Hallis Mollen** • **Hayhead** • **Hother Umber** • **Joseth** • **Leobald Tallhart** • **Little Walder Frey** • Mikken† • **Mors Umber** • **Murch (winterfell Huntsman)** • **Palla** • Poxy Tym† • **Shaggydog** • **Summer** • **Wyman Manderly** • **Robett Glover** • **Chett** • **Donal Noye** • **Dywen** • Ebben† • **Eddison Tollett** • **Endrew Tarth** • **Ghost** • **Gilly** • **Grenn** • **Hake** • **Jarman Buckwell** • **Lark** • **Mallador Locke** • **Ottyn Wythers** • **Rattleshirt** • Squire Dalbridge† • **Stonesnake** • **Thoren Smallwood** • Yoren† • **Alayaya** • Aron Santagar† • **Balon Swann** • **Boros Blount** • **Chataya** • **Dancy** • **Ermesande Hayford** • **Falyse Stokeworth** • **Gyles Rosby** • **Hallyne** • **Hobber Redwyne** • **Horas Redwyne** • **Ironbelly** • **Jalabhar Xho** • **Lollys Stokeworth** • **Lothor Brune** • **Maester Frenken** • Mandon Moore† • **Moon Boy** • **Morros Slynt** • **Myrcella Baratheon** • **Osfryd Kettleblack** • **Osmund Kettleblack** • **Osney Kettleblack** • Preston Greenfield† • **Salloreon** • **Tanda Stokeworth** • **Tommen Baratheon** • **Vylarr** • **Willit** • **Addam Marbrand** • **Chella** • **Kevan Lannister** • **Lewys Lydden** • **Roland Crakehall** • **Tyrek Lannister** • **Desmond Grell** • **Hoster Tully** • **Maester Vyman** • **Olyvar Frey** • **Robin Ryger** • **Timett** • **Tytos Blackwood** • **Utherydes Wayn** • **Aenys Frey** • **Amabel** • **Biter** • Chiswyck† • **Cutjack** • Dobber† • **Hod** • **Hot Pie** • Koss† • Kurz† • Lommy Greenhands† • **Lucan** • **Murch (yoren'S Company)** • **Pia** • **Polliver** • Praed† • **Qyburn** • **Rafford** • **Reysen** • **Rorge** • **Tarber** • **Tickler** • **Weasel (orphan Girl)** • Weese† • **Allard Seaworth** • **Ardrian Celtigar** • **Axell Florent** • **Bryen Farring** • **Dale Seaworth** • **Devan Seaworth** • **Duram Bar Emmon** • **Guncer Sunglass** • **Maester Pylos** • Monford Velaryon† • **Patchface** • **Shireen Baratheon** • **Alesander Staedmon** • **Arwyn Oakheart** • **Aurane Waters** • **Bonifer Hasty** • **Bryce Caron** • **Colen Of Greenpools** • **Dermot Of The Rainwood** • **Elyas Willum** • Emmon Cuy† • **Garlan Tyrell** • **Guyard Morrigen** • **Jon Fossoway** • **Josmyn Peckledon** • **Josua Willum** • **Lucas Blackwood** • **Mace Tyrell** • **Mark Mullendore** • **Mathis Rowan** • **Paxter Redwyne** • **Perwyn Frey** • **Philip Foote** • **Randyll Tarly** • Robar Royce† • **Robin Flint** • **Ronnet Connington** • **Ser Tanton** • **Steffon Varner** • **Timon The Scrapesword** • **Wendel Manderly** • **Aeron Greyjoy** • Black Lorren† • **Gevin Harlaw** • **Helya** • Kromm† • Red Rolfe† • **Stygg** • **Tymor** • **Urzen** • **Werlag** • **Wex Pyke** • **Aggo** • **Drogon** • **Irri** • **Jhiqui** • **Jhogo** • **Quaithe** • **Quhuru Mo** • **Rakharo** • **Rhaegal** • **Strong Belwas** • **Viserion** • **Elmar Frey** • **Hosteen Frey** • **Jared Frey** • **Harys Haigh** • **Ronel Rivers** • **Steelshanks Walton** • **Rymund The Rhymer** • **Lord Estermont** • **Lord Willum** • **Old Nan** • **Benfred Tallhart** • **Gariss** • **Kyra** • **Aggar** • **Gelmarr The Grim** • **Gynir Rednose** • **Harrag Sheepstealer** • **Ulf The Ill** • **Kenned The Whale** |
 
 **Total Characters:** 263
-**Deceased:** 38 (provisional; all COK-ending conditions have not been independently checked).
+**Deceased:** 39 (provisional; all COK-ending conditions have not been independently checked).
 
 <a id="cok-mcm-04"></a>
 ## 4. Significance Promotion Ledger
@@ -608,7 +608,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **ENDREW TARTH** | COK Ch. 6 | COK Ch. 6 | | | | |
 | **ERMESANDE HAYFORD** | COK Ch. 2 | Not verified | | | | |
 | **FALYSE STOKEWORTH** | COK Ch. 2 | Not verified | | | | |
-| **FARLEN** | Not verified | Not verified | | | | |
+| **FARLEN** | Not verified | COK Ch. 50 | | | | |
 | **GAGE** | COK Ch. 4 | Not verified | | | | |
 | **GARISS** | COK Ch. 50 | COK Ch. 50 | | | | |
 | **GARLAN TYRELL** | COK Ch. 65 | COK Ch. 65 | | | | |
@@ -693,7 +693,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **PHILIP FOOTE** | COK Ch. 65 | COK Ch. 65 | | | | |
 | **PIA** | COK Ch. 47 | COK Ch. 64 | | | | |
 | **POLLIVER** | Not verified | Not verified | | | | |
-| **POXY TYM** | COK Ch. 46 | COK Ch. 69 | | | | |
+| **POXY TYM** | COK Ch. 46 | COK Ch. 50 | | | | |
 | **PRAED** | COK Ch. 5 | COK Ch. 5 | | | | |
 | **PRESTON GREENFIELD** | Not verified | COK Ch. 41 | | | | |
 | **QUAITHE** | Not verified | Not verified | | | | |
@@ -752,6 +752,10 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 
 <a id="cok-mcm-06"></a>
 ## 6. Verification & Source Notes
+
+**14 Oct 2026 primary EPUB check — pending Winterfell reconciliation:** Ten additional named participants were confirmed in COK Ch. 37, 50, 56 and 66 and entered into the book's current roster. Old Nan also participates directly in COK Ch. 4, 21 and 46; her original series direct appearance was checked in GOT Ch. 14. Aggar, Gelmarr the Grim and Gynir Rednose are directly present in Ch. 50 and reported deceased in Ch. 56; reporting death does not add a direct appearance. Ulf the Ill and Kenned the Whale are directly killed in Ch. 66. Harrag Sheepstealer's ultimate fate remains unconfirmed. Farlen is executed in COK Ch. 56, but his latest living enacted appearance is in Ch. 50. Poxy Tym joins the Ch. 50 search; his corpse is later identified in Ch. 69, which does not count as living enacted participation. All direct chapter claims were checked against the uploaded novel rather than copied from mention-frequency data. These targeted checks do not certify completeness of the entire novel's named cast or all priority-tier lists.
+
+
 
 **Source-backed exception additions (14 Oct 2026):** COK EPUB direct scenes support the nine added characters in COK Ch. 55, 64 and 65: Elmar Frey, Hosteen Frey, Jared Frey, Harys Haigh, Ronel Rivers, Steelshanks Walton, Rymund the Rhymer, Lord Estermont and Lord Willum. External *Appearing* lists served as candidate locators; primary EPUB excerpts establish participation. The records remain under a provisional completeness classification.
 
