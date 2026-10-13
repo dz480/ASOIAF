@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 67 (Sansa VI)**. Only Sansa's 6 POV chapters are enacted Scope.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="sansa-toc"></a>
 ## Table of Contents
@@ -43,7 +43,7 @@
 <a id="sansa-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-15) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-15) · [Reading Index](../README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -213,9 +213,9 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 
 > **Source word count and scaling — Applies to: [Section 1 (Narrative Context)](#sansa-context), [Section 4 (Narrative Overview)](#sansa-overview):** Source RTE chapter counts are 5,072 + 4,509 + 2,948 + 3,746 + 3,367 + 3,690 = **23,332 words**. SROMX's `300 + 12 × √W` rounded to the nearest 50 produces an Overview target of approximately **2,150 visible characters** and a Context target of approximately **538 characters**; these are proportional targets, not ceilings.
 
-> **Chronology source — Applies to: [Section 2 (Timeline)](#sansa-timeline):** Native dates follow [ROM CSRM AGOT](https://github.com/dz480/ASOIAF/blob/main/ROM_CSRM_AGOT.md). The dates are project chronology allocations; the supplied source does not establish a separate RSDP time-zero for this POV composite.
+> **Chronology source — Applies to: [Section 2 (Timeline)](#sansa-timeline):** Native dates follow [ROM CSRM AGOT](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_CSRM_AGOT.md). The dates are project chronology allocations; the supplied source does not establish a separate RSDP time-zero for this POV composite.
 
-> **Presence and continuity — Applies to: [Section 5 (Roll Call)](#sansa-roll):** [ROM MCM AGOT](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) informs Significance, but physical Presence is determined in Sansa I–VI. Characters physically encountered within the POV qualify when they satisfy the individual or collective continuity threshold. The shared opening state is the start of Sansa I, not a later first appearance.
+> **Presence and continuity — Applies to: [Section 5 (Roll Call)](#sansa-roll):** [ROM MCM AGOT](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_MCM_AGOT.md) informs Significance, but physical Presence is determined in Sansa I–VI. Characters physically encountered within the POV qualify when they satisfy the individual or collective continuity threshold. The shared opening state is the start of Sansa I, not a later first appearance.
 
 > **Uncertain outcomes — Applies to: [Section 4 (Narrative Overview)](#sansa-overview), [Section 5 (Roll Call)](#sansa-roll):** Jeyne Poole is handed over to Littlefinger for removal, but her ultimate whereabouts are unresolved in these chapters. Ser Hugh is identifiable from wider in-boundary continuity as the knight killed by Gregor; Sansa herself does not remember his name. Nymeria is Missing from Sansa's information rather than confirmed dead.
 

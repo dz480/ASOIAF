@@ -4,7 +4,7 @@
 
 > **Whole-book foresight reference:** Contains spoilers for the complete first novel. It is not a reader-progress update and does not initialise or advance the live MCR.
 
-**Navigation:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) (full-book spoilers)
+**Navigation:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) (full-book spoilers)
 
 ## Table of Contents
 

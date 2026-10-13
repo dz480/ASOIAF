@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 69 (Tyrion IX)**; Tyrion's 9 selected chapters only.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="tyrion-toc"></a>
 ## Table of Contents
@@ -50,7 +50,7 @@ In **Westeros**, **King Robert Baratheon** has travelled to **Winterfell** after
 <a id="tyrion-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-9) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-9) · [Reading Index](../README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -269,9 +269,9 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 
 > **Word counts and structural targets — Applies to: [Section 1 (Narrative Context)](#tyrion-context), [Section 4 (Narrative Overview)](#tyrion-overview):** The authorised RTE counts are 2,134 + 3,527 + 4,368 + 5,391 + 5,125 + 3,532 + 3,675 + 7,093 + 3,479 = **38,324 words**. SROMX's `300 + 12 × √W`, rounded to the nearest 50, supplies approximately 2,650 characters for the Overview and 663 characters for Context; both are approximate targets.
 
-> **Chronology — Applies to: [Section 2 (Timeline)](#tyrion-timeline):** Native Date assignments follow the canonical [AGOT CSRM](https://github.com/dz480/ASOIAF/blob/main/ROM_CSRM_AGOT.md). The Project provides no independent RSDP elapsed-time anchor for this selection, so none is fabricated.
+> **Chronology — Applies to: [Section 2 (Timeline)](#tyrion-timeline):** Native Date assignments follow the canonical [AGOT CSRM](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_CSRM_AGOT.md). The Project provides no independent RSDP elapsed-time anchor for this selection, so none is fabricated.
 
-> **Census discipline — Applies to: [Section 5 (Roll Call)](#tyrion-rollcall):** [ROM_MCM_AGOT](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) guides significance but does not replace physical-Presence eligibility in the selected chapters. The Position at Start boundary is Tyrion I, including for characters introduced later. Physically encountered bodies are included where they have continuing narrative importance.
+> **Census discipline — Applies to: [Section 5 (Roll Call)](#tyrion-rollcall):** [ROM_MCM_AGOT](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_MCM_AGOT.md) guides significance but does not replace physical-Presence eligibility in the selected chapters. The Position at Start boundary is Tyrion I, including for characters introduced later. Physically encountered bodies are included where they have continuing narrative importance.
 
 > **Death-count qualification — Applies to: [Section 5 (Roll Call)](#tyrion-rollcall):** At least 9 individually identifiable deaths occur during this Scope: Chiggen, Morrec, Jyck, Kurleket, Mohor, Vardis Egen, Conn, Ulf and Masha Heddle. Chiggen's death is reported by Bronn; Vardis dies during the combat that falls between Tyrion V and VI; Morrec's death is later confirmed by Tyrion. The larger High Road and Green Fork casualty totals are not numerically secure.
 

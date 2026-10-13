@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 72 (Daenerys X)**.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="daenerys-toc"></a>
 ## Table of Contents
@@ -43,7 +43,7 @@ After **Robert Baratheon** overthrows **House Targaryen**, the surviving royal s
 <a id="daenerys-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-3) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-3) · [Reading Index](../README.md)
 
 
 | # | Date | Location | Chronological Position |

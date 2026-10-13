@@ -9,7 +9,7 @@
 
 **BRAN STARK** · **EDDARD STARK** · **JON SNOW** · **ROBB STARK** · **THEON GREYJOY** · **JORY CASSEL** · **CERSEI LANNISTER** · **JAIME LANNISTER** · **MAESTER LUWIN** · **TYRION LANNISTER** · **HODOR** · **RICKON STARK** · **OSHA** · **GREATJON UMBER** · **RICKARD KARSTARK** · **RODRIK CASSEL**
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="bran-toc"></a>
 ## Table of Contents
@@ -43,7 +43,7 @@ The long summer has entered its ninth year. At **Winterfell**, **Bran Stark**, t
 <a id="bran-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-1) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-1) · [Reading Index](../README.md)
 
 
 | # | Date | Location | Chronological Position |

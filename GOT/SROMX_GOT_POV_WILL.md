@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **GOT Prologue**. Later chapters, including Gared's subsequent fate, are not imported.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="will-toc"></a>
 ## Table of Contents
@@ -38,7 +38,7 @@ Beyond **the Wall**, 3 brothers of the **Night's Watch** have spent 9 days track
 <a id="will-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-prologue) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-prologue) · [Reading Index](../README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -135,14 +135,14 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 
 > **Primary text and count — Applies to: [Section 1 (Narrative Context)](#will-context), [Section 4 (Narrative Overview)](#will-overview):** Grounded in the attached complete *A Game of Thrones* EPUB (`OEBPS/Text/part0005.xhtml`), with `RTE_A_Game_of_Thrones_Full_Schedule.txt` confirming **3,800 source words**. The approximate SROMX scaled targets are **1,050 characters** for Overview and **263 characters** for Context; these are guides, not ceilings.
 
-> **Chronology — Applies to: [Section 2 (Timeline)](#will-timeline):** [ROM_CSRM_AGOT.md](https://github.com/dz480/ASOIAF/blob/main/ROM_CSRM_AGOT.md) assigns **3 Jun 297 AC** to the Prologue. Dusk, night and later-night phases follow the primary narration; the passage of hours is known, but clock times are not. No RSDP anchor is authorised for this Project scope.
+> **Chronology — Applies to: [Section 2 (Timeline)](#will-timeline):** [ROM_CSRM_AGOT.md](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_CSRM_AGOT.md) assigns **3 Jun 297 AC** to the Prologue. Dusk, night and later-night phases follow the primary narration; the passage of hours is known, but clock times are not. No RSDP anchor is authorised for this Project scope.
 
-> **Presence, significance and death counting — Applies to: [Section 5 (Roll Call)](#will-rollcall):** The canonical [AGOT MCM](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) lists **Gared**, **Waymar Royce** and **Will** under the **Night's Watch Tertiary Characters**, regardless of their prominence in this single POV unit. The duelling Other has no individual classification in the MCM, whose individual character listings concern named characters; SROMX independently assigns that one-scene combatant **Tertiary** significance. The roster distinguishes the individual Other from the collective watchers who act alongside it. All 3 Night's Watch rangers are physically present in the Prologue. Waymar's killing and Will's subsequent fatal strangulation comprise **2 Scope-local deaths**. The allegedly dead wildlings have vanished by the return to their encampment; their condition and final whereabouts are unresolved, so they are not counted as certain deaths or represented as materially individualised present characters.
+> **Presence, significance and death counting — Applies to: [Section 5 (Roll Call)](#will-rollcall):** The canonical [AGOT MCM](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_MCM_AGOT.md) lists **Gared**, **Waymar Royce** and **Will** under the **Night's Watch Tertiary Characters**, regardless of their prominence in this single POV unit. The duelling Other has no individual classification in the MCM, whose individual character listings concern named characters; SROMX independently assigns that one-scene combatant **Tertiary** significance. The roster distinguishes the individual Other from the collective watchers who act alongside it. All 3 Night's Watch rangers are physically present in the Prologue. Waymar's killing and Will's subsequent fatal strangulation comprise **2 Scope-local deaths**. The allegedly dead wildlings have vanished by the return to their encampment; their condition and final whereabouts are unresolved, so they are not counted as certain deaths or represented as materially individualised present characters.
 
 > **Gared's later fate — Applies to: [Section 5 (Roll Call)](#will-rollcall):** **Gared** is alive when Waymar and Will leave him with the horses. The reader may encounter a later outcome in other POV material; that event lies beyond the Prologue boundary and is intentionally excluded from his closing status.
 
 > **Scope-relative threads — Applies to: [Section 3 (Major Narrative Threads)](#will-threads):** The threads reflect the Prologue's own concrete stakes: the vanished wildlings, the Watch's divided judgment and the supernatural assault. They are not asserted to be the cumulative major-thread ranking of the complete novel.
 
-> **Canonical sources and workflow — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [AGOT Master Character Map](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The TOC, return controls and archival notes are repository scaffolding and omitted from ordinary reader-facing ChatGPT publication.
+> **Canonical sources and workflow — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [AGOT Master Character Map](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_MCM_AGOT.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The TOC, return controls and archival notes are repository scaffolding and omitted from ordinary reader-facing ChatGPT publication.
 
 > **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs the book-wide Significance of listed named characters; [AGOT CSRM](ROM_CSRM_AGOT.md) governs the project's estimated chronology and chapter coordinates. Formatting follows [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md). Selected POV scenes retain their own source and spoiler boundaries.

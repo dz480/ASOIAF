@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 58 (Eddard XV)**. Events established only in subsequent chapters are excluded.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="eddard-toc"></a>
 ## Table of Contents
@@ -44,7 +44,7 @@ The recent death of **Jon Arryn**, who fostered both men and subsequently served
 <a id="eddard-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-4) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-4) · [Reading Index](../README.md)
 
 
 | # | Date | Location | Chronological Position |

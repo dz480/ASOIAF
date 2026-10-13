@@ -9,9 +9,9 @@ import re
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-CSRM = ROOT / "ROM_CSRM_AGOT.md"
+CSRM = ROOT / "GOT" / "ROM_CSRM_AGOT.md"
 INDEX = ROOT / "README.md"
-MCM = ROOT / "ROM_MCM_AGOT.md"
+MCM = ROOT / "GOT" / "ROM_MCM_AGOT.md"
 LINK = re.compile(r'(?<!!)\[[^\]\n]+\]\(([^)\s]+)(?:\s+[^)]*)?\)')
 HTML_HREF = re.compile(r'<a\b[^>]*\bhref=["\']([^"\']+)["\']', re.I)
 EXPLICIT = re.compile(r'<a\b[^>]*\bid=["\']([^"\']+)["\']', re.I)
@@ -86,11 +86,14 @@ for path, content in markdown.items():
             continue
         if destination.startswith("https://github.com/dz480/ASOIAF/blob/main/"):
             destination = destination.split("/blob/main/", 1)[1]
+            parsed = urlsplit(destination)
+            target = (ROOT / unquote(parsed.path)).resolve()
         elif "://" in destination or destination.startswith("//"):
             continue
-        parsed = urlsplit(destination)
-        local = unquote(parsed.path)
-        target = (path.parent / local).resolve() if local else path
+        else:
+            parsed = urlsplit(destination)
+            local = unquote(parsed.path)
+            target = (path.parent / local).resolve() if local else path
         if not target.is_relative_to(ROOT) or not target.is_file():
             fail(f"{label}: missing local link destination {destination}")
             continue
@@ -115,9 +118,9 @@ else:
     for label, content in [("CSRM", csrm), ("MCM", mcm)]:
         if "Full-book spoilers" not in content and "Whole-book foresight reference" not in content:
             fail(f"{label}: whole-book spoiler notice missing.")
-        if "[Reading Index](README.md)" not in content:
+        if "[Reading Index](../README.md)" not in content:
             fail(f"{label}: missing reading-index link.")
-    reports = sorted(ROOT.glob("SROMX_GOT_POV_*.md"))
+    reports = sorted((ROOT / "GOT").glob("SROMX_GOT_POV_*.md"))
     memberships = {}
     if len(reports) != 9:
         fail(f"Expected 9 full-book POV reports (Will + eight numbered-chapter POVs), found {len(reports)}.")
@@ -193,7 +196,7 @@ else:
             numbers = [int(v) for v in entries if v.isdigit()]
             if len(numbers) != len(set(numbers)):
                 fail(f"{report.name}: repeated Tertiary/Collective index.")
-        expected_link = f"[SROMX | {FULL_POV_NAMES[pov]} | Full Book]({report.name})"
+        expected_link = f"[SROMX | {FULL_POV_NAMES[pov]} | Full Book](GOT/{report.name})"
         if expected_link not in index:
             fail(f"Reading Index missing canonical link {expected_link}.")
     if len(memberships) != 72:
@@ -213,9 +216,9 @@ else:
             fail(f"CSRM chapter {n}: unexpected/missing SROMX back-reference {present} vs {expected}.")
     if "**POV reconstruction (" in csrm:
         fail("CSRM contains redundant standalone POV reconstruction labels.")
-    if "[ROM CSRM | Prologue + Ch. 1–72](ROM_CSRM_AGOT.md)" not in index:
+    if "[ROM CSRM | Prologue + Ch. 1–72](GOT/ROM_CSRM_AGOT.md)" not in index:
         fail("Reading Index missing whole-book CSRM entry.")
-    if "[ROM MCM | Whole book](ROM_MCM_AGOT.md)" not in index:
+    if "[ROM MCM | Whole book](GOT/ROM_MCM_AGOT.md)" not in index:
         fail("Reading Index missing MCM entry.")
 
 if errors:
@@ -224,5 +227,5 @@ if errors:
         print(" -", issue)
     sys.exit(1)
 print(f"ROM navigation validation PASSED: {len(markdown)} Markdown documents, "
-      f"{len(list(ROOT.glob('SROMX_GOT_POV_*.md')))} POV reports, "
+      f"{len(list((ROOT / 'GOT').glob('SROMX_GOT_POV_*.md')))} POV reports, "
       f"{len(memberships)} mapped chapter-to-POV links, 72 stable chapter anchors and 1 Prologue anchor.")

@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 70 (Jon IX)**. This composite Scope contains only Jon's 9 POV chapters.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
 <a id="jon-toc"></a>
 ## Table of Contents
@@ -47,7 +47,7 @@ After years of rule from **Winterfell**, **Eddard Stark** welcomes **King Robert
 <a id="jon-timeline"></a>
 # 2. Timeline
 
-**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-5) · [Reading Index](README.md)
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-5) · [Reading Index](../README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -237,9 +237,9 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 > **Coordinates and source-word scaling — Applies to: [Section 1 (Narrative Context)](#jon-context) and [Section 4 (Narrative Overview)](#jon-overview):** The project RTE schedule identifies the 9 Jon chapters as GOT Ch. 5, 10, 19, 26, 41, 48, 52, 60 and 70, together containing 36,917 source words. The ROM NUMBER scaling expression `300 + 12 × √W` rounded to 50 yields an overview target of 2,600 visible characters, with a 650-character context target. Both remain approximate structural targets, not ceilings.
 
-> **Chronology source and calendar policy — Applies to: [Section 2 (Timeline)](#jon-timeline) and Entire document:** The chapter dates are taken from the project [AGOT CSRM](https://github.com/dz480/ASOIAF/blob/main/ROM_CSRM_AGOT.md), rather than calculated from explicit dates in the novel. The project source supplies no authorised RSDP anchor for this record; no synthetic elapsed-time line has been added.
+> **Chronology source and calendar policy — Applies to: [Section 2 (Timeline)](#jon-timeline) and Entire document:** The chapter dates are taken from the project [AGOT CSRM](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_CSRM_AGOT.md), rather than calculated from explicit dates in the novel. The project source supplies no authorised RSDP anchor for this record; no synthetic elapsed-time line has been added.
 
-> **Physical-Presence and Character Significance — Applies to: [Section 5 (Roll Call)](#jon-rollcall):** Qualification requires physical presence in at least one of Jon's selected chapters, including visible participants in the Winterfell feast and directly encountered bodies/wights. The full-book [AGOT MCM](https://github.com/dz480/ASOIAF/blob/main/ROM_MCM_AGOT.md) supplies Significance guidance, not a substitute for primary-text presence checking. Ordinary named background figures without distinct continuity function are omitted.
+> **Physical-Presence and Character Significance — Applies to: [Section 5 (Roll Call)](#jon-rollcall):** Qualification requires physical presence in at least one of Jon's selected chapters, including visible participants in the Winterfell feast and directly encountered bodies/wights. The full-book [AGOT MCM](https://github.com/dz480/ASOIAF/blob/main/GOT/ROM_MCM_AGOT.md) supplies Significance guidance, not a substitute for primary-text presence checking. Ordinary named background figures without distinct continuity function are omitted.
 
 > **Scope opening and offstage news — Applies to: [Section 3 (Major Narrative Threads)](#jon-threads), [Section 4 (Narrative Overview)](#jon-overview), and [Section 5 (Roll Call)](#jon-rollcall):** The shared opening boundary is GOT Ch. 5, not each person's first physical appearance. The deaths of Robert and Eddard, the movements of Robb, and other news from the south are retained strictly as reported developments rather than invented firsthand Jon scenes.
 

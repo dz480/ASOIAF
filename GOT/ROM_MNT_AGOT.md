@@ -7,7 +7,7 @@
 
 > **Full-book spoilers:** This report synthesises every POV and discloses the novel's political outcomes, character deaths, supernatural events and other revelations through the final chapter.
 
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md)
+**Repository:** [Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md)
 
 <a id="mnt-toc"></a>
 ## Table of Contents
