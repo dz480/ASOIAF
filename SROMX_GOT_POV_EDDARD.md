@@ -4,16 +4,16 @@
 
 **Scope:** **GOT Ch. 4, 12, 16, 20, 25, 27, 30, 33, 35, 39, 43, 45, 47, 49, 58** (Eddard I–XV).  
 **Source Words:** 53,935 · 15 POV chapters  
-**Chronology:** **18 Apr → 30 Dec 298 AC** (project chronology)  
+**18 Apr 298 AC → 30 Dec 298 AC**  
 *Winterfell · Barrowlands · Darry · King's Landing · Red Keep*
 
 **EDDARD STARK** · **ROBERT BARATHEON** · **CATELYN STARK** · **JAIME LANNISTER** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **TYRION LANNISTER** · **ROBB STARK** · **BRAN STARK** · **SANSA STARK** · **ARYA STARK** · **RICKON STARK** · **JORY CASSEL** · **RENLY BARATHEON** · **BARRISTAN SELMY** · **RODRIK CASSEL** · **PETYR BAELISH** · **VARYS** · **PYCELLE** · **GENDRY** · **JANOS SLYNT** · **SANDOR CLEGANE** · **GREGOR CLEGANE** · **ILYN PAYNE**
 
 **Spoiler Boundary:** End of **GOT Ch. 58 (Eddard XV)**. Events established only in subsequent chapters are excluded.
 
-<a id="eddard-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="eddard-toc"></a>
 ## Table of Contents
 
 - [1. Narrative Context](#eddard-context)
@@ -108,7 +108,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
-**Character entries:** 56 Total | 11 Principal | 13 Supporting | 27 Tertiary | 5 Collective | ≥11 Deaths
+**Character entries:** 56 Total | 11 Principal | 13 Supporting | 27 Tertiary | 5 Collective| ≥11 Deaths
 
 *Significance: 🏅 Principal · 🥈 Supporting · Numbered Tertiary / Collective. Deaths include established named human casualties and Lady; additional unnamed casualties prevent a definitive total.*
 
@@ -269,15 +269,14 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 ## Appendix: Document Notes
 
-- **Record:** SROMX — GOT, Full Book, POV Eddard Stark.
-- **Compiled and published:** 13 Oct 2026.
-- **Scope boundary:** Eddard I–XV, **GOT Ch. 4–58** (15 selected POV chapters only); no subsequent chapter events included.
-- **Text and chapter sequence:** Project-supplied *A Game of Thrones* EPUB and `RTE_A_Game_of_Thrones_Full_Schedule.txt`.
-- **Scope word count:** 53,935 words, summed from 15 Eddard chapter records in the supplied RTE schedule.
-- **Chronology authority:** `ROM_CSRM_AGOT.md`, `dz480/ASOIAF`.
-- **Protocol authority:** `SROMX.md` and `ROM_TERMINOLOGY_STANDARD.md`, `dz480/CG-Protocols`.
-- **Related retained records:** `SROMX_GOT_POV_BRAN.md`, `SROMX_GOT_POV_CATELYN.md`, `ROM_MCM_AGOT.md`.
-- **Publication treatment:** This GitHub record preserves the previously generated six-section chat recap and its declared POV boundary. GitHub-compatible table line breaks, a navigation table of contents and this internal appendix were added during publication.
+> - **Record — Applies to: Entire document:**** SROMX — GOT, Full Book, POV Eddard Stark.
+> - **Compiled and published — Applies to: Entire document:**** 13 Oct 2026.
+> - **Scope boundary — Applies to: Entire document:**** Eddard I–XV, **GOT Ch. 4–58** (15 selected POV chapters only); no subsequent chapter events included.
+> - **Text and chapter sequence — Applies to: Entire document:**** Project-supplied *A Game of Thrones* EPUB and `RTE_A_Game_of_Thrones_Full_Schedule.txt`.
+> - **Scope word count — Applies to: Entire document:**** 53,935 words, summed from 15 Eddard chapter records in the supplied RTE schedule.
+> - **Chronology authority — Applies to: Entire document:**** `ROM_CSRM_AGOT.md`, `dz480/ASOIAF`.
+> - **Protocol authority — Applies to: Entire document:**** `SROMX.md` and `ROM_TERMINOLOGY_STANDARD.md`, `dz480/CG-Protocols`.
+> - **Related retained records — Applies to: Entire document:**** `SROMX_GOT_POV_BRAN.md`, `SROMX_GOT_POV_CATELYN.md`, `ROM_MCM_AGOT.md`.
+> - **Publication treatment — Applies to: Entire document:**** This GitHub record preserves the previously generated six-section chat recap and its declared POV boundary. GitHub-compatible table line breaks, a navigation table of contents and this internal appendix were added during publication.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs book-wide character significance; [AGOT CSRM](ROM_CSRM_AGOT.md) governs chapter chronology. Formatting follows [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md). Selected POV scenes preserve source and spoiler boundaries.
