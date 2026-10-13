@@ -1,5 +1,10 @@
 # A Song of Ice and Fire | ROM Reading Index
 
+## Repository Operating Manual
+
+**[ASOIAF MASTER WORKFLOW](ASOIAF_MASTER_WORKFLOW.md)** — The canonical operational brain of this repository: the five phases, nine practical steps, invocation prompts, BUILD/B&P/UPDATE/REVISE conventions, readthrough/SROMX concurrency, reconciliation, spoiler boundaries and final validation. **Start here when beginning a new book.**
+
+
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
 **Published coverage:** *A Game of Thrones* (GOT), Book 1.  
 **Purpose:** Spoiler-neutral directory of published ROM-family reading records, organised by book, report type and declared source scope.
