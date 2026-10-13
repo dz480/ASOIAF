@@ -41,6 +41,8 @@ The nine completed full-book POV records are listed in order of their first narr
 
 ## Book 2: A Clash of Kings (COK)
 
+- [ROM CSRM | Prologue + Ch. 1–69 | Whole Book](02.%20COK/ROM_CSRM_ACOK.md) · Nine retrospective Sequences and estimated externally reconstructed dates. **Full COK spoilers.**
+
 - [COK readthrough workspace](02. COK/README.md) · Active Book 2 destination and local index.
 - [ROM MCM | Prologue + Ch. 1–69 | Full Book](02. COK/ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES**; reconstructed current-book-only cast, with verified GOT baselines and remaining COK count/audit gaps flagged. **Full-book spoilers.**
 
