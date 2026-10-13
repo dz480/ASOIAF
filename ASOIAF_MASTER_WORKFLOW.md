@@ -1,7 +1,7 @@
 # ASOIAF — Master Reread Workflow
 
 **Status:** Canonical project operating document  
-**Version:** 1.2
+**Version:** 1.3
 **Last Updated:** 13 Oct 2026  
 **Established:** 13 Oct 2026  
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
@@ -137,7 +137,7 @@ BUILD ROM CSRM: [BOOK], WHOLE BOOK
 A&P ROM CSRM: [BOOK], MLRP
 ```
 
-Here A&P updates/maintains the **reader-facing CSRM coverage through MLRP** and displays **only that eligible bounded copy**, while the complete advance-built whole-book master remains intact in GitHub. Establish MLRP explicitly from the current conversation or the authorised registry; if unavailable, request it rather than inferring it. The specialist CSRM manual governs the mechanics of protecting the stored whole-book master.
+On its **first invocation**, A&P bootstraps and commits a **separate reader-bounded CSRM record** at `ROM_CSRM_[BOOK]_READER.md` if that record does not yet exist; on subsequent invocations it ADVANCEs that same reader record through the established MLRP. In both cases it displays **only the eligible reader-facing copy**, while the complete advance-built whole-book master remains intact in GitHub. This narrowly defined first-use bootstrap is authorised by the current ROM CSRM Manual and ROM Terminology Standard. Establish MLRP explicitly from the current conversation or the authorised registry; if unavailable, request it rather than inferring it. The specialist CSRM manual governs the mechanics of protecting the stored whole-book master.
 
 **Completion test:** All authorised narrative units have a stable chapter reference, chronological information is source-supported and the complete CSRM is committed to GitHub, without unrestricted chat publication.
 
