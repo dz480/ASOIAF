@@ -3,13 +3,13 @@
 **Identity:** Daenerys Targaryen (Dany); daughter of Aerys II Targaryen  
 **Series:** *A Song of Ice and Fire* — George R. R. Martin  
 **Project:** ASOIAF readthrough · `dz480/ASOIAF`  
-**BUILD state:** Initial composite with 2 components  
+**BUILD state:** Full 3-component dossier following ROM CR initialisation  
 **Source span:** Book 1, *A Game of Thrones*, Prologue through **GOT Ch. 72 (Daenerys X)**; Daenerys first appears in **GOT Ch. 3**  
 **Spoiler Boundary:** **End of GOT Ch. 72**; later novels and adaptations excluded  
 **Current Coverage:** **GOT Ch. 72** (furthest validated component endpoint)  
 **ROM AP Coverage:** **GOT Ch. 72**  
 **ROM RT Coverage:** **GOT Ch. 72**  
-**ROM CR:** **Pending / absent**, as prescribed for initial BUILD  
+**ROM CR Coverage:** **GOT Ch. 72** (initialised 13 Oct 2026)  
 **Reading Point:** Not established or changed by this operation  
 **Created:** 13 Oct 2026
 
@@ -18,6 +18,17 @@
 <a id="daenerys-mcp-toc"></a>
 ## Table of Contents
 
+- [ROM CR](#mcp-rom-cr)
+  - [Character Recap](#mcp-cr-profile)
+  - [1. Character Profile](#mcp-cr-1)
+  - [2. Story Presence So Far](#mcp-cr-2)
+  - [3. Character Reading So Far](#mcp-cr-3)
+    - [A. Personality / Defining Pattern](#mcp-cr-a)
+    - [B. Physical / Social / Vocal Presence](#mcp-cr-b)
+    - [C. Motivations / Priorities](#mcp-cr-c)
+    - [D. Contradictions / Development](#mcp-cr-d)
+  - [4. Key Relationships](#mcp-cr-4)
+  - [5. Broader Function & Synthesis](#mcp-cr-5)
 - [ROM AP](#mcp-rom-ap)
   - [Appearance Profile](#mcp-ap-profile)
   - [1. Comprehensive Appearance Checklist](#mcp-ap-checklist)
@@ -44,6 +55,105 @@
   - [Route](#mcp-rt-route)
   - [Current Whereabouts](#mcp-rt-whereabouts)
 - [Internal Source and Verification Notes](#mcp-source-notes)
+
+---
+
+<a id="mcp-rom-cr"></a>
+## ROM CR
+
+<a id="mcp-cr-profile"></a>
+### Character Recap | Daenerys Targaryen | A Game of Thrones | End of GOT Ch. 72
+
+**Scope:** *A Song of Ice and Fire*, cumulative from the beginning of *A Game of Thrones* through **GOT Ch. 72**; first direct appearance in **GOT Ch. 3**.  
+**Reading Point:** Explicitly authorised source endpoint **GOT Ch. 72**; no reading-progress update.  
+**Spoiler Boundary:** End of **GOT Ch. 72**.  
+**Last Known Status:** 🟢 **ALIVE**; **Daenerys Targaryen** leads the surviving remnant of **Khal Drogo's** followers on the **Dothraki Sea**, having emerged unharmed from his funeral pyre with **3 hatchling dragons** in her latest physical appearance, **GOT Ch. 72**.
+
+<a id="mcp-cr-1"></a>
+#### 1. Character Profile
+
+| Profile Field | Current State |
+|---|---|
+| **Full Name** | **Daenerys Targaryen** (Dany), daughter of **Aerys II Targaryen** and **Rhaella Targaryen**. |
+| **Age** | **14** at the end of *A Game of Thrones*; her 14th name day occurs in **GOT Ch. 23**. |
+| **Nation of Origin** | The **Seven Kingdoms**, born on **Dragonstone**, but raised in exile across the **Free Cities**, including **Braavos** and **Pentos**. |
+| **Occupation / Social Role** | Exiled **Targaryen** princess and claimant; widow of **Khal Drogo** and formerly his khaleesi. She leads a small surviving following and appoints **Jorah Mormont** her first Queensguard. |
+| **Narrative Role So Far** | Eastern point-of-view figure carrying the surviving **Targaryen** claim. Her marriage, adaptation to **Dothraki** society, pregnancy, losses and emergence with dragons connect the succession struggle to events beyond **Westeros**. |
+| **Visual Description** | Slight, with **violet eyes** and naturally **silver-gold hair**. Her riding improves her strength and darkens her skin in the sun. After the pyre in **GOT Ch. 72**, her hair is burned away, but her body is unhurt. |
+
+<a id="mcp-cr-2"></a>
+#### 2. Story Presence So Far
+
+**Chapter Appearances:** 10
+
+**Narrative Development**
+
+| Date | Duration | Context | Chapter Range | Narrative Development |
+|---|---|---|---|---|
+| **22 Oct 297 AC → 21 Dec 297 AC** | 60 days | **Exile and arranged marriage** | **GOT:** Ch. 3, 11 | In **Pentos**, **Viserys** and **Illyrio Mopatis** arrange **Daenerys's** marriage to **Khal Drogo** as the price of an army. She marries him and receives a silver mare and **3 dragon eggs**, leaving her former home and social world. |
+| **26 Mar 298 AC → 9 Jun 298 AC** | 75 days | **Khalasar journey and increasing agency** | **GOT:** Ch. 23, 36 | Traversing the **Dothraki Sea**, **Daenerys** adapts to riding, develops affection for **Drogo**, learns she is pregnant and increasingly resists **Viserys**. She enters **Vaes Dothrak** as khaleesi, while her brother's demands grow more desperate. |
+| **10 Nov 298 AC → 16 Dec 298 AC** | 36 days | **Prophecy and assassination attempt** | **GOT:** Ch. 46, 54 | The **dosh khaleen** foretell a conquering destiny for her son **Rhaego**. **Drogo** kills **Viserys** after he threatens Daenerys. **Jorah Mormont** later stops an attempt to poison her, prompting Drogo's pledge to invade the **Seven Kingdoms**. |
+| **31 Dec 298 AC → 9 Jan 299 AC** | 9 days | **Lhazareen raid and blood magic** | **GOT:** Ch. 61, 64 | After a raid on the **Lhazareen**, **Daenerys** intervenes to protect captives and asks **Mirri Maz Duur** to tend wounded **Drogo**. When he collapses, she permits Mirri's blood ritual; the camp erupts into violence as she goes into labour. |
+| **22 Jan 299 AC → 23 Jan 299 AC** | 1 day | **Loss, new following and dragons** | **GOT:** Ch. 68, 72 | **Daenerys** learns **Rhaego** was stillborn and **Drogo** cannot respond, while most riders have dispersed and **Eroeh** has died. She ends Drogo's life, frees captives, appoints **Jorah** Queensguard and burns **Mirri** on the funeral pyre. She emerges with **3 newly hatched dragons**. |
+
+<a id="mcp-cr-3"></a>
+#### 3. Character Reading So Far
+
+<a id="mcp-cr-a"></a>
+##### A. Personality / Defining Pattern
+
+**Daenerys** begins as a watchful, frightened exile, accustomed to anticipating the anger of **Viserys** and yielding to decisions imposed upon her. Her longing for the house with the red door in **Braavos** reveals that a secure home matters more to her than the royal inheritance her brother incessantly invokes. Yet she also possesses resilience, imagination and a strong response to suffering. As her circumstances change, fear gives way to judgment and increasingly deliberate action. She publicly challenges Viserys and later tries to protect conquered people. Neither impulse renders her consistently merciful: the severity of her final punishment of **Mirri Maz Duur** shows how compassion and retaliation coexist within her emerging authority.
+
+<a id="mcp-cr-b"></a>
+##### B. Physical / Social / Vocal Presence
+
+At first **Daenerys** is slight, nervous and subordinate, though her **silver-gold hair** and **violet eyes** mark a prestigious ancestry. She struggles with the rigours of riding before becoming stronger and more confident on her silver mare. Her new position as khaleesi gives her guards, attendants and an increasingly effective public voice. She learns to speak and act among the **Dothraki**, eventually issuing orders that **Viserys** cannot overturn. This confidence remains dependent upon **Drogo's** position: his bloodriders dispute her authority when his health fails. Her final actions, especially freeing captives and appointing her own protectors, are an attempt to establish personal command rather than inherit it through marriage. Her habitual voice quality and specific accent are not securely described.
+
+<a id="mcp-cr-c"></a>
+##### C. Motivations / Priorities
+
+**Daenerys's** first motive is the desire for belonging and safety. **Viserys** dreams of seizing the **Iron Throne** while she remembers the red door of **Braavos**. With time she grows devoted to **Drogo**, anticipates their son **Rhaego**, and begins imagining a dynastic future that might restore her family to **Westeros**. The attempt to poison her makes the danger attached to that ancestry immediate. She also increasingly prioritises people harmed by the khalasar, although she cannot fully control how its members behave. During Drogo's illness, her effort to save him overrides her acceptance of risk. After losing husband and child, she seeks to gather a community on terms she can claim as her own. The dragons give substance to an inherited identity previously sustained by stories and symbols.
+
+<a id="mcp-cr-d"></a>
+##### D. Contradictions / Development
+
+**Daenerys** becomes more independent within a military order that relies upon the domination of others. Her marriage to **Drogo** was bargained over by men seeking advantage, yet she later gains real affection and influence within it. She objects to the mistreatment of **Lhazareen** captives while retaining the privileges of a khaleesi; the death of **Eroeh**, whom she tried to shelter, exposes the fragility of her protection. Her conflict with **Mirri Maz Duur** sharpens that contradiction. Daenerys sees herself as having intervened mercifully, whereas Mirri cannot separate that intervention from the destruction wrought by Drogo's forces. The catastrophic ritual and Daenerys's retaliation demonstrate that moral injury does not produce a simple division between innocence and cruelty. By **GOT Ch. 72**, her former dependency has been transformed into leadership, but the ethics and future direction of that power remain open.
+
+
+<a id="mcp-cr-4"></a>
+#### 4. Key Relationships
+
+**Family, political and personal ties**
+
+| Character | Relationship / Role | Dynamic |
+|---|---|---|
+| **VISERYS TARGARYEN** | Older brother; claimant | **Daenerys** initially fears his bullying and accepts his decisions. Once she gains support among the **Dothraki**, she openly resists him and recognises his weakness. He dies after threatening her at **Vaes Dothrak**. |
+| **KHAL DROGO** | Husband; khal | Marriage begins as a political transaction over which Daenerys has little control. They develop attachment as her status and agency grow. His illness destroys their projected future, and she finally ends his unresponsive life. |
+| **RHAEGO** | Unborn son | **Daenerys** invests affection and hope in their expected son, whose great destiny is proclaimed by the **dosh khaleen**. His stillbirth destroys the future she and Drogo anticipated. |
+| **JORAH MORMONT** | Counsellor; Queensguard | **Jorah** offers political and cultural counsel, prevents her poisoning and protects her during **Drogo's** collapse. He becomes her first Queensguard and shows signs of personal attachment alongside his loyalty. |
+| **MIRRI MAZ DUUR** | Healer; adversary | **Daenerys** seeks healing from a godswife whose community has been ravaged by **Drogo's** warriors. Mirri disputes the meaning of Daenerys's supposed rescue. Their conflict culminates in the disastrous rite and Mirri's death on the pyre. |
+| **ILLYRIO MOPATIS** | Pentos patron; broker | Shelters **Daenerys** and **Viserys**, then arranges the **Drogo** marriage. His gifts, particularly the eggs, are decisive, while his patronage keeps the siblings dependent on another person's political bargain. |
+
+**Household and people under her protection**
+
+| Character | Relationship / Role | Dynamic |
+|---|---|---|
+| **IRRI / JHIQUI / DOREAH** | Handmaids and attendants | Teach **Daenerys** riding, language and social customs, and provide care during her changing circumstances. Their subordinate position also reflects the khalasar's hierarchy. |
+| **JHOGO / AGGO / RAKHARO** | Personal guards; followers | Carry out **Daenerys's** orders against **Viserys** and during **Drogo's** crisis. They remain with her after the main khalasar disperses and receive weapons as she establishes a new following. |
+| **EROEH** | Protected captive | **Daenerys** shelters **Eroeh** during the **Lhazareen** raid, but cannot protect her once Drogo's authority collapses. Eroeh's death exposes the limits of Daenerys's power within a culture of conquest. |
+
+<a id="mcp-cr-5"></a>
+#### 5. Broader Function & Synthesis
+
+**Broader Function**
+
+**Daenerys** carries the story of **House Targaryen's** fall from the perspective of those displaced by it. The struggle for rule in **Westeros** is a dynastic and military contest, but her opening chapters make dispossession intensely personal: the distant **Iron Throne** competes with the private memory of a home in **Braavos**. Among the **Dothraki**, she encounters a different political order shaped by conquest, loyalty, marriage and the treatment of captives. Its practices illuminate questions about what might justify power and whether protection offered by a ruler can meaningfully overcome the violence that sustains that ruler's position. **Mirri Maz Duur's** account of her people's destruction makes the moral conflict explicit.
+
+The novel also contrasts rival claims to legitimacy. **Viserys** invokes bloodline and entitlement; **Drogo** rules through martial success and personal allegiance; Daenerys gradually derives authority from choices and retained loyalty. At the funeral pyre, the old **Targaryen** dragon symbol becomes a living reality. What began as one girl's search for safety becomes a new political and supernatural possibility, without settling how her power will ultimately be exercised.
+
+**Character in One Sentence:** **Daenerys Targaryen** is a displaced princess who transforms grief, precarious status and the struggle for personal agency into leadership, emerging at the end of the novel with **3 living dragons**.
+
+<p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
@@ -302,3 +412,5 @@ At the end of GOT she is **14**. Her final appearance must be distinguished from
 **Composite integrity:** Full AP and RT are initial BUILD components, both through **GOT Ch. 72**. The separate ROM CR is not initialised. Construction does not update the reader’s Reading Point or the series MCR. No later-book identities, dragon names, scenes or outcomes are imported.
 
 <p align="right"><a href="#daenerys-mcp-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+**ROM CR initialisation provenance:** Primary source: supplied complete *A Game of Thrones* EPUB, checking Daenerys I–X against the Project's GOT Daenerys SROMX, MCM and CSRM. Narrative Date values inherit the Project CSRM assignments; the ASOIAF Project has not defined an RSDP Time Zero. The 10 Chapter Appearances are source-grounded direct chapter presences. The earlier ROM AP and ROM RT content and their coverage have been preserved.
