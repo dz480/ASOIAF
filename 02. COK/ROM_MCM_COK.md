@@ -38,7 +38,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |---:|---|---|---|---|
 | 6 | **HODOR**, Stablehand and carer for Bran | ⇤ **GOT Ch. 24**<br>⇥ **COK Ch. 69**<br>7 appearances | Carries Bran to safety and continues as his companion. | 🟢 **Alive**; accompanies Bran and the Reed children |
 | 7 | **JOJEN REED**, Younger son of Howland Reed; greenseer | ⇤ **Not verified**<br>⇥ **COK Ch. 69**<br>5 appearances | Meera's brother; interprets dreams and counsels Bran | 🟢 **Alive**; flees ruined Winterfell with Bran's party |
-| 8 | **MAESTER LUWIN**, Maester of Winterfell | ⇤ **GOT Ch. 6**<br>⇥ **COK Ch. 69**<br>14 appearances | Continues advising Bran and later witnesses the castle's destruction. | 🪦 **Deceased**; dies after Winterfell's destruction |
+| 8 | **MAESTER LUWIN**, Maester of Winterfell | ⇤ **GOT Ch. 6**<br>⇥ **COK Ch. 69**<br>16 appearances | Continues advising Bran and later witnesses the castle's destruction. | 🪦 **Deceased**; dies after Winterfell's destruction |
 | 9 | **MEERA REED**, Daughter of Howland Reed | ⇤ **Not verified**<br>⇥ **COK Ch. 69**<br>5 appearances | Jojen's sister and skilled defender of Bran | 🟢 **Alive**; accompanies Bran beyond Winterfell |
 | 10 | **OSHA**, Wildling captive in Winterfell | ⇤ **GOT Ch. 37**<br>⇥ **COK Ch. 69**<br>9 appearances | Helps save the Stark boys by concealing them and dividing their escape routes. | 🟢 **Alive**; leaves Winterfell protecting Rickon |
 | 11 | **RAMSAY SNOW**, Roose Bolton's bastard son; disguised as Reek | ⇤ **COK Ch. 35**<br>⇥ **COK Ch. 66**<br>5 appearances | Manipulates Theon's desperate position at Winterfell | 🟢 **Alive**; reveals identity after taking Winterfell |
@@ -529,7 +529,7 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 | **LANCEL LANNISTER** | GOT Ch. 30 | COK Ch. 62 | 1 | 6 | 7 | COK Ch. 25, COK Ch. 29, COK Ch. 32, COK Ch. 41, COK Ch. 44, COK Ch. 62 |
 | **LORAS TYRELL** | GOT Ch. 29 | COK Ch. 65 | 3 | 2 | 5 | COK Ch. 22, COK Ch. 65 |
 | **MAESTER CRESSEN** | COK Prologue | COK Prologue | 0 | 1 | 1 | COK Prologue |
-| **MAESTER LUWIN** | GOT Ch. 6 | COK Ch. 69 | 6 | 8 | 14 | COK Ch. 4, COK Ch. 16, COK Ch. 21, COK Ch. 28, COK Ch. 35, COK Ch. 46, COK Ch. 66, COK Ch. 69 |
+| **MAESTER LUWIN** | GOT Ch. 6 | COK Ch. 69 | 6 | 10 | 16 | COK Ch. 4, COK Ch. 16, COK Ch. 21, COK Ch. 28, COK Ch. 35, COK Ch. 46, COK Ch. 50, COK Ch. 56, COK Ch. 66, COK Ch. 69 |
 | **MARGAERY TYRELL** | COK Ch. 22 | COK Ch. 22 | 0 | 1 | 1 | COK Ch. 22 |
 | **MEERA REED** | Not verified | COK Ch. 69 | 0 | 5 | 5 | COK Ch. 21, COK Ch. 28, COK Ch. 35, COK Ch. 46, COK Ch. 69 |
 | **MELISANDRE** | COK Prologue | COK Ch. 42 | 0 | 3 | 3 | COK Prologue, COK Ch. 10, COK Ch. 42 |
@@ -752,6 +752,10 @@ GOT-end baselines are inherited from the separate verified Book 1 MCR. **Not ver
 
 <a id="cok-mcm-06"></a>
 ## 6. Verification & Source Notes
+
+**14 Oct 2026 — Primary EPUB priority-census correction:** Maester Luwin physically joins Theon's tracking expedition and speaks directly with him in COK Ch. 50. He subsequently treats Theon's disturbed sleep in Ch. 56, with direct dialogue and an onstage arrival. Both are distinct enacted chapters absent from the earlier priority list. Verified COK chapter count corrected **8 → 10**, GOT-end baseline **6** retained, series cumulative **14 → 16**. A Wiki of Ice and Fire COK Ch. 50 *Appearing* independently corroborates the first scene; the local novel text establishes both. All other priority count rows are unchanged until separately resolved from primary evidence.
+
+
 
 **14 Oct 2026 primary EPUB check — pending Winterfell reconciliation:** Ten additional named participants were confirmed in COK Ch. 37, 50, 56 and 66 and entered into the book's current roster. Old Nan also participates directly in COK Ch. 4, 21 and 46; her original series direct appearance was checked in GOT Ch. 14. Aggar, Gelmarr the Grim and Gynir Rednose are directly present in Ch. 50 and reported deceased in Ch. 56; reporting death does not add a direct appearance. Ulf the Ill and Kenned the Whale are directly killed in Ch. 66. Harrag Sheepstealer's ultimate fate remains unconfirmed. Farlen is executed in COK Ch. 56, but his latest living enacted appearance is in Ch. 50. Poxy Tym joins the Ch. 50 search; his corpse is later identified in Ch. 69, which does not count as living enacted participation. All direct chapter claims were checked against the uploaded novel rather than copied from mention-frequency data. These targeted checks do not certify completeness of the entire novel's named cast or all priority-tier lists.
 
