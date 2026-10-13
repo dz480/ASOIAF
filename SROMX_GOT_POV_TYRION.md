@@ -1,6 +1,6 @@
 # A Game of Thrones | George R. R. Martin | POV: Tyrion Lannister (Full Book)
 
-> **Full-book POV spoilers:** Tyrion Lannister full-book selected POV coverage through GOT Ch. 69; the declared Spoiler Boundary applies.
+> **Full-book POV spoilers:** Covers all tyrion POV chapters through GOT Ch. 69 within the stated spoiler boundary.
 
 **Scope:** **GOT Ch. 9, 13, 21, 31, 38, 42, 56, 62, 69** (Tyrion I–IX; 9 POV chapters).
 
@@ -11,9 +11,9 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 69 (Tyrion IX)**; Tyrion's 9 selected chapters only.
 
-<a id="tyrion-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="tyrion-toc"></a>
 ## Table of Contents
 
 - [1. Narrative Context](#tyrion-context)
@@ -257,11 +257,12 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 | 7 | **The Summit of the Wall** | Tyrion, Jon Snow, Ghost | **GOT Ch. 21:** Wind sweeps over an immense icy walkway as Tyrion and Jon look towards the haunted northern forests and discuss Benjen's absence. Ghost stands beside Jon during their farewell. |
 | 8 | **Tyrion Rebukes Joffrey** | Tyrion, Joffrey, Sandor Clegane | **GOT Ch. 9:** In Winterfell's morning courtyard, Tyrion confronts Joffrey for his callousness towards Bran and the Starks, slapping him as the armoured Hound watches and warns of the prince's resentment. |
 
+<a id="tyrion-notes"></a>
+
 <p align="right"><a href="#tyrion-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
-<a id="tyrion-notes"></a>
 ## Appendix: Document Notes
 
 > **Primary source and chapter Scope — Applies to: Entire document:** Built 13 Oct 2026 from the attached unabridged *A Game of Thrones* EPUB. Only the 9 Tyrion POV chapters named in the opening header qualify as directly enacted Tyrion scenes. Material from other narrators is presented as context or retrospective reporting rather than as a POV scene.
@@ -280,5 +281,4 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 
 > **Canonical authorities — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The Table of Contents, return buttons and appendix are retained only in the GitHub archival presentation.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs whole-book character significance; [AGOT CSRM](ROM_CSRM_AGOT.md) governs chronology and chapter coordinates. [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) govern presentation; selected scenes remain bounded by the POV's chapters.
