@@ -11,9 +11,9 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 72 (Daenerys X)**.
 
-<a id="daenerys-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="daenerys-toc"></a>
 ## Table of Contents
 - [1. Narrative Context](#daenerys-context)
 - [2. Timeline](#daenerys-timeline)
@@ -98,11 +98,16 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 
 **CSRM chapters (publication order):** [Ch. 3](ROM_CSRM_AGOT.md#agot-ch-3) · [Ch. 11](ROM_CSRM_AGOT.md#agot-ch-11) · [Ch. 23](ROM_CSRM_AGOT.md#agot-ch-23) · [Ch. 36](ROM_CSRM_AGOT.md#agot-ch-36) · [Ch. 46](ROM_CSRM_AGOT.md#agot-ch-46) · [Ch. 54](ROM_CSRM_AGOT.md#agot-ch-54) · [Ch. 61](ROM_CSRM_AGOT.md#agot-ch-61) · [Ch. 64](ROM_CSRM_AGOT.md#agot-ch-64) · [Ch. 68](ROM_CSRM_AGOT.md#agot-ch-68) · [Ch. 72](ROM_CSRM_AGOT.md#agot-ch-72)
 
-<p align=# 5. Roll Call
+<p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
+
+<a id="daenerys-rollcall"></a>
+# 5. Roll Call
 
 **Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
 
-**Character entries:** 25 Total | 2 Principal | 4 Supporting | 19 Tertiary | 0 Collective | ≥25 Deaths
+**Character entries:** 25 Total | 2 Principal | 4 Supporting | 19 Tertiary | 0 Collective| ≥25 Deaths
 
 *🏅 Principal · 🥈 Supporting · Original numeric indices for Tertiary characters. Death count includes the 12 wedding deaths, other identified fatalities and the stillborn Rhaego; the overall toll of the Lhazareen raids is not established. Rhaego is outside the physically Present Roll Call.*
 
@@ -180,11 +185,6 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 ---
 
 <a id="daenerys-scenes"></a>
-n="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
-
----
-
-<a id="daenerys-scenes"></a>
 # 6. Top Cinematic Scenes
 
 | # | Scene | Characters Present | Description |
@@ -198,11 +198,12 @@ n="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</
 | 7 | **The Silver Mare** | Daenerys, Drogo, Viserys, Illyrio, Jorah, handmaids, guests | **GOT Ch. 11:** At a lavish Dothraki wedding, **Drogo** guides a splendid silver-grey mare through the crowd and lifts his bride into the saddle. |
 | 8 | **Drogo's Final Night** | Daenerys, Drogo | **GOT Ch. 68:** **Daenerys** washes and tends her unresponsive husband and keeps vigil beneath a barren sky before ending his life. |
 
+<a id="daenerys-document-notes"></a>
+
 <p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
-<a id="daenerys-document-notes"></a>
 ## Appendix: Document Notes
 
 > **Compilation and primary source — Applies to: Entire document:** Built and revised 13 Oct 2026 from the project-supplied *A Game of Thrones* EPUB. The requested narrative units are Daenerys I–X; other narrators' scenes are excluded from directly enacted Scope.
@@ -219,5 +220,4 @@ n="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</
 
 > **Protocol and formatting authorities — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). Section 5's 6-person Drogo household is grouped without unnecessary subgroups; larger natural divisions keep nested headings. Repository navigation remains separate from the ordinary reader-facing publication view.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs book-wide character significance; [AGOT CSRM](ROM_CSRM_AGOT.md) governs chapter chronology. Formatting follows [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md). Selected POV scenes preserve source and spoiler boundaries.
