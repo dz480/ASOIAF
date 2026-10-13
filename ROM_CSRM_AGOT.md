@@ -87,6 +87,8 @@
 <a id="agot-prologue"></a>
 ### Prologue (Will)
 
+[SROMX | Will | Full Book](SROMX_GOT_POV_WILL.md)
+
 **3 Jun 297 AC**  
 *Haunted Forest*  
 **GARED** · **WAYMAR** · **WILL**
@@ -152,6 +154,8 @@
 <a id="agot-ch-5"></a>
 ### GOT Ch. 5: Jon I
 
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
+
 **18 Apr 298 AC**  
 *Winterfell*  
 **JON** · **TYRION** · **JOFFREY** · **JAIME** · **CERSEI** · **ROBB** · **BENJEN** · **ARYA** · **CATELYN** · **NED** · **ROBERT** · **SANSA** · **RICKON** · **THEON**
@@ -175,6 +179,8 @@ Excluded from the royal feast’s high table, **Jon** considers the **Night’s 
 
 <a id="agot-ch-7"></a>
 ### GOT Ch. 7: Arya I
+
+[SROMX | Arya Stark | Full Book](SROMX_GOT_POV_ARYA.md)
 
 **24 Apr 298 AC**  
 *Winterfell*  
@@ -202,6 +208,8 @@ While climbing, **Bran** witnesses **Jaime** and **Cersei** together. Jaime shov
 <a id="agot-ch-9"></a>
 ### GOT Ch. 9: Tyrion I
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **13 May 298 AC**  
 *Winterfell*  
 **TYRION** · **JOFFREY** · **JAIME** · **CERSEI** · **SANDOR**
@@ -212,6 +220,8 @@ While climbing, **Bran** witnesses **Jaime** and **Cersei** together. Jaime shov
 
 <a id="agot-ch-10"></a>
 ### GOT Ch. 10: Jon II
+
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
 
 **20 May 298 AC**  
 *Winterfell*  
@@ -252,6 +262,8 @@ Travelling south, **Ned** learns of **Daenerys**’s marriage to **Drogo**. **Ro
 <a id="agot-ch-13"></a>
 ### GOT Ch. 13: Tyrion II
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **7 Jun 298 AC**  
 *Kingsroad*  
 **TYRION** · **BENJEN** · **JON**
@@ -275,6 +287,8 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 
 <a id="agot-ch-15"></a>
 ### GOT Ch. 15: Sansa I
+
+[SROMX | Sansa Stark | Full Book](SROMX_GOT_POV_SANSA.md)
 
 **23 Jul 298 AC**  
 *Ruby Ford*  
@@ -328,6 +342,8 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 <a id="agot-ch-19"></a>
 ### GOT Ch. 19: Jon III
 
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
+
 **14 Aug 298 AC**  
 *Castle Black*  
 **JON** · **THORNE** · **TYRION** · **JEOR** · **BENJEN**
@@ -354,6 +370,8 @@ An assassin attacks bedridden **Bran**; **Catelyn** fights him and the direwolf 
 <a id="agot-ch-21"></a>
 ### GOT Ch. 21: Tyrion III
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **15 Aug 298 AC**  
 *Castle Black* · *The Wall*  
 **TYRION** · **JEOR** · **THORNE** · **AEMON** · **JON**
@@ -364,6 +382,8 @@ Preparing to leave, **Tyrion** discusses **the Wall**’s neglected defences wit
 
 <a id="agot-ch-22"></a>
 ### GOT Ch. 22: Arya II
+
+[SROMX | Arya Stark | Full Book](SROMX_GOT_POV_ARYA.md)
 
 **16–20 Aug 298 AC**  
 *King’s Landing*  
@@ -417,6 +437,8 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 <a id="agot-ch-26"></a>
 ### GOT Ch. 26: Jon IV
 
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
+
 **10 Sep 298 AC**  
 *Castle Black*  
 **JON** · **THORNE** · **SAM**
@@ -456,6 +478,8 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 <a id="agot-ch-29"></a>
 ### GOT Ch. 29: Sansa II
 
+[SROMX | Sansa Stark | Full Book](SROMX_GOT_POV_SANSA.md)
+
 **22 Sep 298 AC**  
 *King’s Landing*  
 **SANSA** · **GREGOR** · **SANDOR** · **ROBERT** · **RENLY** · **BARRISTAN** · **PETYR** · **JOFFREY** · **CERSEI** · **JAIME** · **JORY**
@@ -480,6 +504,8 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 <a id="agot-ch-31"></a>
 ### GOT Ch. 31: Tyrion IV
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **20 Sep 298 AC**  
 *High Road*  
 **TYRION** · **BRONN** · **CATELYN** · **RODRIK**
@@ -490,6 +516,8 @@ As the khalasar travels, **Daenerys** adapts to **Dothraki** life, asserts herse
 
 <a id="agot-ch-32"></a>
 ### GOT Ch. 32: Arya III
+
+[SROMX | Arya Stark | Full Book](SROMX_GOT_POV_ARYA.md)
 
 **24 Sep 298 AC**  
 *King’s Landing*  
@@ -571,6 +599,8 @@ On his new horse, **Bran** is seized by wildlings until **Robb** and **Theon** i
 <a id="agot-ch-38"></a>
 ### GOT Ch. 38: Tyrion V
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **15 Oct 298 AC**  
 *The Eyrie*  
 **TYRION** · **LYSA** · **BRONN** · **CATELYN** · **BRYNDEN** · **RODRIK**
@@ -610,6 +640,8 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 <a id="agot-ch-41"></a>
 ### GOT Ch. 41: Jon V
 
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
+
 **6 Nov 298 AC**  
 *Castle Black*  
 **JON** · **THORNE** · **SAM**
@@ -620,6 +652,8 @@ Imprisoned in a sky cell, **Tyrion** demands trial by combat. **Bronn** voluntee
 
 <a id="agot-ch-42"></a>
 ### GOT Ch. 42: Tyrion VI
+
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
 
 **17 Oct 298 AC**  
 *Mountains of the Moon*  
@@ -644,6 +678,8 @@ Hearing evidence of **Gregor** Clegane’s attacks in the riverlands, **Ned** se
 
 <a id="agot-ch-44"></a>
 ### GOT Ch. 44: Sansa III
+
+[SROMX | Sansa Stark | Full Book](SROMX_GOT_POV_SANSA.md)
 
 **5–6 Oct 298 AC**  
 *King’s Landing*  
@@ -697,6 +733,8 @@ With **Robert** dying, **Ned** alters the king’s final instructions to preserv
 <a id="agot-ch-48"></a>
 ### GOT Ch. 48: Jon VI
 
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
+
 **7 Nov 298 AC**  
 *Castle Black* · *Haunted Forest*  
 **JON** · **SAM** · **AEMON** · **JEOR** · **THORNE**
@@ -723,6 +761,8 @@ After **Robert**’s death, **Ned** attempts to assert his regency; the City Wat
 <a id="agot-ch-50"></a>
 ### GOT Ch. 50: Arya IV
 
+[SROMX | Arya Stark | Full Book](SROMX_GOT_POV_ARYA.md)
+
 **24 Oct 298 AC**  
 *King’s Landing*  
 **ARYA** · **SYRIO**
@@ -734,6 +774,8 @@ After **Robert**’s death, **Ned** attempts to assert his regency; the City Wat
 <a id="agot-ch-51"></a>
 ### GOT Ch. 51: Sansa IV
 
+[SROMX | Sansa Stark | Full Book](SROMX_GOT_POV_SANSA.md)
+
 **23–26 Oct 298 AC**  
 *King’s Landing*  
 **SANSA** · **CERSEI** · **PYCELLE** · **VARYS** · **PETYR**
@@ -744,6 +786,8 @@ Detained after **Ned**’s arrest, **Sansa** obeys **Cersei**’s request to wri
 
 <a id="agot-ch-52"></a>
 ### GOT Ch. 52: Jon VII
+
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
 
 **8 Nov 298 AC**  
 *Castle Black*  
@@ -797,6 +841,8 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 <a id="agot-ch-56"></a>
 ### GOT Ch. 56: Tyrion VII
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **30 Dec 298 AC**  
 *Inn at the Crossroads* · *Lannister Camp*  
 **TYRION** · **BRONN** · **TYWIN** · **SHAGGA**
@@ -809,6 +855,8 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 <a id="agot-ch-57"></a>
 ### GOT Ch. 57: Sansa V
+
+[SROMX | Sansa Stark | Full Book](SROMX_GOT_POV_SANSA.md)
 
 **23 Dec 298 AC**  
 *King’s Landing*  
@@ -847,6 +895,8 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 <a id="agot-ch-60"></a>
 ### GOT Ch. 60: Jon VIII
 
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
+
 **1 Jan 299 AC**  
 *Castle Black*  
 **JON** · **JEOR** · **AEMON** · **SAM**
@@ -872,6 +922,8 @@ The recovered dead rangers rise as wights. **Jon** saves **Jeor Mormont** by bur
 
 <a id="agot-ch-62"></a>
 ### GOT Ch. 62: Tyrion VIII
+
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
 
 **5–6 Jan 299 AC**  
 *Lannister Camp* · *Green Fork*  
@@ -912,6 +964,8 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 <a id="agot-ch-65"></a>
 ### GOT Ch. 65: Arya V
 
+[SROMX | Arya Stark | Full Book](SROMX_GOT_POV_ARYA.md)
+
 **10 Jan 299 AC**  
 *King’s Landing*  
 **ARYA** · **SANSA** · **NED** · **JOFFREY** · **SANDOR** · **ILYN** · **VARYS** · **CERSEI** · **JANOS** · **PETYR**
@@ -935,6 +989,8 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 <a id="agot-ch-67"></a>
 ### GOT Ch. 67: Sansa VI
+
+[SROMX | Sansa Stark | Full Book](SROMX_GOT_POV_SANSA.md)
 
 **15 Jan 299 AC**  
 *King’s Landing*  
@@ -962,6 +1018,8 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 <a id="agot-ch-69"></a>
 ### GOT Ch. 69: Tyrion IX
 
+[SROMX | Tyrion Lannister | Full Book](SROMX_GOT_POV_TYRION.md)
+
 **22 Jan 299 AC**  
 *Lannister Camp*  
 **TYRION** · **TYWIN** · **SHAE** · **GREGOR**
@@ -972,6 +1030,8 @@ With **Drogo** dying, **Daenerys** accepts **Mirri Maz Duur**’s blood ritual. 
 
 <a id="agot-ch-70"></a>
 ### GOT Ch. 70: Jon IX
+
+[SROMX | Jon Snow | Full Book](SROMX_GOT_POV_JON.md)
 
 **26 Jan 299 AC**  
 *Castle Black* · *Kingsroad*  
