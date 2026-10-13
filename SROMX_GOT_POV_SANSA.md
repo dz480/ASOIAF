@@ -1,6 +1,6 @@
 # A Game of Thrones | George R. R. Martin | POV: Sansa Stark (Full Book)
 
-> **Full-book POV spoilers:** Sansa Stark full-book selected POV coverage through GOT Ch. 67; the declared Spoiler Boundary applies.
+> **Full-book POV spoilers:** Covers all sansa POV chapters through GOT Ch. 67 within the stated spoiler boundary.
 
 **Scope:** **GOT Ch. 15, 29, 44, 51, 57, 67** (Sansa I–VI; 6 POV chapters).  
 
@@ -11,9 +11,9 @@
 
 **Spoiler Boundary:** End of **GOT Ch. 67 (Sansa VI)**. Only Sansa's 6 POV chapters are enacted Scope.
 
-<a id="sansa-toc"></a>
-**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book spoilers)
 
+<a id="sansa-toc"></a>
 ## Table of Contents
 
 - [1. Narrative Context](#sansa-context)
@@ -201,11 +201,12 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 | 7 | **Four Letters in the Queen's Council Chamber** | Sansa, Cersei, Varys, Littlefinger, Pycelle, Boros Blount, Mandon Moore | **GOT Ch. 51:** At a table crowded with parchments and sealing wax, **Cersei** alternates affection with accusation until Sansa agrees to write to her relatives. **Varys** presses Ned's direwolf seal into the wax, transforming Sansa's handwriting into a royal political instrument. |
 | 8 | **The Threat behind the Courteous Smile** | Sansa, Joffrey, Sandor Clegane, Meryn Trant, Arys Oakheart | **GOT Ch. 67:** In Sansa's shadowed chamber, **Joffrey** orders her dressed for court. She tells him she no longer wishes to marry the man who killed her father; **Meryn** strikes her, and **Sandor** later urges her to obey to spare herself further pain. |
 
+<a id="sansa-notes"></a>
+
 <p align="right"><a href="#sansa-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
-<a id="sansa-notes"></a>
 ## Appendix: Document Notes
 
 > **Scope and source — Applies to: Entire document:** Built 13 Oct 2026 from the supplied unabridged *A Game of Thrones* EPUB. The 6 authorised Sansa chapters are GOT Ch. 15, 29, 44, 51, 57, 67. Actions taking place only in other narrators' chapters are included solely as reported or retrospectively disclosed context, not reconstructed as Sansa-witnessed scenes.
@@ -224,5 +225,4 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 
 > **Formatting and authority — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). The Table of Contents, GitHub-styled return-to-TOC controls and archival notes belong to the canonical repository copy and not to the normal ChatGPT publication view.
 
-
-> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
+> **Reconciliation authority — Applies to: Entire document:** [AGOT MCM](ROM_MCM_AGOT.md) governs whole-book character significance; [AGOT CSRM](ROM_CSRM_AGOT.md) governs chronology and chapter coordinates. [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) govern presentation; selected scenes remain bounded by the POV's chapters.
