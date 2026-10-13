@@ -8,18 +8,39 @@
 **Spoilers:** **FULL COK SPOILERS.** This is projected complete-book reference material, not a live MCR update.  
 **Reconstructed:** 13 Oct 2026
 
+## Table of Contents
+
+- [1. Master Scope & Source Profile](#cok-mcm-01)
+- [2. Full Character Roster](#cok-mcm-02)
+  - [🏰 Winterfell & the North](#cok-group-winterfell)
+  - [🐺 Northern Lords & Allies](#cok-group-northern-lords)
+  - [🧊 Night's Watch](#cok-group-nights-watch)
+  - [👑 Royal Court & King's Landing](#cok-group-royal-court)
+  - [🦁 Lannisters & Westerlands](#cok-group-lannisters)
+  - [🌊 Vale & Riverlands](#cok-group-vale-riverlands)
+  - [⚔️ Riverlands & Harrenhal](#cok-group-harrenhal)
+  - [🔥 Dragonstone & Stormlands](#cok-group-dragonstone)
+  - [🌹 Reach & Renly's Court](#cok-group-reach)
+  - [⚓ Iron Islands](#cok-group-iron-islands)
+  - [🐉 Targaryens & the East](#cok-group-east)
+- [3. Character Census](#cok-mcm-03)
+- [4. Significance Promotion Ledger](#cok-mcm-04)
+- [5. Chapter Appearance Register](#cok-mcm-05)
+- [6. Verification & Source Notes](#cok-mcm-06)
+
+---
 <a id="cok-mcm-01"></a>
 ## 1. Master Scope & Source Profile
 
-This MCM is the Book 2 participant-only character record: each listed named individual has identified enacted participation in COK, either through direct EPUB scene review or [A Wiki of Ice and Fire chapter Appearing lists](https://awoiaf.westeros.org/index.php/Chapters) used as source locators, with primary-text decisions taking precedence. Previous GOT deceased and nonreturning GOT inactive figures are **retained exclusively in the MCR**. Any character who qualifies in COK and subsequently dies remains in this COK roster. The GOT-end MCR supplies frozen prior-book character counts and original first appearances.
+**Coverage:** Complete *A Clash of Kings* (Prologue–Ch. 69), covering named characters with direct participation in the book. This is a full-book, spoiler-bearing reference.
 
-**Verification distinction:** Primary EPUB scene-level cross-checks have now produced bounded COK chapter lists for all 71 Principal/Supporting records; the earlier 37 unresolved names have been individually source-screened and the listed GOT backfill cases were checked against the GOT EPUB. Counts remain **provisional pending an independent exhaustive chapter-by-chapter second check** for omissions, aliases, non-enacted recollections, and roster completeness. The recorded figures are source-screened working counts, not proof of finished Priority Verification. The roster now includes 15 additional qualifying participants demonstrated directly in COK text, including Garlan Tyrell, Kevan Lannister, Robett Glover, Qyburn, Moon Boy, named Tully household officials and the Night's Watch officers. Secondary indexes accelerated candidate discovery, but source scenes determine eligibility. The lower-tier census may still omit other named enacted participants. The live MCR remains at the GOT-end boundary.
-
+**Continuity:** The live Master Character Registry remains at the GOT endpoint. **Verification:** Provisional; source methods, caveats and outstanding checks are documented in [Section 6](#cok-mcm-06).
 <a id="cok-mcm-02"></a>
 ## 2. Full Character Roster
 
 The end-of-book projected current-book map uses ROM CM character-group headings and five-column roster tables. COK-end statuses shown here are a spoiler-bearing *projection* and do not represent an advance of the live MCR.
 
+<a id="cok-group-winterfell"></a>
 ## 🏰 Winterfell & the North
 
 ### Principal Characters
@@ -76,6 +97,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **SUMMER**, Direwolf | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | **Bran**'s direwolf; protects him from an assassin and other threats | ⚪️ **COK endpoint not independently verified**; archived GOT status: 🟢 **Alive**; remains at Winterfell |
 |  | **WYMAN MANDERLY**, Lord of White Harbor | ⇤ **COK Ch. 16**<br>⇥ **Not verified**<br>Not verified | Attends the Winterfell court | 🟢 **Alive** |
 
+<a id="cok-group-northern-lords"></a>
 ## 🐺 Northern Lords & Allies
 
 ### Supporting Characters
@@ -93,6 +115,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **ROBETT GLOVER**, Northern noble and brother to Galbart Glover | ⇤ **COK Ch. 47**<br>⇥ **COK Ch. 47**<br>Not verified | Freed by Arya and Jaqen from the Harrenhal dungeon | 🟢 **Alive**; released from confinement |
 
 
+<a id="cok-group-nights-watch"></a>
 ## 🧊 Night's Watch
 
 ### Principal Characters
@@ -136,6 +159,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **THOREN SMALLWOOD**, Ranger of the Night's Watch | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Officer within Mormont's ranging party | 🟢 **Alive**; on the great ranging |
 |  | **YOREN**, Wandering crow; recruiter | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Attempts to bring Night's Watch recruits north before dying in a military attack. | 🗡 **Deceased**; killed when his convoy is attacked |
 
+<a id="cok-group-royal-court"></a>
 ## 👑 Royal Court & King's Landing
 
 ### Principal Characters
@@ -202,6 +226,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **VYLARR**, Lannister household captain | ⇤ **COK Ch. 3**<br>⇥ **COK Ch. 3**<br>Not verified | Serves among Tyrion's men | 🟢 **Alive** |
 |  | **WILLIT**, Man-at-arms of Harys Swyft | ⇤ **COK Ch. 65**<br>⇥ **COK Ch. 65**<br>Not verified | Receives recognition for protecting his lord in the Blackwater battle | 🟢 **Alive**; badly wounded and carried on a litter |
 
+<a id="cok-group-lannisters"></a>
 ## 🦁 Lannisters & Westerlands
 
 ### Principal Characters
@@ -231,6 +256,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **ROLAND CRAKEHALL**, Westerlands lord | ⇤ **COK Ch. 65**<br>⇥ **COK Ch. 65**<br>Not verified | Pays homage during Joffrey's post-Blackwater victory court | 🟢 **Alive** at last established appearance |
 |  | **TYREK LANNISTER**, Young Lannister knight married to Ermesande Hayford | ⇤ **COK Ch. 25**<br>⇥ **COK Ch. 25**<br>Not verified | Appears in the King's Landing royal court in wedding attire | 🟡 **Missing**; disappearance reported following the King's Landing riot |
 
+<a id="cok-group-vale-riverlands"></a>
 ## 🌊 Vale & Riverlands
 
 ### Supporting Characters
@@ -257,6 +283,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **TYTOS BLACKWOOD**, Lord of Raventree Hall | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Supports Riverrun and appears around the Tully campaign. | 🟢 **Alive**; riverlord involved in conflict |
 |  | **UTHERYDES WAYN**, Steward of Riverrun | ⇤ **COK Ch. 39**<br>⇥ **COK Ch. 39**<br>Not verified | Meets Catelyn at Riverrun and participates in military discussions | 🟢 **Alive**; attending the Tully household |
 
+<a id="cok-group-harrenhal"></a>
 ## ⚔️ Riverlands & Harrenhal
 
 ### Supporting Characters
@@ -302,6 +329,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **WEASEL (ORPHAN GIRL)**, Very young girl rescued by Yoren's party | ⇤ **COK Ch. 9**<br>⇥ **COK Ch. 19**<br>Not verified | Accompanies Arya's group after the attack on her home; flees from soldiers | 🟡 **Missing**; runs away before Arya's companions are captured |
 |  | **WEESE**, Harrenhal servant overseer | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Cruel supervisor of Arya's work at Harrenhal | 🗡 **Deceased**; killed after Arya names him |
 
+<a id="cok-group-dragonstone"></a>
 ## 🔥 Dragonstone & Stormlands
 
 ### Principal Characters
@@ -337,6 +365,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **PATCHFACE**, Court fool at Dragonstone | ⇤ **Not verified**<br>⇥ **COK Ch. 10**<br>Not verified | Companion of young Shireen, speaking in riddling songs | 🟢 **Alive**; with the Dragonstone household |
 |  | **SHIREEN BARATHEON**, Daughter of Stannis and Selyse | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Child at Dragonstone, attended by Patchface and Cressen | 🟢 **Alive**; alive at Dragonstone |
 
+<a id="cok-group-reach"></a>
 ## 🌹 Reach & Renly's Court
 
 ### Supporting Characters
@@ -382,6 +411,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **TIMON THE SCRAPESWORD**, Knight of the Reach | ⇤ **COK Ch. 65**<br>⇥ **COK Ch. 65**<br>Not verified | Named among the men participating at Joffrey's court | 🟢 **Alive** at last established appearance |
 |  | **WENDEL MANDERLY**, Manderly knight | ⇤ **COK Ch. 22**<br>⇥ **Not verified**<br>Not verified | Appears at Renly's war camp | 🟢 **Alive** |
 
+<a id="cok-group-iron-islands"></a>
 ## ⚓ Iron Islands
 
 ### Supporting Characters
@@ -414,6 +444,7 @@ The end-of-book projected current-book map uses ROM CM character-group headings 
 |  | **WERLAG**, Ironborn member of Theon's occupation | ⇤ **COK Ch. 46**<br>⇥ **COK Ch. 46**<br>Not verified | Withdraws when Theon dismisses him after a confrontation with Bran | 🟢 **Alive** at last appearance |
 |  | **WEX PYKE**, Mute ironborn youth and Theon's attendant | ⇤ **Not verified**<br>⇥ **Not verified**<br>Not verified | Serves Theon during the occupation of Winterfell | 🟡 **Whereabouts uncertain** after Winterfell's fall |
 
+<a id="cok-group-east"></a>
 ## 🐉 Targaryens & the East
 
 ### Principal Characters
