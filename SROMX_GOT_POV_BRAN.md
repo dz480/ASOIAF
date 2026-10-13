@@ -109,9 +109,9 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 🥈 | **THEON GREYJOY**, Stark ward [Alive] | Ward of Eddard; rides with the Stark party. | Helps at the execution and kills Stiv during the attack on Bran. | Accompanies Robb's army south. |
 | 🥈 | **MAESTER LUWIN**, Winterfell maester [Alive] | Advises and educates the Stark household. | Supervises Bran's recovery, weighs Osha's claims and oversees the boys' care. | Remains at Winterfell and receives confirmation of Eddard's death. |
 | 🥈 | **HODOR**, Winterfell stablehand [Alive] | Works with horses at Winterfell. | Carries Bran and becomes essential to his movement through the castle. | Continues serving Bran at Winterfell. |
-| 1 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
-| 2 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
-| 3 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
+| 11 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
+| 12 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
+| 15 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
 
 <a id="bran-guards-military"></a>
 ### Guards & Military Service
@@ -120,11 +120,11 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 |---:|---|---|---|---|
 | 🥈 | **JORY CASSEL**†, Stark guard captain [Deceased] | Commands Eddard's household guards. | Attends the opening execution; subsequently accompanies Eddard south. | Killed in King's Landing; his death is known at Winterfell. |
 | 🥈 | **RODRIK CASSEL**, master-at-arms [Alive] | Serves the Stark household and trains its men. | Helps sustain Winterfell's defence as its soldiers depart. | Remains associated with the depleted Winterfell garrison. |
-| 4 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
-| 5 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
+| 13 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
+| 14 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
 | 16 | **QUENT**, Stark guardsman [Alive] | In Stark household service. | Takes part in the Wolfswood escort and responds to the ambush. | Survives the incident and remains in Stark service. |
 | 17 | **WAYN**, Stark guardsman [Alive] | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | Continues in Stark service. |
-| 8 | **MIKKEN**, Winterfell smith [Alive] | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
+| 18 | **MIKKEN**, Winterfell smith [Alive] | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
 
 <a id="bran-lannisters"></a>
 ## 🦁 The Lannisters
@@ -141,9 +141,9 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **OSHA**, wildling [Alive] | Travelling south from the far North with fugitives. | Survives the attack on Bran, is taken to Winterfell and warns about dangers beyond the Wall. | Working at Winterfell; challenges Luwin's scepticism about ancient threats. |
-| 9 | **STIV**†, deserter and attacker [Deceased] | Among the southbound fugitives. | Threatens Bran with a blade during the Wolfswood encounter. | Shot dead by Theon. |
-| 10 | **HALI**†, wildling attacker [Deceased] | Among the southbound fugitives. | Takes part in the attack against Bran's party. | Killed during the encounter. |
-| 11 | **WALLEN**†, Night's Watch deserter [Deceased] | Among the southbound fugitives. | Joins Stiv's raid on Bran's riding party. | Killed during the encounter. |
+| 23 | **STIV**†, deserter and attacker [Deceased] | Among the southbound fugitives. | Threatens Bran with a blade during the Wolfswood encounter. | Shot dead by Theon. |
+| 24 | **HALI**†, wildling attacker [Deceased] | Among the southbound fugitives. | Takes part in the attack against Bran's party. | Killed during the encounter. |
+| 25 | **WALLEN**†, Night's Watch deserter [Deceased] | Among the southbound fugitives. | Joins Stiv's raid on Bran's riding party. | Killed during the encounter. |
 | 26 | **OTHER WOLFSWOOD ATTACKERS**, unnamed fugitive participants [Mixed / not individually tracked] | Fleeing south with the named attackers. | Take part in the assault and fight with Robb's party and the direwolves. | Casualties and surviving participants determined by the enacted fight; not individually tracked. |
 
 <a id="bran-northern-bannermen"></a>
@@ -154,27 +154,27 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 | 🥈 | **GREATJON UMBER**, northern lord [Alive] | Lord of Last Hearth, sworn to House Stark. | Confronts Robb's authority and, after Grey Wind's intervention, becomes a committed bannerman. | Marches south with Robb's army. |
 | 🥈 | **RICKARD KARSTARK**, northern lord [Alive] | Lord of Karhold and Stark bannerman. | Assembles with his sons and northern forces for Robb's campaign. | Joins the army marching south. |
 | 29 | **HARRION KARSTARK**, Karstark son [Alive] | Member of House Karstark. | Arrives with his father's contingent for the mobilisation. | Accompanies the northern forces. |
-| 14 | **EDDARD KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears with his father and brothers during the gathering. | Departs with the Karstark contingent; later fate not established here. |
-| 15 | **TORRHEN KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears in the assembly of Karstark forces. | Departs with the northern host; later fate not established here. |
+| 30 | **EDDARD KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears with his father and brothers during the gathering. | Departs with the Karstark contingent; later fate not established here. |
+| 31 | **TORRHEN KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears in the assembly of Karstark forces. | Departs with the northern host; later fate not established here. |
 
 <a id="bran-nights-watch"></a>
 ## 🧊 Night's Watch
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 16 | **GARED**†, Night's Watch deserter [Deceased] | Captured and awaiting Eddard's judgment. | Is executed at the opening of Bran's story. | Deceased; execution occurs in Bran I. |
-| 17 | **YOREN**, Night's Watch recruiter [Alive] | Travels to find recruits for the Watch. | Appears at Winterfell and discusses the Wall and missing Benjen Stark. | Leaves Winterfell on Watch business. |
+| 32 | **GARED**†, Night's Watch deserter [Deceased] | Captured and awaiting Eddard's judgment. | Is executed at the opening of Bran's story. | Deceased; execution occurs in Bran I. |
+| 33 | **YOREN**, Night's Watch recruiter [Alive] | Travels to find recruits for the Watch. | Appears at Winterfell and discusses the Wall and missing Benjen Stark. | Leaves Winterfell on Watch business. |
 
 <a id="bran-direwolves"></a>
 ## 🐾 Direwolves
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 18 | **SUMMER**, Bran's direwolf [Alive] | A newly discovered direwolf pup. | Stays near Bran, protects him and attacks enemies in the Wolfswood. | With Bran at Winterfell. |
-| 19 | **GREY WIND**, Robb's direwolf [Alive] | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | Accompanies Robb south. |
+| 34 | **SUMMER**, Bran's direwolf [Alive] | A newly discovered direwolf pup. | Stays near Bran, protects him and attacks enemies in the Wolfswood. | With Bran at Winterfell. |
+| 35 | **GREY WIND**, Robb's direwolf [Alive] | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | Accompanies Robb south. |
 | 36 | **SHAGGYDOG**, Rickon's direwolf [Alive] | A newly discovered direwolf pup. | Becomes dangerous and aggressive as Rickon's distress increases. | Remains at Winterfell with Rickon. |
 
-**Character entries:** 20 (0 Principal | 0 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
+**Character entries:** 36 (7 Principal | 9 Supporting | 19 Tertiary | 1 Collective). **Death count:** Deaths occur during or are confirmed within this span, but a complete scope-local total cannot be safely established from the selected enacted chapters and their offstage reports alone.
 
 <a id="bran-cinematic-scenes"></a>
 # 6. Top Cinematic Scenes
