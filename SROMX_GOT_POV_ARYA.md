@@ -1,15 +1,19 @@
 # A Game of Thrones | George R. R. Martin | POV: Arya Stark (Full Book)
 
+> **Full-book POV spoilers:** Arya Stark full-book selected POV coverage through GOT Ch. 65; the declared Spoiler Boundary applies.
+
 **Scope:** **GOT Ch. 7, 22, 32, 50, 65** (Arya I–V; 5 POV chapters).  
 
 **24 Apr 298 AC → 10 Jan 299 AC**  
 *Winterfell · King's Landing · Red Keep · Flea Bottom · Great Sept of Baelor*
 
-**ARYA STARK** · **SANSA STARK** · **CATELYN STARK** · **JON SNOW** · **ROBB STARK** · **BRAN STARK** · **JOFFREY BARATHEON** · **SANDOR CLEGANE** · **RODRIK CASSEL** · **THEON GREYJOY** · **EDDARD STARK** · **JORY CASSEL** · **SYRIO FOREL** · **VARYS** · **ILLYRIO MOPATIS** · **PETYR BAELISH** · **CERSEI LANNISTER** · **JANOS SLYNT** · **ILYN PAYNE**
+
 
 **Spoiler Boundary:** End of **GOT Ch. 65 (Arya V)**.
 
 <a id="arya-toc"></a>
+**Repository:** [Reading Index](README.md) · [ROM CSRM](ROM_CSRM_AGOT.md) · [ROM MCM](ROM_MCM_AGOT.md) (full-book references)
+
 ## Table of Contents
 
 - [1. Narrative Context](#arya-context)
@@ -42,6 +46,8 @@
 
 <a id="arya-timeline"></a>
 # 2. Timeline
+
+**Navigation:** [ROM CSRM](ROM_CSRM_AGOT.md#agot-ch-7) · [Reading Index](README.md)
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
@@ -84,6 +90,8 @@ Later, **Ser Meryn Trant** arrives with 5 armed Lannister men to seize her. Syri
 
 Alone in the city, Arya catches pigeons for food and searches for the **Wind Witch**, the ship arranged to take her home, but finds soldiers at the docks. Summoning bells draw her to the **Great Sept of Baelor**, where she climbs a statue and sees her injured father confess publicly to treason. Joffrey unexpectedly orders **Ilyn Payne** to execute him. Arya rushes forward, but Yoren seizes her, orders her to look away and drags her from the crowd. He recovers Needle and cuts at her hair to disguise her as a boy.
 
+**CSRM chapters (publication order):** [Ch. 7](ROM_CSRM_AGOT.md#agot-ch-7) · [Ch. 22](ROM_CSRM_AGOT.md#agot-ch-22) · [Ch. 32](ROM_CSRM_AGOT.md#agot-ch-32) · [Ch. 50](ROM_CSRM_AGOT.md#agot-ch-50) · [Ch. 65](ROM_CSRM_AGOT.md#agot-ch-65)
+
 <p align="right"><a href="#arya-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
@@ -91,7 +99,9 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 <a id="arya-rollcall"></a>
 # 5. Roll Call
 
-**Character entries:** 36 Total | 9 Principal | 10 Supporting | 14 Tertiary | 3 Collective | ≥12 Deaths
+**Reference:** [ROM MCM](ROM_MCM_AGOT.md) (whole-book character significance)
+
+**Character entries:** 17 Total | 0 Principal | 0 Supporting | 14 Tertiary | 3 Collective | ≥12 Deaths
 
 *🏅 Principal · 🥈 Supporting · original underlying indices for Tertiary and Collective entries. Deaths include source-established events during this POV Scope, whether witnessed by Arya or subsequently reported within her chapters. Additional casualties have no established total.*
 
@@ -117,7 +127,7 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 8 | **NYMERIA**, Arya's direwolf [Missing] | At **Winterfell**, following Arya through the castle. | Accompanies Arya and Jon; later attacks Joffrey during the journey south and is driven away to protect her from punishment. | Last known free and separated from Arya; whereabouts unresolved. |
-| 9 | **GHOST**, Jon's direwolf [Alive] | At **Winterfell**, accompanying Jon. | Greets **Nymeria** at the covered bridge and remains beside Jon as he leaves. | Last physically seen by Arya at Winterfell; subsequent location outside her viewpoint. |
+| 2 | **GHOST**, Jon's direwolf [Alive] | At **Winterfell**, accompanying Jon. | Greets **Nymeria** at the covered bridge and remains beside Jon as he leaves. | Last physically seen by Arya at Winterfell; subsequent location outside her viewpoint. |
 
 <a id="arya-retainers"></a>
 ## 🛡️ Winterfell Household & Retainers
@@ -127,9 +137,9 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 10 | **SEPTA MORDANE**, governess to the Stark girls [Unknown] | Supervising the royal guest's embroidery gathering at **Winterfell**. | Reprimands Arya's needlework, then continues supervising the daughters in **King's Landing**. | Not seen during Arya's flight; later personal condition unconfirmed. |
-| 11 | **JEYNE POOLE**, Sansa's companion [Unknown] | With **Sansa** in the sewing room at Winterfell. | Teases Arya about **Jon**, accompanies the Stark household south and dines with Sansa. | Last directly seen with the household before the coup. |
-| 12 | **BETH CASSEL**, Rodrik's daughter [Alive] | Attending needlework with the Stark girls at **Winterfell**. | Joins the conversation about Sansa and Joffrey, then recedes from Arya's experience. | Last physically seen at Winterfell, with no later Arya POV update. |
+| 3 | **SEPTA MORDANE**, governess to the Stark girls [Unknown] | Supervising the royal guest's embroidery gathering at **Winterfell**. | Reprimands Arya's needlework, then continues supervising the daughters in **King's Landing**. | Not seen during Arya's flight; later personal condition unconfirmed. |
+| 4 | **JEYNE POOLE**, Sansa's companion [Unknown] | With **Sansa** in the sewing room at Winterfell. | Teases Arya about **Jon**, accompanies the Stark household south and dines with Sansa. | Last directly seen with the household before the coup. |
+| 5 | **BETH CASSEL**, Rodrik's daughter [Alive] | Attending needlework with the Stark girls at **Winterfell**. | Joins the conversation about Sansa and Joffrey, then recedes from Arya's experience. | Last physically seen at Winterfell, with no later Arya POV update. |
 | 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms [Alive] | Supervising the royal children's training at **Winterfell**. | Refuses Joffrey's demand for live steel despite **Sandor**'s challenge and Robb's anger. | Last physically seen by Arya in the Winterfell training yard. |
 | 🥈 | **THEON GREYJOY**, ward and retainer of House Stark [Alive] | Watching and assisting the training at **Winterfell**. | Laughs at Joffrey's challenge, then restrains Robb from pursuing the quarrel. | Last physically seen by Arya at Winterfell. |
 
@@ -139,8 +149,8 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **JORY CASSEL**†, captain of Stark guards [Deceased] | Serving Ned's household, preparing for travel from the North. | Shares Ned's supper in the capital and later dies in Jaime's attack, as Arya learns. | Dead before Arya's flight through the Red Keep. |
-| 16 | **TOMARD (FAT TOM)**, Stark guardsman [Unknown] | Serving with Stark household guards. | Guards the Tower of the Hand and helps supervise Arya's movements in the capital. | Fate following the royal coup not directly established in Arya's selected chapters. |
-| 17 | **DESMOND**†, Stark guardsman [Deceased] | Serving in Ned's household guard. | Receives Arya's warnings about danger, escorts her and promises the guards will defend her father. | Arya discovers his body in the castle stables. |
+| 6 | **TOMARD (FAT TOM)**, Stark guardsman [Unknown] | Serving with Stark household guards. | Guards the Tower of the Hand and helps supervise Arya's movements in the capital. | Fate following the royal coup not directly established in Arya's selected chapters. |
+| 7 | **DESMOND**†, Stark guardsman [Deceased] | Serving in Ned's household guard. | Receives Arya's warnings about danger, escorts her and promises the guards will defend her father. | Arya discovers his body in the castle stables. |
 | 18 | **UNNAMED STARK STABLE GROOM**†, castle groom [Deceased] | Employed among the Stark household's stable staff. | Previously known to Arya from the stables; falls victim to the seizure of the Red Keep. | Arya encounters his corpse beside dead household guards. |
 
 <a id="arya-royals"></a>
@@ -153,8 +163,8 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 |---:|---|---|---|---|
 | 🏅 | **JOFFREY BARATHEON**, prince; later king [Alive] | Visiting **Winterfell** as the crown prince. | Provokes **Robb** in the practice yard, becomes king and demands **Ned**'s execution. | Presiding outside the **Great Sept**, having ordered his executioner to act. |
 | 🏅 | **CERSEI LANNISTER**, Queen Regent [Alive] | Queen travelling with the royal party in the North. | Gains control after Robert's death and appears beside Joffrey when Ned is publicly condemned. | At the Great Sept, unsuccessfully attempting to intervene after Joffrey's order. |
-| 21 | **MYRCELLA BARATHEON**, royal princess [Alive] | Attending the Winterfell embroidery session with Arya and Sansa. | Receives Arya's reluctant courtesy and remains a visible symbol of royal expectations. | Later movements absent from Arya's direct viewpoint. |
-| 22 | **TOMMEN BARATHEON**, royal prince [Alive] | Practising wooden-sword exercises with **Bran** at Winterfell. | Loses the bout, then follows Joffrey from the training yard. | Not directly encountered again in Arya's chapters. |
+| 9 | **MYRCELLA BARATHEON**, royal princess [Alive] | Attending the Winterfell embroidery session with Arya and Sansa. | Receives Arya's reluctant courtesy and remains a visible symbol of royal expectations. | Later movements absent from Arya's direct viewpoint. |
+| 10 | **TOMMEN BARATHEON**, royal prince [Alive] | Practising wooden-sword exercises with **Bran** at Winterfell. | Loses the bout, then follows Joffrey from the training yard. | Not directly encountered again in Arya's chapters. |
 | 🥈 | **SANDOR CLEGANE**, Joffrey's sworn protector [Alive] | Travelling with the royal household at Winterfell. | Challenges Rodrik at sword practice and later appears in Kingsguard white at Ned's confession. | Protecting **Joffrey** at the Great Sept. |
 
 <a id="arya-court"></a>
@@ -174,7 +184,7 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **ILYN PAYNE**, King's Justice [Alive] | Royal executioner serving King Robert's court. | Appears before the Sept and acts on Joffrey's instruction against Ned. | Carries out Ned's execution with **Ice**. |
-| 30 | **MERYN TRANT**, Kingsguard knight [Alive] | Serving the royal family, formerly visiting Winterfell. | Comes with armed Lannisters to arrest Arya and attacks **Syrio** when refused. | Remains in the Red Keep after Arya flees; final outcome of his duel not shown. |
+| 12 | **MERYN TRANT**, Kingsguard knight [Alive] | Serving the royal family, formerly visiting Winterfell. | Comes with armed Lannisters to arrest Arya and attacks **Syrio** when refused. | Remains in the Red Keep after Arya flees; final outcome of his duel not shown. |
 | 31 | **LANNISTER GUARDS**, five armed red-cloaks [Mixed / not individually tracked] | Serving Lannister power in the capital. | Attempt to seize Arya; **Syrio** incapacitates them with his wooden practice blade, while other armed men overrun the household. | Several lie dead or dying; individual outcomes not established. |
 | 32 | **CITY WATCH GOLD CLOAKS**, royal municipal guards [Mixed / not individually tracked] | Policing King's Landing under **Janos Slynt**. | Guard the Red Keep, intercept escape routes and later restrain Ned upon the sept's steps. | Hold the crowd back and enforce the king's execution order. |
 
@@ -184,7 +194,7 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **SYRIO FOREL**, Braavosi sword instructor [Unknown] | Former First Sword of Braavos, later engaged by Ned at King's Landing. | Teaches Arya water dancing, observation and balance, then confronts the men sent to seize her. | Last seen fighting **Meryn Trant** with a wooden sword; final fate unresolved. |
-| 34 | **YOREN**, Night's Watch recruiter [Alive] | Travelling on the roads collecting recruits for the Wall. | Delivers news to Ned during Arya's warning and later recognises Arya at the execution. | Escorts her away, returns Needle and begins cutting her hair to disguise her. |
+| 15 | **YOREN**, Night's Watch recruiter [Alive] | Travelling on the roads collecting recruits for the Wall. | Delivers news to Ned during Arya's warning and later recognises Arya at the execution. | Escorts her away, returns Needle and begins cutting her hair to disguise her. |
 | 35 | **UNNAMED STABLEBOY**†, Red Keep stable worker [Deceased] | Employed among the capital's stables. | Attempts to seize Arya in hope of a reward from the queen during the coup. | Killed by Arya with Needle. |
 | 36 | **GREAT SEPT CROWD**, assembled smallfolk [Mixed / not individually tracked] | Residents of the city living under the Crown's rule. | Gather to witness the confession, throw stones at Ned and surge at Joffrey's death sentence. | Disperse after the execution, leaving Arya in Yoren's custody. |
 
@@ -231,4 +241,7 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 
 > **Scope-relative MNT — Applies to: [Section 3 (Major Narrative Threads)](#arya-threads):** Ranking reflects significance across Arya I–V, not the cumulative full-novel ROM MNT order, under SROMX v11.27. Threads are directly framed as concrete family peril, armed coercion, escape, intelligence overheard and displacement, rather than abstract motifs.
 
-> **Protocol and publication authorities — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.74](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). Repository-only navigation and this appendix are retained in GitHub, and excluded from the ordinary chat publication view.
+> **Protocol and publication authorities — Applies to: Entire document:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), [GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). Repository-only navigation and this appendix are retained in GitHub, and excluded from the ordinary chat publication view.
+
+
+> **Cross-record reconciliation — Applies to: Entire document:** Reviewed against [ROM CSRM](ROM_CSRM_AGOT.md) (chapter chronology and source anchors), [ROM MCM](ROM_MCM_AGOT.md) (bookwide significance), [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM Terminology Standard v10.75](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [ROM NAVIGATION v1.3](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md). This report's enacted scenes and physically Present characters remain limited to its stated POV Scope and Spoiler Boundary.
