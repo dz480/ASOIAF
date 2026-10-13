@@ -17,10 +17,10 @@
 
 The following reports are arranged by each POV's first numbered chapter. Their source chapters are **non-consecutive** and follow the novel's published reading order, rather than a reconstructed chronological sequence.
 
-- [SROMX | Bran](SROMX_GOT_POV_BRAN.md) · 7 POV chapters; GOT Ch. 1, 8, 17, 24, 37, 53, 66. **Spoilers through Ch. 66.**
-- [SROMX | Catelyn](SROMX_GOT_POV_CATELYN.md) · 11 POV chapters; GOT Ch. 2, 6, 14, 18, 28, 34, 40, 55, 59, 63, 71. **Spoilers through Ch. 71.**
-- [SROMX | Daenerys](SROMX_GOT_POV_DAENERYS.md) · 10 POV chapters; GOT Ch. 3, 11, 23, 36, 46, 54, 61, 64, 68, 72. **Spoilers through Ch. 72.**
-- [SROMX | Eddard](SROMX_GOT_POV_EDDARD.md) · 15 POV chapters; GOT Ch. 4, 12, 16, 20, 25, 27, 30, 33, 35, 39, 43, 45, 47, 49, 58. **Spoilers through Ch. 58.**
+- [SROMX | Bran Stark | Full Book](SROMX_GOT_POV_BRAN.md) · 7 POV chapters; GOT Ch. 1, 8, 17, 24, 37, 53, 66. **Spoilers through Ch. 66.**
+- [SROMX | Catelyn Stark | Full Book](SROMX_GOT_POV_CATELYN.md) · 11 POV chapters; GOT Ch. 2, 6, 14, 18, 28, 34, 40, 55, 59, 63, 71. **Spoilers through Ch. 71.**
+- [SROMX | Daenerys Targaryen | Full Book](SROMX_GOT_POV_DAENERYS.md) · 10 POV chapters; GOT Ch. 3, 11, 23, 36, 46, 54, 61, 64, 68, 72. **Spoilers through Ch. 72.**
+- [SROMX | Eddard Stark | Full Book](SROMX_GOT_POV_EDDARD.md) · 15 POV chapters; GOT Ch. 4, 12, 16, 20, 25, 27, 30, 33, 35, 39, 43, 45, 47, 49, 58. **Spoilers through Ch. 58.**
 
 ## Repository navigation conventions
 

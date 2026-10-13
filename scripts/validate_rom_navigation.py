@@ -18,6 +18,12 @@ EXPLICIT = re.compile(r'<a\b[^>]*\bid=["\']([^"\']+)["\']', re.I)
 HEADING = re.compile(r'^#{1,6}\s+(.+?)\s*#*\s*$', re.M)
 CHAPTER = re.compile(r'^### GOT Ch\. (\d+): (\w+) ([IVXLCDM]+)\s*$', re.M)
 SCOPE = re.compile(r'^\*\*Scope:\*\*\s+\*\*GOT Ch\. ([\d,\s]+)\*\*', re.M)
+FULL_POV_NAMES = {
+    "Bran": "Bran Stark",
+    "Catelyn": "Catelyn Stark",
+    "Daenerys": "Daenerys Targaryen",
+    "Eddard": "Eddard Stark",
+}
 errors = []
 
 
@@ -124,17 +130,24 @@ else:
             actual = re.findall(r'\(ROM_CSRM_AGOT\.md#agot-ch-\d+\)', navline)
             if actual != expected:
                 fail(f"{report.name}: Narrative Overview chapter links do not match Scope and reading order.")
-        if f"[SROMX | {pov}]({report.name})" not in index:
-            fail(f"Reading Index does not link to {report.name}.")
+        full_name = FULL_POV_NAMES.get(pov)
+        if full_name is None:
+            fail(f"{report.name}: no full POV character name configured.")
+            continue
+        expected_link = f"[SROMX | {full_name} | Full Book]({report.name})"
+        if expected_link not in index:
+            fail(f"Reading Index does not use the canonical link label for {report.name}.")
     for n in range(1, 73):
         heading = re.search(rf'^### GOT Ch\. {n}: [^\n]+\n([\s\S]*?)(?=^### GOT Ch\. |^> ## Drafting)', csrm, re.M)
         if not heading:
             fail(f"CSRM chapter {n}: section cannot be isolated.")
             continue
-        present = re.findall(r'\[SROMX \| (\w+)\]\((SROMX_GOT_POV_[A-Z]+\.md)\)', heading.group(1))
-        expected = [memberships[n]] if n in memberships else []
+        present = re.findall(r'\[SROMX \| ([^|\]\n]+) \| Full Book\]\((SROMX_GOT_POV_[A-Z]+\.md)\)', heading.group(1))
+        expected = [(FULL_POV_NAMES[memberships[n][0]], memberships[n][1])] if n in memberships else []
         if present != expected:
             fail(f"CSRM chapter {n}: unexpected/missing SROMX back-reference {present} vs {expected}.")
+    if re.search(r"(?m)^\\*\\*POV reconstruction \\(", csrm):
+        fail("CSRM contains redundant standalone POV reconstruction labels.")
     if "[ROM CSRM | Prologue + Ch. 1–72](ROM_CSRM_AGOT.md)" not in index:
         fail("Reading Index missing whole-book CSRM entry.")
     if "[ROM MCM | Whole book](ROM_MCM_AGOT.md)" not in index:
