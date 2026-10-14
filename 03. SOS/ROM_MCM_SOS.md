@@ -65,16 +65,14 @@
 - **Direct-presence rule:** Speaking, nonspeaking and genuinely functional nonordinary participation qualify. A named offstage report alone does not create a Chapter Appearance. A repeated appearance within one chapter counts once.
 - **Book-end vs live continuity:** All SOS deaths, disappearances, promotions and book-end counts in this file are projected advance data. The existing MCR remains unchanged at COK-end.
 - **Quality statement:** Whole-book chapter matrix coverage, COK-end baseline inheritance and complete current-book roster are implemented. An independent line-by-line EPUB audit of all upper-tier appearances and all early-series historical mismatches is not certified. See Section 6.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
-
+---
 
 <a id="sos-mcm-02"></a>
 ## 2. Full Character Roster
 
 The following end-of-book projected roster contains qualifying named individuals with source-indexed SOS participation. Returning historical identities preserve MCR significance. The layout inherits the current ROM CM v10.48 unified five-column Character Group format. 🏅 denotes Principal, 🥈 denotes Supporting, and Tertiary entries display their continuous all-character ordinal. Descriptions prioritise narrative function; lower-tier descriptions retain their source-indexed limits. **No Tertiary numerical chapter-appearance counts are maintained:** all 202 lower-tier entries display **Not verified** for the cumulative count, and Section 5 leaves their four statistical fields blank. Counting is restricted to Principal and Supporting characters, including genuine promotions into those tiers.
-[⬆️ Return to TOC](#sos-mcm-toc)
-
 
 <a id="sos-mcm-roster-01"></a>
 ### 🏰 Winterfell & the North
@@ -94,7 +92,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 11 | **JEYNE POOLE**, Sansa Stark's childhood companion at Winterfell | ⇤ **GOT Ch. 7**<br>⇥ **SOS Ch. 72**<br>Not verified | **Sansa Stark** (associated character within the local narrative). | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 72. |
 | 12 | **NYMERIA**, Direwolf bonded to Arya Stark and roaming the Riverlands | ⇤ **SOS Ch. 3**<br>⇥ **SOS Ch. 65**<br>Not verified | **Arya Stark** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 65. |
 | 13 | **SUMMER**, Direwolf | ⇤ **GOT Ch. 1**<br>⇥ **SOS Ch. 56**<br>Not verified | Direwolf bonded to Bran Stark and protective of him; member of the Stark children's wolf pack. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 56. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-02"></a>
@@ -108,7 +107,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 17 | **GALBART GLOVER**, Northern lord and envoy sent by Robb into the Neck | ⇤ **GOT Ch. 55**<br>⇥ **SOS Ch. 45**<br>Not verified | **Robb Stark** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 45. |
 | 18 | **MAEGE MORMONT**, Lady of Bear Island and Robb's northern envoy | ⇤ **GOT Ch. 71**<br>⇥ **SOS Ch. 45**<br>Not verified | **Robb Stark** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 45. |
 | 19 | **SMALLJON UMBER**, Greatjon's son who dies defending Robb at the Red Wedding | ⇤ **SOS Ch. 14**<br>⇥ **SOS Ch. 51**<br>Not verified | **Greatjon Umber** (associated character within the local narrative). | 🗡 **DECEASED**; Beheaded during the Red Wedding. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-03"></a>
@@ -170,7 +170,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 71 | **TOAD**, Night's Watch recruit in Jon's training cohort | ⇤ **GOT Ch. 19**<br>⇥ **SOS Ch. 79**<br>Not verified | **Jon Snow** (associated character within the Night's Watch narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 79. |
 | 72 | **TOREGG**, Free folk warrior and son of Tormund | ⇤ **SOS Ch. 15**<br>⇥ **SOS Ch. 15**<br>Not verified | **Tormund** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 15. |
 | 73 | **ULMER**, Veteran Watch archer, formerly of the Kingswood Brotherhood | ⇤ **SOS Ch. 33**<br>⇥ **SOS Ch. 79**<br>Not verified | **Jon Snow** (associated character within the Night's Watch narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 79. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-04"></a>
@@ -188,7 +189,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 🥈 | **YGRITTE**, Free folk spearwife whose romance with Jon complicates his oath and undercover allegiance | ⇤ **COK Ch. 51**<br>⇥ **SOS Ch. 55**<br>9 appearances | **Jon Snow** (lover and Night's Watch infiltrator); **Mance Rayder** (free-folk king); **Styr** (leader of the raiding company); **Tormund** (wildling acquaintance). | 🗡 **DECEASED**; fatally struck by an arrow during the free folk assault on Castle Black. She dies with Jon Snow beside her, bringing their divided loyalties and relationship to a tragic end.
 | 82 | **JARL**, Free folk raider killed while climbing the Wall | ⇤ **SOS Ch. 7**<br>⇥ **SOS Ch. 30**<br>Not verified | **Styr** (associated character within the local narrative). | 🪦 **DECEASED**; falls to his death during the free folk's ascent of the Wall. |
 | 83 | **RATTLESHIRT**, Free folk raider | ⇤ **Not verified**<br>⇥ **SOS Ch. 69**<br>Not verified | Wildling leader aligned with Mance Rayder's free folk; captures and confronts Jon Snow and Qhorin's rangers. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 69. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-05"></a>
@@ -197,7 +199,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | No. | Character | Appearances | Network | Last Known Status |
 |---:|---|---|---|---|
 | 84 | **COLDHANDS**, Mysterious cloaked rider guiding travellers beyond the Wall | ⇤ **SOS Ch. 46**<br>⇥ **SOS Ch. 46**<br>Not verified | **Samwell Tarly** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 46. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-06"></a>
@@ -219,7 +222,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 96 | **PYLOS**, Young maester serving the royal household on Dragonstone | ⇤ **SOS Ch. 54**<br>⇥ **SOS Ch. 63**<br>Not verified | **Stannis Baratheon** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 63. |
 | 97 | **SELYSE BARATHEON**, Queen consort to Stannis and follower of R'hllor | ⇤ **SOS Ch. 54**<br>⇥ **SOS Ch. 63**<br>Not verified | **Stannis Baratheon** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 63. |
 | 98 | **SHIREEN BARATHEON**, Daughter of Stannis and Selyse | ⇤ **Not verified**<br>⇥ **SOS Ch. 63**<br>Not verified | Daughter of Stannis and Selyse Baratheon, attended by Patchface and Maester Cressen. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 63. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-07"></a>
@@ -242,7 +246,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 111 | **OSNEY KETTLEBLACK**, Kettleblack brother | ⇤ **Not verified**<br>⇥ **SOS Ch. 66**<br>Not verified | Brother of Osmund and Osfryd, employed at King's Landing's court; no independent close bond outside his family is established. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 66. |
 | 112 | **TANDA STOKEWORTH**, Lady of Stokeworth | ⇤ **COK Ch. 2**<br>⇥ **SOS Ch. 59**<br>Not verified | Mother of Falyse and Lollys Stokeworth; her household is politically linked to Cersei's royal court. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 59. |
 | 113 | **TOBHO MOTT**, Master armourer in King's Landing and Gendry's former employer | ⇤ **GOT Ch. 27**<br>⇥ **SOS Ch. 32**<br>Not verified | **Gendry** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 32. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-08"></a>
@@ -293,7 +298,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 154 | **TOMMEN BARATHEON**, Royal prince | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 72**<br>Not verified | Youngest child of Cersei and Jaime, publicly acknowledged as Robert's son; brother of Joffrey and Myrcella. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 72. |
 | 155 | **TREMOND GARGALEN**, Dornish knight travelling with Oberyn's retinue | ⇤ **SOS Ch. 38**<br>⇥ **SOS Ch. 38**<br>Not verified | **Oberyn Martell** (associated character within the Dornish narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 38. |
 | 156 | **ULWYCK ULLER**, Dornish knight of Oberyn's party | ⇤ **SOS Ch. 38**<br>⇥ **SOS Ch. 38**<br>Not verified | **Oberyn Martell** (associated character within the Dornish narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 38. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-09"></a>
@@ -314,7 +320,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 🥈 | **SHAE**, Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers | ⇤ **GOT Ch. 62**<br>⇥ **SOS Ch. 77**<br>14 appearances | **Tyrion Lannister** (lover who later kills her); **Sansa Stark** (lady whose household she infiltrates as maid); **Varys** (court facilitator); **Tywin Lannister** (royal Hand with whom she is found). | 🗡 **DECEASED**; testifies against Tyrion at his trial and is later discovered in Tywin’s bedchamber when Tyrion escapes. Tyrion strangles her, ending their relationship amid his betrayal, condemnation and flight.
 | 🥈 | **TYWIN LANNISTER**, Lannister patriarch and King’s Hand | ⇤ **GOT Ch. 56**<br>⇥ **SOS Ch. 77**<br>19 appearances | **Kevan Lannister** (brother and adviser); **Cersei Lannister** (daughter); **Jaime Lannister** (son and desired heir); **Tyrion Lannister** (son and killer); **Walder Frey** (political co-conspirator); **Roose Bolton** (ally in the Stark defeat); **Joffrey Baratheon** (grandson). | 🗡 **DECEASED**; confronted by Tyrion after the latter escapes his cell and discovers Shae in Tywin’s bed. Tyrion shoots him with a crossbow, abruptly removing the Hand of the King and principal architect of the Lannisters’ political supremacy.
 | 169 | **ADDAM MARBRAND**, Westerlands knight | ⇤ **GOT Ch. 62**<br>⇥ **SOS Ch. 70**<br>Not verified | Westerlands knight and bannerman of Tywin Lannister, who entrusts him with cavalry command; belongs to the Marbrand family of Ashemark. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 70. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-10"></a>
@@ -328,7 +335,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 173 | **ALERIE HIGHTOWER**, Mace Tyrell's wife and Margaery's mother | ⇤ **SOS Ch. 6**<br>⇥ **SOS Ch. 66**<br>Not verified | **Mace Tyrell** (associated character within the local narrative). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 66. |
 | 174 | **GARLAN TYRELL**, Knight of House Tyrell; Margaery's brother | ⇤ **COK Ch. 65**<br>⇥ **SOS Ch. 60**<br>Not verified | Son of Mace Tyrell, brother of Margaery and Loras; supports the family alliance with Joffrey Baratheon. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 60. |
 | 175 | **MACE TYRELL**, Lord of Highgarden and head of House Tyrell | ⇤ **No direct appearance**<br>⇥ **SOS Ch. 70**<br>Not verified | Lord of Highgarden; father of Margaery, Loras and Garlan Tyrell, allied with Renly and later Joffrey Baratheon. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 70. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-11"></a>
@@ -343,7 +351,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 180 | **PHILIP FOOTE**, One-eyed knight | ⇤ **COK Ch. 65**<br>⇥ **SOS Ch. 66**<br>Not verified | Knight honoured in Joffrey Baratheon's court for service in the victorious alliance; no closer personal relationship established. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 66. |
 | 181 | **ROBIN FLINT**, Scout accompanying Catelyn | ⇤ **COK Ch. 22**<br>⇥ **SOS Ch. 51**<br>Not verified | Scout serving Catelyn Stark during the mission to Renly's encampment; no established kinship to her. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 51. |
 | 182 | **WENDEL MANDERLY**, Manderly knight | ⇤ **COK Ch. 22**<br>⇥ **SOS Ch. 51**<br>Not verified | Son of Wyman Manderly and knight of White Harbor's house, allied to Robb Stark and House Stark. | 🗡 **DECEASED**; Takes a crossbow bolt to the mouth during the Red Wedding. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-12"></a>
@@ -387,7 +396,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 216 | **WALTON**, Steelshanks Walton, Bolton captain escorting Jaime and Brienne | ⇤ **SOS Ch. 31**<br>⇥ **SOS Ch. 72**<br>Not verified | **Roose Bolton** (named personal, family or factional connection in SOS). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 72. |
 | 217 | **WHALEN FREY**, Frey family member at the Red Wedding | ⇤ **SOS Ch. 51**<br>⇥ **SOS Ch. 51**<br>Not verified | **Walder Frey** (named personal, family or factional connection in SOS). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 51. |
 | 218 | **ZOLLO**, Brave Companions sellsword responsible for severing Jaime's sword hand | ⇤ **SOS Ch. 21**<br>⇥ **SOS Ch. 44**<br>Not verified | **Jaime Lannister** (named personal, family or factional connection in SOS). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 44. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-13"></a>
@@ -406,7 +416,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 227 | **ROBIN RYGER**, Riverrun knight | ⇤ **COK Ch. 7**<br>⇥ **SOS Ch. 1**<br>Not verified | Captain of guards serving House Tully at Riverrun and Edmure Tully; no separate family bond to the principal cast is established. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 1. |
 | 228 | **TYTOS BLACKWOOD**, Lord of Raventree Hall | ⇤ **GOT Ch. 71**<br>⇥ **SOS Ch. 35**<br>Not verified | Lord of Raventree Hall and ally of House Tully and Robb Stark in the Riverlands war. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 35. |
 | 229 | **UTHERYDES WAYN**, Steward of Riverrun | ⇤ **COK Ch. 39**<br>⇥ **SOS Ch. 14**<br>Not verified | Steward of Riverrun serving Hoster and Edmure Tully; manages household affairs and attends Catelyn. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 14. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-14"></a>
@@ -433,7 +444,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 246 | **TOM**, Tom of Sevenstreams, minstrel of the Brotherhood Without Banners | ⇤ **SOS Ch. 13**<br>⇥ **SOS Epilogue**<br>Not verified | **Beric Dondarrion** (named personal, family or factional connection in SOS). | 🟢 **ALIVE**; SOS Epilogue. |
 | 247 | **UTT**, Septon Utt of the Brave Companions, executed by the Brotherhood | ⇤ **SOS Ch. 39**<br>⇥ **SOS Ch. 39**<br>Not verified | **Vargo Hoat** (named personal, family or factional connection in SOS). | 🗡 **DECEASED**; Hung by the brotherhood without banners. |
 | 248 | **WATTY**, Member of the Brotherhood in the Riverlands | ⇤ **SOS Ch. 39**<br>⇥ **SOS Ch. 43**<br>Not verified | **Beric Dondarrion** (named personal, family or factional connection in SOS). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 43. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-15"></a>
@@ -451,7 +463,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 256 | **RORGE**, Violent criminal formerly held in a prison wagon | ⇤ **Not verified**<br>⇥ **SOS Ch. 44**<br>Not verified | Violent prisoner travelling with Biter and Jaqen H'ghar under Yoren; freed after Arya saves the wagon. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 44. |
 | 257 | **SHAGWELL**, Fool among the Brave Companions | ⇤ **COK Ch. 47**<br>⇥ **SOS Ch. 44**<br>Not verified | Member of Vargo Hoat's mercenaries, infamous for grotesque mockery and brutality; interacts with Arya Stark during Bolton's occupation. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 44. |
 | 258 | **TICKLER**, Lannister interrogator | ⇤ **Not verified**<br>⇥ **SOS Ch. 74**<br>Not verified | Interrogator working for Gregor Clegane, threatening Arya and the Riverlands captives. | 🗡 **DECEASED**; Killed by Arya who stabbed him multiple times during the fight at the Inn at the crossroads. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-16"></a>
@@ -461,7 +474,8 @@ The following end-of-book projected roster contains qualifying named individuals
 |---:|---|---|---|---|
 | 🥈 | **ELLARIA SAND**, Paramour of Oberyn Martell and mother of his younger daughters | ⇤ **SOS Ch. 38**<br>⇥ **SOS Ch. 70**<br>4 appearances | **Oberyn Martell** (paramour and father of her daughters); **Sansa Stark** (court acquaintance); **Cersei Lannister** (queen before whom she maintains her independence). | 🟢 **ALIVE**; survives Oberyn Martell’s fatal trial by combat at King’s Landing. His death leaves her grieving and intensifies the unresolved grievance between Dorne and the Lannister crown; her later whereabouts are not established in SOS.
 | 🥈 | **OBERYN MARTELL**, Prince of Dorne who demands justice for Elia and fights as Tyrion’s champion | ⇤ **SOS Ch. 38**<br>⇥ **SOS Ch. 70**<br>5 appearances | **Doran Martell** (brother and prince of Dorne); **Elia Martell** (sister murdered in the sack of King's Landing); **Ellaria Sand** (paramour); **Tyrion Lannister** (accused whose champion he becomes); **Gregor Clegane** (opponent who kills him). | 🗡 **DECEASED**; fights Gregor Clegane as Tyrion’s champion to demand justice for Elia Martell and her children. Gregor kills him in brutal combat, but Oberyn’s poisoned spear leaves his opponent gravely ill and deepens the political crisis with Dorne.
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-17"></a>
@@ -484,7 +498,8 @@ The following end-of-book projected roster contains qualifying named individuals
 | 273 | **RHAEGAL**, Daenerys's green dragon | ⇤ **GOT Ch. 72**<br>⇥ **SOS Ch. 71**<br>Not verified | Dragon bonded to Daenerys Targaryen, named for her elder brother Rhaegar. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 71. |
 | 274 | **STRONG BELWAS**, Eunuch warrior | ⇤ **Not verified**<br>⇥ **SOS Ch. 71**<br>Not verified | Warrior and escort of Arstan Whitebeard, sent to join Daenerys Targaryen's cause. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 71. |
 | 275 | **VISERION**, Daenerys's cream-and-gold dragon | ⇤ **GOT Ch. 72**<br>⇥ **SOS Ch. 71**<br>Not verified | Dragon bonded to Daenerys Targaryen, named for her late brother Viserys. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 71. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-roster-18"></a>
@@ -498,7 +513,10 @@ The following end-of-book projected roster contains qualifying named individuals
 | 279 | **JHOGO**, Dothraki warrior; Daenerys's bloodrider | ⇤ **GOT Ch. 23**<br>⇥ **SOS Ch. 57**<br>Not verified | Dothraki bloodrider sworn to Daenerys Targaryen, alongside Aggo and Rakharo. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 57. |
 | 280 | **QUAITHE**, Masked shadowbinder | ⇤ **Not verified**<br>⇥ **SOS Ch. 27**<br>Not verified | Shadowbinder from Asshai who advises Daenerys Targaryen at Qarth; no family or enduring bond is established. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 27. |
 | 281 | **RAKHARO**, Dothraki warrior; Daenerys's bloodrider | ⇤ **GOT Ch. 36**<br>⇥ **SOS Ch. 71**<br>Not verified | Dothraki bloodrider sworn to Daenerys Targaryen, alongside Jhogo and Aggo. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 71. |
-[⬆️ Return to TOC](#sos-mcm-toc)
+
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
 
 <a id="sos-mcm-03"></a>
 ## 3. Character Census
@@ -514,8 +532,12 @@ The census below records the **281 qualifying named participants** identified wi
 **Total Characters:** 281  
 **Deceased:** 43 (including Catelyn Stark, whose death and reanimated activity are both recorded)
 
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
+
 <a id="sos-mcm-04"></a>
-[⬆️ Return to TOC](#sos-mcm-toc)
+
 
 
 ## 4. Significance Promotion Ledger
@@ -528,8 +550,10 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | SOS Ch. 31 | **Qyburn** | Tertiary → Supporting | Treats Jaime after his mutilation at Harrenhal and becomes directly involved in the consequences of Jaime’s captivity. |
 | SOS Ch. 33 | **Gilly** | Tertiary → Supporting | Flees Craster’s Keep with her newborn following the mutiny and becomes central to Samwell’s survival and choices. |
 | SOS Ch. 34 | **Beric Dondarrion** | Tertiary → Supporting | Presides over Sandor's trial before the Brotherhood and becomes a central actor in Arya's riverlands journey. |
-[⬆️ Return to TOC](#sos-mcm-toc)
 
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
 
 <a id="sos-mcm-05"></a>
 ## 5. Chapter Appearance Register
@@ -822,13 +846,13 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **WENDEL MANDERLY** (Tertiary) | COK Ch. 22 | SOS Ch. 51 | | | | |
 | **WHALEN FREY** (Tertiary) | SOS Ch. 51 | SOS Ch. 51 | | | | |
 | **ZOLLO** (Tertiary) | SOS Ch. 21 | SOS Ch. 44 | | | | |
-[⬆️ Return to TOC](#sos-mcm-toc)
 
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
+
+---
 
 <a id="sos-mcm-06"></a>
 ## 6. Verification & Source Notes
-[⬆️ Return to TOC](#sos-mcm-toc)
-
 
 <a id="sos-mcm-notes-01"></a>
 ### Certification progress tracker (14 Oct 2026)
@@ -849,7 +873,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 **Priority source denominator and auditable progress:** **408/408 registered SOS priority assertions source-adjudicated (100% of current register)**, covering **79/79 priority character appearance lists (100%)**. This is a source-evidence count separate from the eight-gate milestone score. All 79 priority character lists are documented in the three consecutive source-review cohorts below. This is the finite registered-assertion verification boundary, not proof that future corrections are impossible. This is a declared and reproducible sign-off baseline rather than equating lexical hits or arithmetic checks with primary-text presence.
 
 **Fixed endpoint and reporting:** Final completion means eight of eight gates meet the manual's requirements. Each future certification report must show (a) gates completed and percentage, (b) supported counts of fully source-audited priority characters or claims when available, (c) changes to the 408-assertion denominator and (d) the specific remaining obstacles. A further turn or additional commit alone is never progress against a gate.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 
@@ -862,7 +886,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 - **Tertiary exemption:** The full Tertiary roster, relationships, statuses and reader-facing cumulative appearance fields are preserved where supportable. Their **four Section 5 numeric/list fields** are blank in accordance with the manual; no mass historical lower-tier audit is claimed.
 - **Nonordinary participation:** Chett, Hake, Lark and Small Paul enact a later appearance as wights in **SOS Ch. 46**; these count as functional participation beyond the source workbook’s ordinary numerical totals. Their death circumstances remain distinct from subsequent animated activity.
 - **Live MCR:** The series registry stays frozen at **COK Ch. 69**, with its 376 historical identities. No SOS spoiler, projected death or MCM-only cumulative correction has been inserted into the live registry.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-03"></a>
@@ -872,7 +896,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 2. **Historical Beric Dondarrion baseline (corrected from an earlier erroneous exclusion):** Directly enacted in **GOT Ch. 27, 29, 43 and 44**. In **GOT Ch. 44**, Sansa rises before dawn and looks out of her window to watch Beric form up his men and ride out of King's Landing; this is witnessed enacted movement in the narrated scene, not merely a conversation about him. His pre-SOS direct-presence baseline is therefore **4**, and with **SOS Ch. 34, 39 and 43** the projected book-end count is **7**, agreeing with the frozen MCR historical figure. This closes the earlier Beric discrepancy without altering live reader continuity.
 3. **Promoted-character historical reconstruction:** Gilly is present in **COK Ch. 23** (baseline **1**); Qyburn is directly present in **COK Ch. 64** (baseline **1**; the chapter-30 matrix association lacks independent support); Kevan appears in **GOT Ch. 56, 62, 69** and **COK Ch. 38, 65** (baseline **5**). Mance Rayder has no verified earlier enacted chapter and first appears in **SOS Ch. 7** (baseline **0**). Their book-end arithmetic is reconciled in Section 5.
 4. **Alias-sensitive SOS checks:** The name-token absences examined include Barristan as Arstan Whitebeard, Edric Dayne as Ned, Jeor as the Old Bear, Missandei as the unnamed interpreter, Olenna as the Queen of Thorns/Margaery's grandmother, and Oberyn as the Red Viper. These are identity-location cues that must be evaluated through actual enacted scenes, not by word frequency alone.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-04"></a>
@@ -896,7 +920,7 @@ The following **11 omitted chapter appearances across 10 priority characters** w
 **Important negative control:** Cersei's personal name appears only once in SOS Ch. 59, but the **queen** directly presents Joffrey with his bridal cloak and explains her own marriage to Robert. Ch. 59 remains a valid direct appearance. Likewise, Edric Dayne's Ch. 34 and Ch. 39 presences are borne by the **Ned** alias.
 
 **Verification boundary:** This pass verifies the cited corrections against source text. It is not a blanket assertion that every other priority chapter mark or every absent-chapter candidate has completed an independent, exhaustive enactment review. The six-section document remains **Provisional — Priority Issues** pending closure of that complete direct-presence and promotion/census audit.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-05"></a>
@@ -914,7 +938,7 @@ A further cross-chapter audit of the supplied SOS EPUB compared priority entries
 **Alias-positive controls:** Barristan Selmy's Arstan identity, Edric Dayne's use of Ned, and physical witness appearances such as Bronn and Varys at Sansa's marriage in SOS Ch. 28 have been retained. These require narrative identity resolution rather than an insistence on a character's full name in every counted chapter.
 
 This passage-level continuation does not purport to complete the full priority-mark-by-priority-mark certification; the overall status remains **PROVISIONAL — PRIORITY ISSUES**.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-06"></a>
@@ -927,7 +951,7 @@ This passage-level continuation does not purport to complete the full priority-m
 **Mention-only contrasts:** Melisandre is discussed by Davos and Salladhor Saan in SOS Ch. 10 but is offstage; Beric Dondarrion is discussed and sought in Arya's SOS Ch. 22 but does not enter the narrated action; Varys's role in arranging a meeting is only recounted in Tyrion's SOS Ch. 32 while Shae herself acts in a fully dramatised memory; Mance Rayder is explicitly not visible through the far-eye in Jon's SOS Ch. 69. None is added on the strength of those references.
 
 **Certification limit:** Lexical location plus selective passage adjudication is not equivalent to complete character-by-chapter verification. Unreviewed direct-presence assertions, first-series historical backfills, tier decisions and a final census presentation audit still prevent whole-book priority certification.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-07"></a>
@@ -936,7 +960,7 @@ This passage-level continuation does not purport to complete the full priority-m
 **Direct-presence spot confirmations from the primary SOS EPUB:** The Queen at the wedding breakfast in **SOS Ch. 59** is Cersei, identified by her first-person account of wearing Joanna Lannister's bridal cloak, which she physically hands to Joffrey. This is an enacted appearance notwithstanding only one occurrence of the name “Cersei” elsewhere in that chapter. Vargo Hoat is **also directly present in SOS Ch. 44**, contrary to a possible false-positive concern raised by the chapter's earlier offstage discussion: Jaime returns to Harrenhal, confronts Hoat in the bear pit, hears him respond, and watches him order Brienne released. Both register marks are retained.
 
 **Presentation maintenance:** Section 2 has been migrated from legacy Principal/Supporting/Tertiary-separated tables to **the current ROM CM v10.48 unified five-column Character Group layout**, with 🏅/🥈 indicators, continuous ordinal accounting for every character, and the heading **Network**. All 281 named records, existing relationships, source-coordinate strings and individual statuses were carried across without inventing new evidence. This is a structural conformance change only. The Priority Network cells were subsequently reconciled to the current CRM-style named relationship format, as described in the Priority relationship-network conformity note below.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-08"></a>
@@ -947,7 +971,7 @@ This passage-level continuation does not purport to complete the full priority-m
 - **Chett**, **Lark the Sisterman** and **Hake** are identified among the Night's Watch wights physically encountered in **SOS Ch. 46**. Their biological deaths are confirmed notwithstanding animated participation. Their Last Known Status entries now read **DECEASED** with death circumstances and revenant participation, bringing confirmed deceased identities to **42**.
 - **Mallador Locke** is seen living during the attack in **SOS Ch. 18**, but the same supplied novel does not establish a definitive fate for that individual. His roster status remains **PRESUMED DEAD** and his census dagger is removed. His recorded first/latest appearances are not modified by rumours or silence.
 - At this intermediate source-check stage, the census contained **42 † markers** matching 42 confirmed-death roster statuses; the later Styr verification below increased the current total to **43**, as reflected in Section 3. Death markers are separate from future-book knowledge or the character's most recent direct narrative appearance.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-09"></a>
@@ -957,7 +981,7 @@ This passage-level continuation does not purport to complete the full priority-m
 - **Greatjon Umber (SOS Epilogue):** Merrett Frey reflects that subduing the Greatjon required eight men and confirms he was taken in chains after resisting the Red Wedding attack. **Correct Last Known Status from UNKNOWN to ALIVE, captured**. His latest directly enacted appearance remains **SOS Ch. 51**, since the Epilogue recounts rather than dramatises the fight.
 - **Vargo Hoat (SOS Ch. 62):** Tywin reports that Gregor captured Hoat at Harrenhal and removed his hands and feet, but states that his death is expected soon, rather than already witnessed. **Correct the projected endpoint condition to UNCERTAIN**, with grave injuries recorded. The last direct appearance remains **SOS Ch. 44**.
 - **Gregor Clegane (SOS Ch. 70, Ch. 72):** Oberyn's poisoned spear leaves Gregor grievously ill, and Tywin directs Pycelle to treat him. The book has not confirmed recovery or death by its closing boundary. **Correct the projected endpoint condition to UNCERTAIN**, without importing later-book outcomes.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-10"></a>
@@ -966,14 +990,14 @@ This passage-level continuation does not purport to complete the full priority-m
 All **79 Principal and Supporting Network cells** have been revised to the current ROM CM v10.48 relationship style. Each uses discrete, bold named identities with contextual parenthetical descriptions, beginning with family where relevant, then political, personal, military and adversarial connections. These preserve relationships established in GOT/COK continuity and the supplied SOS narrative while accommodating SOS-ending developments (e.g. the Red Wedding, the Brotherhood, Daenerys's household and Jaime's return). The latest source-based character statuses and Chapter Appearance Register statistics remain independent fields and were not modified in this Network-only step.
 
 **Certification boundary:** This is a substantial reader-facing format and relationship reconciliation, not a claim that every one of the 408 priority chapter marks has undergone independent passage adjudication. A final cross-check of all current-book presence and priority historical baselines remains required.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-11"></a>
 ### Live-status precision at SOS endpoint (14 Oct 2026)
 
 The current ROM CM status key distinguishes **UNKNOWN fate** from a character merely being absent in later chapters. Directly observed living participants do not become UNKNOWN simply because the narrative ends before their next scene. Source checks correct six such priority rows to ALIVE: **Alliser Thorne** and **Janos Slynt** (personally present at the Castle Black election in SOS Ch. 79), **Ser Ilyn Payne** (acting as King's Justice at the wedding in Ch. 60), **Meryn Trant** (standing Kingsguard watch in Ch. 72), **Lancel Lannister** (living but severely ill at the wedding in Ch. 60), and **Brynden Tully** (last directly alive in Ch. 35, still facing the royal court's attainder in Ch. 72). The existing latest direct-appearance coordinates and cumulative counts are unchanged.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-12"></a>
@@ -988,14 +1012,14 @@ The canonical ROM CM status key uses **🗡 DECEASED** for death caused by anoth
 - **Jarl — 🪦 DECEASED.** He falls to his death while climbing the Wall; an assailant causing the fall is not established.
 
 **Census integrity:** All five characters retain confirmed-deceased status; the roster and census totals stay at **43 deceased**, and no list or cumulative chapter statistic changes. **Beric Dondarrion** retains the gravestone marker for his voluntary surrender of his final life; Chett, Hake and Lark retain the same marker because their causes of original biological death are not individually confirmed by the later identification of their wights.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-13"></a>
 ### Priority Character Field corrections (14 Oct 2026)
 
 Replaced **17 remaining generic Principal/Supporting identity descriptions** with specific SOS-grounded identifying roles, affiliations or family positions. The revised entries cover Maester Aemon, Small Paul, Dalla, Harma, Styr, Tormund, Val, Varamyr, Edric Storm, Lothar Frey, Roslin Frey, Ryman Frey, Sybell Westerling, Walder Frey, Edric Dayne, Ellaria Sand and Kraznys mo Nakloz. Previously reconciled family and nonfamily relationship networks, last-known statuses, significance tiers and source-chapter statistics remain unchanged. This closes the **priority-tier placeholder descriptor** issue; independent full source-appearance certification remains pending.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-14"></a>
@@ -1008,7 +1032,7 @@ Replaced **17 remaining generic Principal/Supporting identity descriptions** wit
 - **Historical cross-check already closed separately:** Beric's directly observed departure in GOT Ch. 44 restores his pre-SOS baseline to **4** and cumulative SOS count to **7**; Gilly, Qyburn and Kevan's earlier-book source counts were separately reconciled in the preceding primary-text adjudications.
 
 **Audit accounting, Cohort A:** 91 POV-list claims + 34 non-POV-list claims = **125 signed SOS assertions**; **27 signed character lists**. These remain included in the cumulative audit total below. Overall milestone progress remains **5/8 gates (62.5%)** until an outstanding gate is fully closed.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-15"></a>
@@ -1024,7 +1048,7 @@ Replaced **17 remaining generic Principal/Supporting identity descriptions** wit
 - **King's Landing and Tyrell court:** Margaery Tyrell (5, including the dramatised Sansa recollection in Ch. 16 and her appearance at the post-wedding feast in Ch. 28); Olenna Tyrell (4, including the Queen of Thorns at the Ch. 28 feast and Margaery's grandmother present in the Ch. 66 trial gallery).
 
 **Cohort A+B accounting:** 27 + 23 = 50 character lists and 125 + 107 = 232 direct-presence claims. The remaining 29 lists and 176 claims are covered by Cohort C below. The cumulative audit and gate score are updated in the tracker above.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-16"></a>
@@ -1040,14 +1064,14 @@ Replaced **17 remaining generic Principal/Supporting identity descriptions** wit
 **Exclusion controls across all 82 narrative units:** Cersei in Jaime's Ch. 67 funeral recap is a condensed remembered report, not an enacted scene; Stannis in Jon Ch. 73 is invoked through his army's battle cry without Jon identifying his direct presence; Gregor Clegane, Vargo Hoat and numerous court figures are mentioned in other chapters without physically participating; Petyr Frey in the Epilogue is not Petyr Baelish. The actual named participants in these instances were distinguished from secondhand references.
 
 **Cumulative proof count:** 125 claims across 27 identities (Cohort A) + 107 claims across 23 identities (Cohort B) + 176 claims across 29 identities (Cohort C) = **408/408 source-indexed priority chapter claims adjudicated across 79/79 characters**. Gate 5 is closed on this defined source scope. **Acceptance gates still open:** Gate 7 (significance, Tertiary inclusion and broader factual quality), and Gate 8 (final certification). Overall progress **6 of 8 = 75%**. Later newly discovered source evidence would reopen the affected identity under the normal verification rules.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-17"></a>
 ### Tertiary identity and orientation reconciliation (14 Oct 2026)
 
 All **131 previously generic Tertiary Character fields** were replaced with individually identifying source-context role descriptions, and corresponding placeholder Network cells were replaced with at least one named source-bounded affiliation or relationship where identified. This completes the roster's basic character-orientation pass without changing inclusion counts, Significance Tiers, first/latest coordinates, deferred Tertiary statistical blanks, cumulative priority counts or the reader-safe series registry. Unconfirmed family or affiliation details should be rechecked before any higher-detail character-specific output is generated from the reference.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-18"></a>
@@ -1057,7 +1081,7 @@ All **131 previously generic Tertiary Character fields** were replaced with indi
 2. **Historical gate closed:** GOT/COK certified earlier-book totals match the SOS start values, and targeted retrospective source checks resolved Beric (4, not 3), Gilly (1), Kevan (5), Qyburn (1) and Mance (0). The live MCR remains at the reader-safe COK boundary.
 3. Review newly elevated Supporting classifications and any additional substantive omissions against the ROM significance threshold. Expand targeted historical reconstruction for any further confirmed promotion rather than reopening all remaining Tertiary statistics.
 4. Validate the source-based status, relationship and census consistency after the complete priority audit. Only then consider **Satisfactory for Use — Priority Verified**.
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 
 <a id="sos-mcm-notes-19"></a>
@@ -1070,7 +1094,7 @@ All **131 previously generic Tertiary Character fields** were replaced with indi
 - [COK-end MCR](../SERIES%20CONTINUITY/MASTER_CHARACTER_REGISTRY.csv) and [COK MCM](../02.%20COK/ROM_MCM_COK.md).
 - [Canonical ROM MCM manual](https://github.com/dz480/CG-Protocols/blob/main/ROM/CHARACTERS/ROM_MASTER_CHARACTER_MAP.md).
 
-[⬆️ Return to TOC](#sos-mcm-toc)
+<p align="right"><a href="#sos-mcm-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
 ---
 
