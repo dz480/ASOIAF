@@ -41,7 +41,7 @@ The following end-of-book projected roster contains only named individuals with 
 | 1 | **ARYA STARK**, Stark daughter fleeing across the Riverlands | ⇤ **GOT Ch. 5**<br>⇥ **SOS Ch. 74**<br>36 appearances | Stark daughter fleeing across the Riverlands; travels with the Brotherhood and Sandor, then sails toward Braavos. | 🟢 **ALIVE**; boards a ship bound for Braavos. |
 | 2 | **BRAN STARK**, Stark heir travelling north with Hodor and the Reeds in search of the three-eyed crow | ⇤ **GOT Ch. 1**<br>⇥ **SOS Ch. 56**<br>21 appearances | Stark heir travelling north with Hodor and the Reeds in search of the three-eyed crow. | 🟢 **ALIVE**; travels beyond the Wall. |
 | 3 | **CATELYN STARK**, Widow of Eddard | ⇤ **GOT Ch. 2**<br>⇥ **SOS Epilogue**<br>33 appearances | Widow of Eddard; attempts to hold Robb’s fragile coalition together; murdered at the Red Wedding. | 🪦 **DECEASED**; returns as Lady Stoneheart and leads the Brotherhood in the Epilogue. |
-| 4 | **ROBB STARK**, King in the North | ⇤ **GOT Ch. 1**<br>⇥ **SOS Ch. 51**<br>20 appearances | King in the North; seeks to repair the Frey alliance following his marriage to Jeyne Westerling. | 🗡 **DECEASED**; betrayed and murdered at the Red Wedding. |
+| 4 | **ROBB STARK**, King in the North | ⇤ **GOT Ch. 1**<br>⇥ **SOS Ch. 79**<br>21 appearances | King in the North; seeks to repair the Frey alliance following his marriage to Jeyne Westerling. | 🗡 **DECEASED**; betrayed and murdered at the Red Wedding. |
 | 5 | **SANSA STARK**, Stark daughter compelled to marry Tyrion | ⇤ **GOT Ch. 5**<br>⇥ **SOS Ch. 80**<br>34 appearances | Stark daughter compelled to marry Tyrion; flees King’s Landing after Joffrey’s death and becomes Petyr’s putative daughter Alayne. | 🟢 **ALIVE**; concealed in the Vale as Alayne Stone. |
 
 #### Supporting Characters
@@ -92,11 +92,11 @@ The following end-of-book projected roster contains only named individuals with 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 14 | **ALLISER THORNE**, Master-at-arms at Castle Black | ⇤ **GOT Ch. 19**<br>⇥ **SOS Ch. 79**<br>10 appearances | Night's Watch trainer antagonistic to Jon Snow and Samwell Tarly; serves under Lord Commander Jeor Mormont. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 79. |
+| 14 | **ALLISER THORNE**, Master-at-arms at Castle Black | ⇤ **GOT Ch. 19**<br>⇥ **SOS Ch. 79**<br>11 appearances | Night's Watch trainer antagonistic to Jon Snow and Samwell Tarly; serves under Lord Commander Jeor Mormont. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 79. |
 | 15 | **CRASTER**, Wildling host and patriarch beyond the Wall | ⇤ **COK Ch. 23**<br>⇥ **SOS Ch. 33**<br>2 appearances | Wildling host in an uneasy arrangement with Jeor Mormont; father and husband to Gilly, who seeks protection from him through Samwell. | 🗡 **DECEASED**; Has his throat slit by Dirk during the mutiny at Craster's Keep. |
 | 16 | **GILLY**, Craster’s daughter who flees with Sam and her infant child | ⇤ **COK Ch. 23**<br>⇥ **SOS Ch. 75**<br>5 appearances | Craster’s daughter and wife who escapes his keep with Sam and her infant after the Night’s Watch mutiny. | 🟢 **ALIVE**; sheltered by the Night’s Watch. |
-| 17 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **SOS Ch. 79**<br>10 appearances | Former commander of the Gold Cloaks rewarded by Cersei and Joffrey, then dismissed and exiled by Tyrion. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 79. |
-| 18 | **JEOR MORMONT**, Lord Commander of the Night’s Watch betrayed by mutinous brothers at Craster’s Keep | ⇤ **GOT Ch. 19**<br>⇥ **SOS Ch. 33**<br>13 appearances | Lord Commander of the Night’s Watch betrayed by mutinous brothers at Craster’s Keep. | 🗡 **DECEASED**; murdered in the mutiny. |
+| 17 | **JANOS SLYNT**, Commander of the City Watch | ⇤ **GOT Ch. 27**<br>⇥ **SOS Ch. 79**<br>11 appearances | Former commander of the Gold Cloaks rewarded by Cersei and Joffrey, then dismissed and exiled by Tyrion. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 79. |
+| 18 | **JEOR MORMONT**, Lord Commander of the Night’s Watch betrayed by mutinous brothers at Craster’s Keep | ⇤ **GOT Ch. 19**<br>⇥ **SOS Ch. 33**<br>14 appearances | Lord Commander of the Night’s Watch betrayed by mutinous brothers at Craster’s Keep. | 🗡 **DECEASED**; murdered in the mutiny. |
 | 19 | **MAESTER AEMON**, Named Night's Watch participant | ⇤ **GOT Ch. 21**<br>⇥ **SOS Ch. 79**<br>11 appearances | Named participant in the Night's Watch storyline. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 79. |
 | 20 | **SAMWELL TARLY**, Night’s Watch steward who survives the Great Ranging, kills an Other with dragonglass and travels south with Gilly | ⇤ **GOT Ch. 26**<br>⇥ **SOS Ch. 79**<br>19 appearances | Night’s Watch steward who survives the Great Ranging, kills an Other with dragonglass and travels south with Gilly. | 🟢 **ALIVE**; back at Castle Black and instrumental in Jon’s election. |
 | 21 | **SMALL PAUL**, Named Night's Watch participant | ⇤ **SOS Prologue**<br>⇥ **SOS Ch. 46**<br>3 appearances | Named participant in the Night's Watch storyline. | 🗡 **DECEASED**; Killed by an Other beyond the Wall. |
@@ -245,18 +245,18 @@ The following end-of-book projected roster contains only named individuals with 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 36 | **JOFFREY BARATHEON**, Young king whose cruelty and marriage to Margaery destabilise the court | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 60**<br>24 appearances | Young king whose cruelty and marriage to Margaery destabilise the court. | 🗡 **DECEASED**; poisoned during his wedding feast. |
+| 36 | **JOFFREY BARATHEON**, Young king whose cruelty and marriage to Margaery destabilise the court | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 60**<br>25 appearances | Young king whose cruelty and marriage to Margaery destabilise the court. | 🗡 **DECEASED**; poisoned during his wedding feast. |
 
 #### Supporting Characters
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 37 | **DONTOS HOLLARD**, Disgraced knight who helps Sansa flee from the Purple Wedding | ⇤ **GOT Ch. 57**<br>⇥ **SOS Ch. 61**<br>12 appearances | Disgraced knight who helps Sansa flee from the Purple Wedding. | 🗡 **DECEASED**; shot on Petyr’s orders. |
+| 37 | **DONTOS HOLLARD**, Disgraced knight who helps Sansa flee from the Purple Wedding | ⇤ **GOT Ch. 57**<br>⇥ **SOS Ch. 61**<br>13 appearances | Disgraced knight who helps Sansa flee from the Purple Wedding. | 🗡 **DECEASED**; shot on Petyr’s orders. |
 | 38 | **GRAND MAESTER PYCELLE**, Grand Maester; small-council member | ⇤ **GOT Ch. 20**<br>⇥ **SOS Ch. 66**<br>21 appearances | Royal maester allied with Tywin and Cersei Lannister; opposed by Tyrion after exposing his reports to Cersei. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 66. |
 | 39 | **LYSA ARRYN**, Lady of the Vale and Sansa’s aunt who reveals the murder of Jon Arryn amid her quarrel with Petyr | ⇤ **GOT Ch. 34**<br>⇥ **SOS Ch. 80**<br>5 appearances | Lady of the Vale and Sansa’s aunt who reveals the murder of Jon Arryn amid her quarrel with Petyr. | 🗡 **DECEASED**; pushed through the Moon Door by Petyr. |
 | 40 | **MERYN TRANT**, Kingsguard knight | ⇤ **GOT Ch. 12**<br>⇥ **SOS Ch. 72**<br>22 appearances | Kingsguard serving Joffrey, enforcing his orders against Sansa and formerly opposing Syrio Forel in the attempt to seize Arya. | ⚪️ **UNKNOWN**; last recorded acting in SOS Ch. 72. |
 | 41 | **PETYR BAELISH**, Master manipulator arranging Sansa’s escape and later marrying Lysa Arryn | ⇤ **GOT Ch. 18**<br>⇥ **SOS Ch. 80**<br>26 appearances | Master manipulator arranging Sansa’s escape and later marrying Lysa Arryn. | 🟢 **ALIVE**; holds the Vale after killing Lysa. |
-| 42 | **VARYS**, Royal spymaster who conceals his intentions behind court service and arranges Tyrion’s escape | ⇤ **GOT Ch. 18**<br>⇥ **SOS Ch. 77**<br>29 appearances | Royal spymaster who conceals his intentions behind court service and arranges Tyrion’s escape. | 🟢 **ALIVE**; disappears after aiding Tyrion. |
+| 42 | **VARYS**, Royal spymaster who conceals his intentions behind court service and arranges Tyrion’s escape | ⇤ **GOT Ch. 18**<br>⇥ **SOS Ch. 77**<br>30 appearances | Royal spymaster who conceals his intentions behind court service and arranges Tyrion’s escape. | 🟢 **ALIVE**; disappears after aiding Tyrion. |
 
 #### Tertiary Characters
 
@@ -305,7 +305,7 @@ The following end-of-book projected roster contains only named individuals with 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 43 | **CERSEI LANNISTER**, Queen Regent and mother of Joffrey and Tommen | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 72**<br>37 appearances | Queen Regent and mother of Joffrey and Tommen; contests Tyrion’s influence and presides over the new reign. | 🟢 **ALIVE**; serves as queen mother under Tommen. |
+| 43 | **CERSEI LANNISTER**, Queen Regent and mother of Joffrey and Tommen | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 72**<br>38 appearances | Queen Regent and mother of Joffrey and Tommen; contests Tyrion’s influence and presides over the new reign. | 🟢 **ALIVE**; serves as queen mother under Tommen. |
 | 44 | **JAIME LANNISTER**, Lord Commander of the Kingsguard | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 77**<br>19 appearances | Lord Commander of the Kingsguard; prisoner released under Brienne’s protection; loses his sword hand and returns to King’s Landing. | 🟢 **ALIVE**; returns to Kingsguard duty and entrusts Brienne with Oathkeeper. |
 | 45 | **TYRION LANNISTER**, Son of Tywin, husband forced upon Sansa | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 77**<br>47 appearances | Son of Tywin, husband forced upon Sansa; accused of Joffrey’s murder, championed by Oberyn, then freed by Jaime and Varys. | 🟢 **ALIVE**; escapes after killing Shae and Tywin. |
 
@@ -321,7 +321,7 @@ The following end-of-book projected roster contains only named individuals with 
 | 51 | **QYBURN**, Disgraced maester associated with the Brave Companions | ⇤ **COK Ch. 64**<br>⇥ **SOS Ch. 62**<br>5 appearances | Disgraced former maester who treats Jaime’s severed hand at Harrenhal, accompanies him south and seeks influence with the Lannister court. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 62. |
 | 52 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 74**<br>27 appearances | Younger brother and bitter adversary of Gregor; serves Joffrey but develops a troubled, protective connection with Sansa. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 74. |
 | 53 | **SHAE**, Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers | ⇤ **GOT Ch. 62**<br>⇥ **SOS Ch. 77**<br>13 appearances | Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers. | 🗡 **DECEASED**; strangled by Tyrion. |
-| 54 | **TYWIN LANNISTER**, Lannister patriarch and King’s Hand | ⇤ **GOT Ch. 56**<br>⇥ **SOS Ch. 77**<br>17 appearances | Lannister patriarch and King’s Hand; dominates royal government and orchestrates the destruction of Robb’s cause. | 🗡 **DECEASED**; shot by Tyrion with a crossbow. |
+| 54 | **TYWIN LANNISTER**, Lannister patriarch and King’s Hand | ⇤ **GOT Ch. 56**<br>⇥ **SOS Ch. 77**<br>19 appearances | Lannister patriarch and King’s Hand; dominates royal government and orchestrates the destruction of Robb’s cause. | 🗡 **DECEASED**; shot by Tyrion with a crossbow. |
 
 #### Tertiary Characters
 
@@ -336,7 +336,7 @@ The following end-of-book projected roster contains only named individuals with 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
 | 55 | **LORAS TYRELL**, Knight of the Flowers | ⇤ **GOT Ch. 29**<br>⇥ **SOS Ch. 72**<br>13 appearances | Knight of the Flowers; a Tyrell brother raised to the Kingsguard. | 🟢 **ALIVE**; serves in the Kingsguard. |
-| 56 | **MARGAERY TYRELL**, Daughter of Mace | ⇤ **COK Ch. 22**<br>⇥ **SOS Ch. 66**<br>5 appearances | Daughter of Mace; successive intended wife of Joffrey and prospective queen under Tommen. | 🟢 **ALIVE**; betrothed to Tommen. |
+| 56 | **MARGAERY TYRELL**, Daughter of Mace | ⇤ **COK Ch. 22**<br>⇥ **SOS Ch. 66**<br>6 appearances | Daughter of Mace; successive intended wife of Joffrey and prospective queen under Tommen. | 🟢 **ALIVE**; betrothed to Tommen. |
 | 57 | **OLENNA TYRELL**, Tyrell matriarch wielding influence over Margaery’s marriage and court politics | ⇤ **SOS Ch. 6**<br>⇥ **SOS Ch. 66**<br>4 appearances | Tyrell matriarch wielding influence over Margaery’s marriage and court politics. | 🟢 **ALIVE**; at the royal court. |
 
 #### Tertiary Characters
@@ -572,18 +572,18 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **ARYA STARK** (Principal) | GOT Ch. 5 | SOS Ch. 74 | 23 | 13 | 36 | SOS Ch. 3, SOS Ch. 13, SOS Ch. 17, SOS Ch. 22, SOS Ch. 29, SOS Ch. 34, SOS Ch. 39, SOS Ch. 43, SOS Ch. 47, SOS Ch. 50, SOS Ch. 52, SOS Ch. 65, SOS Ch. 74 |
 | **BRAN STARK** (Principal) | GOT Ch. 1 | SOS Ch. 56 | 17 | 4 | 21 | SOS Ch. 9, SOS Ch. 24, SOS Ch. 40, SOS Ch. 56 |
 | **CATELYN STARK** (Principal) | GOT Ch. 2 | SOS Epilogue | 25 | 8 | 33 | SOS Ch. 2, SOS Ch. 14, SOS Ch. 20, SOS Ch. 35, SOS Ch. 45, SOS Ch. 49, SOS Ch. 51, SOS Epilogue |
-| **CERSEI LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 72 | 28 | 9 | 37 | SOS Ch. 19, SOS Ch. 28, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 70, SOS Ch. 72 |
+| **CERSEI LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 72 | 28 | 10 | 38 | SOS Ch. 19, SOS Ch. 28, SOS Ch. 44, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 70, SOS Ch. 72 |
 | **DAENERYS TARGARYEN** (Principal) | GOT Ch. 3 | SOS Ch. 71 | 15 | 6 | 21 | SOS Ch. 8, SOS Ch. 23, SOS Ch. 27, SOS Ch. 42, SOS Ch. 57, SOS Ch. 71 |
 | **DAVOS SEAWORTH** (Principal) | COK Prologue | SOS Ch. 63 | 4 | 6 | 10 | SOS Ch. 5, SOS Ch. 10, SOS Ch. 25, SOS Ch. 36, SOS Ch. 54, SOS Ch. 63 |
 | **JAIME LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 77 | 9 | 10 | 19 | SOS Ch. 1, SOS Ch. 11, SOS Ch. 21, SOS Ch. 31, SOS Ch. 37, SOS Ch. 44, SOS Ch. 62, SOS Ch. 67, SOS Ch. 72, SOS Ch. 77 |
-| **JOFFREY BARATHEON** (Principal) | GOT Ch. 4 | SOS Ch. 60 | 20 | 4 | 24 | SOS Ch. 28, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60 |
+| **JOFFREY BARATHEON** (Principal) | GOT Ch. 4 | SOS Ch. 60 | 20 | 5 | 25 | SOS Ch. 28, SOS Ch. 44, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60 |
 | **JON SNOW** (Principal) | GOT Ch. 1 | SOS Ch. 79 | 21 | 13 | 34 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 26, SOS Ch. 30, SOS Ch. 41, SOS Ch. 48, SOS Ch. 55, SOS Ch. 64, SOS Ch. 69, SOS Ch. 73, SOS Ch. 75, SOS Ch. 76, SOS Ch. 79 |
-| **ROBB STARK** (Principal) | GOT Ch. 1 | SOS Ch. 51 | 14 | 6 | 20 | SOS Ch. 14, SOS Ch. 20, SOS Ch. 35, SOS Ch. 45, SOS Ch. 49, SOS Ch. 51 |
+| **ROBB STARK** (Principal) | GOT Ch. 1 | SOS Ch. 79 | 14 | 7 | 21 | SOS Ch. 14, SOS Ch. 20, SOS Ch. 35, SOS Ch. 45, SOS Ch. 49, SOS Ch. 51, SOS Ch. 79 |
 | **SANSA STARK** (Principal) | GOT Ch. 5 | SOS Ch. 80 | 24 | 10 | 34 | SOS Ch. 6, SOS Ch. 16, SOS Ch. 28, SOS Ch. 53, SOS Ch. 58, SOS Ch. 59, SOS Ch. 60, SOS Ch. 61, SOS Ch. 68, SOS Ch. 80 |
 | **STANNIS BARATHEON** (Principal) | COK Prologue | SOS Ch. 79 | 4 | 6 | 10 | SOS Ch. 36, SOS Ch. 54, SOS Ch. 63, SOS Ch. 76, SOS Ch. 78, SOS Ch. 79 |
 | **TYRION LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 77 | 34 | 13 | 47 | SOS Ch. 4, SOS Ch. 12, SOS Ch. 19, SOS Ch. 28, SOS Ch. 32, SOS Ch. 38, SOS Ch. 53, SOS Ch. 58, SOS Ch. 59, SOS Ch. 60, SOS Ch. 66, SOS Ch. 70, SOS Ch. 77 |
 | **Supporting** |  |  |  |  |  |  |
-| **ALLISER THORNE** (Supporting) | GOT Ch. 19 | SOS Ch. 79 | 7 | 3 | 10 | SOS Ch. 69, SOS Ch. 75, SOS Ch. 79 |
+| **ALLISER THORNE** (Supporting) | GOT Ch. 19 | SOS Ch. 79 | 7 | 4 | 11 | SOS Ch. 69, SOS Ch. 73, SOS Ch. 75, SOS Ch. 79 |
 | **BARRISTAN SELMY** (Supporting) | GOT Ch. 15 | SOS Ch. 71 | 9 | 6 | 15 | SOS Ch. 8, SOS Ch. 23, SOS Ch. 27, SOS Ch. 42, SOS Ch. 57, SOS Ch. 71 |
 | **BERIC DONDARRION** (Supporting) | GOT Ch. 27 | SOS Ch. 43 | 3 | 3 | 6 | SOS Ch. 34, SOS Ch. 39, SOS Ch. 43 |
 | **BRIENNE OF TARTH** (Supporting) | COK Ch. 22 | SOS Ch. 72 | 6 | 8 | 14 | SOS Ch. 1, SOS Ch. 11, SOS Ch. 21, SOS Ch. 31, SOS Ch. 37, SOS Ch. 44, SOS Ch. 62, SOS Ch. 72 |
@@ -593,7 +593,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **CRASTER** (Supporting) | COK Ch. 23 | SOS Ch. 33 | 1 | 1 | 2 | SOS Ch. 33 |
 | **DAARIO NAHARIS** (Supporting) | SOS Ch. 42 | SOS Ch. 71 | 0 | 3 | 3 | SOS Ch. 42, SOS Ch. 57, SOS Ch. 71 |
 | **DALLA** (Supporting) | SOS Ch. 7 | SOS Ch. 73 | 0 | 3 | 3 | SOS Ch. 7, SOS Ch. 69, SOS Ch. 73 |
-| **DONTOS HOLLARD** (Supporting) | GOT Ch. 57 | SOS Ch. 61 | 8 | 4 | 12 | SOS Ch. 28, SOS Ch. 59, SOS Ch. 60, SOS Ch. 61 |
+| **DONTOS HOLLARD** (Supporting) | GOT Ch. 57 | SOS Ch. 61 | 8 | 5 | 13 | SOS Ch. 16, SOS Ch. 28, SOS Ch. 59, SOS Ch. 60, SOS Ch. 61 |
 | **EDMURE TULLY** (Supporting) | GOT Ch. 71 | SOS Ch. 51 | 4 | 7 | 11 | SOS Ch. 2, SOS Ch. 14, SOS Ch. 20, SOS Ch. 35, SOS Ch. 45, SOS Ch. 49, SOS Ch. 51 |
 | **EDRIC DAYNE** (Supporting) | SOS Ch. 34 | SOS Ch. 43 | 0 | 3 | 3 | SOS Ch. 34, SOS Ch. 39, SOS Ch. 43 |
 | **EDRIC STORM** (Supporting) | SOS Ch. 10 | SOS Ch. 63 | 0 | 3 | 3 | SOS Ch. 10, SOS Ch. 54, SOS Ch. 63 |
@@ -607,8 +607,8 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **HARMA** (Supporting) | SOS Ch. 15 | SOS Ch. 73 | 0 | 2 | 2 | SOS Ch. 15, SOS Ch. 73 |
 | **HODOR** (Supporting) | GOT Ch. 8 | SOS Ch. 56 | 8 | 4 | 12 | SOS Ch. 9, SOS Ch. 24, SOS Ch. 40, SOS Ch. 56 |
 | **ILYN PAYNE** (Supporting) | GOT Ch. 15 | SOS Ch. 60 | 7 | 1 | 8 | SOS Ch. 60 |
-| **JANOS SLYNT** (Supporting) | GOT Ch. 27 | SOS Ch. 79 | 6 | 4 | 10 | SOS Ch. 69, SOS Ch. 75, SOS Ch. 78, SOS Ch. 79 |
-| **JEOR MORMONT** (Supporting) | GOT Ch. 19 | SOS Ch. 33 | 11 | 2 | 13 | SOS Prologue, SOS Ch. 33 |
+| **JANOS SLYNT** (Supporting) | GOT Ch. 27 | SOS Ch. 79 | 6 | 5 | 11 | SOS Ch. 69, SOS Ch. 73, SOS Ch. 75, SOS Ch. 78, SOS Ch. 79 |
+| **JEOR MORMONT** (Supporting) | GOT Ch. 19 | SOS Ch. 33 | 11 | 3 | 14 | SOS Prologue, SOS Ch. 18, SOS Ch. 33 |
 | **JEYNE WESTERLING** (Supporting) | SOS Ch. 14 | SOS Ch. 45 | 0 | 4 | 4 | SOS Ch. 14, SOS Ch. 20, SOS Ch. 35, SOS Ch. 45 |
 | **JOJEN REED** (Supporting) | COK Ch. 21 | SOS Ch. 56 | 5 | 4 | 9 | SOS Ch. 9, SOS Ch. 24, SOS Ch. 40, SOS Ch. 56 |
 | **JORAH MORMONT** (Supporting) | GOT Ch. 3 | SOS Ch. 71 | 15 | 6 | 21 | SOS Ch. 8, SOS Ch. 23, SOS Ch. 27, SOS Ch. 42, SOS Ch. 57, SOS Ch. 71 |
@@ -620,7 +620,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **LYSA ARRYN** (Supporting) | GOT Ch. 34 | SOS Ch. 80 | 3 | 2 | 5 | SOS Ch. 68, SOS Ch. 80 |
 | **MAESTER AEMON** (Supporting) | GOT Ch. 21 | SOS Ch. 79 | 4 | 7 | 11 | SOS Ch. 48, SOS Ch. 55, SOS Ch. 64, SOS Ch. 69, SOS Ch. 75, SOS Ch. 78, SOS Ch. 79 |
 | **MANCE RAYDER** (Supporting) | SOS Ch. 7 | SOS Ch. 73 | 0 | 3 | 3 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 73 |
-| **MARGAERY TYRELL** (Supporting) | COK Ch. 22 | SOS Ch. 66 | 1 | 4 | 5 | SOS Ch. 6, SOS Ch. 28, SOS Ch. 60, SOS Ch. 66 |
+| **MARGAERY TYRELL** (Supporting) | COK Ch. 22 | SOS Ch. 66 | 1 | 5 | 6 | SOS Ch. 6, SOS Ch. 16, SOS Ch. 28, SOS Ch. 60, SOS Ch. 66 |
 | **MEERA REED** (Supporting) | COK Ch. 21 | SOS Ch. 56 | 5 | 4 | 9 | SOS Ch. 9, SOS Ch. 24, SOS Ch. 40, SOS Ch. 56 |
 | **MELISANDRE** (Supporting) | COK Prologue | SOS Ch. 79 | 4 | 7 | 11 | SOS Ch. 25, SOS Ch. 36, SOS Ch. 54, SOS Ch. 63, SOS Ch. 76, SOS Ch. 78, SOS Ch. 79 |
 | **MERYN TRANT** (Supporting) | GOT Ch. 12 | SOS Ch. 72 | 14 | 8 | 22 | SOS Ch. 4, SOS Ch. 28, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 67, SOS Ch. 70, SOS Ch. 72 |
@@ -642,11 +642,11 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **STYR** (Supporting) | SOS Ch. 7 | SOS Ch. 55 | 0 | 6 | 6 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 26, SOS Ch. 30, SOS Ch. 41, SOS Ch. 55 |
 | **SYBELL WESTERLING** (Supporting) | SOS Ch. 14 | SOS Ch. 14 | 0 | 1 | 1 | SOS Ch. 14 |
 | **TORMUND** (Supporting) | SOS Ch. 7 | SOS Ch. 73 | 0 | 4 | 4 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 69, SOS Ch. 73 |
-| **TYWIN LANNISTER** (Supporting) | GOT Ch. 56 | SOS Ch. 77 | 6 | 11 | 17 | SOS Ch. 4, SOS Ch. 19, SOS Ch. 28, SOS Ch. 32, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 70, SOS Ch. 77 |
+| **TYWIN LANNISTER** (Supporting) | GOT Ch. 56 | SOS Ch. 77 | 6 | 13 | 19 | SOS Ch. 4, SOS Ch. 19, SOS Ch. 28, SOS Ch. 32, SOS Ch. 44, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 70, SOS Ch. 72, SOS Ch. 77 |
 | **VAL** (Supporting) | SOS Ch. 7 | SOS Ch. 79 | 0 | 5 | 5 | SOS Ch. 7, SOS Ch. 69, SOS Ch. 73, SOS Ch. 75, SOS Ch. 79 |
 | **VARAMYR** (Supporting) | SOS Ch. 15 | SOS Ch. 73 | 0 | 3 | 3 | SOS Ch. 15, SOS Ch. 69, SOS Ch. 73 |
 | **VARGO HOAT** (Supporting) | COK Ch. 30 | SOS Ch. 44 | 2 | 3 | 5 | SOS Ch. 21, SOS Ch. 31, SOS Ch. 44 |
-| **VARYS** (Supporting) | GOT Ch. 18 | SOS Ch. 77 | 24 | 5 | 29 | SOS Ch. 12, SOS Ch. 19, SOS Ch. 28, SOS Ch. 66, SOS Ch. 77 |
+| **VARYS** (Supporting) | GOT Ch. 18 | SOS Ch. 77 | 24 | 6 | 30 | SOS Ch. 12, SOS Ch. 19, SOS Ch. 28, SOS Ch. 58, SOS Ch. 66, SOS Ch. 77 |
 | **WALDER FREY** (Supporting) | GOT Ch. 59 | SOS Ch. 51 | 1 | 2 | 3 | SOS Ch. 49, SOS Ch. 51 |
 | **YGRITTE** (Supporting) | COK Ch. 51 | SOS Ch. 55 | 2 | 6 | 8 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 26, SOS Ch. 30, SOS Ch. 41, SOS Ch. 55 |
 | **Tertiary** |  |  |  |  |  |  |
@@ -872,9 +872,30 @@ A change from the previous MCR Tertiary classification is recognised only where 
 3. **Promoted-character historical reconstruction:** Gilly is present in **COK Ch. 23** (baseline **1**); Qyburn is directly present in **COK Ch. 64** (baseline **1**; the chapter-30 matrix association lacks independent support); Kevan appears in **GOT Ch. 56, 62, 69** and **COK Ch. 38, 65** (baseline **5**). Mance Rayder has no verified earlier enacted chapter and first appears in **SOS Ch. 7** (baseline **0**). Their book-end arithmetic is reconciled in Section 5.
 4. **Alias-sensitive SOS checks:** The name-token absences examined include Barristan as Arstan Whitebeard, Edric Dayne as Ned, Jeor as the Old Bear, Missandei as the unnamed interpreter, Olenna as the Queen of Thorns/Margaery's grandmother, and Oberyn as the Red Viper. These are identity-location cues that must be evaluated through actual enacted scenes, not by word frequency alone.
 
+### SOS EPUB source audit: enacted-appearance additions (14 Oct 2026)
+
+The following **11 omitted chapter appearances across 10 priority characters** were reconstructed from the supplied SOS EPUB. Under ROM CM's Character Presence rule, fully dramatised remembered scenes and dreams can constitute **Present**, while bare recall, reports and name-drops do not. They contribute once per source chapter.
+
+| Character | Added source unit(s) | Direct-presence evidence |
+|---|---|---|
+| **Alliser Thorne** | SOS Ch. 73 | Personally confronts Jon alongside Janos Slynt, helps instruct him to assassinate Mance and speaks directly in the King's Tower. |
+| **Cersei Lannister** | SOS Ch. 44 | Speaks and acts in Jaime’s fully dramatised fever dream beneath Casterly Rock. |
+| **Dontos Hollard** | SOS Ch. 16 | Speaks with Sansa about her planned Highgarden marriage and protests that her escape arrangements are already made, within an enacted remembered interaction. |
+| **Janos Slynt** | SOS Ch. 73 | Personally interrogates and orders Jon on the mission to Mance; direct dialogue in the King’s Tower. |
+| **Jeor Mormont** | SOS Ch. 18 | Appears and issues direct orders during Samwell’s sustained, dramatised memories of the fighting at the Fist of the First Men. |
+| **Joffrey Baratheon** | SOS Ch. 44 | Occupies Jaime’s fully dramatized fever-dream scene with Cersei and Tywin; an embedded nonphysical presence, not a new living encounter. |
+| **Margaery Tyrell** | SOS Ch. 16 | Appears in Sansa’s enacted memory of hawking together, holding Sansa's hand and responding to her warning about Joffrey. |
+| **Robb Stark** | SOS Ch. 79 | Enacted remembered sparring exchange with Jon at Winterfell, including direct dialogue; this later source appearance does not reverse the character’s death. |
+| **Tywin Lannister** | SOS Ch. 44, Ch. 72 | Speaks in Jaime’s dramatized fever dream (Ch. 44); directly orders Pycelle to heal Gregor in Jaime's detailed retrospective scene (Ch. 72). |
+| **Varys** | SOS Ch. 58 | Participates in Tyrion's enacted recollected conversation about Shae’s false employment history and Cersei's suspicions. |
+
+**Important negative control:** Cersei's personal name appears only once in SOS Ch. 59, but the **queen** directly presents Joffrey with his bridal cloak and explains her own marriage to Robert. Ch. 59 remains a valid direct appearance. Likewise, Edric Dayne's Ch. 34 and Ch. 39 presences are borne by the **Ned** alias.
+
+**Verification boundary:** This pass verifies the cited corrections against source text. It is not a blanket assertion that every other priority chapter mark or every absent-chapter candidate has completed an independent, exhaustive enactment review. The six-section document remains **Provisional — Priority Issues** pending closure of that complete direct-presence and promotion/census audit.
+
 ### Remaining verification issues
 
-1. Complete primary-text direct-presence review for all remaining **Principal and Supporting** chapter lists and their first/latest coordinates, including valid descriptive, pronoun-led and alias appearances as well as mention-only false positives.
+1. Complete primary-text direct-presence review for **all remaining Principal and Supporting chapter marks**, including the new embedded-scene controls and their first/latest coordinates, including valid descriptive, pronoun-led and alias appearances as well as mention-only false positives.
 2. Reconcile Beric’s corrected GOT baseline against the reader-authorised series MCR process. Preserve the older registry record until its historical boundary is formally updated.
 3. Review newly elevated Supporting classifications and any additional substantive omissions against the ROM significance threshold. Expand targeted historical reconstruction for any further confirmed promotion rather than reopening all remaining Tertiary statistics.
 4. Validate the source-based status, relationship and census consistency after the complete priority audit. Only then consider **Satisfactory for Use — Priority Verified**.
