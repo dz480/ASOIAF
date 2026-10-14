@@ -11,7 +11,7 @@
 
 **SANSA** · **ARYS OAKHEART** · **SANDOR CLEGANE** · **JOFFREY** · **MERYN TRANT** · **DONTOS HOLLARD** · **TYRION** · **BRONN** · **LANCEL LANNISTER** · **CERSEI** · **ILYN PAYNE** · **TYWIN LANNISTER** · **LORAS TYRELL** · **PETYR BAELISH** · **VARYS**
 
-**Repository:** [COK Reading Index](README.md) · [ASOIAF Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-2) (full-book spoilers) · [ROM MCM](ROM_MCM_COK.md) (provisional; full-book spoilers)
+**Repository:** [COK Reading Index](README.md) · [ASOIAF Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-2) (full-book spoilers) · [ROM MCM](ROM_MCM_COK.md) (priority-verified; full-book spoilers)
 
 <a id="cok-sansa-toc"></a>
 ## Table of Contents
@@ -99,7 +99,7 @@ At the ensuing victory court, Sansa watches Tywin take the Hand's chain and the 
 <a id="cok-sansa-rollcall"></a>
 # 5. Roll Call
 
-**Character reference:** [COK ROM MCM](ROM_MCM_COK.md), **Provisional — Priority Issues**. Scope-local physical Presence was audited in Sansa's selected chapters; reported, dreamed, remembered and other-POV-only characters are not inserted into the physical census.
+**Character reference:** [COK ROM MCM](ROM_MCM_COK.md), **Satisfactory for Use — Priority Verified**. Scope-local physical Presence was audited in Sansa's selected chapters; reported, dreamed, remembered and other-POV-only characters are not inserted into the physical census.
 
 **Character entries:** 32 Total | 4 Principal | 11 Supporting | 17 Tertiary | 0 Collective | 1 Death.
 
@@ -120,12 +120,19 @@ At the ensuing victory court, Sansa watches Tywin take the Hand's chain and the 
 <a id="cok-sansa-kingsguard"></a>
 ## 🛡️ Kingsguard and Royal Enforcers
 
+### Kingsguard Knights
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **SANDOR CLEGANE**, the Hound, royal sworn sword | Guards the king in **King's Landing**, openly scorning knights and chivalric vows. | Helps spare Dontos, protects **Sansa** after a beating, frightens her on the roof and later demands a song after fleeing the battle's fires. | 🟢 Leaves royal service and Sansa's bedchamber, abandoning his torn, bloodstained white cloak. |
 | 🥈 | **ARYS OAKHEART**, Kingsguard knight | Escorting Sansa, showing more courtesy than most of Joffrey's guards. | Brings Sansa to the name-day tournament, provides limited court gossip and prepares to enter the lists. | 🟢 Not seen again in these Sansa chapters; no further POV-grounded change established. |
 | 🥈 | **MERYN TRANT**, Kingsguard knight | Serving **Joffrey**, already feared by **Sansa** as an obedient punisher. | Appears at the tournament, enforces the king's orders and impales a defiant prisoner in the victory court at **Tywin's** signal. | 🟢 Still guarding the new royal settlement in the throne room. |
 | 10 | **BOROS BLOUNT**, Kingsguard knight | Royal guard associated with prior violence against **Sansa**. | Strikes and partially undresses Sansa in public on **Joffrey's** orders until **Tyrion** stops him. | 🟢 Last directly seen participating in the punishment; later position is not independently shown in this Scope. |
+
+### Other Royal Enforcers
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 🥈 | **ILYN PAYNE**, royal executioner | Silent royal headsman, remembered by **Sansa** as the man who killed her father. | Stands with **Ice** during the Blackwater sanctuary and receives condemned prisoners during the postwar court. | 🟢 Continues as King's Justice under the victorious crown. |
 | 🥈 | **LANCEL LANNISTER**, Lannister cousin and court knight | A court knight in the Lannister royal household. | Delivers news of **Robb's** victory; later enters the Queen's Ballroom injured and protests **Cersei's** withdrawal of Joffrey. | 🟢 **Sansa** and a servant help him seek **Maester Frenken's** care. |
 | 13 | **OSMUND KETTLEBLACK**, Kingsguard knight | Attached to the royal security establishment; his precise initial assignment is not established within Sansa's chapters. | Serves beside Joffrey at the Blackwater and is instructed to return the king to safety; later guards the castle drawbridge. | 🟢 Present among the remaining Kingsguard in the victory settlement. |
@@ -133,12 +140,19 @@ At the ensuing victory court, Sansa watches Tywin take the Hand's chain and the 
 <a id="cok-sansa-contacts"></a>
 ## 🌿 Dontos and Sansa's Court Contacts
 
+### Personal Contacts and Attendants
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **DONTOS HOLLARD**, disgraced knight turned fool | Still a knight but drunken and disgraced at the nameday tourney. | Spared by **Sansa**, swears to rescue her, becomes her godswood contact and brings news of the Blackwater victory. | 🟢 Promises escape during **Joffrey's** wedding and gives Sansa a silver hairnet with purple stones. |
 | 🥈 | **BRONN**, Tyrion's sellsword | Riding with **Tyrion** into **King's Landing**. | Accompanies the new acting Hand and threatens royal guards who are beating Sansa. | 🟢 Last directly seen enforcing Tyrion's intervention; later personal position is not shown here. |
 | 16 | **TIMETT**, one-eyed mountain warrior | Attached to **Tyrion's** fighters; precise location before the opening chapter is not established. | Supports Tyrion's order to intimidate the Kingsguard and halt **Sansa's** punishment. | 🟢 Last directly seen among Tyrion's armed men. |
 | 17 | **MAESTER FRENKEN**, medical attendant at the Red Keep | Providing medical service to the royal household. | Applies salve to **Sansa's** wounds and gives her dreamwine after Joffrey's guards attack her. | 🟢 Later named as the physician to help the wounded **Lancel**. |
+
+### Stokeworth Household and Court Fool
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 18 | **TANDA STOKEWORTH**, noblewoman at court | Attending **Joffrey's** nameday lists with her daughters. | Struggles to bring distressed **Lollys** into Maegor's sanctuary when battle begins. | 🟢 Attends the restored victory court with her daughters. |
 | 19 | **LOLLYS STOKEWORTH**, court noblewoman | Accompanying her mother **Tanda** and sister **Falyse** at court. | Remains distressed after a reported riot and pregnancy; panics during the battle and falls ill at the sanctuary feast. | 🟢 Safe within the court after the siege, with her family. |
 | 20 | **FALYSE STOKEWORTH**, daughter of Tanda | Attending the royal court with her family. | Helps **Tanda** move the distressed **Lollys** across the drawbridge to the queen's sanctuary. | 🟢 Attends the victory court with her family. |
@@ -147,12 +161,19 @@ At the ensuing victory court, Sansa watches Tywin take the Hand's chain and the 
 <a id="cok-sansa-blackwater"></a>
 ## ⚔️ The Blackwater Court
 
+### Kettleblack Servants and Returning Allies
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 22 | **OSFRYD KETTLEBLACK**, commander of Cersei's red cloaks | A royal retainer; exact starting duties not specified in Sansa's selected chapters. | Directs the queen's guards, reports security risks and receives orders to bar the castle refuge. | 🟢 Remains part of the royal security structure after Cersei leaves the ballroom. |
 | 23 | **OSNEY KETTLEBLACK**, court retainer and messenger | A royal retainer; initial post not specified in Sansa's selected chapters. | Brings **Cersei** repeated reports on ships, wildfire, threatened gates and discipline; subsequently informs **Dontos** about the victory. | 🟢 Reports survive as secondhand information reaching Sansa through Dontos. |
 | 🥈 | **TYWIN LANNISTER**, Lord of Casterly Rock, later Hand | Commanding Lannister forces away from **King's Landing**. | His relief army helps win the battle; he rides into the victory court and accepts the Hand's chain. | 🟢 Governs the post-battle settlement and oversees royal rewards and punishment. |
 | 🥈 | **PETYR BAELISH**, royal councillor, Littlefinger | Broker and adviser at the royal court. | Receives **Harrenhal** and the title Lord Paramount of the Trident at the victory court. | 🟢 Awarded authority over lands contested by **Sansa's** family, although practical possession remains uncertain. |
+
+### Council Figures and Battlefield Captives
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 🥈 | **VARYS**, master of whisperers | Royal adviser and intelligence broker at **King's Landing**. | Seen at the post-battle court, whispering privately to **Petyr Baelish**. | 🟢 Remains a royal councillor; contents of the exchange are unknown to Sansa. |
 | 27 | **KEVAN LANNISTER**, Tywin's brother and adviser | Supporting **Tywin** and House Lannister. | Announces royal promotions, land grants and rewards at the victory ceremony. | 🟢 Still advising the new Hand as the regime consolidates power. |
 | 28 | **UNNAMED STANNIS-LOYAL KNIGHT**†, defeated knight with fiery-heart badge | His identity and position at Sansa's first chapter are not established. | Denounces **Joffrey's** ancestry, seizes a guard's spear amid the court's uproar and calls for the king's removal. | 🗡 Slain by **Meryn Trant** in the throne room after openly denouncing **Joffrey** in **COK Ch. 65**. |
@@ -198,8 +219,8 @@ At the ensuing victory court, Sansa watches Tywin take the Hand's chain and the 
 
 > **Chronology — Applies to: Opening and Section 2:** The existing [COK CSRM](ROM_CSRM_ACOK.md) draws estimated dates from PrivateMajor's ASOIAF timeline. Those dates are not official calendar assignments by the novelist, and precise placements remain approximate. The Blackwater chapters encompass night and the following dawn; they do not form discrete calendar instants. No authorised ASOIAF reader-standardised elapsed-time anchor has been established.
 
-> **Roll Call and significance — Applies to: Section 5:** The canonical [COK MCM](ROM_MCM_COK.md) remains **Provisional — Priority Issues**. Its current Principal/Supporting/Tertiary classifications are carried over provisionally. Direct presence and a materially useful narrative function govern inclusion, with incidental named onlookers and generic background figures excluded. The new High Septon is shown as an identifiable officeholder; the unnamed Stannis-loyal knight killed in the throne room is separately counted as 1 directly enacted death. No deaths merely reported from other narrators' scenes were imported into the selected-chapter Death Count.
+> **Roll Call and significance — Applies to: Section 5:** The canonical [COK MCM](ROM_MCM_COK.md) remains **Satisfactory for Use — Priority Verified**. Its current Principal/Supporting/Tertiary classifications are carried over provisionally. Direct presence and a materially useful narrative function govern inclusion, with incidental named onlookers and generic background figures excluded. The new High Septon is shown as an identifiable officeholder; the unnamed Stannis-loyal knight killed in the throne room is separately counted as 1 directly enacted death. No deaths merely reported from other narrators' scenes were imported into the selected-chapter Death Count.
 
-> **Navigation and authorisation — Applies to: Entire document:** Appropriate links to the eight chapter anchors, current COK index, series index, existing COK CSRM and provisional MCM are maintained under the [ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md) manual. This BUILD is record creation and navigation maintenance only. It does not publish the prose into ChatGPT, modify a Reading Point, update the live series MCR or repair the independently provisional COK MCM.
+> **Navigation and authorisation — Applies to: Entire document:** Appropriate links to the eight chapter anchors, current COK index, series index, existing COK CSRM and priority-verified MCM are maintained under the [ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md) manual. This BUILD is record creation and navigation maintenance only. It does not publish the prose into ChatGPT, modify a Reading Point, update the live series MCR or repair the independently priority-verified COK MCM.
 
 > **Manual authority — Applies to: Entire document:** [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM RPW](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md), [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md), [ROM TS](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and the [ChatGPT ↔ GitHub Workflow](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md) govern the record. GitHub-only table of contents, navigation and documentary notes remain intact but are excluded from ordinary reader-facing PUBLISH.
