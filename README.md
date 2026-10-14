@@ -80,6 +80,11 @@ The nine completed full-book POV records are listed in order of their first narr
 - [FFC readthrough workspace](04.%20FFC/README.md) · Book 4 local index and provisional-reference destination. **Full-book spoiler warning.**
 - [ROM MNT | PROVISIONAL | Whole Book](04.%20FFC/ROM_MNT_AFFC_PROVISIONAL.md) · Nine ranked book-scale threads reconstructed from published plot summaries, awaiting primary-text audit and POV reconciliation. **Full FFC spoilers.**
 
+## Book 5: A Dance with Dragons (DWD)
+
+- [DWD readthrough workspace](05.%20DWD/README.md) · Book 5 local index and provisional reference. **Full-book spoilers.**
+- [ROM MNT | PROVISIONAL | Whole Book](05.%20DWD/ROM_MNT_ADWD_PROVISIONAL.md) · Twelve significance-ranked narrative threads based on published plot summaries, subject to primary-text and POV reconciliation. **Full DWD spoilers.**
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
