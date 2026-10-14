@@ -96,17 +96,17 @@ Hours later, Will climbs down to retrieve the broken blade as proof. The mutilat
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 1 | **GARED**, veteran ranger of the Night's Watch [Alive; separated from party] | In the **Haunted Forest**, nearing the end of a 9-day ranging and urging retreat. | Warns against remaining in the dark, challenges Waymar's judgment and requests a fire. | Left with the horses below the ridge; his subsequent movements are not shown in the Prologue. |
-| 2 | **SER WAYMAR ROYCE**†, young knight and commander of the ranging [Deceased; reanimated] | Leading his first ranging, intent on inspecting the alleged wildling dead. | Overrules the veterans, advances to the clearing, confronts an **Other** and fights until his blade shatters. | Killed by the Others; rises with a blue eye and strangles Will. |
-| 3 | **WILL**†, scout and former poacher [Deceased] | Tracking wildlings for Waymar after 9 days beyond the Wall, troubled by the cold. | Describes 8 unmoving raiders, finds their camp empty, watches the duel from a tree and retrieves Waymar's broken blade. | Killed when the reanimated Waymar tightens his hands around his throat. |
+| 1 | **GARED**, veteran ranger of the Night's Watch | In the **Haunted Forest**, nearing the end of a 9-day ranging and urging retreat. | Warns against remaining in the dark, challenges Waymar's judgment and requests a fire. | 🟢 Left with the horses below the ridge; his subsequent movements are not shown in the Prologue. |
+| 2 | **SER WAYMAR ROYCE**†, young knight and commander of the ranging | Leading his first ranging, intent on inspecting the alleged wildling dead. | Overrules the veterans, advances to the clearing, confronts an **Other** and fights until his blade shatters. | 🗡 Killed by the Others; rises with a blue eye and strangles Will. |
+| 3 | **WILL**†, scout and former poacher | Tracking wildlings for Waymar after 9 days beyond the Wall, troubled by the cold. | Describes 8 unmoving raiders, finds their camp empty, watches the duel from a tree and retrieves Waymar's broken blade. | 🗡 Killed when the reanimated Waymar tightens his hands around his throat. |
 
 <a id="will-others"></a>
 ## ❄️ The Others
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 4 | **UNNAMED OTHER DUELIST**, pale supernatural warrior [Alive] | Concealed within the **Haunted Forest**, not yet seen by the rangers. | Approaches Waymar, fights him with a translucent sword and breaks his ordinary steel blade. | Leaves the ridge with the other attackers after Waymar's death; exact destination unknown. |
-| 5 | **OTHER WATCHERS**, additional pale warriors [Alive; collectively observed] | Concealed around the wildling camp and the approaching rangers. | Appear silently during Waymar's duel, surround him and converge to kill him after his sword breaks. | Depart the ridge after killing Waymar; individual identities and subsequent positions unknown. |
+| 4 | **UNNAMED OTHER DUELIST**, pale supernatural warrior | Concealed within the **Haunted Forest**, not yet seen by the rangers. | Approaches Waymar, fights him with a translucent sword and breaks his ordinary steel blade. | 🟢 Leaves the ridge with the other attackers after Waymar's death; exact destination unknown. |
+| 5 | **OTHER WATCHERS**, additional pale warriors | Concealed around the wildling camp and the approaching rangers. | Appear silently during Waymar's duel, surround him and converge to kill him after his sword breaks. | 🟢 Depart the ridge after killing Waymar; individual identities and subsequent positions unknown. |
 
 <p align="right"><a href="#will-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
