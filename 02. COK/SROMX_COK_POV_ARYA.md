@@ -10,7 +10,7 @@
 
 **Spoiler Boundary:** End of **COK Ch. 64 (Arya X)**. **Date note:** All chapter-specific 299 AC dates below are approximate, externally reconstructed placements inherited from the Project CSRM, rather than exact dates supplied by Martin.
 
-**Repository:** [Reading Index](../README.md) · [COK CSRM](ROM_CSRM_ACOK.md) · [COK MCM](ROM_MCM_COK.md) (provisional, full-book spoilers) · [GOT Arya continuity](../01.%20GOT/SROMX_GOT_POV_ARYA.md)
+**Repository:** [Reading Index](../README.md) · [COK CSRM](ROM_CSRM_ACOK.md) · [COK MCM](ROM_MCM_COK.md) (priority-verified, full-book spoilers) · [GOT Arya continuity](../01.%20GOT/SROMX_GOT_POV_ARYA.md)
 
 <a id="arya-cok-toc"></a>
 ## Table of Contents
@@ -99,9 +99,9 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 <a id="arya-cok-rollcall"></a>
 # 5. Roll Call
 
-**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (provisional whole-book significance; selected-chapter participation independently screened against the EPUB).
+**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (priority-verified whole-book significance; selected-chapter participation independently screened against the EPUB).
 
-**Character entries: 51 Total | 2 Principal | 8 Supporting | 36 Tertiary | 5 Collective | Deaths: Unknown exact count.** Deaths occurring in this POV Scope include named characters, captives, prison guards, Yoren's fighters and casualties during the capture of Harrenhal. Several episodes establish deaths without a reliable total; this count is not interchangeable with the number of †-marked roster entries.
+**Character entries: 51 Total | 1 Principal | 7 Supporting | 38 Tertiary | 5 Collective | Deaths: Unknown exact count.** Deaths occurring in this POV Scope include named characters, captives, prison guards, Yoren's fighters and casualties during the capture of Harrenhal. Several episodes establish deaths without a reliable total; this count is not interchangeable with the number of †-marked roster entries.
 
 *🏅 Principal · 🥈 Supporting · unaltered underlying indices for Tertiary and Collective entries. Positions at Start share the opening of **COK Ch. 1**; Positions at End share the end of **COK Ch. 64**. Leading status emojis in Position at End reflect information available by that latter boundary, with missing or uncertain fates left unresolved.*
 
@@ -113,7 +113,7 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🏅 | **ARYA STARK**, daughter of Eddard Stark; travelling as Arry, Weasel and Nan | Hidden in **Yoren**'s convoy from **King's Landing**, hoping to reach Winterfell. | Endures battle and captivity, compels **Jaqen** to liberate northern prisoners, serves **Bolton** and organises a flight. | 🟢 Riding away from **Harrenhal** through rain with **Gendry** and **Hot Pie**. |
-| 🥈 | **YOREN**†, Night's Watch recruiter | Escorting recruits north; personally charged with protecting **Arya**. | Defies pursuing **gold cloaks**, diverts off the kingsroad, saves refugees and leads the defence of an abandoned holdfast. | 🗡 Killed during the assault on the holdfast; his company breaks apart. |
+| 2 | **YOREN**†, Night's Watch recruiter | Escorting recruits north; personally charged with protecting **Arya**. | Defies pursuing **gold cloaks**, diverts off the kingsroad, saves refugees and leads the defence of an abandoned holdfast. | 🗡 Killed during the assault on the holdfast; his company breaks apart. |
 | 🥈 | **GENDRY**, blacksmith's apprentice known as the Bull | A recruit travelling with Yoren, pursued by royal authorities for reasons unknown to him. | Protects **Arya**'s secret, is captured with the children, works at **Harrenhal**'s forge and joins her escape. | 🟢 Riding free with Arya and Hot Pie, equipped with smith's hammer and mail. |
 | 4 | **HOT PIE**, King's Landing orphan and baker's son | One of Yoren's orphan recruits, initially bullying **Arry**. | Fights and flees with Arya, serves in Harrenhal's kitchens and ultimately assists her breakout. | 🟢 Escaping with Arya and Gendry, carrying food for the journey. |
 | 5 | **LOMMY GREENHANDS**†, orphan recruit | Travelling north with Yoren and taunting Arya. | Survives the burning holdfast but suffers a leg wound and cannot march after capture. | 🗡 Murdered by a spearman under **Gregor Clegane** when he asks to be carried. |
@@ -129,12 +129,22 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 | 10 | **PRAED**†, ailing sellsword recruit | Sick and coughing during Yoren's northbound march. | Dies in his sleep while the column is on the road. | 🪦 Buried by his companions before they reach the Riverlands interior. |
 | 11 | **KOSS**, archer and poacher | Travelling north as one of Yoren's recruits. | Scouts the countryside, warns of an armed camp and helps find provisions and defend the company. | ⚪️ Scattered amid the attack on the holdfast; later outcome not securely established in Arya's POV. |
 | 12 | **KURZ**†, poacher and scout | Travelling with Yoren and using woodland skills to support the convoy. | Helps scout and defend the refugees after they leave the kingsroad. | 🗡 Dies from an arrow wound after the holdfast battle; the survivors bury him. |
+
+### Other Road Recruits
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 13 | **TARBER**, recruit in Yoren's company | A member of Yoren's party, ready to resist royal interference. | Takes up arms against the gold cloaks and participates in the defence of the fugitives. | ⚪️ Separated after the destruction of the holdfast; final fate not established. |
 | 14 | **CUTJACK**, stonemason and recruit | Travelling with Yoren, armed with his hammer. | Helps carry the wounded woman, digs her grave and survives long enough to aid fugitives after the battle. | ⚪️ Last established among scattered survivors; later fate unknown. |
 | 15 | **WOTH**, former galley oarsman and recruit | Serving in Yoren's travelling band. | Reports on the river crossing and takes part in defending the fortified refuge. | ⚪️ Final disposition after the attack is unresolved. |
 | 16 | **REYSEN**, elderly recruit | A traveller with Yoren's men who takes up a staff against the gold cloaks. | Challenges soldiers during the holdfast confrontation before other defenders quiet him. | ⚪️ Disappears from Arya's direct view during the rout. |
 | 17 | **MURCH**, recruit helping Yoren's column | On the northbound road with the travelling party. | Helps rescue and carry a wounded woman from a devastated settlement. | ⚪️ Not reliably traced after the company is scattered. |
 | 18 | **DOBBER**, recruit in Yoren's company | Travelling north among Yoren's armed men. | Confronts the gold cloaks and searches a corpse near the river on Yoren's orders. | ⚪️ Individual fate following the night attack is not confirmed. |
+
+### Unidentified Travellers and Grouped Recruits
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 19 | **UNNAMED ONE-ARMED WOMAN**†, wounded refugee | Injured and stranded at a destroyed Riverlands holdfast. | Rescued with a little girl but dies shortly afterwards; her companions bury her. | 🪦 Buried on a hillside beneath a willow. |
 | 20 | **UNNAMED GOLD-CLOAK OFFICER**, City Watch pursuer | Serving the Crown's City Watch, with authority to seek named fugitives. | Demands **Gendry** from **Yoren** and draws his weapon, but is forced back at swordpoint. | 🟢 Retreats down the kingsroad; does not reappear directly. |
 | 21 | **CITY WATCH GOLD CLOAKS**, unnamed officers' escort | Pursuing fugitives on royal authority from King's Landing. | Support the warrant-bearing officer demanding Gendry and withdraw when Yoren resists. | ⚪️ Last encountered returning south after the confrontation. Individual members' subsequent conditions are not fully tracked. |
@@ -149,10 +159,15 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 |---:|---|---|---|---|
 | 🥈 | **GREGOR CLEGANE**, Lannister knight and field commander | Conducting warfare on behalf of **Tywin Lannister** in the Riverlands. | His men capture the children, torture captives for intelligence and deliver forced labour to **Harrenhal**. | 🟢 Away from Arya after leaving with the Lannister host; still a target in her whispered list. |
 | 🥈 | **AMORY LORCH**†, Lannister commander and Harrenhal castellan | Serving Tywin's campaign against enemies in the Riverlands. | Commands the assault on Yoren's refuge, later holds **Harrenhal** and threatens captured northmen. | 🗡 Captured when the castle changes hands and thrown into the bear pit. |
-| 🏅 | **TYWIN LANNISTER**, Lord of Casterly Rock and commander of the western host | Leading Lannister armies in the Riverlands war. | Occupies Harrenhal, then departs with his host while Arya realises she failed to target him with Jaqen's second death. | 🟢 Gone from Harrenhal; subsequent activities only enter Arya's chapters through reports. |
+| 🥈 | **TYWIN LANNISTER**, Lord of Casterly Rock and commander of the western host | Leading Lannister armies in the Riverlands war. | Occupies Harrenhal, then departs with his host while Arya realises she failed to target him with Jaqen's second death. | 🟢 Gone from Harrenhal; subsequent activities only enter Arya's chapters through reports. |
 | 26 | **POLLIVER**, Lannister man-at-arms | Serving the western forces under Gregor's command. | Seizes **Needle** from Arya and joins the captors' forced march to Harrenhal. | 🟢 Away with the Lannister fighting men; Arya has not recovered Needle. |
 | 27 | **DUNSEN**, Lannister soldier | With Gregor's raiding party. | Takes **Gendry**'s horned helm and earns a place among Arya's enemies. | 🟢 Away from Arya; whereabouts unverified in the closing chapter. |
 | 28 | **CHISWYCK**†, soldier in Gregor's company | Serving the Mountain in the Riverlands. | Boasts of past sexual violence; Arya names him to **Jaqen**, and he falls from a wallwalk. | 🗡 Dead at Harrenhal after the first promised killing. |
+
+### Harrenhal Interrogators and Garrison
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 29 | **RAFFORD (RAFF THE SWEETLING)**, Lannister soldier | Serving in Gregor's force. | Participates in the atmosphere of coercion and terror, becoming a recurrent name in Arya's list. | 🟢 Last known away with Lannister forces; no resolution within Arya X. |
 | 30 | **THE TICKLER**, Lannister interrogator | Conducting brutal questioning on behalf of Gregor's commanders. | Tortures captive villagers for information on hidden valuables and **Beric Dondarrion**. | 🟢 No later direct encounter after his service among the captors. |
 | 31 | **LANNISTER ARMSMEN AND HARRENHAL GUARDS**, unnamed attackers and jailers | Serving Lannister field forces and the garrison. | Attack Yoren's refuge, guard prisoners, commit atrocities and resist the castle's capture. | ⚪️ Many are killed in combat or the dungeon rising; individual outcomes cannot be totalled. |
@@ -177,10 +192,15 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 |---:|---|---|---|---|
 | 🥈 | **VARGO HOAT**, captain of the Brave Companions | Leading a mercenary company in Lannister service in the Riverlands. | Brings northern captives to Harrenhal, changes sides to **Roose Bolton** and is promised control of the castle. | 🟢 At Harrenhal, expected to receive it after Bolton's departure. |
 | 🥈 | **ROOSE BOLTON**, Lord of the Dreadfort and northern commander | Commanding northern forces in the war on behalf of **Robb Stark**. | His prisoners are freed in Arya's operation; he takes Harrenhal and makes Arya his cupbearer. | 🟢 Preparing to leave the castle, intending to leave Arya behind under Hoat. |
-| 🥈 | **ROBETT GLOVER**, northern lord and prisoner | Serving the northern war effort before capture by the Brave Companions. | Confined at Harrenhal, then freed through Jaqen's assault on the dungeon. | 🟢 Resumes service under Bolton after the capture; not personally encountered at the final escape. |
+| 40 | **ROBETT GLOVER**, northern lord and prisoner | Serving the northern war effort before capture by the Brave Companions. | Confined at Harrenhal, then freed through Jaqen's assault on the dungeon. | 🟢 Resumes service under Bolton after the capture; not personally encountered at the final escape. |
 | 41 | **SHAGWELL**, jester-like member of the Brave Companions | Serving Vargo Hoat's mercenaries. | Takes part in the victors' brutality as Harrenhal passes to Bolton's side. | 🟢 Still associated with the mercenary garrison by Arya's final chapter. |
 | 42 | **QYBURN**, disgraced former maester assisting Bolton | Attached to Vargo Hoat's mercenary company as a healer. | Attends Bolton's leechings, reads correspondence and advises him amid the war news. | 🟢 At Bolton's service inside Harrenhal when Arya escapes. |
 | 43 | **STEELSHANKS WALTON**, Bolton's armed retainer | Serving Bolton's military household in the northern forces. | Guards Bolton's chambers and helps execute orders during his occupation of the castle. | 🟢 At Harrenhal as Bolton prepares his departure. |
+
+### Mercenary Companies and Northern Prisoners
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 44 | **BRAVE COMPANIONS**, unnamed men under Vargo Hoat | Mercenary soldiers serving Lannister interests. | Help take Harrenhal for Bolton, commit acts of violence and become its expected remaining garrison. | ⚪️ Occupying Harrenhal under Hoat's command. Individual members' subsequent conditions are not fully tracked. |
 | 45 | **NORTHERN PRISONERS**, unnamed men held with Robett Glover | Northern soldiers fighting for Robb Stark. | Captured and confined under Lorch, then freed from the dungeons and armed during the uprising. | ⚪️ Many have joined Bolton's victors; individual fates differ. |
 
@@ -224,6 +244,6 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 - **Built:** 14 Oct 2026.
 - **Protocol:** [SROMX v11.27](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md).
 - **Primary evidence:** Project-supplied complete Bantam *A Clash of Kings* EPUB, Arya I–X only. **Word counts:** [RTE COK schedule](../README.md), 45,863 selected words.
-- **Cross-reference:** [COK CSRM](ROM_CSRM_ACOK.md) for source coordinates and tentative external dates; [COK MCM](ROM_MCM_COK.md) is provisional and used only as a candidate/significance aid; continuity checked against the [GOT Arya SROMX](../01.%20GOT/SROMX_GOT_POV_ARYA.md).
+- **Cross-reference:** [COK CSRM](ROM_CSRM_ACOK.md) for source coordinates and tentative external dates; [COK MCM](ROM_MCM_COK.md) is priority-verified and used only as a candidate/significance aid; continuity checked against the [GOT Arya SROMX](../01.%20GOT/SROMX_GOT_POV_ARYA.md).
 - **Uncertainty controls:** Arya's belief that Bran and Rickon died is labelled as information she received, not independently established by her POV. The little orphan Weasel's fate remains unknown; Jaqen's new face is not counted as a death; and the multiple casualty episodes preclude a reliable exact Scope-local death total.
 - **Narrative method:** All 10 selected chapters are one continuous POV story. Other narrators' on-page action is never added as an Arya-witnessed episode. Section 5 includes only materially qualifying characters physically encountered within her chapters, with source-confirmed retrospective openings.
