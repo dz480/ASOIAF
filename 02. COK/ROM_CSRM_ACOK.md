@@ -134,6 +134,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-3"></a>
 ### Ch. 3: Tyrion I
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈10 Feb 299 AC**  
 *King's Landing*  
 **TYRION** · **BRONN** · **CERSEI LANNISTER** · **PYCELLE** · **JANOS SLYNT** · **LITTLEFINGER** · **SHAE** · **VARYS**
@@ -188,6 +190,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 
 <a id="cok-csrm-ch-8"></a>
 ### Ch. 8: Tyrion II
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈24 Feb 299 AC**  
 *King's Landing*  
@@ -256,6 +260,8 @@ Lannister men attack **Yoren**'s refuge. **Arya**, **Gendry** and their companio
 <a id="cok-csrm-ch-15"></a>
 ### Ch. 15: Tyrion III
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈7 Mar 299 AC**  
 *King's Landing*  
 **TYRION** · **BRONN** · **CERSEI LANNISTER** · **PYCELLE** · **LITTLEFINGER** · **PODRICK PAYNE** · **VARYS**
@@ -281,6 +287,8 @@ Lannister men attack **Yoren**'s refuge. **Arya**, **Gendry** and their companio
 
 <a id="cok-csrm-ch-17"></a>
 ### Ch. 17: Tyrion IV
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈26 Mar 299 AC**  
 *King's Landing*  
@@ -312,6 +320,8 @@ Captured by men serving **Gregor Clegane**, **Arya** sees the wounded **Lommy** 
 
 <a id="cok-csrm-ch-20"></a>
 ### Ch. 20: Tyrion V
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈28 Mar 299 AC**  
 *King's Landing*  
@@ -366,6 +376,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 <a id="cok-csrm-ch-25"></a>
 ### Ch. 25: Tyrion VI
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈5 May 299 AC**  
 *King's Landing*  
 **TYRION** · **ALLISER THORNE** · **BRONN** · **CERSEI LANNISTER** · **CLEOS FREY** · **PYCELLE** · **ILYN** · **BYWATER** · **LANCEL LANNISTER** · **MERYN TRANT** · **LITTLEFINGER** · **SANSA** · **SHAGGA** · **VARYS**
@@ -403,6 +415,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 
 <a id="cok-csrm-ch-29"></a>
 ### Ch. 29: Tyrion VII
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈8 May 299 AC**  
 *King's Landing*  
@@ -479,6 +493,8 @@ A shadow assassin kills **Renly** inside his tent before **Catelyn** and **Brien
 <a id="cok-csrm-ch-36"></a>
 ### Ch. 36: Tyrion VIII
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈20 Jun 299 AC**  
 *King's Landing*  
 **TYRION** · **BRONN** · **CERSEI LANNISTER** · **LITTLEFINGER** · **VARYS**
@@ -534,6 +550,8 @@ With **Tywin**'s host preparing to move, **Arya** names **Weese** as her second 
 <a id="cok-csrm-ch-41"></a>
 ### Ch. 41: Tyrion IX
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈1 Jul 299 AC**  
 *King's Landing*  
 **TYRION** · **ARYS OAKHEART** · **BRONN** · **CERSEI LANNISTER** · **BYWATER** · **JOFFREY** · **LANCEL LANNISTER** · **MERYN TRANT** · **PODRICK PAYNE** · **SANDOR** · **SANSA** · **SHAGGA** · **VARYS**
@@ -560,6 +578,8 @@ With **Tywin**'s host preparing to move, **Arya** names **Weese** as her second 
 
 <a id="cok-csrm-ch-44"></a>
 ### Ch. 44: Tyrion X
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈11 Aug 299 AC**  
 *King's Landing*  
@@ -616,6 +636,8 @@ With **Stannis** approaching, **Tyrion** arranges to move **Tommen** to safety a
 <a id="cok-csrm-ch-49"></a>
 ### Ch. 49: Tyrion XI
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈22 Aug 299 AC**  
 *King's Landing*  
 **TYRION** · **BRONN** · **BYWATER** · **JOFFREY** · **SHAGGA** · **VARYS**
@@ -662,6 +684,8 @@ As **Stannis**'s armies close on the capital, **Sansa** endures **Cersei**'s bit
 
 <a id="cok-csrm-ch-54"></a>
 ### Ch. 54: Tyrion XII
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈29 Aug 299 AC**  
 *King's Landing*  
@@ -718,6 +742,8 @@ As the Battle of the Blackwater begins, **Sansa** prays with the court and watch
 <a id="cok-csrm-ch-59"></a>
 ### Ch. 59: Tyrion XIII
 
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
+
 **≈7 Sep 299 AC**  
 *King's Landing* · *Mud Gate*  
 **TYRION** · **JOFFREY** · **MERYN TRANT** · **PODRICK PAYNE** · **SANDOR**
@@ -737,6 +763,8 @@ While the battle rages, **Sansa** serves beside the increasingly drunken **Cerse
 
 <a id="cok-csrm-ch-61"></a>
 ### Ch. 61: Tyrion XIV
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈7 Sep 299 AC**  
 *King's Landing* · *Blackwater Rush*  
@@ -805,6 +833,8 @@ In the triumphant royal court, **Joffrey** rewards the victors and exchanges his
 
 <a id="cok-csrm-ch-67"></a>
 ### Ch. 67: Tyrion XV
+
+**POV SROMX:** [Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) (15 POV chapters; through Ch. 67).
 
 **≈1 Oct 299 AC**  
 *King's Landing*  
