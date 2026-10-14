@@ -123,19 +123,19 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **TYRION LANNISTER**, son of Tywin; designated acting Hand [Alive; wounded] | Staying at **Winterfell**, preparing to visit the Wall. | Travels north, survives captivity and trial in the Vale, recruits clans and fights at the Green Fork. | At Tywin's headquarters, appointed to govern **King's Landing** and intending to bring **Shae**. |
-| 🏅 | **JAIME LANNISTER**, Kingsguard knight [Alive; captive] | At Winterfell with the royal entourage. | Reacts to Tyrion's remarks about Bran; later commands western forces, as reported. | Captured by **Robb Stark**'s troops in the riverlands. |
-| 🏅 | **CERSEI LANNISTER**, Queen Regent [Alive] | Accompanying King Robert at Winterfell. | Reacts fearfully to Bran's possible survival and later issues demands to the Lannister army. | Governing the royal household in King's Landing. |
+| 🏅 | **TYRION LANNISTER**, son of Tywin; designated acting Hand | Staying at **Winterfell**, preparing to visit the Wall. | Travels north, survives captivity and trial in the Vale, recruits clans and fights at the Green Fork. | 🟢 At Tywin's headquarters, appointed to govern **King's Landing** and intending to bring **Shae**. |
+| 🏅 | **JAIME LANNISTER**, Kingsguard knight | At Winterfell with the royal entourage. | Reacts to Tyrion's remarks about Bran; later commands western forces, as reported. | 🟢 Captured by **Robb Stark**'s troops in the riverlands. |
+| 🏅 | **CERSEI LANNISTER**, Queen Regent | Accompanying King Robert at Winterfell. | Reacts fearfully to Bran's possible survival and later issues demands to the Lannister army. | 🟢 Governing the royal household in King's Landing. |
 
 <a id="tyrion-children"></a>
 ### Royal Children & Protection
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **JOFFREY BARATHEON**, crown prince; later king [Alive] | At Winterfell, displaying contempt towards injured Bran. | Is slapped by Tyrion and later succeeds **Robert**. | King at King's Landing, whose misrule prompts Tywin to send Tyrion. |
-| 5 | **TOMMEN BARATHEON**, royal prince [Alive] | With his family at Winterfell. | Voices sympathy for Bran at the breakfast table. | Away from Tyrion in the royal household. |
-| 6 | **MYRCELLA BARATHEON**, royal princess [Alive] | With the royal party at Winterfell. | Asks Tyrion if Bran will recover. | Away from Tyrion; no subsequent firsthand development. |
-| 🥈 | **SANDOR CLEGANE**, Joffrey's sworn shield [Alive] | Protecting Joffrey at Winterfell. | Witnesses Tyrion's rebuke and warns that the prince will remember it. | Last directly encountered in the North, in royal service. |
+| 🏅 | **JOFFREY BARATHEON**, crown prince; later king | At Winterfell, displaying contempt towards injured Bran. | Is slapped by Tyrion and later succeeds **Robert**. | 🟢 King at King's Landing, whose misrule prompts Tywin to send Tyrion. |
+| 5 | **TOMMEN BARATHEON**, royal prince | With his family at Winterfell. | Voices sympathy for Bran at the breakfast table. | 🟢 Away from Tyrion in the royal household. |
+| 6 | **MYRCELLA BARATHEON**, royal princess | With the royal party at Winterfell. | Asks Tyrion if Bran will recover. | 🟢 Away from Tyrion; no subsequent firsthand development. |
+| 🥈 | **SANDOR CLEGANE**, Joffrey's sworn shield | Protecting Joffrey at Winterfell. | Witnesses Tyrion's rebuke and warns that the prince will remember it. | 🟢 Last directly encountered in the North, in royal service. |
 
 <a id="tyrion-wall"></a>
 ## 🧊 Night's Watch & Northern Companions
@@ -145,20 +145,20 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **JON SNOW**, Stark-raised bastard; Watch recruit [Alive] | At Winterfell, planning to join his uncle's order. | Discusses the Watch with Tyrion and receives his parting counsel at the Wall. | Last seen by Tyrion at Castle Black with Ghost. |
-| 🥈 | **BENJEN STARK**, First Ranger [Missing] | Visiting Winterfell before returning to the Wall. | Leads the journey north and departs on a ranging to find lost rangers. | Missing beyond the Wall; fate unestablished. |
-| 14 | **YOREN**, Night's Watch recruiter [Alive] | Recruiting men to serve the Wall. | Travels with Tyrion and Jon and prepares to escort Tyrion south again. | Last encountered departing Castle Black. |
-| 15 | **GHOST**, white direwolf [Alive] | Bonded with Jon at Winterfell. | Accompanies the northern journey, protects Jon and joins Tyrion's farewell. | Last seen with Jon on the Wall. |
+| 🏅 | **JON SNOW**, Stark-raised bastard; Watch recruit | At Winterfell, planning to join his uncle's order. | Discusses the Watch with Tyrion and receives his parting counsel at the Wall. | 🟢 Last seen by Tyrion at Castle Black with Ghost. |
+| 🥈 | **BENJEN STARK**, First Ranger | Visiting Winterfell before returning to the Wall. | Leads the journey north and departs on a ranging to find lost rangers. | 🟡 Missing beyond the Wall; fate unestablished. |
+| 14 | **YOREN**, Night's Watch recruiter | Recruiting men to serve the Wall. | Travels with Tyrion and Jon and prepares to escort Tyrion south again. | 🟢 Last encountered departing Castle Black. |
+| 15 | **GHOST**, white direwolf | Bonded with Jon at Winterfell. | Accompanies the northern journey, protects Jon and joins Tyrion's farewell. | 🟢 Last seen with Jon on the Wall. |
 
 <a id="tyrion-watch-leaders"></a>
 ### Watch Leadership
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **JEOR MORMONT**, Lord Commander [Alive] | Commanding the Night's Watch at Castle Black. | Hosts Tyrion and explains shortages and missing patrols. | Remaining at Castle Black to direct the Watch. |
-| 🥈 | **ALLISER THORNE**, master-at-arms [Alive] | Training Watch recruits. | Takes offence at Tyrion's jokes during Mormont's meal. | Still serving the Watch. |
-| 🥈 | **MAESTER AEMON**, Watch maester [Alive] | Serving the Watch as an elderly blind scholar. | Defends Tyrion's stature in conversation at Mormont's table. | Still serving at Castle Black. |
-| 13 | **JAREMY RYKKER**, knight and ranger [Alive] | Senior brother of the Watch. | Recalls his experience of Tywin's sack of King's Landing and answers Tyrion's banter. | Continues serving Castle Black. |
+| 🥈 | **JEOR MORMONT**, Lord Commander | Commanding the Night's Watch at Castle Black. | Hosts Tyrion and explains shortages and missing patrols. | 🟢 Remaining at Castle Black to direct the Watch. |
+| 🥈 | **ALLISER THORNE**, master-at-arms | Training Watch recruits. | Takes offence at Tyrion's jokes during Mormont's meal. | 🟢 Still serving the Watch. |
+| 🥈 | **MAESTER AEMON**, Watch maester | Serving the Watch as an elderly blind scholar. | Defends Tyrion's stature in conversation at Mormont's table. | 🟢 Still serving at Castle Black. |
+| 13 | **JAREMY RYKKER**, knight and ranger | Senior brother of the Watch. | Recalls his experience of Tywin's sack of King's Landing and answers Tyrion's banter. | 🟢 Continues serving Castle Black. |
 
 <a id="tyrion-vale"></a>
 ## 🏔️ The High Road & Eyrie
@@ -168,43 +168,43 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **CATELYN STARK**, Lady of Winterfell [Alive] | Caring for Bran at Winterfell. | Arrests Tyrion, challenges his denials and leads a mountain escort attacked by raiders. | Last seen by Tyrion at the Eyrie during his legal ordeal. |
-| 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms [Alive; wounded] | Serving the Stark household. | Guards Tyrion and is wounded defending the group on the High Road. | Seen recovering at the Eyrie court. |
-| 🥈 | **BRONN**, sellsword [Alive] | Independent fighter with no loyalty to Tyrion. | Fights in the escort, champions Tyrion, joins the clans and survives the Green Fork. | Still accompanying Tyrion in Tywin's host. |
-| 19 | **CHIGGEN**†, sellsword [Deceased] | Travelling independently in the riverlands. | Helps capture Tyrion and defends the party from mountain attackers. | Mortally wounded and then killed by Bronn. |
-| 20 | **MORREC**†, Tyrion's servant [Deceased] | Serving Tyrion as attendant and groom. | Travels north and south, is arrested and aids defence of the High Road escort. | Dead before Tyrion rejoins Tywin, as Tyrion later reports. |
-| 21 | **JYCK**†, Tyrion's guard [Deceased] | Assigned to Tyrion's personal protection. | Is arrested with Tyrion and charges mounted attackers. | Killed in the mountain ambush. |
-| 22 | **LHARYS**, Bracken man-at-arms [Alive] | Retainer of House Bracken. | Guards Tyrion, scouts raiders and fights with a bow. | Survives the High Road battle. |
-| 23 | **KURLEKET**†, Bracken man-at-arms [Deceased] | Armed retainer of House Bracken. | Threatens Tyrion during Catelyn's journey. | Killed in the High Road ambush. |
-| 24 | **MOHOR**†, Bracken man-at-arms [Deceased] | Armed retainer accompanying the escort. | Guards Tyrion and joins the defence. | Killed in the High Road ambush. |
-| 25 | **WILLIS WODE**, knight [Alive] | Knight travelling from the riverlands. | Supports Catelyn, fights the raiders and urges a swift retreat. | Last seen at the Eyrie court. |
-| 26 | **MARILLION**, wandering singer [Alive] | Seeking patronage while travelling. | Mocks Tyrion and is injured hiding during the mountain ambush. | Last seen at the Eyrie court. |
+| 🏅 | **CATELYN STARK**, Lady of Winterfell | Caring for Bran at Winterfell. | Arrests Tyrion, challenges his denials and leads a mountain escort attacked by raiders. | 🟢 Last seen by Tyrion at the Eyrie during his legal ordeal. |
+| 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms | Serving the Stark household. | Guards Tyrion and is wounded defending the group on the High Road. | 🟢 Seen recovering at the Eyrie court. |
+| 🥈 | **BRONN**, sellsword | Independent fighter with no loyalty to Tyrion. | Fights in the escort, champions Tyrion, joins the clans and survives the Green Fork. | 🟢 Still accompanying Tyrion in Tywin's host. |
+| 19 | **CHIGGEN**†, sellsword | Travelling independently in the riverlands. | Helps capture Tyrion and defends the party from mountain attackers. | 🗡 Mortally wounded and then killed by Bronn. |
+| 20 | **MORREC**†, Tyrion's servant | Serving Tyrion as attendant and groom. | Travels north and south, is arrested and aids defence of the High Road escort. | 🗡 Dead before Tyrion rejoins Tywin, as Tyrion later reports. |
+| 21 | **JYCK**†, Tyrion's guard | Assigned to Tyrion's personal protection. | Is arrested with Tyrion and charges mounted attackers. | 🗡 Killed in the mountain ambush. |
+| 22 | **LHARYS**, Bracken man-at-arms | Retainer of House Bracken. | Guards Tyrion, scouts raiders and fights with a bow. | 🟢 Survives the High Road battle. |
+| 23 | **KURLEKET**†, Bracken man-at-arms | Armed retainer of House Bracken. | Threatens Tyrion during Catelyn's journey. | 🗡 Killed in the High Road ambush. |
+| 24 | **MOHOR**†, Bracken man-at-arms | Armed retainer accompanying the escort. | Guards Tyrion and joins the defence. | 🗡 Killed in the High Road ambush. |
+| 25 | **WILLIS WODE**, knight | Knight travelling from the riverlands. | Supports Catelyn, fights the raiders and urges a swift retreat. | 🟢 Last seen at the Eyrie court. |
+| 26 | **MARILLION**, wandering singer | Seeking patronage while travelling. | Mocks Tyrion and is injured hiding during the mountain ambush. | 🟢 Last seen at the Eyrie court. |
 
 <a id="tyrion-court"></a>
 ### Vale Court & Prison
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **LYSA ARRYN**, Lady of the Eyrie [Alive] | Ruling the Vale as Jon Arryn's widow. | Accuses and imprisons Tyrion, then grants trial by combat. | Remains at the Eyrie after Bronn's victory. |
-| 28 | **ROBERT ARRYN**, young lord [Alive] | Living at the Eyrie under his mother's protection. | Denounces Tyrion and demands he be cast out of the sky cells. | Still at the Eyrie. |
-| 🥈 | **BRYNDEN TULLY**, Blackfish; knight [Alive] | Serving family interests in the Vale. | Witnesses Tyrion's hearing in the High Hall. | Last seen among the Eyrie's court. |
-| 30 | **MORD**, Eyrie gaoler [Alive] | Keeping the sky cells. | Abuses Tyrion, then accepts the promise of gold for conveying a message. | Continues prison duties in the Vale. |
-| 31 | **VARDIS EGEN**†, captain of Arryn guards [Deceased] | Serving Lysa's household. | Escorts Tyrion to court and becomes Lysa's champion. | Killed by Bronn in trial by combat between selected POV chapters. |
-| 32 | **NESTOR ROYCE**, Vale lord and keeper [Alive] | Administering the Gates of the Moon. | Attends Tyrion's public hearing. | Last seen at the Eyrie. |
-| 33 | **LYN CORBRAY**, Vale knight [Alive] | Serving among Vale nobles. | Discusses uncertainty in trial by combat at Tyrion's hearing. | Last seen at the Eyrie. |
-| 34 | **LORD HUNTER**, elderly Vale noble [Alive] | Residing among the Vale's lords. | Offers to defend Jon Arryn's memory by championing Lysa. | Last seen at the Eyrie. |
+| 🥈 | **LYSA ARRYN**, Lady of the Eyrie | Ruling the Vale as Jon Arryn's widow. | Accuses and imprisons Tyrion, then grants trial by combat. | 🟢 Remains at the Eyrie after Bronn's victory. |
+| 28 | **ROBERT ARRYN**, young lord | Living at the Eyrie under his mother's protection. | Denounces Tyrion and demands he be cast out of the sky cells. | 🟢 Still at the Eyrie. |
+| 🥈 | **BRYNDEN TULLY**, Blackfish; knight | Serving family interests in the Vale. | Witnesses Tyrion's hearing in the High Hall. | 🟢 Last seen among the Eyrie's court. |
+| 30 | **MORD**, Eyrie gaoler | Keeping the sky cells. | Abuses Tyrion, then accepts the promise of gold for conveying a message. | 🟢 Continues prison duties in the Vale. |
+| 31 | **VARDIS EGEN**†, captain of Arryn guards | Serving Lysa's household. | Escorts Tyrion to court and becomes Lysa's champion. | 🗡 Killed by Bronn in trial by combat between selected POV chapters. |
+| 32 | **NESTOR ROYCE**, Vale lord and keeper | Administering the Gates of the Moon. | Attends Tyrion's public hearing. | 🟢 Last seen at the Eyrie. |
+| 33 | **LYN CORBRAY**, Vale knight | Serving among Vale nobles. | Discusses uncertainty in trial by combat at Tyrion's hearing. | 🟢 Last seen at the Eyrie. |
+| 34 | **LORD HUNTER**, elderly Vale noble | Residing among the Vale's lords. | Offers to defend Jon Arryn's memory by championing Lysa. | 🟢 Last seen at the Eyrie. |
 
 <a id="tyrion-clans"></a>
 ## 🪓 Mountain Clans
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **SHAGGA**, Stone Crows warrior [Alive; wounded] | Living among the mountain clans of the Vale. | Threatens Tyrion, accepts his promises, confronts Tywin and fights at the Green Fork. | Survives several arrow wounds. |
-| 36 | **GUNTHOR**, Stone Crows leader [Alive] | Leading armed men in the Vale. | Agrees to listen to Tyrion's offers rather than immediately attack him. | Last seen at the mountain negotiation. |
-| 37 | **CONN**†, Stone Crows warrior [Deceased] | Serving the Stone Crows. | Negotiates terms with Tywin and fights on the Green Fork. | Killed by a spear; Shagga is found cradling his body. |
-| 38 | **ULF**†, Moon Brothers spokesman [Deceased] | Serving the Moon Brothers. | Demands Tyrion's promised payment and fights in the western army. | Killed at the Green Fork. |
-| 39 | **CHELLA**, Black Ears leader [Alive] | Leading a mountain-clan band. | Scouts Tywin's camp, enforces the agreement and fights at the Green Fork. | Survives and displays captured ears. |
-| 40 | **TIMETT**, warrior of the Burned Men [Alive] | Serving his mountain clan, having sacrificed an eye. | Accepts Tyrion's bargain and accompanies the Lannister campaign. | Survives the Green Fork, seen looting the dead. |
+| 🥈 | **SHAGGA**, Stone Crows warrior | Living among the mountain clans of the Vale. | Threatens Tyrion, accepts his promises, confronts Tywin and fights at the Green Fork. | 🟢 Survives several arrow wounds. |
+| 36 | **GUNTHOR**, Stone Crows leader | Leading armed men in the Vale. | Agrees to listen to Tyrion's offers rather than immediately attack him. | 🟢 Last seen at the mountain negotiation. |
+| 37 | **CONN**†, Stone Crows warrior | Serving the Stone Crows. | Negotiates terms with Tywin and fights on the Green Fork. | 🗡 Killed by a spear; Shagga is found cradling his body. |
+| 38 | **ULF**†, Moon Brothers spokesman | Serving the Moon Brothers. | Demands Tyrion's promised payment and fights in the western army. | 🗡 Killed at the Green Fork. |
+| 39 | **CHELLA**, Black Ears leader | Leading a mountain-clan band. | Scouts Tywin's camp, enforces the agreement and fights at the Green Fork. | 🟢 Survives and displays captured ears. |
+| 40 | **TIMETT**, warrior of the Burned Men | Serving his mountain clan, having sacrificed an eye. | Accepts Tyrion's bargain and accompanies the Lannister campaign. | 🟢 Survives the Green Fork, seen looting the dead. |
 
 <a id="tyrion-army"></a>
 ## 🏰 Tywin's War Council & Tyrion's Camp
@@ -214,30 +214,30 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **TYWIN LANNISTER**, Lord of Casterly Rock; war commander [Alive] | Directing his house's power far from Winterfell. | Leads the western army, risks Tyrion's life on the Green Fork and learns Jaime has been captured. | Appoints Tyrion acting Hand while directing the riverlands campaign. |
-| 🥈 | **GREGOR CLEGANE**, Lannister knight and captain [Alive] | Serving Tywin's interests in the west. | Leads destructive raids and commands the vanguard at the Green Fork. | Ordered to resume raids against the riverlands. |
-| 43 | **KEVAN LANNISTER**, Tywin's brother and deputy [Alive] | Serving Tywin in the west. | Briefs Tyrion, commands soldiers and assesses Jaime's capture and the host's danger. | Advising Tywin as Tyrion prepares for court. |
-| 44 | **ADDAM MARBRAND**, cavalry commander [Alive] | Serving the western host. | Leads cavalry at the Green Fork and reports Robb's westward movement. | At the war council after Jaime's capture. |
-| 45 | **LORD LEFFORD**, army quartermaster [Alive] | Supplying Tywin's army. | Provides the clans with equipment and attends army councils. | Continues overseeing supplies at the crossroads. |
-| 46 | **HARYS SWYFT**, Lannister bannerman [Alive] | Attached to Tywin's western forces. | Argues anxiously over the loss of Jaime and the campaign's options. | Remains in the western army. |
+| 🥈 | **TYWIN LANNISTER**, Lord of Casterly Rock; war commander | Directing his house's power far from Winterfell. | Leads the western army, risks Tyrion's life on the Green Fork and learns Jaime has been captured. | 🟢 Appoints Tyrion acting Hand while directing the riverlands campaign. |
+| 🥈 | **GREGOR CLEGANE**, Lannister knight and captain | Serving Tywin's interests in the west. | Leads destructive raids and commands the vanguard at the Green Fork. | 🟢 Ordered to resume raids against the riverlands. |
+| 43 | **KEVAN LANNISTER**, Tywin's brother and deputy | Serving Tywin in the west. | Briefs Tyrion, commands soldiers and assesses Jaime's capture and the host's danger. | 🟢 Advising Tywin as Tyrion prepares for court. |
+| 44 | **ADDAM MARBRAND**, cavalry commander | Serving the western host. | Leads cavalry at the Green Fork and reports Robb's westward movement. | 🟢 At the war council after Jaime's capture. |
+| 45 | **LORD LEFFORD**, army quartermaster | Supplying Tywin's army. | Provides the clans with equipment and attends army councils. | 🟢 Continues overseeing supplies at the crossroads. |
+| 46 | **HARYS SWYFT**, Lannister bannerman | Attached to Tywin's western forces. | Argues anxiously over the loss of Jaime and the campaign's options. | 🟢 Remains in the western army. |
 
 <a id="tyrion-camp"></a>
 ### Camp & Crossroads Inn
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **SHAE**, camp follower and Tyrion's companion [Alive] | Travelling among camp followers before Tyrion arrives. | Is introduced by Bronn and enters Tyrion's household. | With Tyrion at the crossroads; he intends to take her to King's Landing. |
-| 48 | **PODRICK PAYNE**, Tyrion's squire [Alive] | Member of House Payne, not yet directly serving Tyrion. | Prepares Tyrion's armour and helps with battle equipment. | Serving Tyrion after the Green Fork. |
-| 49 | **MASHA HEDDLE**†, crossroads innkeeper [Deceased] | Operating the inn at the crossroads. | Her establishment becomes Tywin's headquarters after Tyrion's capture there. | Her body hangs in the inn yard, witnessed by Tyrion. |
+| 🥈 | **SHAE**, camp follower and Tyrion's companion | Travelling among camp followers before Tyrion arrives. | Is introduced by Bronn and enters Tyrion's household. | 🟢 With Tyrion at the crossroads; he intends to take her to King's Landing. |
+| 48 | **PODRICK PAYNE**, Tyrion's squire | Member of House Payne, not yet directly serving Tyrion. | Prepares Tyrion's armour and helps with battle equipment. | 🟢 Serving Tyrion after the Green Fork. |
+| 49 | **MASHA HEDDLE**†, crossroads innkeeper | Operating the inn at the crossroads. | Her establishment becomes Tywin's headquarters after Tyrion's capture there. | 🗡 Her body hangs in the inn yard, witnessed by Tyrion. |
 
 <a id="tyrion-forces"></a>
 ## ⚔️ Collective Armed Forces
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 50 | **HIGH ROAD HILL RAIDERS**, anonymous mountain attackers [Mixed / not individually tracked] | Raiding travellers in the Mountains of the Moon. | Ambush Catelyn's escort and are defeated, with deaths among them. | Survivors withdraw; individual fates untracked. |
-| 51 | **MOUNTAIN CLAN FIGHTERS**, unnamed allies of Tyrion [Mixed / not individually tracked] | Serving various hill clans in the Vale. | Follow Tyrion into Tywin's camp and fight in the Green Fork vanguard. | Heavy losses, with survivors still accompanying Tyrion. |
-| 52 | **NORTHERN GREEN FORK SOLDIERS**, enemy infantry and knights [Mixed / not individually tracked] | Serving northern armies opposing Tywin. | Battle Gregor's vanguard and Tyrion's clans. | Casualties and captives; no exhaustive individual count. |
+| 50 | **HIGH ROAD HILL RAIDERS**, anonymous mountain attackers | Raiding travellers in the Mountains of the Moon. | Ambush Catelyn's escort and are defeated, with deaths among them. | ⚪️ Survivors withdraw; individual fates untracked. |
+| 51 | **MOUNTAIN CLAN FIGHTERS**, unnamed allies of Tyrion | Serving various hill clans in the Vale. | Follow Tyrion into Tywin's camp and fight in the Green Fork vanguard. | ⚪️ Heavy losses, with survivors still accompanying Tyrion. Individual members' subsequent conditions are not fully tracked. |
+| 52 | **NORTHERN GREEN FORK SOLDIERS**, enemy infantry and knights | Serving northern armies opposing Tywin. | Battle Gregor's vanguard and Tyrion's clans. | ⚪️ Casualties and captives; no exhaustive individual count. |
 
 <p align="right"><a href="#tyrion-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
