@@ -31,6 +31,8 @@ This folder is the canonical destination for all published COK-specific readthro
 
 - [SROMX | Jon Snow | Full Book](SROMX_COK_POV_JON.md) · 8 POV chapters: Ch. 6, 13, 23, 34, 43, 51, 53 and 68. **Spoilers through COK Ch. 68**.
 
+- [SROMX | Davos Seaworth | Full Book](SROMX_COK_POV_DAVOS.md) · 3 POV chapters: Ch. 10, 42 and 58; 19,419 source words. **Spoilers through COK Ch. 58**.
+
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
 The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).
