@@ -109,79 +109,79 @@ In the final chapter, Sansa lies grieving in her chambers. Joffrey forces her in
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **SANSA STARK**, daughter of Eddard and betrothed of Joffrey [Alive; under royal control] | Travelling south at the Ruby Ford, confident of her approaching marriage. | Witnesses Joffrey's cruelty, informs Cersei of Ned's plan, petitions for his life and endures the king's violence. | Kept in the **Red Keep**, grieving and compelled to obey Joffrey. |
-| 🏅 | **ARYA STARK**, Sansa's younger sister [Missing] | Riding beside the royal company and playing with **Mycah** near the Trident. | Defends Mycah and drives away Nymeria, quarrels with Sansa in the capital and disappears during Ned's fall. | Whereabouts unknown to Sansa; she hopes Arya escaped on the planned galley. |
-| 🏅 | **EDDARD STARK**†, Hand of the King [Deceased] | Travelling ahead of the royal company as Robert's newly appointed Hand. | Orders both daughters home, is arrested during the succession struggle and becomes the subject of Sansa's plea. | Executed; his tarred head is displayed on the Red Keep battlements. |
-| 4 | **LADY**†, Sansa's direwolf [Deceased] | Travelling with Sansa at the Ruby Ford. | Attends Sansa at breakfast and camp, then becomes the substitute victim when Nymeria is not found. | Killed at **Darry** on the queen's demand; Sansa mourns her in later chapters. |
-| 5 | **NYMERIA**, Arya's direwolf [Missing] | With Arya by the Trident. | Bites Joffrey when he attacks Mycah and flees with Arya. | Driven into the countryside by Arya; no subsequent location established to Sansa. |
+| 🏅 | **SANSA STARK**, daughter of Eddard and betrothed of Joffrey | Travelling south at the Ruby Ford, confident of her approaching marriage. | Witnesses Joffrey's cruelty, informs Cersei of Ned's plan, petitions for his life and endures the king's violence. | 🟢 Kept in the **Red Keep**, grieving and compelled to obey Joffrey. |
+| 🏅 | **ARYA STARK**, Sansa's younger sister | Riding beside the royal company and playing with **Mycah** near the Trident. | Defends Mycah and drives away Nymeria, quarrels with Sansa in the capital and disappears during Ned's fall. | 🟡 Whereabouts unknown to Sansa; she hopes Arya escaped on the planned galley. |
+| 🏅 | **EDDARD STARK**†, Hand of the King | Travelling ahead of the royal company as Robert's newly appointed Hand. | Orders both daughters home, is arrested during the succession struggle and becomes the subject of Sansa's plea. | 🗡 Executed; his tarred head is displayed on the Red Keep battlements. |
+| 4 | **LADY**†, Sansa's direwolf | Travelling with Sansa at the Ruby Ford. | Attends Sansa at breakfast and camp, then becomes the substitute victim when Nymeria is not found. | 🗡 Killed at **Darry** on the queen's demand; Sansa mourns her in later chapters. |
+| 5 | **NYMERIA**, Arya's direwolf | With Arya by the Trident. | Bites Joffrey when he attacks Mycah and flees with Arya. | 🟡 Driven into the countryside by Arya; no subsequent location established to Sansa. |
 
 <a id="sansa-household"></a>
 ## 🛡️ Stark Household & Retainers
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 6 | **SEPTA MORDANE**†, governess to Stark daughters [Deceased] | Supervising Sansa and Arya during the royal journey. | Attends the Hand's tourney, mediates the sisters' quarrels and stays in King's Landing as the coup unfolds. | Killed under the new regime; her decaying head is displayed beside Ned's. |
-| 7 | **JEYNE POOLE**, Sansa's companion [Unknown] | Travelling with the Stark household and attending Sansa. | Watches the tourney, is confined with Sansa and becomes distraught over her father's fate. | Removed from Sansa's rooms under **Littlefinger**'s supervision; further whereabouts unconfirmed. |
-| 🥈 | **JORY CASSEL**†, captain of Stark household guards [Deceased] | Leading guards travelling with Ned's household. | Competes in the Hand's tourney and is later killed during **Jaime**'s street attack, as Sansa learns. | Dead before Sansa's forced confinement. |
-| 9 | **ALYN**, Stark household guardsman [Alive; location uncertain] | Travelling with the Stark escort. | Competes in the tourney and rides out beneath the Stark banner with **Beric Dondarrion**. | Last directly seen departing King's Landing with the royal commission. |
-| 10 | **HARWIN**, Stark guardsman and rider [Alive; location uncertain] | Serving the Stark household on the royal journey. | Jousts at the Hand's tourney and subsequently joins the men riding out under Beric. | Last known among the departing royal justice party. |
+| 6 | **SEPTA MORDANE**†, governess to Stark daughters | Supervising Sansa and Arya during the royal journey. | Attends the Hand's tourney, mediates the sisters' quarrels and stays in King's Landing as the coup unfolds. | 🗡 Killed under the new regime; her decaying head is displayed beside Ned's. |
+| 7 | **JEYNE POOLE**, Sansa's companion | Travelling with the Stark household and attending Sansa. | Watches the tourney, is confined with Sansa and becomes distraught over her father's fate. | ⚪️ Removed from Sansa's rooms under **Littlefinger**'s supervision; further whereabouts unconfirmed. |
+| 🥈 | **JORY CASSEL**†, captain of Stark household guards | Leading guards travelling with Ned's household. | Competes in the Hand's tourney and is later killed during **Jaime**'s street attack, as Sansa learns. | 🗡 Dead before Sansa's forced confinement. |
+| 9 | **ALYN**, Stark household guardsman | Travelling with the Stark escort. | Competes in the tourney and rides out beneath the Stark banner with **Beric Dondarrion**. | 🟢 Last directly seen departing King's Landing with the royal commission. |
+| 10 | **HARWIN**, Stark guardsman and rider | Serving the Stark household on the royal journey. | Jousts at the Hand's tourney and subsequently joins the men riding out under Beric. | 🟢 Last known among the departing royal justice party. |
 
 <a id="sansa-royal"></a>
 ## 👑 Royal Family & Royal Companions
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **JOFFREY BARATHEON**, crown prince; later king [Alive] | Riding in the royal party as Sansa's betrothed. | Terrorises Mycah, courts Sansa, succeeds Robert, orders Ned executed and assaults his betrothed through sworn guards. | Ruling at King's Landing, threatening Sansa and displaying Stark heads. |
-| 🏅 | **CERSEI LANNISTER**, Queen Regent [Alive] | Queen accompanying Robert and the travelling court. | Exploits Sansa's disclosure, detains her, directs letters to the Starks and commands the royal court. | Governing beside Joffrey while keeping Sansa under Lannister control. |
-| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms [Deceased] | Leading the royal party toward the capital. | Attends the tourney and its feast; later dies after the hunting injury, as Sansa learns. | Deceased, leaving Joffrey on the throne. |
-| 🏅 | **JAIME LANNISTER**, Kingsguard knight and Cersei's brother [Alive; captive] | Travelling in the royal entourage. | Jousts brilliantly at the tourney, later fights for House Lannister and is captured by **Robb**, as Joffrey reports. | Prisoner of Stark forces, away from Sansa. |
-| 🥈 | **SANDOR CLEGANE (THE HOUND)**, Joffrey's sworn shield; Kingsguard appointee [Alive] | Protecting Joffrey at the Ruby Ford. | Frightens Sansa, reveals the childhood burning, is appointed to the Kingsguard and later intervenes during Joffrey's cruelty. | Serving Joffrey; kneels to wipe the blood from Sansa's face. |
-| 🥈 | **BARRISTAN SELMY**, former Lord Commander of the Kingsguard [Alive] | Guarding Robert and welcoming the arriving royal knights. | Jousts at the tourney, is publicly dismissed by Cersei and repudiates Joffrey's council. | Leaves the Red Keep without his cloak and armour; subsequent whereabouts unknown to Sansa. |
-| 🥈 | **RENLY BARATHEON**, Robert's brother and lord of Storm's End [Alive] | Joining the royal company at the Ruby Ford. | Meets Sansa, jousts at the tourney and later disappears from Joffrey's court after Robert's death. | Away from the capital; named among those summoned to swear loyalty. |
-| 🥈 | **ILYN PAYNE**, King's Justice [Alive] | Arriving as part of the royal escort at the Ruby Ford. | Frightens Sansa by his silence; is later remembered executing her father and acts in Joffrey's court. | Serving as executioner under Joffrey. |
+| 🏅 | **JOFFREY BARATHEON**, crown prince; later king | Riding in the royal party as Sansa's betrothed. | Terrorises Mycah, courts Sansa, succeeds Robert, orders Ned executed and assaults his betrothed through sworn guards. | 🟢 Ruling at King's Landing, threatening Sansa and displaying Stark heads. |
+| 🏅 | **CERSEI LANNISTER**, Queen Regent | Queen accompanying Robert and the travelling court. | Exploits Sansa's disclosure, detains her, directs letters to the Starks and commands the royal court. | 🟢 Governing beside Joffrey while keeping Sansa under Lannister control. |
+| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms | Leading the royal party toward the capital. | Attends the tourney and its feast; later dies after the hunting injury, as Sansa learns. | 🗡 Deceased, leaving Joffrey on the throne. |
+| 🏅 | **JAIME LANNISTER**, Kingsguard knight and Cersei's brother | Travelling in the royal entourage. | Jousts brilliantly at the tourney, later fights for House Lannister and is captured by **Robb**, as Joffrey reports. | 🟢 Prisoner of Stark forces, away from Sansa. |
+| 🥈 | **SANDOR CLEGANE (THE HOUND)**, Joffrey's sworn shield; Kingsguard appointee | Protecting Joffrey at the Ruby Ford. | Frightens Sansa, reveals the childhood burning, is appointed to the Kingsguard and later intervenes during Joffrey's cruelty. | 🟢 Serving Joffrey; kneels to wipe the blood from Sansa's face. |
+| 🥈 | **BARRISTAN SELMY**, former Lord Commander of the Kingsguard | Guarding Robert and welcoming the arriving royal knights. | Jousts at the tourney, is publicly dismissed by Cersei and repudiates Joffrey's council. | 🟢 Leaves the Red Keep without his cloak and armour; subsequent whereabouts unknown to Sansa. |
+| 🥈 | **RENLY BARATHEON**, Robert's brother and lord of Storm's End | Joining the royal company at the Ruby Ford. | Meets Sansa, jousts at the tourney and later disappears from Joffrey's court after Robert's death. | 🟢 Away from the capital; named among those summoned to swear loyalty. |
+| 🥈 | **ILYN PAYNE**, King's Justice | Arriving as part of the royal escort at the Ruby Ford. | Frightens Sansa by his silence; is later remembered executing her father and acts in Joffrey's court. | 🟢 Serving as executioner under Joffrey. |
 
 <a id="sansa-tourney"></a>
 ## 🌹 Tourney Knights & Combatants
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 19 | **LORAS TYRELL**, Knight of Flowers [Alive] | Young Reach knight riding toward the capital's festivities. | Unhorses **Robar Royce**, gives Sansa a red rose and receives her admiration. | Away from the capital by Joffrey's reign; summoned to declare fealty. |
-| 🥈 | **GREGOR CLEGANE**, knight called the Mountain [Alive] | Powerful Lannister bannerman preparing for the tournament. | Kills a young Vale knight with a lance; Sansa subsequently hears how he burned his brother's face. | Away from Sansa and the court, conducting Lannister military operations as reported. |
-| 21 | **SER HUGH OF THE VALE**†, newly knighted Vale retainer [Deceased] | Young knight attached to the Vale and entered in the Hand's tourney. | Meets Gregor in the lists and is pierced through the throat by his lance. | Dies before Sansa's eyes, his body carried from the field. |
-| 22 | **BERIC DONDARRION**, lord of Blackhaven [Alive] | Young stormlands lord attending the tourney. | Fights in the jousts and later rides west with royal authority to pursue Gregor. | Last known departing King's Landing with an armed commission. |
-| 23 | **THOROS OF MYR**, red priest and tourney combatant [Alive] | Attending the tourney with Robert's court. | Unhorses Beric in a joust and remains prominent in discussions of the warriors of the realm. | Last physically seen on the tourney grounds. |
-| 24 | **ROBAR ROYCE**, Vale knight [Alive; injured] | Contesting the Hand's tourney. | Is unhorsed by Loras, carried off injured, and provides the occasion for Loras to offer Sansa a rose. | Last seen being borne from the joust field to receive care. |
+| 19 | **LORAS TYRELL**, Knight of Flowers | Young Reach knight riding toward the capital's festivities. | Unhorses **Robar Royce**, gives Sansa a red rose and receives her admiration. | 🟢 Away from the capital by Joffrey's reign; summoned to declare fealty. |
+| 🥈 | **GREGOR CLEGANE**, knight called the Mountain | Powerful Lannister bannerman preparing for the tournament. | Kills a young Vale knight with a lance; Sansa subsequently hears how he burned his brother's face. | 🟢 Away from Sansa and the court, conducting Lannister military operations as reported. |
+| 21 | **SER HUGH OF THE VALE**†, newly knighted Vale retainer | Young knight attached to the Vale and entered in the Hand's tourney. | Meets Gregor in the lists and is pierced through the throat by his lance. | 🗡 Dies before Sansa's eyes, his body carried from the field. |
+| 22 | **BERIC DONDARRION**, lord of Blackhaven | Young stormlands lord attending the tourney. | Fights in the jousts and later rides west with royal authority to pursue Gregor. | 🟢 Last known departing King's Landing with an armed commission. |
+| 23 | **THOROS OF MYR**, red priest and tourney combatant | Attending the tourney with Robert's court. | Unhorses Beric in a joust and remains prominent in discussions of the warriors of the realm. | 🟢 Last physically seen on the tourney grounds. |
+| 24 | **ROBAR ROYCE**, Vale knight | Contesting the Hand's tourney. | Is unhorsed by Loras, carried off injured, and provides the occasion for Loras to offer Sansa a rose. | 🟢 Last seen being borne from the joust field to receive care. |
 
 <a id="sansa-council"></a>
 ## 🏛️ Small Council & Royal Administration
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **PETYR BAELISH (LITTLEFINGER)**, Master of Coin [Alive] | Serving in Robert's royal government at King's Landing. | Remarks on Sansa's resemblance to Catelyn, takes responsibility for Jeyne Poole and supports the new administration. | Active on Joffrey's council, including at Sansa's plea for her father's life. |
-| 🥈 | **VARYS**, Master of Whisperers [Alive] | Serving Robert's court in King's Landing. | Helps Cersei question Sansa, seals her coerced letters and witnesses the petitions and new honours. | Continues to serve the new royal council. |
-| 🥈 | **GRAND MAESTER PYCELLE**, royal maester [Alive] | Serving the crown under Robert. | Denounces Ned as a traitor, guides Sansa's letters and announces Joffrey's new appointments. | Still advising the court and administering the king's decrees. |
-| 🥈 | **JANOS SLYNT**, commander of the City Watch; newly ennobled lord [Alive] | Commanding King's Landing's armed gold cloaks. | Enforces Joffrey's rule, receives Harrenhal and a council seat, and approves royal punishments. | Sits on the council as Lord Slynt, enforcing Joffrey's decisions. |
+| 🥈 | **PETYR BAELISH (LITTLEFINGER)**, Master of Coin | Serving in Robert's royal government at King's Landing. | Remarks on Sansa's resemblance to Catelyn, takes responsibility for Jeyne Poole and supports the new administration. | 🟢 Active on Joffrey's council, including at Sansa's plea for her father's life. |
+| 🥈 | **VARYS**, Master of Whisperers | Serving Robert's court in King's Landing. | Helps Cersei question Sansa, seals her coerced letters and witnesses the petitions and new honours. | 🟢 Continues to serve the new royal council. |
+| 🥈 | **GRAND MAESTER PYCELLE**, royal maester | Serving the crown under Robert. | Denounces Ned as a traitor, guides Sansa's letters and announces Joffrey's new appointments. | 🟢 Still advising the court and administering the king's decrees. |
+| 🥈 | **JANOS SLYNT**, commander of the City Watch; newly ennobled lord | Commanding King's Landing's armed gold cloaks. | Enforces Joffrey's rule, receives Harrenhal and a council seat, and approves royal punishments. | 🟢 Sits on the council as Lord Slynt, enforcing Joffrey's decisions. |
 
 <a id="sansa-guards"></a>
 ## ⚔️ Kingsguard & Armed Functionaries
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 29 | **BOROS BLOUNT**, Kingsguard knight [Alive] | Guarding the royal household under Robert. | Escorts the confined Sansa before Cersei and later attends Joffrey's court. | Serving as a white-cloaked guard under Joffrey. |
-| 30 | **MANDON MOORE**, Kingsguard knight [Alive] | Serving Robert's Kingsguard. | Receives Sansa at the council chamber and returns her to her rooms after she writes the letters. | Continues guarding the royal household. |
-| 31 | **MERYN TRANT**, Kingsguard knight [Alive] | In service to Robert's royal household. | Threatens Barristan at his dismissal and later repeatedly strikes Sansa on Joffrey's orders. | Remains with Joffrey's protection detail. |
-| 32 | **ARYS OAKHEART**, Kingsguard knight [Alive] | Sworn to protect the royal household. | Escorts Cersei during the enthronement and accompanies Joffrey into Sansa's room after Ned's death. | Continues serving the new king. |
-| 36 | **LANNISTER HOUSE GUARDS**, unnamed royal-security soldiers [Mixed / not individually tracked] | Guarding the queen and royal entourage. | Confine Sansa and Jeyne, restrict movement within the Red Keep and reinforce the new regime. | Remain in control of Sansa's accessible quarters and exits. |
-| 37 | **CITY WATCH GOLD CLOAKS**, King's Landing municipal guards [Mixed / not individually tracked] | Serving the city under Janos Slynt. | Secure gates and public courts; Sansa recalls them forcing her father down before his execution. | Defend Joffrey's authority and enforce judicial punishments. |
+| 29 | **BOROS BLOUNT**, Kingsguard knight | Guarding the royal household under Robert. | Escorts the confined Sansa before Cersei and later attends Joffrey's court. | 🟢 Serving as a white-cloaked guard under Joffrey. |
+| 30 | **MANDON MOORE**, Kingsguard knight | Serving Robert's Kingsguard. | Receives Sansa at the council chamber and returns her to her rooms after she writes the letters. | 🟢 Continues guarding the royal household. |
+| 31 | **MERYN TRANT**, Kingsguard knight | In service to Robert's royal household. | Threatens Barristan at his dismissal and later repeatedly strikes Sansa on Joffrey's orders. | 🟢 Remains with Joffrey's protection detail. |
+| 32 | **ARYS OAKHEART**, Kingsguard knight | Sworn to protect the royal household. | Escorts Cersei during the enthronement and accompanies Joffrey into Sansa's room after Ned's death. | 🟢 Continues serving the new king. |
+| 36 | **LANNISTER HOUSE GUARDS**, unnamed royal-security soldiers | Guarding the queen and royal entourage. | Confine Sansa and Jeyne, restrict movement within the Red Keep and reinforce the new regime. | ⚪️ Remain in control of Sansa's accessible quarters and exits. Individual members' subsequent conditions are not fully tracked. |
+| 37 | **CITY WATCH GOLD CLOAKS**, King's Landing municipal guards | Serving the city under Janos Slynt. | Secure gates and public courts; Sansa recalls them forcing her father down before his execution. | ⚪️ Defend Joffrey's authority and enforce judicial punishments. Individual members' subsequent conditions are not fully tracked. |
 
 <a id="sansa-other"></a>
 ## 🐎 Riverbank & Court Figures
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 33 | **MYCAH**†, butcher's boy [Deceased] | With the royal travelling camp, playing swords with Arya at the river. | Is threatened by Joffrey, who cuts his face, then flees during the encounter. | Killed after fleeing, as Sansa learns following the incident. |
-| 34 | **DONTOS HOLLARD**, court knight [Alive] | Attached to the capital's courtly and tourney circles. | Attempts to greet Sansa at Joffrey's court but withdraws when another knight warns him. | Continues at court, avoiding public association with Sansa. |
-| 35 | **BALON SWANN**, knight and courtier [Alive] | Serving among Robert's courtly knights. | Is unhorsed by Gregor at the tourney and later signals Dontos not to approach Sansa. | Present among Joffrey's court, maintaining distance from her. |
+| 33 | **MYCAH**†, butcher's boy | With the royal travelling camp, playing swords with Arya at the river. | Is threatened by Joffrey, who cuts his face, then flees during the encounter. | 🗡 Killed after fleeing, as Sansa learns following the incident. |
+| 34 | **DONTOS HOLLARD**, court knight | Attached to the capital's courtly and tourney circles. | Attempts to greet Sansa at Joffrey's court but withdraws when another knight warns him. | 🟢 Continues at court, avoiding public association with Sansa. |
+| 35 | **BALON SWANN**, knight and courtier | Serving among Robert's courtly knights. | Is unhorsed by Gregor at the tourney and later signals Dontos not to approach Sansa. | 🟢 Present among Joffrey's court, maintaining distance from her. |
 
 <p align="right"><a href="#sansa-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
