@@ -12,7 +12,7 @@
 
 **JON SNOW** · **SAMWELL TARLY** · **JEOR MORMONT** · **CRASTER** · **QHORIN HALFHAND** · **YGRITTE**
 
-**Repository:** [COK Reading Index](README.md) · [Series Reading Index](../README.md) · [COK CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-6) (full-book spoilers) · [COK MCM](ROM_MCM_COK.md) (provisional; full-book spoilers)
+**Repository:** [COK Reading Index](README.md) · [Series Reading Index](../README.md) · [COK CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-6) (full-book spoilers) · [COK MCM](ROM_MCM_COK.md) (priority-verified; full-book spoilers)
 
 <a id="cok-jon-toc"></a>
 ## Table of Contents
@@ -99,14 +99,16 @@ Near a rocky cave, Qhorin and Jon recite the vows of the Watch. Qhorin requires 
 <a id="cok-jon-rollcall"></a>
 # 5. Roll Call
 
-**Character reference:** [COK ROM MCM](ROM_MCM_COK.md), **Provisional — Priority Issues**, for book-level significance, with direct-presence confirmation restricted to Jon's eight selected chapters. The complete source census was filtered by the SROMX minimum character inclusion threshold, and independently identifiable actors were separated from reported-only or remembered figures.
+**Character reference:** [COK ROM MCM](ROM_MCM_COK.md), **Satisfactory for Use — Priority Verified**, for book-level significance, with direct-presence confirmation restricted to Jon's eight selected chapters. The complete source census was filtered by the SROMX minimum character inclusion threshold, and independently identifiable actors were separated from reported-only or remembered figures.
 
-**Character entries:** **23 total | 1 Principal | 5 Supporting | 16 Tertiary | 1 Collective | 4 confirmed deaths**.
+**Character entries:** **23 Total | 1 Principal | 5 Supporting | 16 Tertiary | 1 Collective | 4 confirmed deaths**.
 
-*The 4 confirmed Scope-local deaths are 2 wildling sentries killed at the watchfire in **COK Ch. 51**, **Ebben** (whose severed head establishes his death in **COK Ch. 68**) and **Qhorin Halfhand** in **COK Ch. 68**. **Squire Dalbridge** stays behind and is presumed lost, but Jon does not see his death; **Stonesnake**'s fate likewise remains unresolved at this boundary. These qualifications preserve Jon's available evidence even where the provisional bookwide MCM uses a firmer classification.*
+*The 4 confirmed Scope-local deaths are 2 wildling sentries killed at the watchfire in **COK Ch. 51**, **Ebben** (whose severed head establishes his death in **COK Ch. 68**) and **Qhorin Halfhand** in **COK Ch. 68**. **Squire Dalbridge** stays behind and is presumed lost, but Jon does not see his death; **Stonesnake**'s fate likewise remains unresolved at this boundary. These qualifications preserve Jon's available evidence even where the priority-verified bookwide MCM uses a firmer classification.*
 
 <a id="cok-jon-ranging"></a>
 ## 🛡️ The Lord Commander's Ranging
+
+### Command, Companions and Ghost
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
@@ -115,6 +117,11 @@ Near a rocky cave, Qhorin and Jon recite the vows of the Watch. Qhorin requires 
 | 🥈 | **JEOR MORMONT**, Lord Commander of the Night's Watch | Assembles the Great Ranging at **Castle Black**, with **Jon** serving as steward. | Leads the search through evacuated settlements and **Craster's Keep**, establishes the **Fist** camp and commissions **Qhorin's** scouting mission. | 🟢 At the **Fist of the First Men**, awaiting information from the scouts; Jon has not returned. |
 | 4 | **DONAL NOYE**, one-armed Castle Black smith | At **Castle Black**, overseeing the armory and advising the younger sworn brothers. | Talks with **Jon** about the **Baratheon** brothers and the consequences of rival royal ambitions. | 🟢 Remaining at **Castle Black** when Jon departs on the ranging. |
 | 5 | **GHOST**, Jon's white direwolf | Accompanies **Jon** at **Castle Black**, closely bonded to him and responsive to his commands. | Ranges ahead of the Watch, discovers the hidden dragonglass cache, participates in Jon's wolf dream, survives an eagle attack and wounds **Qhorin** during their duel. | 🟢 With Jon among the free folk in the **Frostfangs** after Qhorin's death. |
+
+### Other Men of the Night's Watch
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 6 | **THOREN SMALLWOOD**, Night's Watch ranging officer | Serving in **Mormont's** planned northern expedition. | Scouts and debates the defensibility of the **Fist**, urging more aggressive action while worrying that **Mance** may be nearby. | 🟢 Remaining with the main Watch force at the Fist when Jon joins Qhorin. |
 | 7 | **DYWEN**, experienced Watch ranger and woodsman | Serving with the Watch's northern foragers and pathfinders. | Examines deserted villages, comments on dwindling game and warns Jon about Craster's household. | 🟢 Last observed with the main ranging; no later individual outcome in Jon's Scope. |
 | 8 | **EDDISON TOLLETT (DOLOROUS EDD)**, sworn brother and steward | Serving under **Jeor Mormont** during preparations for the Great Ranging. | Trades grim observations with his fellow brothers and helps sustain the Watch's main party as its fears grow. | 🟢 Still with Mormont's Watch contingent when Jon departs the Fist. |
@@ -183,7 +190,7 @@ Near a rocky cave, Qhorin and Jon recite the vows of the Watch. Qhorin requires 
 
 > **Presence and Source Boundary — Applies to: Sections 3–6:** Only scenes physically enacted in Jon's selected chapters establish SROMX Present membership and cinematic participation. **Robb**, **Maester Aemon**, **Benjen**, **Mance**, **Bael**, historical figures in **Mormont's** family history, and **Bran** in the wolf dream do not gain Roll Call membership merely from reports, reminiscences or dreams. The wolf dream belongs to Jon's experienced narrative, but Bran is not reclassified as physically present in the ordinary enacted layer. The eagle is a material, physically acting adversary whose repeated surveillance and attack qualify it for an individual Tertiary Row. The link to one slain wildling is limited to Jon's source-grounded understanding; an independent identity or further history is not invented.
 
-> **Bookwide Significance — Applies to: Section 5:** Tier marks for ranked named people follow [COK ROM MCM](ROM_MCM_COK.md), which is **Provisional — Priority Issues**. **Jon** is Principal; **Sam**, **Mormont**, **Craster**, **Qhorin** and **Ygritte** are Supporting. Tertiary source participants include **Ghost**, officers, wildling raiders, the physically acting eagle and Craster's daughter Gilly. Nonindividuated wives are consolidated into a separate Collective Functionary Entry, without duplicating individually listed Gilly. The two individually acting watchfire sentries are kept separate: one reaches for the horn, the other attacks Jon with a firebrand.
+> **Bookwide Significance — Applies to: Section 5:** Tier marks for ranked named people follow [COK ROM MCM](ROM_MCM_COK.md), which is **Satisfactory for Use — Priority Verified**. **Jon** is Principal; **Sam**, **Mormont**, **Craster**, **Qhorin** and **Ygritte** are Supporting. Tertiary source participants include **Ghost**, officers, wildling raiders, the physically acting eagle and Craster's daughter Gilly. Nonindividuated wives are consolidated into a separate Collective Functionary Entry, without duplicating individually listed Gilly. The two individually acting watchfire sentries are kept separate: one reaches for the horn, the other attacks Jon with a firebrand.
 
 > **Deaths and unresolved fates — Applies to: Section 5:** The two Skirling Pass sentries, Ebben and Qhorin comprise **4 confirmed deaths** within the specified source spans; Ebben dies outside the directly witnessed action but his severed head is shown to Jon within **Ch. 68**. The bookwide MCM classifies **Squire Dalbridge** as deceased, but Jon's scoped account establishes his decision to hold the pass and subsequent pursuit horns rather than an observed corpse or definitive narrated death; his SROMX closing marker therefore preserves presumed/uncertain fate. Stonesnake's independent escape is similarly unresolved. The MCM's more definitive all-book inference is not silently substituted into this POV-boundary snapshot.
 
