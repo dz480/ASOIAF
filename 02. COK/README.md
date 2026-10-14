@@ -21,6 +21,8 @@ This folder is the canonical destination for all published COK-specific readthro
 
 - [SROMX | Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) · 10 Arya chapters (COK Ch. 1, 5, 9, 14, 19, 26, 30, 38, 47, 64); 45,863 source words. **Spoilers through Ch. 64.**
 
+- [SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) · 8 POV chapters: Ch. 2, 18, 32, 52, 57, 60, 62 and 65. **Spoilers through COK Ch. 65**.
+
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
 The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).
