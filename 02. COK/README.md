@@ -13,9 +13,12 @@ This folder is the canonical destination for all published COK-specific readthro
 
 ## Published COK records
 
+- [Cross-POV SROMX Reconciliation Audit](SROMX_CROSS_POV_RECONCILIATION_AUDIT.md) · 10 POV records cross-compared; 18 named MCM omissions added, 17 prior tier conflicts corrected and targeted source discrepancies resolved. See audit scope limitation for exhaustive sentence-level validation.
+
+
 - [ROM CSRM | Prologue + Ch. 1–69 | Full Book](ROM_CSRM_ACOK.md) · Nine retrospective Sequences, chapter-level recall and externally reconstructed 299 AC dates. **Full COK spoilers.**
 
-- [ROM MCM | Prologue + Ch. 1–69 | Full Book](ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES.** Reconstructed COK-only participant roster (263 qualifying candidates), with original GOT continuity baselines and source-screened current-book appearance counts. No inherited GOT-deceased/offstage roster entries. **Full COK spoilers.**
+- [ROM MCM | Prologue + Ch. 1–69 | Full Book](ROM_MCM_COK.md) · **SATISFACTORY FOR USE — PRIORITY VERIFIED.** Reconstructed COK-only participant roster (281 qualifying named individuals), with original GOT continuity baselines and source-screened current-book appearance counts. No inherited GOT-deceased/offstage roster entries. **Full COK spoilers.**
 
 - [SROMX | Maester Cressen | Full Book](SROMX_COK_POV_CRESSEN.md) · Prologue only; **spoilers through COK Prologue**.
 
