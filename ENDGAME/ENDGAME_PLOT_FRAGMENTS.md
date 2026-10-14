@@ -12,6 +12,8 @@
 
 ---
 
+<a id="endgame-toc"></a>
+
 **Table of Contents**
 
 - [1. Purpose](#endgame-01)
@@ -30,6 +32,8 @@
 Collect loose endgame ideas **now**, without committing to a particular outcome, chronology, or overarching solution. After completing and studying the existing books' MNTs, especially those left unresolved by AFFC and ADWD, assess which ideas fit Martin's established narrative conditions and which must be revised, connected, rejected, or left open.
 
 The eventual project is **not a replacement fanfiction**. It is a personal attempt to infer where GRRM's unfinished novels are heading by combining textual evidence, existing theories, television-derived signals, and independent interpretation, with their status and provenance made clear.
+
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
 
 ---
 
@@ -52,6 +56,8 @@ The eventual project is **not a replacement fanfiction**. It is a personal attem
 | **VIII. The Long Night** | **E11:** Jon and Daenerys meet. Winterfell becomes a centre of resistance. **E13:** Daenerys ultimately sacrifices herself to defeat the Others. | The southern kingdoms remain devastated and largely ignorant of the full scale of the supernatural war. | **E12:** Jon rides another dragon and kills Euron and the enslaved dragon, which cannot escape its binding. |
 | **IX. The New Order** | **E14–E15:** The North remembers Daenerys as its saviour. Jon rejects the Iron Throne and journeys beyond the former Wall. | **E14–E16:** Daenerys remains reviled in the South. Bran becomes king and begins rebuilding King's Landing, with his ultimate motives left ambiguous. | Euron is dead. The surviving Greyjoys and Iron Islands face an uncertain political settlement. |
 
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
+
 ---
 
 <a id="endgame-03"></a>
@@ -69,6 +75,8 @@ The timeline deliberately leaves several causal and chronological transitions un
 
 These are **open research problems**, rather than missing scenes to be filled by assumption.
 
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
+
 ---
 
 <a id="endgame-04"></a>
@@ -83,6 +91,8 @@ These are **research prompts, not automatic story commitments**:
 - A dragon's involvement in the destruction of the Wall, with a book-consistent magical mechanism.
 
 A later evidence audit must distinguish **events explicitly traced to GRRM** from television writers' decisions and from independent fan theories.
+
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
 
 ---
 
@@ -100,6 +110,8 @@ A later evidence audit must distinguish **events explicitly traced to GRRM** fro
 
 When the MNT reviews are complete, **split these broad groups into one row per fragment**, attach direct links to the actual published MNT records, identify supportive and contradictory evidence, and track theory provenance without implying authorship of borrowed ideas.
 
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
+
 ---
 
 <a id="endgame-06"></a>
@@ -114,6 +126,8 @@ When the MNT reviews are complete, **split these broad groups into one row per f
 - Which threads and characters omitted from these fragments need independent resolutions?
 - Where multiple theories compete, can uncertainty remain explicit instead of being concealed by a preferred answer?
 
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
+
 ---
 
 <a id="endgame-07"></a>
@@ -124,6 +138,8 @@ When the MNT reviews are complete, **split these broad groups into one row per f
 3. **Keep certainty honest.** A compelling scenario remains a hypothesis until it survives scrutiny against the novel MNTs.
 4. **Respect literary causality.** Evaluate politics, institutions, character psychology, foreshadowing and magical constraints alongside plot resemblance.
 5. **Revise freely.** Entries may be amended, split, merged, contradicted or discarded. Nothing in this file constitutes a final reconstruction.
+
+<p align="right"><a href="#endgame-toc" title="Return to Table of Contents"><kbd>↑ TOC</kbd></a></p>
 
 ---
 
