@@ -66,6 +66,11 @@ The nine completed full-book POV records are listed in order of their first narr
 
 - [SROMX | Daenerys Targaryen | Full Book](02.%20COK/SROMX_COK_POV_DAENERYS.md) · 5 POV chapters: Ch. 12, 27, 40, 48 and 63. **Spoilers through COK Ch. 63**.
 
+## Book 3: A Storm of Swords (SOS)
+
+- [ROM CSRM | Prologue + Ch. 1–80 + Epilogue | Whole Book](03.%20SOS/ROM_CSRM_SOS.md) · 82 narrative units grouped into 11 retrospective Sequences, with approximate externally referenced chronology. **Full SOS spoilers.**
+- [ROM MCM | Whole Book](03.%20SOS/ROM_MCM_SOS.md) · Whole-book character map and chapter participation baseline; priority-presence audit pending. **Full SOS spoilers.**
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
