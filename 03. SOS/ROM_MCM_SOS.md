@@ -738,7 +738,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | 7. Factual significance audit | Confirm classifications, promoted thresholds, source-grounded statuses and inclusion threshold | Open |
 | 8. Final certification | Reconcile all validation requirements, commit and verify Priority Verified status | Open |
 
-**Priority source denominator and auditable progress:** **125/408 SOS priority assertions source-adjudicated (30.6%)**, covering **27/79 full character appearance lists (34.2%)**. This is a source-evidence count separate from the eight-gate milestone score. The 27 identity lists are named under the audit sign-off below; the 283 remaining registered claims across 52 identities are not individually certified. This is a declared and reproducible sign-off baseline rather than equating lexical hits or arithmetic checks with primary-text presence.
+**Priority source denominator and auditable progress:** **232/408 SOS priority assertions source-adjudicated (56.9%)**, covering **50/79 full character appearance lists (63.3%)**. This is a source-evidence count separate from the eight-gate milestone score. The 50 completed identity lists are recorded in the two consecutive audit cohorts below; the 176 remaining registered claims across 29 identities are not individually certified. This is a declared and reproducible sign-off baseline rather than equating lexical hits or arithmetic checks with primary-text presence.
 
 **Fixed endpoint and reporting:** Final completion means eight of eight gates meet the manual's requirements. Each future certification report must show (a) gates completed and percentage, (b) supported counts of fully source-audited priority characters or claims when available, (c) changes to the 408-assertion denominator and (d) the specific remaining obstacles. A further turn or additional commit alone is never progress against a gate.
 
@@ -860,7 +860,20 @@ Replaced **17 remaining generic Principal/Supporting identity descriptions** wit
 - **Non-POV character lists (17 characters, 34 SOS appearances):** Craster (1); Grey Worm (3); Kraznys mo Nakloz (2); Sybell Westerling (1); Dalla (3); Harma (2); Ilyn Payne (1); Lancel Lannister (1); Gregor Clegane (1); Lysa Arryn (2); Roslin Frey (2); Ryman Frey (2); Walder Frey (2); Cleos Frey (3); Mance Rayder (3); Beric Dondarrion (3); Salladhor Saan (2). These characters have named/alias-specific participation in each listed unit, and their other in-book name references were reviewed for absent-character usage. In particular, Jon directly sees Dalla in the wildling camp in Ch. 69; Harma participates in Ch. 73; Gregor fights in Ch. 70; and Beric is present in Ch. 34, 39 and 43.
 - **Historical cross-check already closed separately:** Beric's directly observed departure in GOT Ch. 44 restores his pre-SOS baseline to **4** and cumulative SOS count to **7**; Gilly, Qyburn and Kevan's earlier-book source counts were separately reconciled in the preceding primary-text adjudications.
 
-**Audit accounting:** 91 POV-list claims + 34 non-POV-list claims = **125 signed SOS assertions**; **27 signed character lists**. Of the 408 registered chapter marks, **283** remain for direct-presence adjudication, including checks for credible omitted appearances. This sign-off should only be revised when specific further evidence justifies it. Overall milestone progress stays at **5/8 gates (62.5%)** until a complete gate is closed.
+**Audit accounting, Cohort A:** 91 POV-list claims + 34 non-POV-list claims = **125 signed SOS assertions**; **27 signed character lists**. These remain included in the cumulative audit total below. Overall milestone progress remains **5/8 gates (62.5%)** until an outstanding gate is fully closed.
+
+### Additional priority presence source sign-offs (14 Oct 2026)
+
+**Cohort B: 23 further characters, 107 additional SOS chapter assertions.** Each signed entry was matched to enacted narration in the supplied SOS EPUB, with relevant aliases or descriptions resolved and competing mere mentions checked elsewhere in the 82 units.
+
+- **Bran's party:** Hodor (4); Meera Reed (4); Jojen Reed (4). Their four appearances each coincide with Bran's narrated chapters and include direct exchanges and travelling action.
+- **Night's Watch and the free folk:** Gilly (4, including Samwell's escape and Bran's Black Gate encounter); Tormund (4, including direct observation through the far-eye in Ch. 69); Varamyr (3, including the Ch. 69 far-eye observation); Val (5, including her bedside and nursing scenes); Ygritte (7, including her fully enacted fever-dream participation in Ch. 48); Styr (6, through the Castle Black assault).
+- **Daenerys's entourage:** Barristan Selmy (6, including his Arstan Whitebeard identity); Jorah Mormont (6); Daario Naharis (3); Missandei (5, including the anonymous slave interpreter in Ch. 23 who is identified subsequently).
+- **Dragonstone and Harrenhal:** Edric Storm (3); Qyburn (4, including physical company with Jaime in Ch. 62); Brienne of Tarth (8).
+- **Riverlands, northern host and Freys:** Brynden Tully (3); Edmure Tully (7); Greatjon Umber (6); Jeyne Westerling (4, including her appearances as Queen Jeyne); Rickard Karstark (2).
+- **King's Landing and Tyrell court:** Margaery Tyrell (5, including the dramatised Sansa recollection in Ch. 16 and her appearance at the post-wedding feast in Ch. 28); Olenna Tyrell (4, including the Queen of Thorns at the Ch. 28 feast and Margaery's grandmother present in the Ch. 66 trial gallery).
+
+**Cumulative audit accounting:** 27 prior identities / 125 chapter assertions + **23 newly signed identities / 107 chapter assertions** = **50 of 79 priority character lists verified (63.3%)** and **232 of 408 current-book priority chapter assertions (56.9%)**. The outstanding portion is **29 character lists, containing 176 registered chapter assertions**, plus explicit checks for eligible omitted enacted appearances. The final acceptance score remains **5/8 = 62.5%**, since Gate 5 is not yet complete.
 
 ### Remaining verification issues
 
