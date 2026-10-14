@@ -3,7 +3,8 @@
 **Protocol:** ROM CSRM v10.29 | **Scope:** Whole Book (Prologue + Ch. 1–80 + Epilogue)  
 **Chronology:** Calendar-first, ≈ estimated (PrivateMajor external reconstruction) | **RSDP:** Not established  
 **Source:** Complete reader-supplied Random House 2003 SOS EPUB; verified RTE inventory (82 narrative units)  
-**Status:** Advance-built whole-book master; **FULL SOS SPOILERS**. Not a reading-point update.  
+**Status:** Reconciled whole-book master; **FULL SOS SPOILERS**. Not a reading-point update.  
+**Reconciliation:** 14 Oct 2026 | EPUB chapter-grounded corrections to cast, chronology, event descriptions and display fields.  
 **Project:** [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md) · [Reading Index](../README.md) · [SOS MCM](ROM_MCM_SOS.md)
 
 > **Date evidence:** [PrivateMajor, *ASOIAF Timeline — Vandal Proof*](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit) ([readable mirror](https://www.scribd.com/document/422966422/ASOIAF-Timeline-Vandal-Proof)). The table's month/day assignments are fan inference, **not canonical exact dates**; entries may span multiple days and POV lines run concurrently. This record preserves source publication order and uses approximate day ranges where events extend over time. The primary EPUB, not external chapter numbers or plot paraphrases, controls the event mapping. The counterpart [GOT](../01.%20GOT/ROM_CSRM_AGOT.md) and [COK](../02.%20COK/ROM_CSRM_ACOK.md) CSRMs establish the same methodology. RTE supplied no locked SEQ allocation for SOS, so the retrospective groups here follow contiguous narrative movement.
@@ -31,7 +32,7 @@
 
 **≈1 Nov 299 AC**  
 *Fist of the First Men*  
-**CHETT** · **JEOR MORMONT** · **SAMWELL TARLY**
+**JEOR MORMONT** · **SAMWELL TARLY**
 
 **Chett**'s conspiracy to desert and murder his fellow brothers collapses when the Night's Watch hears 3 horn blasts announcing an assault by the Others.
 
@@ -40,18 +41,18 @@
 
 **≈16 Sep 299 AC**  
 *Red Fork* · *Riverlands*  
-**JAIME LANNISTER** · **BRIENNE OF TARTH**
+**JAIME LANNISTER** · **BRIENNE OF TARTH** · **CLEOS FREY**
 
-**Freed** by Catelyn, Jaime travels downriver with Brienne and Cleos Frey; the group evades pursuers from Riverrun after witnessing the war's devastation.
+Freed by Catelyn, Jaime travels downriver with Brienne and Cleos Frey; the group evades pursuers from Riverrun after witnessing the war's devastation.
 
 <a id="sos-csrm-ch-2"></a>
 ### Ch. 2: Catelyn I
 
 **≈16–18 Sep 299 AC**  
 *Riverrun*  
-**CATELYN STARK** · **EDMURE TULLY** · **BRYNDEN TULLY**
+**CATELYN STARK** · **EDMURE TULLY**
 
-**Confined** for freeing Jaime, Catelyn attends her dying father and challenges Edmure over attempts to recapture the prisoner she exchanged for her daughters.
+Confined for freeing Jaime, Catelyn attends her dying father and challenges Edmure over attempts to recapture the prisoner she exchanged for her daughters.
 
 <a id="sos-csrm-ch-3"></a>
 ### Ch. 3: Arya I
@@ -67,7 +68,7 @@
 
 **≈5 Oct 299 AC**  
 *King's Landing*  
-**TYRION LANNISTER** · **TYWIN LANNISTER** · **CERSEI LANNISTER**
+**TYRION LANNISTER** · **BRONN** · **PODRICK PAYNE** · **MERYN TRANT** · **TYWIN LANNISTER**
 
 **Tyrion** awakens disfigured after the Blackwater battle and discovers his political power lost; Tywin rebuffs his demand for Casterly Rock and denies him acknowledgement.
 
@@ -76,16 +77,16 @@
 
 **≈13 Oct 299 AC**  
 *Blackwater Bay* · *Dragonstone approaches*  
-**DAVOS SEAWORTH** · **SALLADHOR SAAN**
+**DAVOS SEAWORTH**
 
 **Davos** survives stranded on a rock after the Blackwater disaster, mourns his sons and is rescued by a ship belonging to Salladhor Saan's fleet.
 
 <a id="sos-csrm-ch-6"></a>
 ### Ch. 6: Sansa I
 
-**≈20–30 Oct 299 AC**  
+**≈25–30 Oct 299 AC**  
 *King's Landing* · *Red Keep*  
-**SANSA STARK** · **MARGAERY TYRELL** · **OLENNA TYRELL**
+**SANSA STARK** · **MARGAERY TYRELL** · **OLENNA TYRELL** · **LORAS TYRELL**
 
 **Sansa** dines with Margaery and Olenna, reveals Joffrey's cruelty and receives a marriage proposal involving Willas Tyrell that seems to offer escape.
 
@@ -94,7 +95,7 @@
 
 **≈15 Oct 299 AC**  
 *Milkwater* · *wildling camp*  
-**JON SNOW** · **YGRITTE** · **MANCE RAYDER** · **TORMUND GIANTSBANE**
+**JON SNOW** · **YGRITTE** · **MANCE RAYDER** · **TORMUND GIANTSBANE** · **DALLA** · **STYR** · **VAL**
 
 **Jon** infiltrates Mance Rayder's camp under Qhorin's final orders, meets the king-beyond-the-Wall and claims that Stark mistreatment drove him to desert.
 
@@ -105,7 +106,7 @@
 *Summer Sea* · *aboard Balerion*  
 **DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY**
 
-**Sailing** towards Astapor, Daenerys considers how to acquire an army while meeting Arstan Whitebeard and Strong Belwas among Illyrio's envoys.
+Sailing towards Astapor, Daenerys considers how to acquire an army while meeting Arstan Whitebeard and Strong Belwas among Illyrio's envoys.
 
 <a id="sos-csrm-ch-9"></a>
 ### Ch. 9: Bran I
@@ -129,23 +130,23 @@
 *Dragonstone*  
 **DAVOS SEAWORTH** · **SALLADHOR SAAN** · **EDRIC STORM**
 
-**Back** at Dragonstone, Davos hears of Melisandre's growing power, resolves to kill her and is arrested after meeting Robert's bastard Edric Storm.
+Back at Dragonstone, Davos hears of Melisandre's growing power, resolves to kill her and is arrested after meeting Robert's bastard Edric Storm.
 
 <a id="sos-csrm-ch-11"></a>
 ### Ch. 11: Jaime II
 
 **≈29 Sep 299 AC**  
 *Inn of the Kneeling Man* · *Riverlands*  
-**JAIME LANNISTER** · **BRIENNE OF TARTH**
+**JAIME LANNISTER** · **BRIENNE OF TARTH** · **CLEOS FREY**
 
-**At** a riverside inn, Brienne exchanges their boat for horses; Jaime reflects bitterly on his kingslaying as the travellers avoid potential betrayal.
+At a riverside inn, Brienne exchanges their boat for horses; Jaime reflects bitterly on his kingslaying as the travellers avoid potential betrayal.
 
 <a id="sos-csrm-ch-12"></a>
 ### Ch. 12: Tyrion II
 
-**≈late Oct 299 AC**  
+**≈25 Oct 299 AC**  
 *King's Landing* · *Red Keep*  
-**TYRION LANNISTER** · **VARYS** · **SHAE**
+**TYRION LANNISTER** · **VARYS** · **BRONN** · **LORAS TYRELL** · **PODRICK PAYNE** · **SHAE**
 
 **Varys** secretly arranges Tyrion's reunion with Shae; Tyrion fears discovery yet cannot bring himself to abandon their relationship.
 
@@ -163,7 +164,7 @@
 
 **≈2 Nov 299 AC**  
 *Riverrun*  
-**CATELYN STARK** · **ROBB STARK** · **JEYNE WESTERLING** · **EDMURE TULLY**
+**CATELYN STARK** · **ROBB STARK** · **JEYNE WESTERLING** · **EDMURE TULLY** · **BRYNDEN TULLY** · **GREATJON UMBER** · **SYBELL WESTERLING**
 
 **Robb** returns with his new wife Jeyne Westerling, and his breach of the Frey marriage pact imperils his alliance while he rebukes Edmure's campaign decisions.
 
@@ -172,7 +173,7 @@
 
 **≈11 Nov 299 AC**  
 *Fist of the First Men* · *wildling camp*  
-**JON SNOW** · **YGRITTE** · **MANCE RAYDER** · **TORMUND GIANTSBANE**
+**JON SNOW** · **YGRITTE** · **MANCE RAYDER** · **TORMUND GIANTSBANE** · **STYR** · **HARMA** · **VARAMYR**
 
 **Mance** inspects the devastated Fist and interrogates Jon's account; Ygritte protects Jon by claiming him as her lover, securing his place in a climbing party.
 
@@ -181,16 +182,16 @@
 
 **≈6 Nov 299 AC**  
 *King's Landing* · *Red Keep*  
-**SANSA STARK** · **DONTOS HOLLARD** · **OLENNA TYRELL**
+**SANSA STARK** · **MARGAERY TYRELL**
 
-**Sansa** confides the prospective Tyrell marriage to Dontos, who warns that powerful families covet her claim to Winterfell.
+Sansa is fitted for a splendid gown ordered by **Cersei**, while **Margaery**'s friendship sustains her hopes of marrying Willas Tyrell. She recalls **Dontos** warning that the Tyrells covet her inheritance and insisting she keep his promised escape plan.
 
 <a id="sos-csrm-ch-17"></a>
 ### Ch. 17: Arya III
 
 **≈late Oct 299 AC**  
 *Riverlands* · *Brotherhood encampments*  
-**ARYA STARK** · **GENDRY** · **HARWIN**
+**ARYA STARK** · **GENDRY** · **HARWIN** · **BERIC DONDARRION** · **THOROS OF MYR**
 
 **Arya** learns that Beric's brotherhood intends to ransom her; Hot Pie stays at an inn and Arya's attempt to escape the escort fails.
 
@@ -201,23 +202,23 @@
 *Haunted Forest* · *retreat from the Fist*  
 **SAMWELL TARLY** · **GRENN** · **SMALL PAUL**
 
-**After** the Others rout the Great Ranging, Sam struggles to flee and kills an Other with a dragonglass dagger after it slays Small Paul.
+After the Others rout the Great Ranging, Sam struggles to flee and kills an Other with a dragonglass dagger after it slays Small Paul.
 
 <a id="sos-csrm-ch-19"></a>
 ### Ch. 19: Tyrion III
 
 **≈3 Nov 299 AC**  
 *King's Landing* · *Red Keep*  
-**TYRION LANNISTER** · **TYWIN LANNISTER** · **CERSEI LANNISTER** · **PETYR BAELISH**
+**TYRION LANNISTER** · **TYWIN LANNISTER** · **CERSEI LANNISTER** · **PETYR BAELISH** · **KEVAN LANNISTER** · **VARYS** · **GRAND MAESTER PYCELLE**
 
-**The** small council sends Littlefinger to court Lysa Arryn and makes Tyrion master of coin; Tywin thwarts the Tyrells' Sansa plan by ordering Tyrion to marry her.
+The small council sends Littlefinger to court Lysa Arryn and makes Tyrion master of coin; Tywin thwarts the Tyrells' Sansa plan by ordering Tyrion to marry her.
 
 <a id="sos-csrm-ch-20"></a>
 ### Ch. 20: Catelyn III
 
 **≈8 Nov 299 AC**  
 *Riverrun*  
-**CATELYN STARK** · **ROBB STARK** · **RICKARD KARSTARK**
+**CATELYN STARK** · **ROBB STARK** · **RICKARD KARSTARK** · **EDMURE TULLY** · **BRYNDEN TULLY** · **GREATJON UMBER** · **JEYNE WESTERLING**
 
 Rickard Karstark murders Lannister captives in revenge for his sons; Robb executes him despite the political cost of losing his men's loyalty.
 
@@ -232,25 +233,25 @@ Rickard Karstark murders Lannister captives in revenge for his sons; Robb execut
 
 **≈4 Nov 299 AC**  
 *Riverlands* · *road to Harrenhal*  
-**JAIME LANNISTER** · **BRIENNE OF TARTH**
+**JAIME LANNISTER** · **BRIENNE OF TARTH** · **CLEOS FREY** · **VARGO HOAT**
 
-**After** Cleos is killed, Jaime fights Brienne but both are captured by Vargo Hoat's Brave Companions; Hoat has Jaime's sword hand severed.
+After **Cleos Frey** is killed, **Jaime** fights **Brienne**, but both fall captive to **Vargo Hoat**'s Brave Companions. At Hoat's command, Zollo cuts off Jaime's sword hand.
 
 <a id="sos-csrm-ch-22"></a>
 ### Ch. 22: Arya IV
 
 **≈12 Nov 299 AC**  
 *High Heart* · *Acorn Hall*  
-**ARYA STARK** · **GENDRY** · **HARWIN**
+**ARYA STARK** · **GENDRY** · **HARWIN** · **THOROS OF MYR**
 
-**The** Brotherhood carries Arya through High Heart, where a prophetic dream is interpreted, and to Lady Smallwood's hall before continuing the search for Beric.
+The Brotherhood carries Arya through High Heart, where a prophetic dream is interpreted, and to Lady Smallwood's hall before continuing the search for Beric.
 
 <a id="sos-csrm-ch-23"></a>
 ### Ch. 23: Daenerys II
 
 **≈2 Oct 299 AC**  
 *Astapor*  
-**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY**
+**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **KRAZNYS MO NAKLOZ**
 
 **Daenerys** inspects the brutally trained Unsullied and hears Kraznys's contemptuous sales pitch, secretly understanding his Valyrian and debating the ethics of buying an army.
 
@@ -270,14 +271,14 @@ Meera recounts the tale of the Knight of the Laughing Tree during their journey,
 *Dragonstone* · *dungeon*  
 **DAVOS SEAWORTH** · **MELISANDRE** · **ALESTER FLORENT**
 
-**Imprisoned** for threatening Melisandre, Davos debates her account of the battle and rejects Alester Florent's proposal to surrender Stannis's claim.
+Imprisoned for threatening Melisandre, Davos debates her account of the battle and rejects Alester Florent's proposal to surrender Stannis's claim.
 
 <a id="sos-csrm-ch-26"></a>
 ### Ch. 26: Jon III
 
 **≈1 Dec 299 AC**  
 *Cave north of the Wall*  
-**JON SNOW** · **YGRITTE**
+**JON SNOW** · **YGRITTE** · **STYR**
 
 **Jon** and Ygritte deepen their relationship in a hidden cave while Jon weighs love for her against his Night's Watch duties.
 
@@ -286,7 +287,7 @@ Meera recounts the tale of the Knight of the Laughing Tree during their journey,
 
 **≈4 Oct 299 AC**  
 *Astapor*  
-**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **MISSANDEI**
+**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **KRAZNYS MO NAKLOZ** · **MISSANDEI**
 
 **Daenerys** trades the appearance of possession of Drogon for all the Unsullied, orders the masters killed, frees the enslaved and takes command of the army.
 
@@ -294,10 +295,10 @@ Meera recounts the tale of the Knight of the Laughing Tree during their journey,
 ### Ch. 28: Sansa III
 
 **≈8 Nov 299 AC**  
-*King's Landing* · *Red Keep* · *Great Sept of Baelor*  
-**SANSA STARK** · **TYRION LANNISTER** · **CERSEI LANNISTER**
+*King's Landing* · *Red Keep*  
+**SANSA STARK** · **TYRION LANNISTER** · **CERSEI LANNISTER** · **TYWIN LANNISTER** · **JOFFREY BARATHEON** · **MARGAERY TYRELL** · **KEVAN LANNISTER**
 
-**The** Lannisters force Sansa to marry Tyrion; he promises not to consummate the marriage without her consent, leaving both trapped in an unwanted union.
+**Cersei** abruptly reveals that **Sansa** must marry **Tyrion**, destroying the proposed Tyrell match. The reluctant ceremony and humiliating feast proceed, while Tyrion refuses to force the marriage into consummation.
 
 ---
 
@@ -310,7 +311,7 @@ Meera recounts the tale of the Knight of the Laughing Tree during their journey,
 
 **≈17 Nov 299 AC**  
 *Stoney Sept*  
-**ARYA STARK** · **GENDRY** · **HARWIN** · **SANDOR CLEGANE**
+**ARYA STARK** · **GENDRY** · **SANDOR CLEGANE**
 
 **Arya** visits Stoney Sept with the Brotherhood and learns that Sandor Clegane has been captured, renewing her desire to avenge Mycah.
 
@@ -328,7 +329,7 @@ Meera recounts the tale of the Knight of the Laughing Tree during their journey,
 
 **≈13 Nov 299 AC**  
 *Harrenhal*  
-**JAIME LANNISTER** · **BRIENNE OF TARTH** · **ROOSE BOLTON** · **QYBURN**
+**JAIME LANNISTER** · **BRIENNE OF TARTH** · **ROOSE BOLTON** · **QYBURN** · **VARGO HOAT**
 
 Broken by the loss of his hand, Jaime is saved from despair by Brienne and brought to Harrenhal, where Roose Bolton treats them as guests.
 
@@ -337,7 +338,7 @@ Broken by the loss of his hand, Jaime is saved from despair by Brienne and broug
 
 **≈18 Nov 299 AC**  
 *King's Landing* · *Red Keep*  
-**TYRION LANNISTER** · **TYWIN LANNISTER** · **SHAE** · **BRONN**
+**TYRION LANNISTER** · **TYWIN LANNISTER** · **BRONN** · **GRAND MAESTER PYCELLE** · **PODRICK PAYNE**
 
 **Symon** Silver Tongue blackmails Tyrion over Shae; Tywin unveils swords reforged from Ice and demands that Tyrion consummate his political marriage.
 
@@ -355,18 +356,18 @@ Broken by the loss of his hand, Jaime is saved from despair by Brienne and broug
 
 **≈17 Nov 299 AC**  
 *Hollow Hill*  
-**ARYA STARK** · **SANDOR CLEGANE** · **BERIC DONDARRION** · **THOROS OF MYR**
+**ARYA STARK** · **SANDOR CLEGANE** · **BERIC DONDARRION** · **THOROS OF MYR** · **GENDRY** · **EDRIC DAYNE**
 
-**The** Brotherhood tries Sandor by combat against Beric; Sandor wins, but Thoros restores Beric to life, and Arya sees justice denied.
+The Brotherhood tries Sandor by combat against Beric; Sandor wins, but Thoros restores Beric to life, and Arya sees justice denied.
 
 <a id="sos-csrm-ch-35"></a>
 ### Ch. 35: Catelyn IV
 
 **≈13 Nov 299 AC**  
 *Riverrun*  
-**CATELYN STARK** · **ROBB STARK** · **EDMURE TULLY** · **BRYNDEN TULLY**
+**CATELYN STARK** · **ROBB STARK** · **EDMURE TULLY** · **BRYNDEN TULLY** · **JEYNE WESTERLING** · **GREATJON UMBER** · **LOTHAR FREY**
 
-**At** Hoster Tully's funeral, the Freys offer reconciliation if Edmure marries Roslin; Catelyn urges peace but Robb accepts the political necessity.
+At Hoster Tully's funeral, the Freys offer reconciliation if Edmure marries Roslin; Catelyn urges peace but Robb accepts the political necessity.
 
 <a id="sos-csrm-ch-36"></a>
 ### Ch. 36: Davos IV
@@ -388,7 +389,7 @@ Broken by the loss of his hand, Jaime is saved from despair by Brienne and broug
 
 **≈30 Nov 299 AC**  
 *Harrenhal*  
-**JAIME LANNISTER** · **BRIENNE OF TARTH** · **ROOSE BOLTON**
+**JAIME LANNISTER** · **BRIENNE OF TARTH** · **ROOSE BOLTON** · **QYBURN**
 
 **Jaime** learns Brienne faces danger as his ransom is arranged; their shared predicament changes his judgment of her honour.
 
@@ -397,7 +398,7 @@ Broken by the loss of his hand, Jaime is saved from despair by Brienne and broug
 
 **≈3 Dec 299 AC**  
 *King's Landing*  
-**TYRION LANNISTER** · **OBERYN MARTELL** · **BRONN**
+**TYRION LANNISTER** · **OBERYN MARTELL** · **BRONN** · **PODRICK PAYNE** · **ELLARIA SAND**
 
 **Tyrion** welcomes Oberyn Martell to the capital, where the prince openly seeks justice for his murdered sister Elia.
 
@@ -406,7 +407,7 @@ Broken by the loss of his hand, Jaime is saved from despair by Brienne and broug
 
 **≈24 Nov 299 AC**  
 *Riverlands* · *Brotherhood skirmish*  
-**ARYA STARK** · **GENDRY** · **HARWIN** · **BERIC DONDARRION**
+**ARYA STARK** · **GENDRY** · **BERIC DONDARRION** · **THOROS OF MYR** · **SANDOR CLEGANE**
 
 **Arya** joins the Brotherhood as it strikes the Brave Companions, but finds her hopes of reaching Riverrun repeatedly postponed.
 
@@ -433,7 +434,7 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈30 Oct 299 AC**  
 *Outside Yunkai* · *Yunkai*  
-**DAENERYS TARGARYEN** · **JORAH MORMONT** · **DAARIO NAHARIS** · **GREY WORM**
+**DAENERYS TARGARYEN** · **JORAH MORMONT** · **DAARIO NAHARIS** · **GREY WORM** · **BARRISTAN SELMY** · **MISSANDEI**
 
 **Daenerys** undermines Yunkai's sellsword defences, accepts Daario's defection and liberates the enslaved population, who acclaim her as Mhysa.
 
@@ -442,18 +443,18 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈29 Nov 299 AC**  
 *High Heart* · *Riverlands*  
-**ARYA STARK** · **GENDRY** · **HARWIN** · **BERIC DONDARRION** · **SANDOR CLEGANE**
+**ARYA STARK** · **GENDRY** · **HARWIN** · **BERIC DONDARRION** · **THOROS OF MYR** · **SANDOR CLEGANE** · **EDRIC DAYNE**
 
-**The** Ghost of High Heart foretells deaths, and Arya hears troubling stories about her father's past before Sandor abducts her from the Brotherhood.
+At High Heart, **Arya** hears grim prophecies and questions **Harwin** about her father's past; **Beric** and **Thoros** discuss their uneasy faith. As Arya tries to flee the Brotherhood during a storm, **Sandor Clegane** seizes her.
 
 <a id="sos-csrm-ch-44"></a>
 ### Ch. 44: Jaime VI
 
 **≈2 Dec 299 AC**  
 *Harrenhal* · *Kingsroad*  
-**JAIME LANNISTER** · **BRIENNE OF TARTH**
+**JAIME LANNISTER** · **BRIENNE OF TARTH** · **ROOSE BOLTON** · **QYBURN** · **VARGO HOAT**
 
-**A** dream drives Jaime back to Harrenhal, where he leaps into the bear pit to rescue Brienne from the Brave Companions.
+A dream drives Jaime back to Harrenhal, where he leaps into the bear pit to rescue Brienne from the Brave Companions.
 
 ---
 
@@ -466,7 +467,7 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈15 Nov–14 Dec 299 AC**  
 *Riverrun* · *Oldstones* · *Green Fork*  
-**CATELYN STARK** · **ROBB STARK** · **EDMURE TULLY** · **BRYNDEN TULLY**
+**CATELYN STARK** · **ROBB STARK** · **EDMURE TULLY** · **BRYNDEN TULLY** · **GREATJON UMBER** · **JEYNE WESTERLING** · **LOTHAR FREY**
 
 **Robb** marches towards the Twins through heavy rain, plans to retake the North after Edmure's wedding and controversially names Jon Snow his heir.
 
@@ -475,7 +476,7 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈17 Dec 299 AC**  
 *Abandoned wildling village*  
-**SAMWELL TARLY** · **GILLY**
+**SAMWELL TARLY** · **GILLY** · **SMALL PAUL**
 
 **Sam** and Gilly repel the reanimated Small Paul, then encounter a mysterious cold-handed rescuer who guides them towards the Wall.
 
@@ -502,7 +503,7 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈14 Dec 299 AC**  
 *The Twins*  
-**CATELYN STARK** · **ROBB STARK** · **WALDER FREY** · **EDMURE TULLY** · **ROOSE BOLTON**
+**CATELYN STARK** · **ROBB STARK** · **WALDER FREY** · **EDMURE TULLY** · **ROOSE BOLTON** · **LOTHAR FREY** · **ROSLIN FREY** · **RYMAN FREY** · **GREATJON UMBER**
 
 **Robb** apologises to Walder Frey and the wedding arrangements proceed, but Catelyn detects signs of mistrust as Roose Bolton arrives.
 
@@ -520,9 +521,9 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈15 Dec 299 AC**  
 *The Twins*  
-**CATELYN STARK** · **ROBB STARK** · **WALDER FREY** · **ROOSE BOLTON** · **EDMURE TULLY**
+**CATELYN STARK** · **ROBB STARK** · **WALDER FREY** · **ROOSE BOLTON** · **EDMURE TULLY** · **GREATJON UMBER** · **LOTHAR FREY** · **ROSLIN FREY** · **RYMAN FREY**
 
-**At** the Red Wedding, Frey and Bolton forces slaughter Robb's men; Roose kills Robb, Catelyn kills a Frey hostage and is murdered.
+At the Red Wedding, Frey and Bolton forces slaughter Robb's men; Roose kills Robb, Catelyn kills a Frey hostage and is murdered.
 
 <a id="sos-csrm-ch-52"></a>
 ### Ch. 52: Arya XI
@@ -544,7 +545,7 @@ Ordered to kill an innocent captive, Jon refuses; Ygritte kills the man, Summer 
 
 **≈20 Dec 299 AC**  
 *King's Landing* · *Red Keep*  
-**TYRION LANNISTER** · **TYWIN LANNISTER** · **CERSEI LANNISTER** · **JOFFREY BARATHEON**
+**TYRION LANNISTER** · **TYWIN LANNISTER** · **CERSEI LANNISTER** · **JOFFREY BARATHEON** · **SANSA STARK** · **GRAND MAESTER PYCELLE** · **KEVAN LANNISTER** · **PODRICK PAYNE**
 
 Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Joffrey gloats over the massacre and clashes with his grandfather.
 
@@ -553,9 +554,9 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈27 Dec 299 AC**  
 *Dragonstone*  
-**DAVOS SEAWORTH** · **STANNIS BARATHEON** · **MELISANDRE**
+**DAVOS SEAWORTH** · **STANNIS BARATHEON** · **MELISANDRE** · **SALLADHOR SAAN** · **EDRIC STORM**
 
-**News** of the Red Wedding intensifies pressure to sacrifice Edric Storm; Davos begins learning to read and discovers the Night's Watch appeal for help.
+**Davos** hears **Salladhor Saan**'s news of the Red Wedding and learns how **Melisandre** interprets the deaths of rival kings. Fearing for **Edric Storm**, he practises reading the Night's Watch's plea and begins to see a different obligation for **Stannis**.
 
 <a id="sos-csrm-ch-55"></a>
 ### Ch. 55: Jon VII
@@ -578,11 +579,11 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 <a id="sos-csrm-ch-57"></a>
 ### Ch. 57: Daenerys V
 
-**≈14 Nov–1 Dec 299 AC**  
+**≈14 Nov 299 AC**  
 *Road to Meereen* · *outside Meereen*  
-**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **DAARIO NAHARIS**
+**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **DAARIO NAHARIS** · **GREY WORM** · **MISSANDEI**
 
-**Before** Meereen, Barristan saves Daenerys from an assassin and reveals his identity and Jorah's espionage; Daenerys sends both men on a dangerous mission.
+Before Meereen, Barristan saves Daenerys from an assassin and reveals his identity and Jorah's espionage; Daenerys sends both men on a dangerous mission.
 
 ---
 
@@ -593,27 +594,27 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 <a id="sos-csrm-ch-58"></a>
 ### Ch. 58: Tyrion VII
 
-**≈late Dec 299 AC**  
+**≈1 Jan 300 AC**  
 *King's Landing* · *Red Keep*  
 **TYRION LANNISTER** · **SANSA STARK** · **SHAE**
 
-**Tyrion** gives Sansa news of her family's deaths and struggles with his divided obligations to her and Shae.
+On the morning of **Joffrey**'s wedding, **Tyrion** leaves his sleeping wife **Sansa** and visits **Shae** in secret. Troubled by the report of the Starks' deaths and his divided loyalties, he prepares himself for the dangerous royal festivities of the new year.
 
 <a id="sos-csrm-ch-59"></a>
 ### Ch. 59: Sansa IV
 
 **≈1 Jan 300 AC**  
 *King's Landing* · *Red Keep*  
-**SANSA STARK** · **TYRION LANNISTER** · **JOFFREY BARATHEON**
+**SANSA STARK** · **TYRION LANNISTER** · **JOFFREY BARATHEON** · **PODRICK PAYNE**
 
-**Before** Joffrey's wedding, Sansa watches him destroy Tyrion's book gift with the Valyrian sword made from Ice and fears her unstable place in court.
+On **Joffrey**'s wedding morning, **Sansa** sees the king destroy **Tyrion**'s gift of an illustrated history of the kings and fears the coming feast. Tyrion offers conversation and condolences for her family, which she cannot bear to discuss.
 
 <a id="sos-csrm-ch-60"></a>
 ### Ch. 60: Tyrion VIII
 
 **≈1 Jan 300 AC**  
 *King's Landing* · *royal wedding feast*  
-**TYRION LANNISTER** · **SANSA STARK** · **JOFFREY BARATHEON** · **MARGAERY TYRELL** · **CERSEI LANNISTER**
+**TYRION LANNISTER** · **SANSA STARK** · **JOFFREY BARATHEON** · **MARGAERY TYRELL** · **CERSEI LANNISTER** · **TYWIN LANNISTER** · **OLENNA TYRELL** · **LORAS TYRELL** · **GRAND MAESTER PYCELLE** · **PODRICK PAYNE** · **SHAE**
 
 **Joffrey** publicly humiliates Tyrion at his wedding feast before choking to death; Cersei immediately accuses Tyrion of poisoning the king.
 
@@ -624,7 +625,7 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 *King's Landing* · *Blackwater Bay*  
 **SANSA STARK** · **DONTOS HOLLARD** · **PETYR BAELISH**
 
-**After** Joffrey's death, Dontos spirits Sansa onto a ship, where Littlefinger reveals his role in her escape and orders Dontos killed.
+After Joffrey's death, Dontos spirits Sansa onto a ship, where Littlefinger reveals his role in her escape and orders Dontos killed.
 
 <a id="sos-csrm-ch-62"></a>
 ### Ch. 62: Jaime VII
@@ -666,14 +667,14 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 *Mountains of the Moon*  
 **ARYA STARK** · **SANDOR CLEGANE**
 
-**Arya** and Sandor wander after the Red Wedding; through Nymeria's dreams Arya recovers her mother's body from the river and learns Catelyn is dead.
+Still devastated by the Red Wedding, **Arya** travels with **Sandor**, finding more refuge in her wolf dreams than in their quarrels. She remembers dreaming of her mother's corpse in the river, resists the Hound's proposal to take her to the Vale and questions his wounds.
 
 <a id="sos-csrm-ch-66"></a>
 ### Ch. 66: Tyrion IX
 
 **≈7–13 Jan 300 AC**  
 *King's Landing* · *Red Keep*  
-**TYRION LANNISTER** · **KEVAN LANNISTER** · **OBERYN MARTELL** · **BRONN** · **VARYS**
+**TYRION LANNISTER** · **KEVAN LANNISTER** · **OBERYN MARTELL** · **BRONN** · **VARYS** · **CERSEI LANNISTER** · **GRAND MAESTER PYCELLE** · **MARGAERY TYRELL**
 
 **A**waiting trial, Tyrion finds his former allies turn away; prosecution witnesses mount a case against him and Oberyn offers to act as his champion.
 
@@ -682,7 +683,7 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈12 Jan 300 AC**  
 *King's Landing* · *White Sword Tower*  
-**JAIME LANNISTER** · **LORAS TYRELL**
+**JAIME LANNISTER** · **LORAS TYRELL** · **MERYN TRANT**
 
 **Jaime** reviews the White Book, chastises fellow Kingsguard members and persuades Loras to reconsider the accusation against Brienne.
 
@@ -702,14 +703,14 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 *Castle Black*  
 **JON SNOW** · **ALLISER THORNE** · **JANOS SLYNT** · **MAESTER AEMON**
 
-**After** days of fighting at the Wall, Thorne and Slynt accuse Jon of betraying the Watch and detain him despite Aemon's defence.
+After days of fighting at the Wall, Thorne and Slynt accuse Jon of betraying the Watch and detain him despite Aemon's defence.
 
 <a id="sos-csrm-ch-70"></a>
 ### Ch. 70: Tyrion X
 
 **≈14–15 Jan 300 AC**  
 *King's Landing* · *Red Keep* · *trial ground*  
-**TYRION LANNISTER** · **OBERYN MARTELL** · **GREGOR CLEGANE** · **TYWIN LANNISTER** · **SHAE**
+**TYRION LANNISTER** · **OBERYN MARTELL** · **GREGOR CLEGANE** · **TYWIN LANNISTER** · **SHAE** · **ELLARIA SAND** · **KEVAN LANNISTER**
 
 **Shae**'s false testimony drives Tyrion to demand combat; Oberyn wounds Gregor but dies insisting on a confession, leaving Tyrion condemned.
 
@@ -724,16 +725,16 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈1 Dec 299 AC**  
 *Meereen*  
-**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **MISSANDEI**
+**DAENERYS TARGARYEN** · **JORAH MORMONT** · **BARRISTAN SELMY** · **MISSANDEI** · **DAARIO NAHARIS** · **GREY WORM**
 
-**After** conquering Meereen, Daenerys forgives Barristan but exiles Jorah for spying and resolves to stay and learn to govern before sailing west.
+After conquering Meereen, Daenerys forgives Barristan but exiles Jorah for spying and resolves to stay and learn to govern before sailing west.
 
 <a id="sos-csrm-ch-72"></a>
 ### Ch. 72: Jaime IX
 
 **≈20 Jan 300 AC**  
 *King's Landing* · *Red Keep*  
-**JAIME LANNISTER** · **CERSEI LANNISTER** · **BRIENNE OF TARTH**
+**JAIME LANNISTER** · **CERSEI LANNISTER** · **BRIENNE OF TARTH** · **LORAS TYRELL** · **KEVAN LANNISTER** · **TYWIN LANNISTER**
 
 **Jaime** distances himself from Cersei, arms Brienne with Oathkeeper and sends her to find Sansa, beginning to redefine his own honour.
 
@@ -742,9 +743,9 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈29 Jan 300 AC**  
 *Castle Black* · *wildling camp*  
-**JON SNOW** · **MANCE RAYDER** · **TORMUND GIANTSBANE** · **STANNIS BARATHEON**
+**JON SNOW** · **MANCE RAYDER** · **TORMUND GIANTSBANE** · **VAL**
 
-**Sent** to kill Mance at a parley, Jon learns his proposed terms before Stannis's surprise cavalry attack routs the wildling host.
+Sent to kill Mance at a parley, Jon learns his proposed terms before Stannis's surprise cavalry attack routs the wildling host.
 
 <a id="sos-csrm-ch-74"></a>
 ### Ch. 74: Arya XIII
@@ -760,9 +761,9 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈9 Feb 300 AC**  
 *Castle Black*  
-**SAMWELL TARLY** · **GILLY** · **JON SNOW** · **JANOS SLYNT**
+**SAMWELL TARLY** · **GILLY** · **JON SNOW** · **JANOS SLYNT** · **MAESTER AEMON** · **VAL**
 
-**Back** at Castle Black, Sam shelters Gilly and observes the divided vote to choose the next Lord Commander, fearing a victory for Slynt.
+Back at Castle Black, Sam shelters Gilly and observes the divided vote to choose the next Lord Commander, fearing a victory for Slynt.
 
 <a id="sos-csrm-ch-76"></a>
 ### Ch. 76: Jon XI
@@ -793,7 +794,7 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈10 Feb 300 AC**  
 *Castle Black*  
-**SAMWELL TARLY** · **MAESTER AEMON** · **COTTER PYKE** · **DENYS MALLISTER**
+**SAMWELL TARLY** · **MAESTER AEMON** · **COTTER PYKE** · **DENYS MALLISTER** · **STANNIS BARATHEON** · **MELISANDRE** · **JANOS SLYNT**
 
 **Sam** manoeuvres rival candidates towards backing Jon, while Aemon doubts the supernatural authenticity of Stannis's Lightbringer.
 
@@ -802,7 +803,7 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 
 **≈10 Feb 300 AC**  
 *Castle Black*  
-**JON SNOW** · **SAMWELL TARLY** · **JANOS SLYNT** · **ALLISER THORNE**
+**JON SNOW** · **SAMWELL TARLY** · **JANOS SLYNT** · **ALLISER THORNE** · **MAESTER AEMON**
 
 **Jon** rejects Stannis's offer after reuniting with Ghost and is elected the 998th Lord Commander of the Night's Watch.
 
@@ -819,19 +820,19 @@ Tywin confirms Robb's assassination and outlines the Frey-Bolton settlement; Jof
 ### Epilogue
 
 **≈30 Jan 300 AC**  
-*Riverlands* · *Brotherhood hideout*  
-**MERRETT FREY** · **LADY STONEHEART** · **THOROS OF MYR**
+*Oldstones*  
+**CATELYN STARK (LADY STONEHEART)**
 
-**Merrett** Frey brings ransom for a captive relative but is seized and hanged by the Brotherhood; resurrected Catelyn Stark is revealed as Lady Stoneheart.
+**Merrett Frey** rides to Oldstones with ransom for a captured relative, only to be seized by the Brotherhood without Banners and questioned about the Red Wedding. The resurrected **Catelyn Stark**, now a silent, scarred figure, identifies him as complicit and watches his hanging.
 
 ---
 
 ## Source and Quality Notes
 
 1. **Chapter identity:** The supplied SOS RTE lists 80 numbered chapters, 1 Prologue and 1 Epilogue. Every chapter is indexed once, and the 10 recurring POV narrators plus the Prologue and Epilogue narrators retain source order. These are the same 82 narrative units extracted from the supplied complete EPUB. Source titles are recorded as narrator ordinal labels as established by RTE.
-2. **Chronology:** External dates are approximate and not reliable down to the day. The PrivateMajor chronology provides the primary calendar framework. When an entry spans narrated days or weeks, the display uses a broad range; exact day-by-day synchronization is not claimed. No in-universe daily clock is asserted. A few long journeys overlap later chapters in narrative presentation and need not be monotonically dated.
-3. **Principal and Supporting roster:** The compact bold roster covers source-relevant principal or supporting characters who participate in the chapter. Full census and cross-book significance are governed by the [SOS MCM](ROM_MCM_SOS.md), whose independent priority-presence audit is still pending. The roster is a navigational index, not a certified participant-count audit; further MCM reconciliation may refine individual participation lines.
-4. **Narrative briefs:** Condensed original phrasing anchored to the SOS novel and checked for chapter alignment with external reference summaries where helpful; secondary guides are not primary evidence. The appendixed chronology citations are aids to locating events rather than assertions of exact author-set dates.
+2. **Chronology:** External dates are approximate and not reliable down to the day. Corrected the chronology of Tyrion VII (SOS Ch. 58) to 1 Jan 300 AC, Daenerys V to ≈14 Nov 299 AC, and Sansa I to a 25–30 Oct 299 AC window. The PrivateMajor chronology provides the primary calendar framework. When an entry spans narrated days or weeks, the display uses a broad range; exact day-by-day synchronization is not claimed. No in-universe daily clock is asserted. A few long journeys overlap later chapters in narrative presentation and need not be monotonically dated.
+3. **Principal and Supporting roster:** Whole-book principal/supporting chapter rosters have been reconciled against actual scenes in the supplied SOS EPUB, using the separate SOS MCM as a candidate cross-check rather than as unquestioned authority. Mentioned-only individuals, retrospective memories and absent historical figures are excluded; the Epilogue's revealed Lady Stoneheart is classified under Catelyn Stark. Cast order remains a compact narrative-orientation order. The MCM's independent upper-tier numerical appearance audit remains separately outstanding.
+4. **Narrative briefs:** Condensed original prose grounded in the SOS EPUB; corrected errors distinguishing recollected/offstage events from chapter-enacted developments, including Sansa II, Jaime III, Davos V, Tyrion VII and Arya XII. Secondary guides and timeline summaries remain subordinate to the primary text. The appendixed chronology citations are aids to locating events rather than assertions of exact author-set dates.
 5. **Navigation:** Stable IDs `sos-csrm-prologue`, `sos-csrm-ch-1` to `sos-csrm-ch-80`, and `sos-csrm-epilogue` are provided for future POV SROMX reciprocal links. No uncreated SROMX files are linked as if they already existed. Reader-bounded CSRM remains a separate future record under RPW.
 
-**Reference summaries consulted for cross-checking, subordinate to EPUB:** [A Wiki of Ice and Fire: ASOS chapter index](https://awoiaf.westeros.org/index.php/Asos) · [SuperSummary chapter guide](https://www.supersummary.com/a-storm-of-swords/chapters-1-10-summary/).
+**External chronology used:** [PrivateMajor, *ASOIAF Timeline — Vandal Proof*](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit) · [Scribd transcript](https://www.scribd.com/document/422966422/ASOIAF-Timeline-Vandal-Proof). These provide estimated dates, not primary-text evidence of enacted cast or plot.
