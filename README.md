@@ -48,6 +48,8 @@ The nine completed full-book POV records are listed in order of their first narr
 
 - [SROMX | Maester Cressen | Full Book](02.%20COK/SROMX_COK_POV_CRESSEN.md) · Prologue only (1 POV unit). **Spoilers through COK Prologue**.
 
+- [SROMX | Arya Stark | Full Book](02.%20COK/SROMX_COK_POV_ARYA.md) · 10 POV chapters; COK Ch. 1, 5, 9, 14, 19, 26, 30, 38, 47, 64. **Spoilers through Ch. 64**.
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
