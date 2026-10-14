@@ -109,11 +109,11 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **BRAN STARK**, Stark son [Alive] | At Winterfell; able to climb and ride, expecting to travel south. | Survives Jaime's fall, adapts to paralysis, rides again and observes his family's dispersal. | At Winterfell with Rickon, grieving Eddard and representing the Stark household. |
-| 🏅 | **EDDARD STARK**†, Lord of Winterfell [Deceased] | Rules Winterfell and performs the king's justice. | Teaches Bran about judgment before departing for the capital; news of his death later reaches his sons. | Executed in King's Landing; his death is confirmed by the final Bran chapter. |
-| 🏅 | **ROBB STARK**, Stark heir [Alive] | Young heir living under his father's authority. | Protects Bran in the Wolfswood, calls the banners and establishes his authority. | Leads the northern host south; Bran and Rickon remain at Winterfell. |
-| 🏅 | **JON SNOW**, Eddard's acknowledged bastard son [Alive] | Lives at Winterfell and accompanies Bran to the execution. | Counsels Bran at the execution and helps secure the direwolf pups. | Has departed for service with the Night's Watch. |
-| 🥈 | **RICKON STARK**, youngest Stark son [Alive] | Small child in the Stark household. | Endures the family's separation and shares Bran's distressing dream about their father. | At Winterfell with Bran, devastated by the news of Eddard's death. |
+| 🏅 | **BRAN STARK**, Stark son | At Winterfell; able to climb and ride, expecting to travel south. | Survives Jaime's fall, adapts to paralysis, rides again and observes his family's dispersal. | 🟢 At Winterfell with Rickon, grieving Eddard and representing the Stark household. |
+| 🏅 | **EDDARD STARK**†, Lord of Winterfell | Rules Winterfell and performs the king's justice. | Teaches Bran about judgment before departing for the capital; news of his death later reaches his sons. | 🗡 Executed in King's Landing; his death is confirmed by the final Bran chapter. |
+| 🏅 | **ROBB STARK**, Stark heir | Young heir living under his father's authority. | Protects Bran in the Wolfswood, calls the banners and establishes his authority. | 🟢 Leads the northern host south; Bran and Rickon remain at Winterfell. |
+| 🏅 | **JON SNOW**, Eddard's acknowledged bastard son | Lives at Winterfell and accompanies Bran to the execution. | Counsels Bran at the execution and helps secure the direwolf pups. | 🟢 Has departed for service with the Night's Watch. |
+| 🥈 | **RICKON STARK**, youngest Stark son | Small child in the Stark household. | Endures the family's separation and shares Bran's distressing dream about their father. | 🟢 At Winterfell with Bran, devastated by the news of Eddard's death. |
 
 <a id="bran-winterfell-household"></a>
 ## 🛡️ Winterfell Household and Attendants
@@ -123,73 +123,73 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **THEON GREYJOY**, Stark ward [Alive] | Ward of Eddard; rides with the Stark party. | Helps at the execution and kills Stiv during the attack on Bran. | Accompanies Robb's army south. |
-| 🥈 | **MAESTER LUWIN**, Winterfell maester [Alive] | Advises and educates the Stark household. | Supervises Bran's recovery, weighs Osha's claims and oversees the boys' care. | Remains at Winterfell and receives confirmation of Eddard's death. |
-| 🥈 | **HODOR**, Winterfell stablehand [Alive] | Works with horses at Winterfell. | Carries Bran and becomes essential to his movement through the castle. | Continues serving Bran at Winterfell. |
-| 11 | **OLD NAN**, storyteller [Alive] | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | Remains at Winterfell. |
-| 12 | **HULLEN**, master of horse [Unknown] | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | Away from Winterfell; no later direct position established in Bran's chapters. |
-| 15 | **JOSETH**, stable worker [Alive] | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | Remains associated with Winterfell's horses. |
+| 🥈 | **THEON GREYJOY**, Stark ward | Ward of Eddard; rides with the Stark party. | Helps at the execution and kills Stiv during the attack on Bran. | 🟢 Accompanies Robb's army south. |
+| 🥈 | **MAESTER LUWIN**, Winterfell maester | Advises and educates the Stark household. | Supervises Bran's recovery, weighs Osha's claims and oversees the boys' care. | 🟢 Remains at Winterfell and receives confirmation of Eddard's death. |
+| 🥈 | **HODOR**, Winterfell stablehand | Works with horses at Winterfell. | Carries Bran and becomes essential to his movement through the castle. | 🟢 Continues serving Bran at Winterfell. |
+| 11 | **OLD NAN**, storyteller | Elderly member of the Winterfell household. | Recounts the Long Night and other ancient northern stories to Bran. | 🟢 Remains at Winterfell. |
+| 12 | **HULLEN**, master of horse | Supervises Winterfell's stables; accompanies the opening party. | Assists around the direwolf discovery before departing with Eddard's household. | ⚪️ Away from Winterfell; no later direct position established in Bran's chapters. |
+| 15 | **JOSETH**, stable worker | Serves the Winterfell stables. | Helps Bran learn to use his new riding horse and saddle. | 🟢 Remains associated with Winterfell's horses. |
 
 <a id="bran-guards-military"></a>
 ### Guards & Military Service
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **JORY CASSEL**†, Stark guard captain [Deceased] | Commands Eddard's household guards. | Attends the opening execution; subsequently accompanies Eddard south. | Killed in King's Landing; his death is known at Winterfell. |
-| 🥈 | **RODRIK CASSEL**, master-at-arms [Alive] | Serves the Stark household and trains its men. | Helps sustain Winterfell's defence as its soldiers depart. | Remains associated with the depleted Winterfell garrison. |
-| 13 | **HARWIN**, Stark guardsman [Alive] | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | Away with Eddard's retinue; later circumstances outside selected chapters. |
-| 14 | **DESMOND**, Stark guardsman [Unknown] | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | Later position not established within the selected chapters. |
-| 16 | **QUENT**, Stark guardsman [Alive] | In Stark household service. | Takes part in the Wolfswood escort and responds to the ambush. | Survives the incident and remains in Stark service. |
-| 17 | **WAYN**, Stark guardsman [Alive] | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | Continues in Stark service. |
-| 18 | **MIKKEN**, Winterfell smith [Alive] | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | At Winterfell, working in the forge. |
+| 🥈 | **JORY CASSEL**†, Stark guard captain | Commands Eddard's household guards. | Attends the opening execution; subsequently accompanies Eddard south. | 🗡 Killed in King's Landing; his death is known at Winterfell. |
+| 🥈 | **RODRIK CASSEL**, master-at-arms | Serves the Stark household and trains its men. | Helps sustain Winterfell's defence as its soldiers depart. | 🟢 Remains associated with the depleted Winterfell garrison. |
+| 13 | **HARWIN**, Stark guardsman | Hullen's son, in Stark service. | Takes part in the direwolf discovery and later accompanies Eddard's party. | 🟢 Away with Eddard's retinue; later circumstances outside selected chapters. |
+| 14 | **DESMOND**, Stark guardsman | Serves Eddard in the North. | Helps collect the direwolf pups after Eddard permits the children to keep them. | ⚪️ Later position not established within the selected chapters. |
+| 16 | **QUENT**, Stark guardsman | In Stark household service. | Takes part in the Wolfswood escort and responds to the ambush. | 🟢 Survives the incident and remains in Stark service. |
+| 17 | **WAYN**, Stark guardsman | In Stark household service. | Restrains Osha on Robb's orders following the ambush. | 🟢 Continues in Stark service. |
+| 18 | **MIKKEN**, Winterfell smith | Works in Winterfell's forge. | Continues smithing as the household and northern forces prepare for war. | 🟢 At Winterfell, working in the forge. |
 
 <a id="bran-lannisters"></a>
 ## 🦁 The Lannisters
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **CERSEI LANNISTER**, queen [Alive] | In King Robert's royal household. | Bran discovers her with Jaime in the First Keep shortly before his fall. | Away from Winterfell; Bran remains unaware of the cause of his injury. |
-| 🏅 | **JAIME LANNISTER**, Kingsguard knight [Alive] | Accompanies the royal household. | Throws Bran from the tower after the boy discovers the twins together. | Away from Winterfell; his culpability is unknown to Bran. |
-| 🏅 | **TYRION LANNISTER**, Lannister nobleman [Alive] | Present with the royal visitors at Winterfell. | Returns from the Wall and gives Bran a workable design for a riding saddle. | Has left Winterfell; the saddle makes Bran's later ride possible. |
+| 🏅 | **CERSEI LANNISTER**, queen | In King Robert's royal household. | Bran discovers her with Jaime in the First Keep shortly before his fall. | 🟢 Away from Winterfell; Bran remains unaware of the cause of his injury. |
+| 🏅 | **JAIME LANNISTER**, Kingsguard knight | Accompanies the royal household. | Throws Bran from the tower after the boy discovers the twins together. | 🟢 Away from Winterfell; his culpability is unknown to Bran. |
+| 🏅 | **TYRION LANNISTER**, Lannister nobleman | Present with the royal visitors at Winterfell. | Returns from the Wall and gives Bran a workable design for a riding saddle. | 🟢 Has left Winterfell; the saddle makes Bran's later ride possible. |
 
 <a id="bran-wolfswood-fugitives"></a>
 ## 🌲 The Wolfswood Fugitives
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **OSHA**, wildling [Alive] | Travelling south from the far North with fugitives. | Survives the attack on Bran, is taken to Winterfell and warns about dangers beyond the Wall. | Working at Winterfell; challenges Luwin's scepticism about ancient threats. |
-| 23 | **STIV**†, deserter and attacker [Deceased] | Among the southbound fugitives. | Threatens Bran with a blade during the Wolfswood encounter. | Shot dead by Theon. |
-| 24 | **HALI**†, wildling attacker [Deceased] | Among the southbound fugitives. | Takes part in the attack against Bran's party. | Killed during the encounter. |
-| 25 | **WALLEN**†, Night's Watch deserter [Deceased] | Among the southbound fugitives. | Joins Stiv's raid on Bran's riding party. | Killed during the encounter. |
-| 26 | **OTHER WOLFSWOOD ATTACKERS**, unnamed fugitive participants [Mixed / not individually tracked] | Fleeing south with the named attackers. | Take part in the assault and fight with Robb's party and the direwolves. | Casualties and surviving participants determined by the enacted fight; not individually tracked. |
+| 🥈 | **OSHA**, wildling | Travelling south from the far North with fugitives. | Survives the attack on Bran, is taken to Winterfell and warns about dangers beyond the Wall. | 🟢 Working at Winterfell; challenges Luwin's scepticism about ancient threats. |
+| 23 | **STIV**†, deserter and attacker | Among the southbound fugitives. | Threatens Bran with a blade during the Wolfswood encounter. | 🗡 Shot dead by Theon. |
+| 24 | **HALI**†, wildling attacker | Among the southbound fugitives. | Takes part in the attack against Bran's party. | 🗡 Killed during the encounter. |
+| 25 | **WALLEN**†, Night's Watch deserter | Among the southbound fugitives. | Joins Stiv's raid on Bran's riding party. | 🗡 Killed during the encounter. |
+| 26 | **OTHER WOLFSWOOD ATTACKERS**, unnamed fugitive participants | Fleeing south with the named attackers. | Take part in the assault and fight with Robb's party and the direwolves. | ⚪️ Casualties and surviving participants determined by the enacted fight; not individually tracked. |
 
 <a id="bran-northern-bannermen"></a>
 ## 🐺 Northern Bannermen
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **GREATJON UMBER**, northern lord [Alive] | Lord of Last Hearth, sworn to House Stark. | Confronts Robb's authority and, after Grey Wind's intervention, becomes a committed bannerman. | Marches south with Robb's army. |
-| 🥈 | **RICKARD KARSTARK**, northern lord [Alive] | Lord of Karhold and Stark bannerman. | Assembles with his sons and northern forces for Robb's campaign. | Joins the army marching south. |
-| 29 | **HARRION KARSTARK**, Karstark son [Alive] | Member of House Karstark. | Arrives with his father's contingent for the mobilisation. | Accompanies the northern forces. |
-| 30 | **EDDARD KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears with his father and brothers during the gathering. | Departs with the Karstark contingent; later fate not established here. |
-| 31 | **TORRHEN KARSTARK**, Karstark son [Unknown] | Member of House Karstark. | Appears in the assembly of Karstark forces. | Departs with the northern host; later fate not established here. |
+| 🥈 | **GREATJON UMBER**, northern lord | Lord of Last Hearth, sworn to House Stark. | Confronts Robb's authority and, after Grey Wind's intervention, becomes a committed bannerman. | 🟢 Marches south with Robb's army. |
+| 🥈 | **RICKARD KARSTARK**, northern lord | Lord of Karhold and Stark bannerman. | Assembles with his sons and northern forces for Robb's campaign. | 🟢 Joins the army marching south. |
+| 29 | **HARRION KARSTARK**, Karstark son | Member of House Karstark. | Arrives with his father's contingent for the mobilisation. | 🟢 Accompanies the northern forces. |
+| 30 | **EDDARD KARSTARK**, Karstark son | Member of House Karstark. | Appears with his father and brothers during the gathering. | ⚪️ Departs with the Karstark contingent; later fate not established here. |
+| 31 | **TORRHEN KARSTARK**, Karstark son | Member of House Karstark. | Appears in the assembly of Karstark forces. | ⚪️ Departs with the northern host; later fate not established here. |
 
 <a id="bran-nights-watch"></a>
 ## 🧊 Night's Watch
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 32 | **GARED**†, Night's Watch deserter [Deceased] | Captured and awaiting Eddard's judgment. | Is executed at the opening of Bran's story. | Deceased; execution occurs in Bran I. |
-| 33 | **YOREN**, Night's Watch recruiter [Alive] | Travels to find recruits for the Watch. | Appears at Winterfell and discusses the Wall and missing Benjen Stark. | Leaves Winterfell on Watch business. |
+| 32 | **GARED**†, Night's Watch deserter | Captured and awaiting Eddard's judgment. | Is executed at the opening of Bran's story. | 🗡 execution occurs in Bran I. |
+| 33 | **YOREN**, Night's Watch recruiter | Travels to find recruits for the Watch. | Appears at Winterfell and discusses the Wall and missing Benjen Stark. | 🟢 Leaves Winterfell on Watch business. |
 
 <a id="bran-direwolves"></a>
 ## 🐾 Direwolves
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 34 | **SUMMER**, Bran's direwolf [Alive] | A newly discovered direwolf pup. | Stays near Bran, protects him and attacks enemies in the Wolfswood. | With Bran at Winterfell. |
-| 35 | **GREY WIND**, Robb's direwolf [Alive] | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | Accompanies Robb south. |
-| 36 | **SHAGGYDOG**, Rickon's direwolf [Alive] | A newly discovered direwolf pup. | Becomes dangerous and aggressive as Rickon's distress increases. | Remains at Winterfell with Rickon. |
+| 34 | **SUMMER**, Bran's direwolf | A newly discovered direwolf pup. | Stays near Bran, protects him and attacks enemies in the Wolfswood. | 🟢 With Bran at Winterfell. |
+| 35 | **GREY WIND**, Robb's direwolf | A newly discovered direwolf pup. | Helps repel the Wolfswood attack and reinforces Robb's authority among his bannermen. | 🟢 Accompanies Robb south. |
+| 36 | **SHAGGYDOG**, Rickon's direwolf | A newly discovered direwolf pup. | Becomes dangerous and aggressive as Rickon's distress increases. | 🟢 Remains at Winterfell with Rickon. |
 
 **Character entries:**36 Total | 7 Principal | 9 Supporting | 19 Tertiary | 1 Collective | Deaths not fully enumerable from selected chapters
 
