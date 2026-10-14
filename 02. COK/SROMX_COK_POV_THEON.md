@@ -11,7 +11,7 @@
 
 **THEON GREYJOY** · **BALON GREYJOY** · **ASHA GREYJOY** · **DAGMER CLEFTJAW** · **MAESTER LUWIN** · **RAMSAY SNOW** · **RODRIK CASSEL**
 
-**Navigation:** [COK Reading Index](README.md) · [Series Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-11) (full-book spoilers) · [ROM MCM](ROM_MCM_COK.md) (provisional; full-book spoilers)
+**Navigation:** [COK Reading Index](README.md) · [Series Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-11) (full-book spoilers) · [ROM MCM](ROM_MCM_COK.md) (priority-verified; full-book spoilers)
 
 <a id="cok-theon-toc"></a>
 ## Table of Contents
@@ -99,7 +99,7 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 <a id="cok-theon-rollcall"></a>
 # 5. Roll Call
 
-**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (**Provisional — Priority Issues**; full-book spoilers). The Roll Call below is limited to qualifying physically Present characters in Theon’s selected chapters, including individuals whose deaths are established by his observed or retrospectively narrated scenes.
+**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (**Satisfactory for Use — Priority Verified**; full-book spoilers). The Roll Call below is limited to qualifying physically Present characters in Theon’s selected chapters, including individuals whose deaths are established by his observed or retrospectively narrated scenes.
 
 **Character entries:** **31 Total | 1 Principal | 6 Supporting | 24 Tertiary | 0 Collective | Deaths: Unknown exact total (at least 13 specifically established)**.
 
@@ -108,12 +108,19 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 <a id="cok-theon-greyjoy"></a>
 ## 🌊 House Greyjoy and the Iron Islands
 
+### Greyjoy Family and Faith
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🏅 | **THEON GREYJOY**, ironborn heir and self-styled Prince of Winterfell | Returning to **Pyke** as **Robb’s** envoy after 10 years as a Stark hostage and ward. | Alienates **Balon**, raids the North, takes **Winterfell**, falsifies the Stark boys’ deaths and trusts **Reek** to reinforce him. | 🟡 **Ramsay** strikes him during the castle’s fall; his last conscious image is of **Smiler** fleeing the burning stables. |
 | 🥈 | **BALON GREYJOY**, Lord Reaper of Pyke and claimant king | At **Pyke**, preparing an independent ironborn campaign after his former defeat. | Rejects Robb’s letter, humiliates Theon and assigns the invasion of the North. | 🟢 Remains on Pyke pursuing his planned kingship; his later silence leaves Theon without help. |
 | 🥈 | **ASHA GREYJOY**, Balon’s daughter and ironborn captain | Sailing on **Balon’s** business, more trusted than her younger brother. | Disguises herself as **Esgred**, mocks Theon, receives the **Deepwood Motte** command and later refuses to defend his inland prize. | 🟢 Departs Winterfell with her troops after advising withdrawal. |
 | 4 | **AERON GREYJOY (DAMPHAIR)**, priest of the Drowned God | Serving his brother **Balon** and the traditional faith on the islands. | Anoints **Theon**, joins the northern campaign and insists on drowning **Benfred Tallhart** as a religious offering. | 🟢 Last directly involved in the ritual execution party on the Stony Shore. |
+
+### Ironborn Commanders and Retainers
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 5 | **VICTARION GREYJOY**, ironborn fleet commander and Theon’s uncle | Serving **Balon** among Pyke’s captains before the invasion. | Participates in the feast and war council and is ordered to take **Moat Cailin**. | 🟢 Carries out his designated command away from Theon’s later scenes. |
 | 🥈 | **DAGMER CLEFTJAW**, veteran reaver and Theon’s former instructor | Among **Balon’s** reliable captains, assigned to accompany Theon’s raid. | Encourages Theon, agrees to attack **Torrhen’s Square** and draws Stark loyalists away. | 🟢 **Asha** reports that he survived defeat at Torrhen’s Square and retreated toward the coast. |
 | 7 | **WEX PYKE**, mute ironborn squire | Serving **Theon** as an attendant and armour-bearer. | Fetches his bow, assists the search and arms him during **Rodrik’s** siege. | 🟡 Last seen serving Theon before **Ramsay’s** assault; no individual fate is shown. |
@@ -132,6 +139,8 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 <a id="cok-theon-winterfell"></a>
 ## 🏰 Winterfell Household and Garrison
 
+### Castle Servants and Reek
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **MAESTER LUWIN**, maester of Winterfell | Advising and educating the **Stark** household at Winterfell. | Joins the hunt, pleads for the children’s bodies to be buried and urges **Theon** to surrender and take the black. | 🟡 At Winterfell as the **Dreadfort** force attacks; final personal fate not shown in this POV. |
@@ -140,6 +149,11 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 | 16 | **FARLEN**†, kennelmaster at Winterfell | Caring for hunting dogs and working for **House Stark**. | Leads the forest search and is blamed for subsequent killings of ironborn soldiers. | 🗡 Beheaded by **Theon**, whose execution is recalled in **Ch. 56**. |
 | 17 | **PALLA**, Winterfell kennel girl | Working with the hounds and vulnerable to occupying soldiers. | Becomes the human payment **Theon** promises to **Reek** for reinforcements. | 🟡 Her fate following **Ramsay’s** arrival is not shown. |
 | 18 | **JOSETH**, master of horse at Winterfell | Responsible for horses in the **Stark** household. | Saddles **Smiler**, accompanies the search and urges ending the pursuit before darkness. | ⚪️ Fate after the search and Winterfell’s fall cannot be established within the Scope. |
+
+### Hostages, Victims and Ironborn Fighters
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 19 | **BETH CASSEL**, daughter of Rodrik Cassel | Living under **House Stark’s** protection at Winterfell. | Used as a hostage, with a noose placed around her neck to force her father to negotiate. | 🟡 Threatened during the siege; her fate in **Ramsay’s** assault is not shown. |
 | 20 | **OLDER MILLER’S SON**†, child of the Acorn Water miller | Living with his family at an isolated mill. | Murdered and mutilated so that his head may be shown as **Bran Stark’s**. | 🗡 His remains falsely displayed and partly burned as evidence of a supposed Stark death. |
 | 21 | **YOUNGER MILLER’S SON**†, child of the Acorn Water miller | Living at the same mill with his family. | Murdered and disfigured as the false substitute for **Rickon Stark**. | 🗡 His remains likewise used in Theon’s deception. |
@@ -150,11 +164,18 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 <a id="cok-theon-siege"></a>
 ## 🛡️ Northern Besiegers and Final Assault
 
+### Northern Commanders
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **RODRIK CASSEL**†, Stark castellan and master-at-arms | Defending **House Stark’s** interests in the North, having formerly trained **Theon**. | Recovers **Torrhen’s Square**, gathers an army, confronts Theon outside Winterfell and resists threats against **Beth**. | 🗡 Murdered by the false allies from the **Dreadfort**; his severed arm and body are shown at the gate. |
 | 26 | **CLEY CERWYN**†, young northern noble | Supporting the Starks among their northern bannermen. | Accompanies **Rodrik** at the parley carrying the Stark banner. | 🗡 Killed in **Ramsay’s** attack; his body, bearing an arrow through the eye, is displayed. |
 | 27 | **LEOBALD TALLHART**†, castellan of Torrhen’s Square | Keeping a northern stronghold for the Stark cause. | Joins the force advancing against Theon after **Dagmer’s** defeat. | 🗡 Killed in the Dreadfort attack; body brought before Winterfell. |
+
+### Ironborn Retainers at the Final Siege
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 28 | **RED ROLFE**†, ironborn garrison guard | Serving among **Theon’s** men in the captured castle. | Helps defend Winterfell and is exposed when supposed **Bolton** allies enter. | 🗡 Cut down by the attacking Dreadfort soldiers. |
 | 29 | **KENNED**†, ironborn garrison guard | Serving among Theon’s remaining defenders. | Participates in the castle’s defence until the apparent rescuers turn on the garrison. | 🗡 Killed with **Red Rolfe** when the gates are opened. |
 | 30 | **ULF**, ironborn defender | Serving in Theon’s garrison. | Runs toward the Great Hall during the surprise attack. | 🟡 Struck through the belly by a crossbow bolt; survival or death not confirmed in Theon’s closing scene. |
@@ -191,6 +212,6 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 
 > **Chronology — Applies to: Opening header and Section 2:** The existing [COK CSRM](ROM_CSRM_ACOK.md) uses approximate calendar dates inferred from PrivateMajor’s ASOIAF fan timeline. Day-level placement is not official George R. R. Martin canon. Dates are therefore marked estimated. The ASOIAF Project has not authorised a Reader-Standardised elapsed-time anchor for this Scope; none is invented.
 
-> **Roll Call and deaths — Applies to: Section 5:** Existing significance ranks follow the provisional [COK MCM](ROM_MCM_COK.md), with source-grounded Tertiary representation for individually useful participants. The records distinguish the murder of the 2 miller’s children from the supposed deaths of Bran and Rickon. Identified casualties include Benfred, Todric, the 2 substitute boys, Drennan, Squint, Aggar, Farlen, Rodrik, Cley, Leobald, Red Rolfe and Kenned. The additional dead in the coastal raids and the fight outside Winterfell make the exact total unknowable from the narrated chapters. **Theon’s** closing fate, **Luwin’s** fate during the assault and several threatened garrison members remain explicitly unresolved within the final selected chapter, regardless of later evidence.
+> **Roll Call and deaths — Applies to: Section 5:** Existing significance ranks follow the priority-verified [COK MCM](ROM_MCM_COK.md), with source-grounded Tertiary representation for individually useful participants. The records distinguish the murder of the 2 miller’s children from the supposed deaths of Bran and Rickon. Identified casualties include Benfred, Todric, the 2 substitute boys, Drennan, Squint, Aggar, Farlen, Rodrik, Cley, Leobald, Red Rolfe and Kenned. The additional dead in the coastal raids and the fight outside Winterfell make the exact total unknowable from the narrated chapters. **Theon’s** closing fate, **Luwin’s** fate during the assault and several threatened garrison members remain explicitly unresolved within the final selected chapter, regardless of later evidence.
 
-> **Canonical authority and navigation — Applies to: Entire document:** Built under [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM RPW](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md), [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md), [ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md), [ROM TS](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [CGW](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). This BUILD saves the report and maintains applicable navigation; it does not advance the Reading Point, update the live series MCR, or certify the provisional COK MCM.
+> **Canonical authority and navigation — Applies to: Entire document:** Built under [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM RPW](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md), [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md), [ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md), [ROM TS](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md) and [CGW](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). This BUILD saves the report and maintains applicable navigation; it does not advance the Reading Point, update the live series MCR, or certify the priority-verified COK MCM.
