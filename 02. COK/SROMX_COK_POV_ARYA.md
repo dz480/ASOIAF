@@ -101,7 +101,7 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 
 **Reference:** [COK ROM MCM](ROM_MCM_COK.md) (provisional whole-book significance; selected-chapter participation independently screened against the EPUB).
 
-**Character entries: 51 Total | 2 Principal | 7 Supporting | 39 Tertiary | 3 Collective | Deaths: Unknown exact count.** Deaths occurring in this POV Scope include named characters, captives, prison guards, Yoren's fighters and casualties during the capture of Harrenhal. Several episodes establish deaths without a reliable total; this count is not interchangeable with the number of †-marked roster entries.
+**Character entries: 51 Total | 2 Principal | 8 Supporting | 36 Tertiary | 5 Collective | Deaths: Unknown exact count.** Deaths occurring in this POV Scope include named characters, captives, prison guards, Yoren's fighters and casualties during the capture of Harrenhal. Several episodes establish deaths without a reliable total; this count is not interchangeable with the number of †-marked roster entries.
 
 *🏅 Principal · 🥈 Supporting · unaltered underlying indices for Tertiary and Collective entries. Positions at Start share the opening of **COK Ch. 1**; Positions at End share the end of **COK Ch. 64**. Bracketed statuses reflect information available by that latter boundary, with missing or uncertain fates left unresolved.*
 
@@ -155,7 +155,7 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 | 28 | **CHISWYCK**†, soldier in Gregor's company [Deceased] | Serving the Mountain in the Riverlands. | Boasts of past sexual violence; Arya names him to **Jaqen**, and he falls from a wallwalk. | Dead at Harrenhal after the first promised killing. |
 | 29 | **RAFFORD (RAFF THE SWEETLING)**, Lannister soldier [Alive] | Serving in Gregor's force. | Participates in the atmosphere of coercion and terror, becoming a recurrent name in Arya's list. | Last known away with Lannister forces; no resolution within Arya X. |
 | 30 | **THE TICKLER**, Lannister interrogator [Alive] | Conducting brutal questioning on behalf of Gregor's commanders. | Tortures captive villagers for information on hidden valuables and **Beric Dondarrion**. | No later direct encounter after his service among the captors. |
-| 31 | **LANNISTER ARMSMEN AND HARRRENHAL GUARDS**, unnamed attackers and jailers [Mixed / not individually tracked] | Serving Lannister field forces and the garrison. | Attack Yoren's refuge, guard prisoners, commit atrocities and resist the castle's capture. | Many are killed in combat or the dungeon rising; individual outcomes cannot be totalled. |
+| 31 | **LANNISTER ARMSMEN AND HARRENHAL GUARDS**, unnamed attackers and jailers [Mixed / not individually tracked] | Serving Lannister field forces and the garrison. | Attack Yoren's refuge, guard prisoners, commit atrocities and resist the castle's capture. | Many are killed in combat or the dungeon rising; individual outcomes cannot be totalled. |
 
 ### Forced Servants, Craftsmen and Supervisors
 
@@ -164,7 +164,7 @@ Serving Bolton brings Arya close enough to hear **Frey** officers discussing the
 | 32 | **WEESE**†, understeward of Harrenhal's Wailing Tower [Deceased] | Working as a disciplinary servant-supervisor at Harrenhal. | Bullies and beats Arya, commands her work and becomes her second chosen death for Jaqen. | Killed by his own spotted dog in the castle yard. |
 | 33 | **GOODWIFE AMABEL**, supervisor of women servants [Alive] | A servant overseer at Harrenhal, exercising authority in its bathhouse and work assignments. | Helps classify newly arrived captives and later threatens Arya with punishment after the change of control. | Still working at Harrenhal as Arya prepares to flee. |
 | 34 | **GOODWIFE HARRA**, bathhouse supervisor [Alive] | Managing the intake and discipline of workers at Harrenhal. | Strikes Arya when she asks to tend horses instead of being assigned to kitchen duties. | Last directly encountered among Harrenhal's servant overseers. |
-| 35 | **LUCAN**, Harrenhal armourer [Alive] | Operating the castle armoury before Arya's arrival. | Employs Gendry and exchanges messages and weapons with Arya during Tywin's preparations. | Remains associated with the armoury; current role after the castle's capture is less certain. |
+| 35 | **LUCAN**†, Harrenhal armourer [Deceased] | Operating the castle armoury before Arya's arrival. | Employs Gendry and exchanges messages and weapons with Arya during Tywin's preparations. | Executed after the castle changes hands, as Arya learns from its aftermath. |
 | 36 | **PIA**, serving woman at Harrenhal [Alive] | Employed in the castle's domestic service. | Appears in Arya's observations of the garrison's servants and is discussed as vulnerable to the occupying men. | Still under the occupiers' control in Arya's last chapter. |
 | 37 | **MEBBLE (PINKEYE)**, drunken kitchen supervisor [Alive] | In charge of a section of Harrenhal's kitchens. | His habitual sleep and lax supervision leave room for Arya to move about during the prisoner rescue. | Survives the change of masters and continues his kitchen work. |
 
