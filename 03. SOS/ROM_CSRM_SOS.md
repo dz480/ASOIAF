@@ -3,11 +3,11 @@
 **Protocol:** ROM CSRM v10.29 | **Scope:** Whole Book (Prologue + Ch. 1–80 + Epilogue)  
 **Chronology:** Calendar-first, ≈ estimated (PrivateMajor external reconstruction) | **RSDP:** Not established  
 **Source:** Complete reader-supplied Random House 2003 SOS EPUB; verified RTE inventory (82 narrative units)  
-**Status:** Reconciled whole-book master; **FULL SOS SPOILERS**. Not a reading-point update.  
-**Reconciliation:** 14 Oct 2026 | EPUB chapter-grounded corrections to cast, chronology, event descriptions and display fields.  
+**Status:** Whole-book CSRM with structural/source checks; date estimates remain noncanonical. **FULL SOS SPOILERS**. Not a reading-point update.  
+**Validation:** 14 Oct 2026 | 82-unit source inventory, chapter-order alignment, dated external chronology anchors and GitHub anchor integrity checked. Further individual-appearance certification belongs to the SOS MCM.  
 **Project:** [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md) · [Reading Index](../README.md) · [SOS MCM](ROM_MCM_SOS.md)
 
-> **Date evidence:** [PrivateMajor, *ASOIAF Timeline — Vandal Proof*](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit) ([readable mirror](https://www.scribd.com/document/422966422/ASOIAF-Timeline-Vandal-Proof)). The table's month/day assignments are fan inference, **not canonical exact dates**; entries may span multiple days and POV lines run concurrently. This record preserves source publication order and uses approximate day ranges where events extend over time. The primary EPUB, not external chapter numbers or plot paraphrases, controls the event mapping. The counterpart [GOT](../01.%20GOT/ROM_CSRM_AGOT.md) and [COK](../02.%20COK/ROM_CSRM_ACOK.md) CSRMs establish the same methodology. RTE supplied no locked SEQ allocation for SOS, so the retrospective groups here follow contiguous narrative movement.
+> **Date evidence:** [PrivateMajor, *ASOIAF Timeline — Vandal Proof*](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit) ([readable mirror](https://www.scribd.com/document/422966422/ASOIAF-Timeline-Vandal-Proof)). The table's month/day assignments are fan inference, **not canonical exact dates**; entries may span multiple days and POV lines run concurrently. The SOS Epilogue has no verified day-level row in the cited timeline, so its date is limited to the approximate early-300 AC period. This record preserves source publication order and uses approximate day ranges where events extend over time. The primary EPUB, not external chapter numbers or plot paraphrases, controls the event mapping. The counterpart [GOT](../01.%20GOT/ROM_CSRM_AGOT.md) and [COK](../02.%20COK/ROM_CSRM_ACOK.md) CSRMs establish the same methodology. RTE supplied no locked SEQ allocation for SOS, so the retrospective groups here follow contiguous narrative movement.
 
 ## Table of Contents
 - [SEQ 1: WRECKAGE AND FALSE LOYALTIES](#sos-csrm-seq-1)
@@ -182,9 +182,9 @@ At a riverside inn, Brienne exchanges their boat for horses; Jaime reflects bitt
 
 **≈6 Nov 299 AC**  
 *King's Landing* · *Red Keep*  
-**SANSA STARK** · **MARGAERY TYRELL**
+**SANSA STARK**
 
-Sansa is fitted for a splendid gown ordered by **Cersei**, while **Margaery**'s friendship sustains her hopes of marrying Willas Tyrell. She recalls **Dontos** warning that the Tyrells covet her inheritance and insisting she keep his promised escape plan.
+**Sansa** is measured for a gown ordered by **Cersei**. Remembering her recent friendship with **Margaery** and their hawking excursion, she hopes to marry Willas Tyrell, but wonders why the queen regent has commissioned the expensive garment.
 
 <a id="sos-csrm-ch-17"></a>
 ### Ch. 17: Arya III
@@ -235,7 +235,7 @@ Rickard Karstark murders Lannister captives in revenge for his sons; Robb execut
 *Riverlands* · *road to Harrenhal*  
 **JAIME LANNISTER** · **BRIENNE OF TARTH** · **CLEOS FREY** · **VARGO HOAT**
 
-After **Cleos Frey** is killed, **Jaime** fights **Brienne**, but both fall captive to **Vargo Hoat**'s Brave Companions. At Hoat's command, Zollo cuts off Jaime's sword hand.
+After **Cleos Frey** is killed, **Jaime** fights **Brienne**, but both fall captive to **Vargo Hoat**'s Brave Companions. At Hoat's command, one of his Dothraki sellswords severs Jaime's sword hand.
 
 <a id="sos-csrm-ch-22"></a>
 ### Ch. 22: Arya IV
@@ -819,7 +819,7 @@ Back at Castle Black, Sam shelters Gilly and observes the divided vote to choose
 <a id="sos-csrm-epilogue"></a>
 ### Epilogue
 
-**≈30 Jan 300 AC**  
+**≈early 300 AC (day not established)**  
 *Oldstones*  
 **CATELYN STARK (LADY STONEHEART)**
 
@@ -831,8 +831,8 @@ Back at Castle Black, Sam shelters Gilly and observes the divided vote to choose
 
 1. **Chapter identity:** The supplied SOS RTE lists 80 numbered chapters, 1 Prologue and 1 Epilogue. Every chapter is indexed once, and the 10 recurring POV narrators plus the Prologue and Epilogue narrators retain source order. These are the same 82 narrative units extracted from the supplied complete EPUB. Source titles are recorded as narrator ordinal labels as established by RTE.
 2. **Chronology:** External dates are approximate and not reliable down to the day. Corrected the chronology of Tyrion VII (SOS Ch. 58) to 1 Jan 300 AC, Daenerys V to ≈14 Nov 299 AC, and Sansa I to a 25–30 Oct 299 AC window. The PrivateMajor chronology provides the primary calendar framework. When an entry spans narrated days or weeks, the display uses a broad range; exact day-by-day synchronization is not claimed. No in-universe daily clock is asserted. A few long journeys overlap later chapters in narrative presentation and need not be monotonically dated.
-3. **Principal and Supporting roster:** Whole-book principal/supporting chapter rosters have been reconciled against actual scenes in the supplied SOS EPUB, using the separate SOS MCM as a candidate cross-check rather than as unquestioned authority. Mentioned-only individuals, retrospective memories and absent historical figures are excluded; the Epilogue's revealed Lady Stoneheart is classified under Catelyn Stark. Cast order remains a compact narrative-orientation order. The MCM's independent upper-tier numerical appearance audit remains separately outstanding.
-4. **Narrative briefs:** Condensed original prose grounded in the SOS EPUB; corrected errors distinguishing recollected/offstage events from chapter-enacted developments, including Sansa II, Jaime III, Davos V, Tyrion VII and Arya XII. Secondary guides and timeline summaries remain subordinate to the primary text. The appendixed chronology citations are aids to locating events rather than assertions of exact author-set dates.
+3. **Principal and Supporting roster:** Whole-book principal/supporting chapter rosters were cross-checked against selected enacted scenes in the SOS EPUB, using the separate SOS MCM as a candidate index rather than as unquestioned authority; the work-wide character-presence audit is not fully certified. Mentioned-only individuals, retrospective memories and absent historical figures are excluded; the Epilogue's revealed Lady Stoneheart is classified under Catelyn Stark. Sansa II excludes Margaery from its current-scene roster because her dialogue belongs to Sansa's recollection of an earlier outing. Cast order remains a compact narrative-orientation order. The MCM's independent upper-tier numerical appearance audit remains separately outstanding.
+4. **Narrative briefs:** Condensed original prose checked against the SOS EPUB for chapter-specific actors and actions; corrections distinguish retrospective reports from enacted action and do not supply a later-revealed name for Jaime III's unnamed attacker. This is a verified-sample editorial check, not a certification that every line of every brief has undergone independent close reading. Secondary guides and timeline summaries remain subordinate to the primary text. The appendixed chronology citations are aids to locating events rather than assertions of exact author-set dates.
 5. **Navigation:** Stable IDs `sos-csrm-prologue`, `sos-csrm-ch-1` to `sos-csrm-ch-80`, and `sos-csrm-epilogue` are provided for future POV SROMX reciprocal links. No uncreated SROMX files are linked as if they already existed. Reader-bounded CSRM remains a separate future record under RPW.
 
 **External chronology used:** [PrivateMajor, *ASOIAF Timeline — Vandal Proof*](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit) · [Scribd transcript](https://www.scribd.com/document/422966422/ASOIAF-Timeline-Vandal-Proof). These provide estimated dates, not primary-text evidence of enacted cast or plot.
