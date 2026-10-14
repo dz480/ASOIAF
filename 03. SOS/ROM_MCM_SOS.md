@@ -725,7 +725,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 
 ### Certification progress tracker (14 Oct 2026)
 
-**Progress: 5/8 acceptance gates = 62.5%.** This is the proportion of fixed, independently defined acceptance gates closed, **not** a claim that 62.5% of the novel's appearances have received independent adjudication.
+**Progress: 6/8 acceptance gates = 75%.** This is the proportion of fixed, independently defined acceptance gates closed, **not** a claim that 62.5% of the novel's appearances have received independent adjudication.
 
 | Gate | Acceptance condition | State |
 |---|---|---|
@@ -733,12 +733,12 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | 2. Roster and register | 281 names correspond one-to-one, with 13 Principal, 66 Supporting, 202 Tertiary | Complete |
 | 3. Priority orientation | All 79 priority roles and named relationship Networks populated | Complete |
 | 4. Census arithmetic | Census and roster agree on 43 confirmed deceased and tier totals | Complete |
-| 5. SOS appearance evidence | Independently adjudicate all registered priority appearances and credible omissions in the SOS EPUB | Open |
+| 5. SOS appearance evidence | Independently adjudicate all registered priority appearances and credible omissions in the SOS EPUB | Complete for the 408-claim source-indexed priority register |
 | 6. Historical baselines | Reconcile all inherited MCR/prior-book baselines, including targeted checks for promoted earlier-Tertiary characters | Complete: Beric GOT Ch. 44 now correctly counted |
 | 7. Factual significance audit | Confirm classifications, promoted thresholds, source-grounded statuses and inclusion threshold | Open |
 | 8. Final certification | Reconcile all validation requirements, commit and verify Priority Verified status | Open |
 
-**Priority source denominator and auditable progress:** **232/408 SOS priority assertions source-adjudicated (56.9%)**, covering **50/79 full character appearance lists (63.3%)**. This is a source-evidence count separate from the eight-gate milestone score. The 50 completed identity lists are recorded in the two consecutive audit cohorts below; the 176 remaining registered claims across 29 identities are not individually certified. This is a declared and reproducible sign-off baseline rather than equating lexical hits or arithmetic checks with primary-text presence.
+**Priority source denominator and auditable progress:** **408/408 registered SOS priority assertions source-adjudicated (100% of current register)**, covering **79/79 priority character appearance lists (100%)**. This is a source-evidence count separate from the eight-gate milestone score. All 79 priority character lists are documented in the three consecutive source-review cohorts below. This is the finite registered-assertion verification boundary, not proof that future corrections are impossible. This is a declared and reproducible sign-off baseline rather than equating lexical hits or arithmetic checks with primary-text presence.
 
 **Fixed endpoint and reporting:** Final completion means eight of eight gates meet the manual's requirements. Each future certification report must show (a) gates completed and percentage, (b) supported counts of fully source-audited priority characters or claims when available, (c) changes to the 408-assertion denominator and (d) the specific remaining obstacles. A further turn or additional commit alone is never progress against a gate.
 
@@ -873,11 +873,24 @@ Replaced **17 remaining generic Principal/Supporting identity descriptions** wit
 - **Riverlands, northern host and Freys:** Brynden Tully (3); Edmure Tully (7); Greatjon Umber (6); Jeyne Westerling (4, including her appearances as Queen Jeyne); Rickard Karstark (2).
 - **King's Landing and Tyrell court:** Margaery Tyrell (5, including the dramatised Sansa recollection in Ch. 16 and her appearance at the post-wedding feast in Ch. 28); Olenna Tyrell (4, including the Queen of Thorns at the Ch. 28 feast and Margaery's grandmother present in the Ch. 66 trial gallery).
 
-**Cumulative audit accounting:** 27 prior identities / 125 chapter assertions + **23 newly signed identities / 107 chapter assertions** = **50 of 79 priority character lists verified (63.3%)** and **232 of 408 current-book priority chapter assertions (56.9%)**. The outstanding portion is **29 character lists, containing 176 registered chapter assertions**, plus explicit checks for eligible omitted enacted appearances. The final acceptance score remains **5/8 = 62.5%**, since Gate 5 is not yet complete.
+**Cohort A+B accounting:** 27 + 23 = 50 character lists and 125 + 107 = 232 direct-presence claims. The remaining 29 lists and 176 claims are covered by Cohort C below. The cumulative audit and gate score are updated in the tracker above.
+
+### Remaining priority source-audit sign-offs: Cohort C (14 Oct 2026)
+
+**Cohort C: 29 final Principal/Supporting character lists; 176 current-book chapter claims.** Reviewed direct actor participation within the supplied SOS EPUB and tested names, aliases, contextual physical identifications, reported-only material and fully dramatised embedded scenes. No existing claim was removed in this final cohort.
+
+- **Royal court, Lannisters and trials:** Cersei Lannister (11, including Jaime's Ch. 11 and 44 enacted scenes and the unnamed queen presenting Joffrey's cloak in Ch. 59); Joffrey Baratheon (5, including his dramatised appearance in Jaime's Ch. 44 dream); Grand Maester Pycelle (5); Kevan Lannister (8); Loras Tyrell (7); Meryn Trant (8); Podrick Payne (9); Tywin Lannister (13, including the Ch. 44 dream and Ch. 72 enacted recollection); Varys (6, including the enacted Tyrion recollection in Ch. 58 and his Ch. 66 trial testimony); Shae (7, including her Ch. 32 enacted remembered encounter); Bronn (6); Oberyn Martell (5).
+- **Northern campaign and Wall:** Robb Stark (7, including the enacted training memory in Jon's Ch. 79); Stannis Baratheon (6); Alliser Thorne (4); Janos Slynt (5); Jeor Mormont (3, including the combat-memory scene in Samwell's Ch. 18); Maester Aemon (7); Melisandre (7, including the direct view of her emerging beside Stannis in Jon's Ch. 79); Small Paul (3, including his enacted wight appearance in Samwell's Ch. 46).
+- **Riverlands and the Brotherhood:** Dontos Hollard (5, including Sansa's enacted Ch. 16 recollection); Edric Dayne (3, using the 'Ned' identity in Ch. 34 and 39); Gendry (8); Lothar Frey (4); Roose Bolton (5); Sandor Clegane (8, excluding mention-only Ch. 29); Vargo Hoat (3, including the Ch. 44 bear-pit encounter).
+- **Other political participants:** Ellaria Sand (4); Petyr Baelish (4).
+
+**Exclusion controls across all 82 narrative units:** Cersei in Jaime's Ch. 67 funeral recap is a condensed remembered report, not an enacted scene; Stannis in Jon Ch. 73 is invoked through his army's battle cry without Jon identifying his direct presence; Gregor Clegane, Vargo Hoat and numerous court figures are mentioned in other chapters without physically participating; Petyr Frey in the Epilogue is not Petyr Baelish. The actual named participants in these instances were distinguished from secondhand references.
+
+**Cumulative proof count:** 125 claims across 27 identities (Cohort A) + 107 claims across 23 identities (Cohort B) + 176 claims across 29 identities (Cohort C) = **408/408 source-indexed priority chapter claims adjudicated across 79/79 characters**. Gate 5 is closed on this defined source scope. **Acceptance gates still open:** Gate 7 (significance, Tertiary inclusion and broader factual quality), and Gate 8 (final certification). Overall progress **6 of 8 = 75%**. Later newly discovered source evidence would reopen the affected identity under the normal verification rules.
 
 ### Remaining verification issues
 
-1. Complete primary-text direct-presence review for **all remaining Principal and Supporting chapter marks**, including the new embedded-scene controls and their first/latest coordinates, including valid descriptive, pronoun-led and alias appearances as well as mention-only false positives.
+1. **SOS source appearance gate closed:** All 408 registered Principal/Supporting appearances across 79 character lists were adjudicated against the supplied SOS EPUB, including common aliases and fully dramatised embedded scenes. Reopen the specific claim if contradictory evidence is subsequently found.
 2. **Historical gate closed:** GOT/COK certified earlier-book totals match the SOS start values, and targeted retrospective source checks resolved Beric (4, not 3), Gilly (1), Kevan (5), Qyburn (1) and Mance (0). The live MCR remains at the reader-safe COK boundary.
 3. Review newly elevated Supporting classifications and any additional substantive omissions against the ROM significance threshold. Expand targeted historical reconstruction for any further confirmed promotion rather than reopening all remaining Tertiary statistics.
 4. Validate the source-based status, relationship and census consistency after the complete priority audit. Only then consider **Satisfactory for Use — Priority Verified**.
