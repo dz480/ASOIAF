@@ -1,14 +1,14 @@
 # ASOIAF READTHROUGH PROJECT WORKFLOW
 
 **Status:** Canonical project operating document  
-**Version:** 1.6
-**Last Updated:** 13 Oct 2026  
+**Version:** 1.7
+**Last Updated:** 14 Oct 2026  
 **Established:** 13 Oct 2026  
 **Repository:** [dz480/ASOIAF](https://github.com/dz480/ASOIAF)  
 **Permanent filename:** `ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md`  
 **Recognised document abbreviation:** ASOIAF RPW  
 **Scope:** Repeatable book-by-book reread, source analysis, ROM production, reconciliation and GitHub archival workflow  
-**Revision (v1.6, 13 Oct 2026):** Integrated mandatory MCM → MCR → next-book MCM transfer from universal ROM RPW v1.2; distinguished next-book participant roster from preserved historical identities and backend foresight from live MCR.
+**Revision (v1.7, 14 Oct 2026):** Registered the established external chronology reference used to accelerate GOT and COK CSRM mapping, including source limitations and chapter-level verification.
 
 **Operating principle:** Prepare the entire book's reference architecture **before reading**; conduct the readthrough and POV SROMX construction **concurrently**; then reconcile all completed POV accounts and synthesise the final, whole-book ROM MNT. This document is the ASOIAF **Type C continuous-series reread specialisation** of the universal six-phase lifecycle.
 
@@ -148,6 +148,8 @@ A&P ROM CSRM: [BOOK], MLRP
 ```
 
 On its **first invocation**, A&P bootstraps and commits a **separate reader-bounded CSRM record** at `ROM_CSRM_[BOOK]_READER.md` if that record does not yet exist; on subsequent invocations it ADVANCEs that same reader record through the established MLRP. In both cases it displays **only the eligible reader-facing copy**, while the complete advance-built whole-book master remains intact in GitHub. This narrowly defined first-use bootstrap is authorised by the current ROM CSRM Manual and ROM Terminology Standard. Establish MLRP explicitly from the current conversation or the authorised registry; if unavailable, request it rather than inferring it. The specialist CSRM manual governs the mechanics of protecting the stored whole-book master.
+
+**Established ASOIAF chronology aid (GOT and COK):** [PrivateMajor, *ASOIAF Timeline — Vandal Proof*](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit), with an [accessible Scribd transcript / mirror](https://www.scribd.com/document/422966422/ASOIAF-Timeline-Vandal-Proof). This is the external source previously used to fast-track chronological mapping for the [GOT CSRM](01.%20GOT/ROM_CSRM_AGOT.md) and [COK CSRM](02.%20COK/ROM_CSRM_ACOK.md). It helps align concurrent POV events and estimate in-world dates across chapters; it is **fan-constructed chronology, not author-canonical exact dating**. All inferred day/month placements must be labelled approximate, and chapter mappings must be checked against the applicable primary EPUB and RTE schedule. The COK chronology identified occasional erroneous chapter-number labels in the transcript, so use POV identity and narrated events to validate correspondence rather than importing row numbers uncritically. Treat this resource as a *secondary chronological aid*, subordinate to the book text, and available for later books only where coverage and correspondence are verified.
 
 **Completion test:** All authorised narrative units have a stable chapter reference, chronological information is source-supported and the complete CSRM is committed to GitHub, without unrestricted chat publication.
 
@@ -384,6 +386,8 @@ APPLY ROM NAVIGATION: dz480/ASOIAF
 
 <a id="workflow-notes"></a>
 ## Appendix: Document Notes
+
+> **Chronology reference (v1.7, 14 Oct 2026) — Applies to: Step 4:** Saved PrivateMajor's timeline and its mirror as the established speed-up reference for GOT/COK CSRM construction, with explicit fan-date uncertainty and source-chapter verification rules.
 
 > **Document rename (v1.5, 13 Oct 2026):** Renamed from `ASOIAF_MASTER_WORKFLOW.md` to `ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md` and assigned the registered abbreviation ASOIAF RPW to identify this series-specific implementation of universal ROM RPW. Existing POV SROMX architecture and reread progression policy are preserved.
 
