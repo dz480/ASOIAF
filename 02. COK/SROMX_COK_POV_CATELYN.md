@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **COK Ch. 55 (Catelyn VII)**, specifically Catelyn's request for Brienne's sword in Jaime's cell. The precise chapter dates supplied by the Project CSRM are **approximate fan reconstructions**, not dates stated in Martin's primary text.
 
-**Repository:** [Series Index](../README.md) · [COK Reading Index](README.md) · [COK ROM CSRM](ROM_CSRM_ACOK.md) (full-book spoilers) · [COK ROM MCM](ROM_MCM_COK.md) (provisional, full-book spoilers) · [GOT Catelyn POV](../01.%20GOT/SROMX_GOT_POV_CATELYN.md)
+**Repository:** [Series Index](../README.md) · [COK Reading Index](README.md) · [COK ROM CSRM](ROM_CSRM_ACOK.md) (full-book spoilers) · [COK ROM MCM](ROM_MCM_COK.md) (priority-verified, full-book spoilers) · [GOT Catelyn POV](../01.%20GOT/SROMX_GOT_POV_CATELYN.md)
 
 <a id="cok-catelyn-toc"></a>
 ## Table of Contents
@@ -99,9 +99,9 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 <a id="cok-catelyn-rollcall"></a>
 # 5. Roll Call
 
-**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (provisional, whole-book spoilers) and [GOT Catelyn SROMX](../01.%20GOT/SROMX_GOT_POV_CATELYN.md). This is a **selected-POV physical-Presence census**: spoken references to the absent Stark children, Cersei, Tyrion, Tywin, Balon, Stafford, Stevron and other offstage actors do not independently make them Present in Catelyn I–VII.
+**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (priority-verified, whole-book spoilers) and [GOT Catelyn SROMX](../01.%20GOT/SROMX_GOT_POV_CATELYN.md). This is a **selected-POV physical-Presence census**: spoken references to the absent Stark children, Cersei, Tyrion, Tywin, Balon, Stafford, Stevron and other offstage actors do not independently make them Present in Catelyn I–VII.
 
-**Character entries:** **41 Total | 6 Principal | 11 Supporting | 22 Tertiary | 2 Collective | Deaths: Unknown exact count.** Source-established deaths during the selected Scope include **Renly** and reported casualties among the Lannister envoys, castle guards, riverland soldiers, Stannis/Renly combatants and other war participants. The Scope does not yield a reliable total. Individuals dead before Catelyn I, including **Ned**, are excluded from this Scope-local death count.
+**Character entries:** **41 Total | 5 Principal | 10 Supporting | 24 Tertiary | 2 Collective | Deaths: Unknown exact count.** Source-established deaths during the selected Scope include **Renly** and reported casualties among the Lannister envoys, castle guards, riverland soldiers, Stannis/Renly combatants and other war participants. The Scope does not yield a reliable total. Individuals dead before Catelyn I, including **Ned**, are excluded from this Scope-local death count.
 
 *🏅 Principal · 🥈 Supporting · original underlying numerical indices for Tertiary and Collective. The uniform opening point for every entry is the beginning of **COK Ch. 7**; the uniform closing point is the end of **COK Ch. 55**. Status emojis precede closing narrative positions without duplicative labels. † identifies deceased individuals in the Character column only.*
 
@@ -120,7 +120,7 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **HOSTER TULLY**, Lord of Riverrun and Catelyn's father | Gravely ill in his solar at Riverrun, sometimes unable to recognise family. | His condition declines through Catelyn's visits; she confides in him after the devastating raven from the North. | 🟢 Confined to bed in **Riverrun**, breathing faintly and near death but alive when Catelyn descends to Jaime. |
+| 4 | **HOSTER TULLY**, Lord of Riverrun and Catelyn's father | Gravely ill in his solar at Riverrun, sometimes unable to recognise family. | His condition declines through Catelyn's visits; she confides in him after the devastating raven from the North. | 🟢 Confined to bed in **Riverrun**, breathing faintly and near death but alive when Catelyn descends to Jaime. |
 | 🥈 | **EDMURE TULLY**, heir to Riverrun | Defending the **Riverlands** and helping Robb's peace audience while his father is ill. | Reports the failed Lannister rescue, shelters refugees, musters river lords and defeats **Tywin**'s attempted crossings. | 🟢 Away with the Riverlands forces after victories on the **Red Fork**, preparing to marry according to subsequent discussion. |
 | 🥈 | **BRYNDEN TULLY (BLACKFISH)**, Hoster's brother and Stark scout commander | Reconnoitring Lannister activity near the Riverlands, with immediate family news from Hoster's sickroom. | Warns **Catelyn** about **Tywin**'s intended trap at Harrenhal and another western Lannister host. | 🟢 With Robb's forces in the west according to reports reaching Riverrun. |
 
@@ -137,6 +137,11 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 | 10 | **OLYVAR FREY**, Robb's squire | Attending newly crowned Robb at Riverrun. | Presents Robb's sword, delivers his peace document and carries away his unwieldy crown. | 🟢 Last seen continuing as Robb's squire; subsequent personal position not shown in Catelyn's chapters. |
 | 🥈 | **CLEOS FREY**, captive Lannister knight and envoy | A prisoner held by Robb, chosen to convey demands to the queen under escort. | Returns with the royal answer; escorts falsely accredited men involved in Jaime's attempted escape; is confined and later questioned. | 🟢 At **Riverrun**, detained after the false envoys' plot and having discussed royal exchange terms with Catelyn. |
 | 12 | **ROBIN RYGER**, captain of Riverrun's guards | Defending **Riverrun** and guarding prisoners on Edmure's behalf. | Escorts Cleos from Robb's audience and later receives Catelyn with Edmure; asks about Renly's mysterious death. | 🟢 Remains an officer of the Riverrun garrison; no later personal movement in Catelyn's closing chapter. |
+
+### Riverrun Advisers and Retainers
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 13 | **MAESTER VYMAN**, maester of Riverrun | Tending **Hoster** and advising the Tully household at the Scope opening. | Treats wounded defenders, tends the dying lord and offers **Catelyn** a sleeping draught after her news from the North. | 🟢 At **Riverrun**, having left Catelyn alone with her father before the dungeon interrogation. |
 | 14 | **DESMOND GRELL**, Riverrun master-at-arms | Senior warrior charged with the castle's defence. | Welcomes Catelyn and Brienne, helps administer Riverrun and rejoices at Edmure's success at the fords. | 🟢 Still supporting Edmure's household and garrison at Riverrun. |
 | 15 | **UTHERYDES WAYN**, Riverrun steward | Administering household duties for a mortally ill Lord Hoster. | Greets Catelyn, participates in her return and introduces 2 Silent Sisters carrying Ned's remains. | 🟢 At Riverrun, charged with supporting the transport of Ned's bones north. |
@@ -151,6 +156,11 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 | 19 | **HALLIS MOLLEN**, Stark captain of guards | Serving Catelyn and House Stark on their road south. | Bears her banner at the parley, helps during the flight from Renly's camp and is assigned to escort Ned's bones north. | 🟢 Charged with the journey to **Winterfell** with the **Silent Sisters** and Ned's remains. |
 | 20 | **SHADD**, Winterfell guardsman and camp cook | Escorting Catelyn on Robb's mission. | Makes tea and food for the travelling party, assists in camp and accompanies her south and back. | 🟢 Last encountered with Catelyn's escort during the mission; later whereabouts not specified. |
 | 21 | **ROBIN FLINT**, Winterfell scout | Riding ahead of Catelyn's mission to locate potential threats. | Discovers **Colen Greenpools**' approach and rides to Riverrun's gate when the escort returns. | 🟢 Last seen back among Stark and Tully defenders at Riverrun. |
+
+### Riverland Retinue and Funeral Attendance
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 22 | **LUCAS BLACKWOOD**, young northern-allied guardsman | Among the Stark escort selected for Catelyn's diplomatic mission. | Sharpens his dagger during Renly's military preparations and asks Catelyn whether they must fight or flee. | 🟢 With the surviving escort on the journey back; no later direct appearance. |
 | 23 | **RYMUND THE RHYMER**, singer in Riverrun | A minstrel with an interest in Robb's military successes, not personally established in Catelyn's first chapter. | Performs ballads celebrating **Robb** and **Edmure**, including music heard in Catelyn's Riverrun scenes. | 🟢 Singing in the castle during the river victory celebrations, before Catelyn receives the northern raven. |
 | 24 | **SILENT SISTERS**, 2 funeral attendants [collective] | Religious attendants charged with caring for the dead in the wartime realm. | Deliver **Ned**'s reassembled bones to Riverrun and accept Catelyn's instruction to carry them to Winterfell. | ⚪️ Depart under arrangements for a northern escort; their individual subsequent movements are not shown. |
@@ -162,8 +172,8 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **RENLY BARATHEON**†, claimant king and Lord of Storm's End | Leading a southern royal claim supported by Reach and storm lords. | Receives Catelyn at Bitterbridge, marches against **Stannis**, rejects compromise and prepares to fight before dawn. | 🗡 Killed in his pavilion near **Storm's End** by an armed shadow witnessed by Catelyn and Brienne. |
-| 26 | **MARGAERY TYRELL**, Renly's queen and daughter of Mace Tyrell | With **Renly**'s court and its Reach supporters while he pursues the throne. | Receives Catelyn courteously at the **Bitterbridge** melee and attends Renly's lavish feast. | 🟡 Last physically seen with Renly's southern court; her position after his assassination is not verified in this POV. |
+| 🥈 | **RENLY BARATHEON**†, claimant king and Lord of Storm's End | Leading a southern royal claim supported by Reach and storm lords. | Receives Catelyn at Bitterbridge, marches against **Stannis**, rejects compromise and prepares to fight before dawn. | 🗡 Killed in his pavilion near **Storm's End** by an armed shadow witnessed by Catelyn and Brienne. |
+| 🥈 | **MARGAERY TYRELL**, Renly's queen and daughter of Mace Tyrell | With **Renly**'s court and its Reach supporters while he pursues the throne. | Receives Catelyn courteously at the **Bitterbridge** melee and attends Renly's lavish feast. | 🟡 Last physically seen with Renly's southern court; her position after his assassination is not verified in this POV. |
 | 🥈 | **BRIENNE OF TARTH**, knightly warrior and former Rainbow Guard | At **Renly**'s camp seeking honour through his service, not yet personally acquainted with Catelyn. | Wins the melee, protects Renly, survives blame for his murder and swears a new oath to Catelyn. | 🟢 Outside captive **Jaime**'s cell at **Riverrun**, summoned by Catelyn and asked to surrender her sword. |
 | 🥈 | **LORAS TYRELL**, Knight of Flowers | Renly's prominent young supporter and favourite champion among the Reach knights. | Loses the melee to **Brienne** and is given the honour of leading Renly's planned dawn assault. | 🟡 Away from Catelyn when Renly dies; his immediate subsequent choices remain beyond her selected scenes. |
 | 🏅 | **STANNIS BARATHEON**, rival claimant king and elder Baratheon brother | Claiming **Robert**'s throne from his island seat at **Dragonstone**. | Besieges Storm's End, demands Renly's obedience and alleges royal illegitimacy; Catelyn suspects his involvement in the shadow killing. | 🟢 At the head of his forces near Storm's End when last directly encountered; his later actions reach Catelyn only by report. |
@@ -177,6 +187,11 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 | 32 | **RANDYLL TARLY**, lord and veteran field commander | Serving as one of Renly's most experienced military supporters. | Urges eliminating Stannis as a threat and warns that the rising sun will blind Renly's attacking men. | 🟡 Last observed advising the king in his pavilion before the assassination. |
 | 33 | **ROBAR ROYCE**, Rainbow Guard knight from the Vale | Serving Renly despite his family's allegiance to House Arryn. | Escorts Catelyn to the sept and, after Renly is killed, accepts her assertion of Brienne's innocence and holds off pursuers. | 🟡 Leaves the burning pavilion to confront other guards while Catelyn and Brienne escape; subsequent fate not shown. |
 | 34 | **EMMON CUY**, Rainbow Guard knight | Sworn to Renly among the colourful sworn guards. | Finds the king dead, accuses **Brienne**, attacks her with an axe and continues fighting until Catelyn topples him with a brazier. | 🟡 Left in the attacked pavilion, recovering from Catelyn's blow as Brienne escapes; later fate unknown in this POV. |
+
+### Other Reach and Stormlands Knights
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 35 | **GUYARD MORRIGEN (THE GREEN)**, Rainbow Guard knight | One of the sworn companions around Renly at the start of Catelyn's mission. | Claims the right to lead the vanguard against Stannis and quarrels with older military commanders. | 🟡 Last seen among Renly's disputing officers; position after the king's death unknown within the selected chapters. |
 | 36 | **COLEN OF GREENPOOLS**, knight escorting visitors to Renly's court | Serving Renly's camp and monitoring approaching riders near Bitterbridge. | Challenges Catelyn's party, ushers her through the melee and presents her to Renly's court. | 🟡 Last encountered during Catelyn's Bitterbridge audience; later activities absent from the selected POV. |
 | 37 | **JON FOSSOWAY**, Reach knight in Renly's following | Serving in the southern king's war host. | Volunteers to lead the assault against Stannis during the military council. | 🟡 Last observed among Renly's assembled captains; no established personal development after the assassination. |
@@ -220,6 +235,6 @@ In her final selected chapter, Catelyn has received a raven from **Rodrik Cassel
 - **Built:** 14 Oct 2026.
 - **Protocol authority:** [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md).
 - **Primary literary source:** Complete supplied *A Clash of Kings* EPUB (Bantam eBook, v3.1_r14), with only Catelyn I–VII providing enacted selected-POV scenes; selected word counts sum to **36,371** in the supplied RTE schedule.
-- **Project orientation:** [COK CSRM](ROM_CSRM_ACOK.md) supplies native chapter coordinates and externally estimated dates; [COK MCM](ROM_MCM_COK.md) supplies provisional whole-book character significance. [GOT Catelyn SROMX](../01.%20GOT/SROMX_GOT_POV_CATELYN.md) supports established series-opening character positions.
+- **Project orientation:** [COK CSRM](ROM_CSRM_ACOK.md) supplies native chapter coordinates and externally estimated dates; [COK MCM](ROM_MCM_COK.md) supplies priority-verified whole-book character significance. [GOT Catelyn SROMX](../01.%20GOT/SROMX_GOT_POV_CATELYN.md) supports established series-opening character positions.
 - **Spoiler discipline:** Catelyn's raven report that Bran and Rickon have been killed is recorded as a report she believes; it is not an independently established fact from her own chapters. The closing request for Brienne's sword is the final enacted action. No later Jaime-related outcome is anticipated.
 - **Character and death boundaries:** The Roll Call includes physically enacted and materially useful individuals/collectives, not every character merely discussed. Scope-local deaths include reported casualties when their occurrence within this Scope is confirmed, but their exact total cannot be resolved reliably. Renly's death is directly witnessed; other actors' fates remain at their last defensible within-POV condition.
