@@ -23,6 +23,8 @@ This folder is the canonical destination for all published COK-specific readthro
 
 - [SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) · 8 POV chapters: Ch. 2, 18, 32, 52, 57, 60, 62 and 65. **Spoilers through COK Ch. 65**.
 
+- [SROMX | Tyrion Lannister | Full Book](SROMX_COK_POV_TYRION.md) · 15 POV chapters: Ch. 3, 8, 15, 17, 20, 25, 29, 36, 41, 44, 49, 54, 59, 61 and 67. **Spoilers through COK Ch. 67**.
+
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
 The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).
