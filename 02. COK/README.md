@@ -29,6 +29,8 @@ This folder is the canonical destination for all published COK-specific readthro
 
 - [SROMX | Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) · 7 POV chapters: Ch. 7, 22, 31, 33, 39, 45 and 55; 36,371 source words. **Spoilers through Ch. 55**.
 
+- [SROMX | Jon Snow | Full Book](SROMX_COK_POV_JON.md) · 8 POV chapters: Ch. 6, 13, 23, 34, 43, 51, 53 and 68. **Spoilers through COK Ch. 68**.
+
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
 The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).
