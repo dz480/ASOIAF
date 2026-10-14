@@ -230,6 +230,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-11"></a>
 ### Ch. 11: Theon I
 
+**POV SROMX:** [Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) (6 POV chapters; through Ch. 66).
+
 **≈25 Mar 299 AC**  
 *Pyke*  
 **THEON** · **BALON GREYJOY**
@@ -385,6 +387,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 <a id="cok-csrm-ch-24"></a>
 ### Ch. 24: Theon II
 
+**POV SROMX:** [Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) (6 POV chapters; through Ch. 66).
+
 **≈15 May 299 AC**  
 *Pyke*  
 **THEON** · **ASHA GREYJOY** · **BALON GREYJOY**
@@ -531,6 +535,8 @@ A shadow assassin kills **Renly** inside his tent before **Catelyn** and **Brien
 
 <a id="cok-csrm-ch-37"></a>
 ### Ch. 37: Theon III
+
+**POV SROMX:** [Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) (6 POV chapters; through Ch. 66).
 
 **≈3 Jul 299 AC**  
 *Stony Shore* · *near Torrhen's Square*  
@@ -685,6 +691,8 @@ With **Stannis** approaching, **Tyrion** arranges to move **Tommen** to safety a
 <a id="cok-csrm-ch-50"></a>
 ### Ch. 50: Theon IV
 
+**POV SROMX:** [Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) (6 POV chapters; through Ch. 66).
+
 **≈15 Aug 299 AC**  
 *Winterfell* · *Wolfswood*  
 **THEON** · **LUWIN** · **RAMSAY SNOW**
@@ -756,6 +764,8 @@ Believing **Bran** and **Rickon** murdered, **Catelyn** questions the captive **
 
 <a id="cok-csrm-ch-56"></a>
 ### Ch. 56: Theon V
+
+**POV SROMX:** [Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) (6 POV chapters; through Ch. 66).
 
 **≈11 Sep 299 AC**  
 *Winterfell*  
@@ -870,6 +880,8 @@ In the triumphant royal court, **Joffrey** rewards the victors and exchanges his
 
 <a id="cok-csrm-ch-66"></a>
 ### Ch. 66: Theon VI
+
+**POV SROMX:** [Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) (6 POV chapters; through Ch. 66).
 
 **≈30 Sep 299 AC**  
 *Winterfell*  
