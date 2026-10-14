@@ -145,6 +145,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-4"></a>
 ### Ch. 4: Bran I
 
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
+
 **≈7 Feb 299 AC**  
 *Winterfell* · *Wolfswood (wolf dream)*  
 **BRAN** · **LUWIN** · **OSHA**
@@ -279,6 +281,8 @@ Lannister men attack **Yoren**'s refuge. **Arya**, **Gendry** and their companio
 <a id="cok-csrm-ch-16"></a>
 ### Ch. 16: Bran II
 
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
+
 **≈17 Mar 299 AC**  
 *Winterfell*  
 **BRAN** · **HODOR** · **LUWIN** · **OSHA** · **RODRIK**
@@ -331,6 +335,8 @@ Captured by men serving **Gregor Clegane**, **Arya** sees the wounded **Lommy** 
 
 <a id="cok-csrm-ch-21"></a>
 ### Ch. 21: Bran III
+
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
 
 **≈20 Mar 299 AC**  
 *Winterfell* · *Wolfswood (wolf dream)*  
@@ -406,6 +412,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 
 <a id="cok-csrm-ch-28"></a>
 ### Ch. 28: Bran IV
+
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
 
 **≈19 May 299 AC**  
 *Winterfell*  
@@ -483,6 +491,8 @@ A shadow assassin kills **Renly** inside his tent before **Catelyn** and **Brien
 
 <a id="cok-csrm-ch-35"></a>
 ### Ch. 35: Bran V
+
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
 
 **≈27 Jun 299 AC**  
 *Winterfell*  
@@ -598,6 +608,8 @@ With **Stannis** approaching, **Tyrion** arranges to move **Tommen** to safety a
 
 <a id="cok-csrm-ch-46"></a>
 ### Ch. 46: Bran VI
+
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
 
 **≈30 Jul 299 AC**  
 *Winterfell*  
@@ -853,6 +865,8 @@ With **Qhorin**'s party hunted down, **Jon** fights and kills Qhorin in a staged
 
 <a id="cok-csrm-ch-69"></a>
 ### Ch. 69: Bran VII
+
+**POV SROMX:** [Bran Stark | Full Book](SROMX_COK_POV_BRAN.md) (through Ch. 69).
 
 **≈1 Oct 299 AC**  
 *Winterfell* · *crypts beneath Winterfell*  
