@@ -12,6 +12,19 @@
 
 ---
 
+**Table of Contents**
+
+- [1. Purpose](#endgame-01)
+- [2. Provisional Narrative Timeline](#endgame-02)
+- [3. Open Chronological and Causal Questions](#endgame-03)
+- [4. Television-Derived Signals to Examine Separately](#endgame-04)
+- [5. AFFC / ADWD MNT Linkage Register](#endgame-05)
+- [6. Future Evaluation Questions](#endgame-06)
+- [7. Working Principles](#endgame-07)
+
+---
+
+<a id="endgame-01"></a>
 ## 1. Purpose
 
 Collect loose endgame ideas **now**, without committing to a particular outcome, chronology, or overarching solution. After completing and studying the existing books' MNTs, especially those left unresolved by AFFC and ADWD, assess which ideas fit Martin's established narrative conditions and which must be revised, connected, rejected, or left open.
@@ -20,6 +33,7 @@ The eventual project is **not a replacement fanfiction**. It is a personal attem
 
 ---
 
+<a id="endgame-02"></a>
 ## 2. Provisional Narrative Timeline
 
 **Status:** WORK IN PROGRESS / PROVISIONAL / UNCOMMITTED. This integrated table **replaces the earlier standalone narrative-fragment list and separate provisional-order list**. It is the current working arrangement of possible endgame developments, not a fixed plot outline or a confirmed GRRM ending.
@@ -40,6 +54,7 @@ The eventual project is **not a replacement fanfiction**. It is a personal attem
 
 ---
 
+<a id="endgame-03"></a>
 ## 3. Open Chronological and Causal Questions
 
 The timeline deliberately leaves several causal and chronological transitions unresolved. None of these questions has yet been reconciled with the completed AFFC and ADWD MNTs.
@@ -56,6 +71,7 @@ These are **open research problems**, rather than missing scenes to be filled by
 
 ---
 
+<a id="endgame-04"></a>
 ## 4. Television-Derived Signals to Examine Separately
 
 These are **research prompts, not automatic story commitments**:
@@ -70,6 +86,7 @@ A later evidence audit must distinguish **events explicitly traced to GRRM** fro
 
 ---
 
+<a id="endgame-05"></a>
 ## 5. AFFC / ADWD MNT Linkage Register
 
 **Status:** NOT YET LINKED. The user will study and map the full existing-book MNTs before forming a committed endgame theory.
@@ -85,6 +102,7 @@ When the MNT reviews are complete, **split these broad groups into one row per f
 
 ---
 
+<a id="endgame-06"></a>
 ## 6. Future Evaluation Questions
 
 - What has Martin *actually established*, and what comes only from television or fandom?
@@ -98,6 +116,7 @@ When the MNT reviews are complete, **split these broad groups into one row per f
 
 ---
 
+<a id="endgame-07"></a>
 ## 7. Working Principles
 
 1. **Collect before reconciling.** New loose points can be added without rewriting the entire model.
