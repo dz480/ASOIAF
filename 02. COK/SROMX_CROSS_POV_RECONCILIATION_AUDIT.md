@@ -76,4 +76,16 @@ Post-update checks confirm:
 
 This audit resolves the requested **37-entry MCM mismatch** and corrects directly detected factual discrepancies in the SROMX text. The full novel was available and targeted passages were checked for each newly eligible MCM member and key conflicting outcomes. It does **not** certify that every descriptive sentence, minor scene selection, relative position, death enumeration or chapter appearance in all six sections of all ten SROMX reports has undergone a separate line-by-line collation with the complete EPUB.
 
+## 6. Continued primary-text source collation — 14 Oct 2026
+
+**Source evidence:** [70-unit EPUB chapter register](SROMX_CHAPTER_SOURCE_EVIDENCE.md) now identifies **all 70 narrative units** and records **210 separately located textual cue anchors (3 per source unit)** using reproducible 1-based extracted XHTML paragraph positions. All 210 term lookups succeeded after aligning cue wording with what the text actually calls the figure or event. This is a complete *source-unit coverage* check; it is **not** an exhaustive sentence-to-source citation audit.
+
+**New source-based corrections committed:**
+- **Arya I (COK Ch. 1):** The Gendry-identifiable boy's text-local epithet is **the Bull**. The Arya timeline now says “the Bull (later identified as Gendry)” to preserve knowledge boundaries while retaining archive utility.
+- **Sansa VIII (COK Ch. 65):** The presiding High Septon is the **new** incumbent appointed after the riot. The Sansa Roll Call now distinguishes him from his murdered predecessor, consistent with the previously corrected Tyrion Roll Call and the original Ch. 41 and Ch. 49 source evidence.
+
+**Validation distinctions:** The existing 281-person named-only MCM and the 298 SROMX Roll Call entries (including distinct High Septons) remain the shared reference. The native chapter order is Prologue + Ch. 1–69, with one narrator per unit. The prior 520-link cross-file validation found no broken target/anchor. The new source register is linked from this audit for repeatable checks.
+
+**Uncompleted:** Verified evidence cues do not prove every assertion in an approximately 50,000-word body of ten SROMX reports. Claim-by-claim sentence adjudication (including every timeline, overview, arc and scene description) remains outside the completed checks; it must be explicitly logged before describing the book's *exhaustive* SROMX source collation as finished.
+
 **Reference hierarchy:** [COK MCM](ROM_MCM_COK.md) · [COK CSRM](ROM_CSRM_ACOK.md) · [COK Reading Index](README.md) · [Project Workflow](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md) · [SROMX Protocol](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md).
