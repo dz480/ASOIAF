@@ -52,6 +52,8 @@ The nine completed full-book POV records are listed in order of their first narr
 
 - [SROMX | Sansa Stark | Full Book](02.%20COK/SROMX_COK_POV_SANSA.md) · 8 POV chapters: Ch. 2, 18, 32, 52, 57, 60, 62 and 65. **Spoilers through COK Ch. 65**.
 
+- [SROMX | Tyrion Lannister | Full Book](02.%20COK/SROMX_COK_POV_TYRION.md) · 15 POV chapters: Ch. 3, 8, 15, 17, 20, 25, 29, 36, 41, 44, 49, 54, 59, 61 and 67. **Spoilers through COK Ch. 67**.
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
