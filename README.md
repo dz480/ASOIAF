@@ -71,6 +71,10 @@ The nine completed full-book POV records are listed in order of their first narr
 - [ROM CSRM | Prologue + Ch. 1–80 + Epilogue | Whole Book](03.%20SOS/ROM_CSRM_SOS.md) · 82 narrative units grouped into 11 retrospective Sequences, with approximate externally referenced chronology. **Full SOS spoilers.**
 - [ROM MCM | Whole Book](03.%20SOS/ROM_MCM_SOS.md) · Whole-book character map and chapter participation baseline; priority-presence audit pending. **Full SOS spoilers.**
 
+## Book 3: A Storm of Swords (SOS)
+
+- [ROM MNT | PROVISIONAL | Whole Book](03.%20SOS/ROM_MNT_ASOS_PROVISIONAL.md) · Preliminary ranking of 9 whole-book threads based on secondary plot summaries; **not** the final primary-text/POV-reconciled MNT. **Full SOS spoilers.**
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
