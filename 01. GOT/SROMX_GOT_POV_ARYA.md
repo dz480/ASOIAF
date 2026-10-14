@@ -236,7 +236,7 @@ Alone in the city, Arya catches pigeons for food and searches for the **Wind Wit
 
 > **Death count — Applies to: [Section 5 (Roll Call)](#arya-rollcall):** The known minimum of 12 includes Mycah, Lady, Jory, Wyl, Heward, Desmond, the unnamed stable groom, 2 additional Stark guards at the stables, the dead Lannister guard at the stables, the stableboy killed by Arya, and Eddard Stark. Further injuries and deaths in the confrontation with Syrio and the royal seizure are not quantified because the source does not establish a secure exhaustive count.
 
-> **Syrio's fate — Applies to: [Section 4 (Narrative Overview)](#arya-overview), [Section 5 (Roll Call)](#arya-rollcall), [Section 6 (Top Cinematic Scenes)](#arya-scenes):** Arya leaves before the outcome of Syrio's fight with Ser Meryn Trant is known. His Current Status is **Unknown**; no presumed death is imported into this record.
+> **Syrio's fate — Applies to: [Section 4 (Narrative Overview)](#arya-overview), [Section 5 (Roll Call)](#arya-rollcall), [Section 6 (Top Cinematic Scenes)](#arya-scenes):** Arya leaves before the outcome of Syrio's fight with Ser Meryn Trant is known. His closing status is marked ⚪️; no presumed death is imported into this record.
 
 > **Scope-relative MNT — Applies to: [Section 3 (Major Narrative Threads)](#arya-threads):** Ranking reflects significance across Arya I–V, not the cumulative full-novel ROM MNT order, under SROMX v11.27. Threads are directly framed as concrete family peril, armed coercion, escape, intelligence overheard and displacement, rather than abstract motifs.
 
