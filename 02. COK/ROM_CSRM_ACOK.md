@@ -167,6 +167,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-6"></a>
 ### Ch. 6: Jon I
 
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
+
 **≈20 Mar 299 AC**  
 *Castle Black*  
 **JON** · **MORMONT** · **SAMWELL TARLY**
@@ -243,6 +245,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 
 <a id="cok-csrm-ch-13"></a>
 ### Ch. 13: Jon II
+
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
 
 **≈21 Apr 299 AC**  
 *Haunted Forest* · *Whitetree*  
@@ -359,6 +363,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 
 <a id="cok-csrm-ch-23"></a>
 ### Ch. 23: Jon III
+
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
 
 **≈16 Jun 299 AC**  
 *Craster's Keep* · *Haunted Forest*  
@@ -491,6 +497,8 @@ A shadow assassin kills **Renly** inside his tent before **Catelyn** and **Brien
 <a id="cok-csrm-ch-34"></a>
 ### Ch. 34: Jon IV
 
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
+
 **≈5 Jul 299 AC**  
 *Fist of the First Men*  
 **JON** · **MORMONT** · **SAMWELL TARLY**
@@ -590,6 +598,8 @@ With **Tywin**'s host preparing to move, **Arya** names **Weese** as her second 
 <a id="cok-csrm-ch-43"></a>
 ### Ch. 43: Jon V
 
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
+
 **≈27 Jul 299 AC**  
 *Fist of the First Men*  
 **JON** · **MORMONT** · **QHORIN** · **SAMWELL TARLY**
@@ -680,6 +690,8 @@ After **Bran** and **Rickon** vanish, **Theon** pursues them with **Maester Luwi
 <a id="cok-csrm-ch-51"></a>
 ### Ch. 51: Jon VI
 
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
+
 **≈11 Sep 299 AC**  
 *Frostfangs* · *Skirling Pass*  
 **JON** · **QHORIN** · **YGRITTE**
@@ -699,6 +711,8 @@ As **Stannis**'s armies close on the capital, **Sansa** endures **Cersei**'s bit
 
 <a id="cok-csrm-ch-53"></a>
 ### Ch. 53: Jon VII
+
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
 
 **≈12 Sep 299 AC**  
 *Frostfangs* · *Skirling Pass*  
@@ -870,6 +884,8 @@ In a fevered recovery from the Blackwater, **Tyrion** discovers that **Tywin** i
 
 <a id="cok-csrm-ch-68"></a>
 ### Ch. 68: Jon VIII
+
+**POV SROMX:** [Jon Snow | Full Book](SROMX_COK_POV_JON.md) (8 POV chapters; through Ch. 68).
 
 **≈28 Sep 299 AC**  
 *Frostfangs* · *Skirling Pass*  
