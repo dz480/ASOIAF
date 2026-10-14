@@ -35,6 +35,8 @@ This folder is the canonical destination for all published COK-specific readthro
 
 - [SROMX | Theon Greyjoy | Full Book](SROMX_COK_POV_THEON.md) · 6 POV chapters: Ch. 11, 24, 37, 50, 56 and 66. **Spoilers through COK Ch. 66**.
 
+- [SROMX | Daenerys Targaryen | Full Book](SROMX_COK_POV_DAENERYS.md) · 5 POV chapters: Ch. 12, 27, 40, 48 and 63; 22,770 source words. **Spoilers through COK Ch. 63**.
+
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
 The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).
