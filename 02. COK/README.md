@@ -17,6 +17,8 @@ This folder is the canonical destination for all published COK-specific readthro
 
 - [ROM MCM | Prologue + Ch. 1–69 | Full Book](ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES.** Reconstructed COK-only participant roster (263 qualifying candidates), with original GOT continuity baselines and source-screened current-book appearance counts. No inherited GOT-deceased/offstage roster entries. **Full COK spoilers.**
 
+- [SROMX | Maester Cressen | Full Book](SROMX_COK_POV_CRESSEN.md) · Prologue only; **spoilers through COK Prologue**.
+
 > **Spoiler guidance:** Full-book preparation records may contain information from later chapters. Each future record must identify its own scope and spoiler boundary.
 
 The completed *A Game of Thrones* dossier remains available in the [GOT folder](../01. GOT/ROM_CSRM_AGOT.md).
