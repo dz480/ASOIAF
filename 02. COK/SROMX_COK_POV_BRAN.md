@@ -11,7 +11,7 @@
 
 **Spoiler Boundary:** End of **COK Ch. 69 (Bran VII)**. Dates are *approximate external chronology reconstructions* inherited from the project CSRM, not calendar days stated by Martin.
 
-**Repository:** [ASOIAF Reading Index](../README.md) · [COK Reading Index](README.md) · [COK ROM CSRM](ROM_CSRM_ACOK.md) (full-book spoilers) · [COK ROM MCM](ROM_MCM_COK.md) (provisional; full-book spoilers) · [GOT Bran POV](../01.%20GOT/SROMX_GOT_POV_BRAN.md)
+**Repository:** [ASOIAF Reading Index](../README.md) · [COK Reading Index](README.md) · [COK ROM CSRM](ROM_CSRM_ACOK.md) (full-book spoilers) · [COK ROM MCM](ROM_MCM_COK.md) (priority-verified; full-book spoilers) · [GOT Bran POV](../01.%20GOT/SROMX_GOT_POV_BRAN.md)
 
 <a id="cok-bran-toc"></a>
 ## Table of Contents
@@ -101,7 +101,7 @@ They find shattered towers, burned stables, dead household men and bodies bearin
 <a id="cok-bran-rollcall"></a>
 # 5. Roll Call
 
-**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (provisional, full-book); [GOT Bran POV continuity](../01.%20GOT/SROMX_GOT_POV_BRAN.md). This census retains materially qualifying individuals **physically present** in Bran I–VII, along with functional collectives; reports and visions alone do not establish physical Presence.
+**Reference:** [COK ROM MCM](ROM_MCM_COK.md) (priority-verified, full-book); [GOT Bran POV continuity](../01.%20GOT/SROMX_GOT_POV_BRAN.md). This census retains materially qualifying individuals **physically present** in Bran I–VII, along with functional collectives; reports and visions alone do not establish physical Presence.
 
 **Character entries:** **35 Total | 2 Principal | 8 Supporting | 23 Tertiary | 2 Collective | ≥11 Deaths.** The death estimate is a lower bound, including securely reported deaths occurring within the Scope (such as **Stevron Frey** and **Stafford Lannister**) even where those individuals are not physically Present, and excludes unverified prophetic casualties. Battle and sack totals cannot be precisely recovered from Bran's chapters.
 
@@ -139,6 +139,11 @@ They find shattered towers, burned stables, dead household men and bodies bearin
 | 12 | **FARLEN**, Winterfell kennelmaster | Caring for the hounds and arguing that wild direwolves belong outside castle walls. | Attends the feast and enters the Great Hall injured during Theon's seizure, supporting Palla. | ⚪️ Last personally encountered under ironborn occupation; no reliable closing disposition in Bran's selected chapters. |
 | 13 | **JOSETH**, Winterfell master of horse | Training Bran's mare **Dancer** and supervising the stables. | Receives Bran's personal favour at the harvest feast and is briefly observed among the household. | ⚪️ The stables burn and horses die; his individual outcome is not established in Bran VII. |
 | 14 | **ALEBELLY**†, Winterfell guard | Assigned to the household guard, assisting with Bran's daily movements. | Introduces the Reed visitors, carries Bran to the rookery and receives Jojen's prediction of his death. | 🗡 Killed at the gate during the ironborn infiltration, as **Luwin** reports in **COK Ch. 46**. |
+
+### Other Castle Staff, Children and Guards
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 15 | **HAYHEAD**, Winterfell guard | Attending Bran's chamber and helping enforce household orders. | Fetches **Luwin** during Bran's howling and survives the initial ironborn attack with a grave wound. | ⚪️ Last seen injured in the Great Hall during Theon's seizure; fate after the sack unconfirmed. |
 | 16 | **POXY TYM**†, Winterfell guard | Serving the depleted castle garrison and attending **Rodrik** and **Luwin**. | Helps feed visiting lords, is distraught during Theon's assembly and later becomes a casualty of Winterfell's destruction. | 🗡 **Bran** identifies his body in the wreckage; his face has been struck by an axe. |
 | 17 | **BETH CASSEL**, Rodrik's daughter | A child resident at Winterfell with her father **Rodrik** as castellan. | Attends the harvest feast and cries in fear when **Theon** assembles the household. | ⚪️ Not encountered among Bran's escape party; her whereabouts after the sack are unresolved in this POV. |
@@ -166,6 +171,11 @@ They find shattered towers, burned stables, dead household men and bodies bearin
 | 25 | **DONELLA HORNWOOD**†, widowed Lady Hornwood | At her family's northern lands, bereaved of husband and son during the war. | Seeks protection against **Bolton** aggression; is later seized, forcibly married and confined by the Bolton bastard, as Rodrik reports. | 🗡 Her starvation and death in captivity are reported to Bran by **Rodrik** in **COK Ch. 35**. |
 | 26 | **MORS UMBER (CROWFOOD)**, northern lord and uncle of Greatjon | Governing Umber interests while his nephew fights with Robb. | Visits **Winterfell**, asks to marry Lady Hornwood and quarrels about northern defences. | 🟢 Last directly seen at Bran's audiences and the feast; his personal position afterward is not revisited. |
 | 27 | **HOTHER UMBER (WHORESBANE)**, northern lord and uncle of Greatjon | Remaining in the Umber northlands with coastal lands vulnerable to raids. | Requests longships and crews to answer seaborne wildling incursions; is instructed to cooperate with **Manderly**. | 🟢 Returns to Umber affairs after the feast, with no later enacted Bran-POV scene. |
+
+### Other Northern Delegates and Stewards
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 28 | **LEOBALD TALLHART**†, castellan of Torrhen's Square | Managing **Torrhen's Square** while the Tallhart fighting men serve Robb. | Presents a child of Tallhart-Hornwood blood as a possible Hornwood heir; becomes involved in northern defence. | 🗡 **Luwin** names him among those killed in the fighting by the time Bran emerges from the crypts. |
 | 29 | **CLEY CERWYN**†, young Cerwyn lord's son | Serving northern Stark interests from his family's nearby seat while his father remains captive. | Arrives at the feast, brings the rumour of Stannis's accusation and later joins the forces raised to recover Winterfell. | 🗡 **Luwin** confirms his death during the fighting outside Winterfell. |
 | 30 | **GLOVER STEWARD**, unnamed officer of Deepwood Motte | Managing **Deepwood Motte** for its absent lords and their household. | Attends Bran's audience, proposes a low grain reserve and supplies information on the young Hornwood bastard **Larence Snow**. | ⚪️ Last directly seen after his Winterfell petition; subsequent fate unknown to Bran. |
@@ -211,6 +221,6 @@ They find shattered towers, burned stables, dead household men and bodies bearin
 - **Protocol authority:** [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md) and [ROM Terminology Standard](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md).
 - **Primary source:** Project-supplied *A Clash of Kings* Bantam eBook v3.1_r14 EPUB, Bran I–VII; chapter identifiers and 27,597 source words independently checked against the Project-supplied [RTE schedule](../README.md).
 - **Chronology:** [COK CSRM](ROM_CSRM_ACOK.md) provides approximate external dates and source coordinates; these are not author-canonical. The chosen POV chapter set follows source order and establishes no invented continuous source Sequence.
-- **Character comparison:** The [COK MCM](ROM_MCM_COK.md) is marked provisional and cannot replace the physical census or resolve Bran-specific uncertainty; the earlier [GOT Bran SROMX](../01.%20GOT/SROMX_GOT_POV_BRAN.md) supplies the inherited boundary state.
+- **Character comparison:** The [COK MCM](ROM_MCM_COK.md) is marked priority-verified and cannot replace the physical census or resolve Bran-specific uncertainty; the earlier [GOT Bran SROMX](../01.%20GOT/SROMX_GOT_POV_BRAN.md) supplies the inherited boundary state.
 - **Evidence distinctions:** News of distant battles, deaths, the Hornwood tragedy and Rodrik's later defeat is reported rather than directly enacted in Bran's chapters. Jojen's green dreams are prophecies, not by themselves confirmation of a death. The subsequent Theon POV's disclosures about Reek are not presented as Bran's discoveries.
 - **Casualties:** ≥11 is a conservative minimum of material deaths established within the selected chapter span or securely reported there, including offstage deaths that the text places within the period. Unquantified deaths of Winterfell defenders, ironborn and other parties are acknowledged without a manufactured total. **Luwin**'s fatal condition and final request are source-established; the immediate moment of his death is not directly staged in Bran VII.
