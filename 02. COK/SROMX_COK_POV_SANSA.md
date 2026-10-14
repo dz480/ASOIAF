@@ -186,7 +186,7 @@ At the ensuing victory court, Sansa watches Tywin take the Hand's chain and the 
 | 29 | **MACE TYRELL**, Lord of Highgarden | Head of **House Tyrell**, whose forces support the competing royal cause of **Renly**; precise early location not given here. | Arrives at the victory court, receives honours and obtains a council place. | 🟢 Principal Reach ally to **Joffrey** after the agreement to wed his daughter. |
 | 🥈 | **LORAS TYRELL**, Knight of Flowers | Tyrell knight associated with **Renly's** cause. | Appears beside his father and brother at the victory court and asks for entry to the Kingsguard. | 🟢 Joins **Joffrey's** Kingsguard. |
 | 31 | **GARLAN TYRELL**, Tyrell knight, brother of Loras | At the opening of this POV selection, his exact location is not given. | Publicly proposes that his sister **Margaery** marry Joffrey, replacing **Sansa**. | 🟢 His petition succeeds, dissolving the previous betrothal. |
-| 32 | **THE HIGH SEPTON**, head of the Faith of the Seven | Leading the Faith's hierarchy; his personal position at Sansa's first chapter is not established. | Pronounces the earlier royal betrothal invalid because of **House Stark's** rebellion. | 🟢 His ruling clears the way for the **Tyrell** marriage. |
+| 32 | **THE NEW HIGH SEPTON**, successor to the riot's slain High Septon and head of the Faith of the Seven | Leading the Faith's hierarchy; his personal position at Sansa's first chapter is not established. | Pronounces the earlier royal betrothal invalid because of **House Stark's** rebellion. | 🟢 His ruling clears the way for the **Tyrell** marriage. |
 
 <p align="right"><a href="#cok-sansa-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
