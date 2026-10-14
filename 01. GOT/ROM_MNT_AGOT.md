@@ -3,7 +3,8 @@
 **Work:** *A Game of Thrones* — George R. R. Martin  
 **Scope:** Whole Book · Prologue + GOT Ch. 1–72 (73 narrative units)  
 **Spoiler Boundary:** End of GOT Ch. 72 (Daenerys X)  
-**Ranking Basis:** Final narrative significance across the completed novel, synthesised and reconciled from all nine POV-local SROMX MNTs.
+**Ranking Basis:** Final narrative significance across the completed novel, synthesised and reconciled from all 9 POV-local SROMX MNTs.  
+**Last Updated:** 14 Oct 2026 · ROM MNT v10.21
 
 > **Full-book spoilers:** This report synthesises every POV and discloses the novel's political outcomes, character deaths, supernatural events and other revelations through the final chapter.
 
@@ -27,15 +28,15 @@
 <a id="mnt-1"></a>
 # 1. The Crisis of Royal Legitimacy and the Lannister Seizure of the Throne
 
-| **JOFFREY'S CLAIM AND LANNISTER CONTROL** | **NED'S DEFENCE OF STANNIS'S SUCCESSION** |
-|---|---|
-| **CERSEI LANNISTER** — Secures the throne for her son and controls the royal household. | **EDDARD STARK** — Investigates the succession and attempts to uphold the lawful inheritance. |
-| **JOFFREY BARATHEON** — Claims the crown and exercises royal authority. | **STANNIS BARATHEON** — Robert's brother, identified by Ned as the rightful successor; remains absent from the capital. |
-| **PETYR BAELISH** — Betrays Ned and helps deliver the City Watch to Cersei. | |
-| **JANOS SLYNT** — Commands the City Watch during the coup. | |
-| **GRAND MAESTER PYCELLE** — Supports the new regime through the royal administration. | |
+| **JOFFREY'S CLAIM AND LANNISTER CONTROL** | **NED'S DEFENCE OF STANNIS'S SUCCESSION** | **RENLY'S RIVAL CLAIM** |
+|---|---|---|
+| **CERSEI LANNISTER** — Secures the throne for her son and controls the royal household. | **EDDARD STARK** — Investigates the succession and attempts to uphold lawful inheritance. | **RENLY BARATHEON** — Claims the crown after Robert's death and marries into House Tyrell. |
+| **JOFFREY BARATHEON** — Takes the crown and exercises royal authority. | **STANNIS BARATHEON** — Robert's elder surviving brother and lawful successor if Joffrey is illegitimate; absent from the capital. | **MACE TYRELL** — Backs Renly's kingship with Highgarden's support. |
+| **PETYR BAELISH** — Betrays Ned and helps deliver the City Watch to Cersei. | | **LORAS TYRELL** — Accompanies Renly from the capital and supports his cause. |
+| **JANOS SLYNT** — Commands the City Watch during the coup. | | |
+| **GRAND MAESTER PYCELLE** — Supports the new regime through the royal administration. | | |
 
-The death of **Jon Arryn** brings **Eddard Stark** to **King's Landing**, where his investigation establishes that **Cersei's** children were fathered by **Jaime Lannister** rather than **Robert Baratheon**. Ned's attempt to protect the lawful succession collapses when Robert dies and **Littlefinger** betrays him. **Joffrey** takes the throne, Ned is imprisoned, and his execution transforms a disputed regency into an open dynastic crisis. With **Stannis** and **Renly Baratheon** advancing competing claims, the monarchy's legitimacy remains unresolved.
+**Cersei Lannister** seeks to preserve her children's position and the power of her household, while **Eddard Stark** is determined to honour **Robert Baratheon's** succession and protect the children from the consequences of exposing their parentage. The death of **Jon Arryn** draws Ned to **King's Landing**, where he discovers that **Joffrey** and his siblings are **Jaime Lannister's** children. Ned identifies **Stannis Baratheon** as the lawful heir but delays action to warn Cersei. After Robert's fatal hunt, **Petyr Baelish** delivers the **City Watch** to the queen; Joffrey takes the throne and Ned is imprisoned. His execution destroys the prospect of a negotiated transition, while **Renly Baratheon's** separate coronation and Stannis's competing right leave royal legitimacy contested.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -52,7 +53,7 @@ The death of **Jon Arryn** brings **Eddard Stark** to **King's Landing**, where 
 | **EDMURE TULLY** — Defends his family's interests in the riverlands. | **TYRION LANNISTER** — Brings mountain-clan fighters into Tywin's army and survives the Green Fork. |
 | **WALDER FREY** — Grants passage and support in exchange for negotiated obligations. | **KEVAN LANNISTER** — Helps coordinate Tywin's campaign. |
 
-What begins with suspicion over **Bran's** attempted murder escalates through **Tyrion's** arrest, **Jaime's** attack on Ned's household and Lannister raids into the riverlands. After **Ned's** imprisonment, **Robb** marches south, secures passage across the **Twins**, divides his forces and captures Jaime while relieving **Riverrun**. His military success and Ned's execution drive the northern lords beyond demands for justice or negotiation. They proclaim Robb **King in the North**, turning a conflict between noble houses into a struggle over the realm's political unity.
+**Robb Stark** seeks to free his father, defend **House Stark** and protect his **Tully** kin from **Tywin Lannister's** campaign, while Tywin aims to preserve Lannister power and retaliate for **Tyrion's** capture. As **Catelyn Stark** tries to safeguard her children and secure allies, **Jaime Lannister's** attack on **Eddard Stark's** household and raids through the **riverlands** turn the dispute into war. Robb bargains with **Walder Frey** for passage at the **Twins**, dividing his forces between the **Green Fork** and an assault on Jaime's army. He captures Jaime and helps relieve **Riverrun**, gaining leverage but failing to recover his father. Ned's execution makes accommodation less likely; the northern lords proclaim Robb **King in the North**, asserting independence and challenging the political unity of the realm.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -69,7 +70,7 @@ What begins with suspicion over **Bran's** attempted murder escalates through **
 | **JORAH MORMONT** — Protects and advises Daenerys, ultimately becoming her sworn Queensguard. | |
 | **ILLYRIO MOPATIS** — Sponsors the marriage arrangement and provides the dragon eggs. | |
 
-Across the **narrow sea**, **Viserys** trades **Daenerys's** marriage to **Drogo** for the promise of military assistance in reclaiming **Westeros**. Viserys dies, while an assassination attempt against Daenerys prompts Drogo to promise an invasion. His subsequent wound and **Mirri Maz Duur's** blood magic leave him incapacitated, and Daenerys loses her unborn son and most of the khalasar. She nevertheless emerges from Drogo's funeral pyre with 3 living dragons, transforming a failed restoration scheme into an independent claim supported by the return of a power long absent from the world.
+**Viserys Targaryen** wants a Dothraki army to restore his dispossessed dynasty, while **Daenerys** initially has little choice in the marriage arranged with **Khal Drogo**. **Robert Baratheon** considers the surviving Targaryens a threat to his throne. Across the **narrow sea**, Daenerys acquires confidence and authority within the khalasar, but her brother's demands end in his death. An attempt on her life prompts Drogo to vow to invade **Westeros** for her and their unborn son. When Drogo is wounded and **Mirri Maz Duur's** blood magic leaves him unable to lead, Daenerys loses her child and most of his followers. She acts independently at his funeral pyre, emerging with 3 living dragons. The failed restoration scheme becomes a new claim rooted in Daenerys's survival and the return of dragons.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -86,7 +87,7 @@ Across the **narrow sea**, **Viserys** trades **Daenerys's** marriage to **Drogo
 | **BENJEN STARK** — Leads a ranging into the Haunted Forest and disappears. | |
 | **JON SNOW** — Defends the Lord Commander against a reanimated ranger. | |
 
-The **Prologue** establishes a supernatural menace when pale warriors kill **Waymar Royce**, whose corpse subsequently rises against **Will**. Farther into the novel, **Benjen Stark** vanishes beyond **the Wall**. The bodies of **Othor** and **Jafer Flowers** are recovered in unnatural condition and rise inside **Castle Black**, where **Jon Snow** destroys Othor with fire. With the Watch undermanned, its outlying castles neglected and the danger still poorly understood, **Jeor Mormont** prepares a major expedition north. The scale and origin of the threat remain unresolved.
+The **Night's Watch** is sworn to protect the realm from dangers beyond **the Wall**, but depleted ranks, neglected castles and uncertainty about the enemy undermine its capacity to respond. In the **Haunted Forest**, the **Others** kill **Waymar Royce**, whose reanimated corpse then kills **Will**. Later, **Benjen Stark** vanishes on a ranging, and the bodies of **Othor** and **Jafer Flowers** rise inside **Castle Black**; **Jon Snow** saves **Jeor Mormont** by burning Othor. Facing disappearances and lethal phenomena it cannot explain, the Watch prepares a major expedition north under Mormont. Neither the full extent of the threat nor the relationship between the Others and the reanimated dead is established.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -101,7 +102,7 @@ The **Prologue** establishes a supernatural menace when pale warriors kill **Way
 | **EDDARD STARK** — Receives evidence brought from Winterfell amid his own investigation. | **BRONN** — Defends Tyrion on the High Road and becomes his champion in the Vale. |
 | **LYSA ARRYN** — Imprisons Tyrion and presses additional accusations concerning Jon Arryn's death. | |
 
-**Jaime Lannister** pushes **Bran Stark** from a tower after Bran witnesses him with **Cersei**. Later, an unidentified attacker attempts to murder the unconscious boy using a distinctive dagger. **Catelyn** takes the weapon to **King's Landing**, where **Petyr Baelish** falsely attributes its ownership to **Tyrion**. Catelyn's subsequent arrest of Tyrion intensifies hostilities between the great houses. His release through trial by combat resolves neither the murder attempt nor the dagger's ownership. By the novel's end, the identity of the person who ordered Bran's assassination remains unknown.
+**Catelyn Stark** wants to protect **Bran** and find whoever tried to kill him, while **Tyrion Lannister** must defend his freedom and reputation against an accusation he rejects. **Jaime Lannister** pushed Bran from a tower after the boy witnessed him with **Cersei**, but the later assassination attempt is a separate, unresolved crime. Its distinctive dagger takes Catelyn to **King's Landing**, where **Petyr Baelish** claims Tyrion once owned the blade. Catelyn arrests Tyrion; **Lysa Arryn** imprisons him in the **Eyrie** and also accuses him of involvement in **Jon Arryn's** death. **Bronn** wins Tyrion's freedom through trial by combat, but his arrest has already intensified conflict between the houses. The dagger's actual ownership and the instigator of the murder attempt remain unproved.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -120,7 +121,7 @@ The **Prologue** establishes a supernatural menace when pale warriors kill **Way
 | **BRAN STARK** | Remains at Winterfell, increasingly dependent on others as his family departs. |
 | **JON SNOW** | Separates from his siblings and struggles between family loyalty and sworn duty. |
 
-The royal appointment that initially elevates **House Stark** gradually dismantles its security. **Ned** takes his daughters south while **Catelyn** investigates the attack on **Bran**. His fall leaves **Sansa** captive, **Arya** missing from her family's knowledge and **Robb** leading northern armies. Bran and **Rickon** remain in **Winterfell**, while **Jon** is bound to the **Night's Watch**. By the novel's conclusion, the family has lost its patriarch and its former unity, with each surviving member confronting a different struggle for survival, protection or responsibility.
+**Eddard Stark** seeks to serve his king while protecting his children and the security of **Winterfell**, but royal service and mounting political danger pull **House Stark** into separate, increasingly precarious lives. Ned takes **Sansa** and **Arya** to **King's Landing**, while **Catelyn** leaves home to investigate **Bran's** attempted murder. With Ned arrested and then executed, Sansa remains a hostage at court and Arya escapes the city under **Yoren's** protection. **Robb** commands the northern armies, leaving Bran and **Rickon** at Winterfell; **Jon Snow**, meanwhile, must choose between family loyalty and the **Night's Watch**. The survivors pursue safety, justice or duty in different places, deprived of their former unity and their father's protection.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -139,7 +140,7 @@ The royal appointment that initially elevates **House Stark** gradually dismantl
 | **TYWIN LANNISTER** | Exercises paternal and military authority before unexpectedly appointing Tyrion acting Hand. |
 | **SHAE** | Becomes Tyrion's companion and a source of conflict with Tywin's instructions. |
 
-**Tyrion Lannister's** journey transforms an apparently expendable member of **House Lannister** into a political actor entrusted with the capital. Wrongly accused of attempting to murder **Bran**, he survives the dangerous journey to the **Eyrie**, escapes through **Bronn's** intervention and recruits fighters from the mountain clans. He then fights in **Tywin's** army at the **Green Fork**. When **Jaime** is captured and royal government deteriorates, Tywin appoints Tyrion acting Hand. The promotion grants him substantial responsibility without resolving his father's contempt or the tensions surrounding **Shae**.
+**Tyrion Lannister** wants to survive, exercise his intelligence and secure a place in a family that habitually belittles him, but he begins with little power over his future. **Catelyn Stark's** arrest and **Lysa Arryn's** imprisonment threaten his life; **Bronn's** victory in trial by combat wins his freedom. Tyrion recruits mountain-clan fighters on the return journey and joins **Tywin Lannister's** army, surviving the **Green Fork**. **Jaime's** capture and worsening instability in **King's Landing** then prompt Tywin to appoint Tyrion acting Hand. The unexpected promotion grants political influence and responsibility, but does not erase his father's contempt; Tywin's instructions concerning **Shae** threaten to complicate Tyrion's new authority.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -157,7 +158,7 @@ The royal appointment that initially elevates **House Stark** gradually dismantl
 | **OSHA** | Warns of ancient northern dangers and the significance of events beyond the Wall. |
 | **ROBB STARK** | Assumes Winterfell's responsibilities before leaving Bran to represent the family. |
 
-After surviving his fall, **Bran Stark** awakens without the use of his legs and struggles to recover a sense of independence. A specially designed saddle and **Hodor's** assistance restore some mobility, while his direwolf **Summer** becomes integral to his protection. Meanwhile, recurring dreams of a **three-eyed crow**, strange visions and **Osha's** warnings suggest forces beyond ordinary understanding. With **Robb** leading the northern army, Bran must also participate in **Winterfell's** government. The nature of his experiences remains unresolved, but his condition and responsibilities are permanently transformed.
+**Bran Stark** longs to ride and pursue the knightly future he once imagined, but paralysis leaves him dependent on others just as **Winterfell** begins losing its adult protectors. **Maester Luwin** guides his adjustment, while **Hodor** and a specially designed saddle restore some mobility; his direwolf **Summer** becomes a fiercely protective companion. Dreams of a **three-eyed crow** and other strange experiences resist ordinary explanation, and **Osha's** warnings about the far north deepen the mystery. As **Robb Stark** departs for war, Bran represents his household in receiving visitors and hearing petitions. He ends the novel with greater responsibilities but no clear understanding of his visions or their significance.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -176,7 +177,7 @@ After surviving his fall, **Bran Stark** awakens without the use of his legs and
 | **JEOR MORMONT** | Mentors Jon, rewards his courage and prepares him for greater service. |
 | **PYP AND GRENN** | Represent the brotherhood that ultimately helps Jon return to his oath. |
 
-Feeling excluded at **Winterfell**, **Jon Snow** joins the **Night's Watch** in search of identity and purpose. His early superiority over poorly trained recruits gives way to solidarity, especially through his defence of **Samwell Tarly**. After saving **Jeor Mormont** from a reanimated ranger, he receives **Longclaw** and begins serving close to command. News of **Ned's** execution drives him to abandon the Watch and ride towards **Robb**, but his brothers bring him back. Jon ultimately chooses his oath, accepting a new allegiance as Mormont prepares to investigate the danger beyond the **Wall**.
+**Jon Snow** seeks belonging and an honourable purpose beyond his uncertain place at **Winterfell**, but the **Night's Watch** demands hard service rather than the heroic brotherhood he imagined. At **Castle Black**, **Donal Noye** challenges his disdain for less capable recruits, while protecting **Samwell Tarly** teaches him solidarity. **Jeor Mormont** brings Jon into his service after Jon saves him from a reanimated ranger, rewarding him with **Longclaw**. **Eddard Stark's** execution sets family loyalty against his oath: Jon rides to join **Robb**, but **Pyp**, **Grenn** and other friends persuade him to return. **Maester Aemon's** counsel helps illuminate that choice. Jon stays with the Watch as Mormont prepares to range beyond **the Wall**, finding a new kind of family in the brotherhood.
 
 <p align="right"><a href="#mnt-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
@@ -229,7 +230,7 @@ flowchart TD
 > - [SROMX | Tyrion Lannister](./SROMX_GOT_POV_TYRION.md)
 > - [SROMX | Sansa Stark](./SROMX_GOT_POV_SANSA.md)
 
-> **Explanatory Field limits — Applies to: Entries 1–9:** Each explanatory prose Field remains beneath the hard 800-visible-character ceiling of [ROM MNT v10.18](https://github.com/dz480/CG-Protocols/blob/main/ROM/ANALYSIS/ROM_MNT.md), excluding table, title, presentation anchors and source notes. The MNT headings, participant tables and diagram reflect this manual, while whole-book navigation follows [ChatGPT ↔ GitHub Workflow v1.3](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md).
+> **ROM MNT compliance update (14 Oct 2026) — Applies to: Entries 1–9:** Reassessed all 9 explanations for source-supported motives, objectives, obstacles and stakes before causal narrative recap. Each complete explanatory prose Field stays beneath the current 1,000-visible-character ceiling of [ROM MNT v10.21](https://github.com/dz480/CG-Protocols/blob/main/ROM/ANALYSIS/ROM_MNT.md), excluding its heading, table and navigation. Entry 1's participation matrix now distinguishes Renly's established independent royal claim from the Lannister regime and Ned's position on Stannis. The fixed Whole Book Scope and ranking are preserved; navigation follows the [ChatGPT ↔ GitHub Workflow](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md).
 
 > **Relationship certainty — Applies to: [Flow Chart](#mnt-flowchart):** Solid arrows show source-established causal effects across threads; dotted arrows show looser dynastic or thematic connections. The royal assassination order against Daenerys predates Robert's death and Joffrey's succession. Bran's northern warnings do not establish that he has witnessed the Others first-hand.
 
