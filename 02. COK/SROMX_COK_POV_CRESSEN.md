@@ -11,7 +11,7 @@
 
 **CRESSEN** · **DAVOS** · **STANNIS** · **SELYSE** · **MELISANDRE** · **SALLADHOR SAAN**
 
-**Repository navigation:** [COK Reading Index](README.md) · [Series Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_ACOK.md#cok-csrm-prologue) (whole-book spoilers) · [ROM MCM](ROM_MCM_COK.md) (provisional, whole-book spoilers)
+**Repository navigation:** [COK Reading Index](README.md) · [Series Reading Index](../README.md) · [ROM CSRM](ROM_CSRM_ACOK.md#cok-csrm-prologue) (whole-book spoilers) · [ROM MCM](ROM_MCM_COK.md) (priority-verified, whole-book spoilers)
 
 <a id="cok-cressen-toc"></a>
 ## Table of Contents
@@ -87,7 +87,7 @@ When Selyse orders Cressen to wear the helm again, he notices Davos's half-fille
 <a id="cok-cressen-rollcall"></a>
 # 5. Roll Call
 
-**Reference:** [ROM MCM · COK](ROM_MCM_COK.md) (provisional current-book significance; full-book spoilers). Only enacted, materially useful characters within Cressen's Prologue POV are counted here.
+**Reference:** [ROM MCM · COK](ROM_MCM_COK.md) (priority-verified current-book significance; full-book spoilers). Only enacted, materially useful characters within Cressen's Prologue POV are counted here.
 
 **Character entries:** 9 Total | 2 Principal | 4 Supporting | 3 Tertiary | 0 Collective | 1 Death
 
@@ -144,8 +144,8 @@ When Selyse orders Cressen to wear the helm again, he notices Davos's half-fille
 
 > **Chronology — Applies to: Header and Section 2:** The existing [COK CSRM](ROM_CSRM_ACOK.md#cok-csrm-prologue) assigns ≈1 Feb 299 AC using PrivateMajor's fan chronology. Exact calendar placement is not established by the novel; the Prologue establishes dawn, later morning and a feast after nightfall. No ASOIAF RSDP elapsed-time anchor is established, so no synthetic elapsed translation is supplied.
 
-> **Cast qualification — Applies to: Section 5:** The current [COK MCM](ROM_MCM_COK.md) remains Provisional — Priority Issues. Its working significance groups supply 2 Principal and 4 Supporting individuals physically present in the Prologue; Pylos, Shireen and Patchface are added as materially distinct Tertiary figures from direct Prologue evidence. Several named noble guests (Celtigar, Velaryon, Bar Emmon, Axell Florent and Sunglass) and routine attendants are present but below the SROMX Minimum Character Inclusion Threshold in this limited POV Scope. Salladhor Saan's ship is seen earlier; his personal direct presence is independently established at the feast. Cressen is the only within-Scope established death. All present-status and outcome claims are limited to the end of the Prologue.
+> **Cast qualification — Applies to: Section 5:** The current [COK MCM](ROM_MCM_COK.md) remains Satisfactory for Use — Priority Verified. Its working significance groups supply 2 Principal and 4 Supporting individuals physically present in the Prologue; Pylos, Shireen and Patchface are added as materially distinct Tertiary figures from direct Prologue evidence. Several named noble guests (Celtigar, Velaryon, Bar Emmon, Axell Florent and Sunglass) and routine attendants are present but below the SROMX Minimum Character Inclusion Threshold in this limited POV Scope. Salladhor Saan's ship is seen earlier; his personal direct presence is independently established at the feast. Cressen is the only within-Scope established death. All present-status and outcome claims are limited to the end of the Prologue.
 
-> **Continuity and reading progress — Applies to: Entire document:** Book 1's GOT-end series MCR and Book 2's whole-book provisional MCM remain separate sources. This SROMX is a fixed historical POV-scope reconstruction and does not modify the central Reading Point, advance the live MCR, certify any other COK chapter as read or publish future-scope information in ChatGPT.
+> **Continuity and reading progress — Applies to: Entire document:** Book 1's GOT-end series MCR and Book 2's whole-book priority-verified MCM remain separate sources. This SROMX is a fixed historical POV-scope reconstruction and does not modify the central Reading Point, advance the live MCR, certify any other COK chapter as read or publish future-scope information in ChatGPT.
 
 > **Manual compliance and navigation — Applies to: Entire document:** Built under [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM RPW](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md), [ROM NAVIGATION](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_NAVIGATION.md), and [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md). Cross-references to whole-book masters are marked as spoiler-bearing; the contextual links are repository navigation rather than a change to the reader's completed Scope.
