@@ -241,6 +241,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-12"></a>
 ### Ch. 12: Daenerys I
 
+**POV SROMX:** [Daenerys Targaryen | Full Book](SROMX_COK_POV_DAENERYS.md) (through Ch. 63).
+
 **≈27 Jan–22 Apr 299 AC**  
 *Red Waste* · *Vaes Tolorro*  
 **DAENERYS** · **JORAH MORMONT** · **PYAT PREE** · **XARO**
@@ -420,6 +422,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 <a id="cok-csrm-ch-27"></a>
 ### Ch. 27: Daenerys II
 
+**POV SROMX:** [Daenerys Targaryen | Full Book](SROMX_COK_POV_DAENERYS.md) (through Ch. 63).
+
 **≈15 May 299 AC**  
 *Qarth*  
 **DAENERYS** · **JORAH MORMONT** · **PYAT PREE** · **XARO**
@@ -577,6 +581,8 @@ With **Tywin**'s host preparing to move, **Arya** names **Weese** as her second 
 <a id="cok-csrm-ch-40"></a>
 ### Ch. 40: Daenerys III
 
+**POV SROMX:** [Daenerys Targaryen | Full Book](SROMX_COK_POV_DAENERYS.md) (through Ch. 63).
+
 **≈17 Aug 299 AC**  
 *Qarth*  
 **DAENERYS** · **JORAH MORMONT** · **XARO**
@@ -670,6 +676,8 @@ With **Stannis** approaching, **Tyrion** arranges to move **Tommen** to safety a
 
 <a id="cok-csrm-ch-48"></a>
 ### Ch. 48: Daenerys IV
+
+**POV SROMX:** [Daenerys Targaryen | Full Book](SROMX_COK_POV_DAENERYS.md) (through Ch. 63).
 
 **≈19 Aug 299 AC**  
 *Qarth* · *House of the Undying*  
@@ -841,6 +849,8 @@ While the battle rages, **Sansa** serves beside the increasingly drunken **Cerse
 
 <a id="cok-csrm-ch-63"></a>
 ### Ch. 63: Daenerys V
+
+**POV SROMX:** [Daenerys Targaryen | Full Book](SROMX_COK_POV_DAENERYS.md) (through Ch. 63).
 
 **≈22 Aug 299 AC**  
 *Qarth* · *harbour of Qarth*  
