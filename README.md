@@ -46,6 +46,8 @@ The nine completed full-book POV records are listed in order of their first narr
 - [COK readthrough workspace](02. COK/README.md) · Active Book 2 destination and local index.
 - [ROM MCM | Prologue + Ch. 1–69 | Full Book](02. COK/ROM_MCM_COK.md) · **PROVISIONAL — PRIORITY ISSUES**; reconstructed current-book-only cast, with verified GOT baselines and remaining COK count/audit gaps flagged. **Full-book spoilers.**
 
+- [SROMX | Maester Cressen | Full Book](02.%20COK/SROMX_COK_POV_CRESSEN.md) · Prologue only (1 POV unit). **Spoilers through COK Prologue**.
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
