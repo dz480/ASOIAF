@@ -112,6 +112,8 @@
 <a id="cok-csrm-ch-1"></a>
 ### Ch. 1: Arya I
 
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
+
 **≈17 Jan 299 AC**  
 *Kingsroad south of King's Landing*  
 **ARYA** · **GENDRY** · **JAQEN**
@@ -147,6 +149,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 
 <a id="cok-csrm-ch-5"></a>
 ### Ch. 5: Arya II
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈1 Feb 299 AC**  
 *Kingsroad* · *inn near the Gods Eye*  
@@ -192,6 +196,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-9"></a>
 ### Ch. 9: Arya III
 
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
+
 **≈21 Feb 299 AC**  
 *Riverlands* · *western shore of the Gods Eye*  
 **ARYA** · **GENDRY** · **JAQEN**
@@ -236,6 +242,8 @@ On the Great Ranging, **Jon** and **Jeor Mormont** discover abandoned villages a
 
 <a id="cok-csrm-ch-14"></a>
 ### Ch. 14: Arya IV
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈28 Feb 299 AC**  
 *Riverlands* · *abandoned holdfast*  
@@ -289,6 +297,8 @@ Lannister men attack **Yoren**'s refuge. **Arya**, **Gendry** and their companio
 
 <a id="cok-csrm-ch-19"></a>
 ### Ch. 19: Arya V
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈15 Mar 299 AC**  
 *Riverlands* · *road to Harrenhal*  
@@ -361,6 +371,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 <a id="cok-csrm-ch-26"></a>
 ### Ch. 26: Arya VI
 
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
+
 **≈3 Apr 299 AC**  
 *Harrenhal*  
 **ARYA** · **GREGOR CLEGANE**
@@ -396,6 +408,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 
 <a id="cok-csrm-ch-30"></a>
 ### Ch. 30: Arya VII
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈10 Jun 299 AC**  
 *Harrenhal*  
@@ -476,6 +490,8 @@ A shadow assassin kills **Renly** inside his tent before **Catelyn** and **Brien
 
 <a id="cok-csrm-ch-38"></a>
 ### Ch. 38: Arya VIII
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈25 Jun 299 AC**  
 *Harrenhal*  
@@ -565,6 +581,8 @@ With **Stannis** approaching, **Tyrion** arranges to move **Tommen** to safety a
 
 <a id="cok-csrm-ch-47"></a>
 ### Ch. 47: Arya IX
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈16 Aug 299 AC**  
 *Harrenhal*  
@@ -742,6 +760,8 @@ After the warlocks' defeat, **Daenerys** loses her welcome in **Qarth** but enco
 
 <a id="cok-csrm-ch-64"></a>
 ### Ch. 64: Arya X
+
+**POV SROMX:** [Arya Stark | Full Book](SROMX_COK_POV_ARYA.md) (through Ch. 64).
 
 **≈26 Sep 299 AC**  
 *Harrenhal* · *Kingsroad south*  
