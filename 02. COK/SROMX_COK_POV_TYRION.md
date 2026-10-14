@@ -11,7 +11,7 @@
 
 **TYRION** · **BRONN** · **CERSEI** · **VARYS** · **PETYR BAELISH** · **PYCELLE** · **JOFFREY** · **SHAE** · **JANOS SLYNT** · **JACELYN BYWATER** · **LANCEL** · **PODRICK** · **SANDOR CLEGANE** · **MANDON MOORE** · **MYRCELLA** · **TOMMEN**
 
-**Repository:** [COK Index](README.md) · [ASOIAF Index](../README.md) · [COK CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-3) (**whole-book spoilers**) · [COK MCM](ROM_MCM_COK.md) (**provisional; whole-book spoilers**)
+**Repository:** [COK Index](README.md) · [ASOIAF Index](../README.md) · [COK CSRM](ROM_CSRM_ACOK.md#cok-csrm-ch-3) (**whole-book spoilers**) · [COK MCM](ROM_MCM_COK.md) (**priority-verified; whole-book spoilers**)
 
 <a id="cok-tyrion-toc"></a>
 ## Table of Contents
@@ -107,9 +107,9 @@ His final COK chapter follows a fevered recovery and disturbing dreams rather th
 <a id="cok-tyrion-rollcall"></a>
 # 5. Roll Call
 
-**Census method:** Qualifying characters physically encountered in Tyrion's 15 selected chapters, with provisional whole-book Significance reconciled to [COK MCM](ROM_MCM_COK.md). Information received by Tyrion from other locations is not treated as a directly enacted appearance. Positions begin at the opening of **COK Ch. 3** and end at the close of **COK Ch. 67**.
+**Census method:** Qualifying characters physically encountered in Tyrion's 15 selected chapters, with priority-verified whole-book Significance reconciled to [COK MCM](ROM_MCM_COK.md). Information received by Tyrion from other locations is not treated as a directly enacted appearance. Positions begin at the opening of **COK Ch. 3** and end at the close of **COK Ch. 67**.
 
-**Character entries:** 30 total | 4 Principal | 16 Supporting | 10 Tertiary | 0 Collective | **At least 3 deaths**. The death count is a known minimum, not a full census of riot and battlefield casualties: the High Septon is killed during the riot, Mandon Moore is killed during the battle and Bywater's death in that battle is established in Tyrion's closing Scope. Other fatalities are reported, sometimes without independently established precise totals.
+**Character entries:** 30 Total | 4 Principal | 14 Supporting | 12 Tertiary | 0 Collective | **At least 3 deaths**. The death count is a known minimum, not a full census of riot and battlefield casualties: the High Septon is killed during the riot, Mandon Moore is killed during the battle and Bywater's death in that battle is established in Tyrion's closing Scope. Other fatalities are reported, sometimes without independently established precise totals.
 
 <a id="cok-tyrion-royal"></a>
 ## 👑 The Lannister Royal Household
@@ -126,12 +126,19 @@ His final COK chapter follows a fevered recovery and disturbing dreams rather th
 <a id="cok-tyrion-council"></a>
 ## 🏛️ The Hand's Council and Administration
 
+### Royal Council and Command
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **VARYS**, master of whisperers | Attending the small council under **Cersei**, controlling an extensive informant network. | Supplies intelligence, helps shield **Shae**, reveals the **Antler Men**, and manages competing loyalties at court. | 🟢 Remains a royal adviser; Tyrion's trust in his purposes remains limited. |
 | 🥈 | **PETYR BAELISH**, master of coin, Littlefinger | Holds the crown's finances and serves on the small council. | Participates in Tyrion's marriage-plot test, then undertakes negotiation for the alliance with **House Tyrell**. | 🟢 Continues as a political broker among the victorious crown's advisers, though not directly seen in Tyrion's recovery chapter. |
 | 🥈 | **GRAND MAESTER PYCELLE**, royal maester | Serves on the small council while secretly reporting to **Cersei**. | Reveals the planted **Myrcella** plan to Cersei; Tyrion exposes his collaboration, searches his rooms and imprisons him. | 🟢 Removed from his previous authority by Tyrion's arrest; subsequent release and duties are not directly witnessed in this selected Scope. |
 | 🥈 | **JACELYN BYWATER**†, one-handed officer of the Gold Cloaks | Serving the crown's armed administration before Tyrion selects him as commander. | Replaces **Janos Slynt**, secures **Tommen**, investigates treason and leads the City Watch amid the siege. | 🗡 Reported killed in the fighting for **King's Landing** during the **Blackwater**; Tyrion learns of the loss in recovery. |
+
+### Council Agents and Technical Advisers
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 🥈 | **JANOS SLYNT**, former City Watch commander | Holds the City Watch command and the rewards earned through **Eddard Stark's** betrayal. | Invited to dinner by Tyrion, arrested and sentenced to join the **Night's Watch**. | 🟢 Sent towards **the Wall** as a prisoner of the crown; no return is established in Tyrion's chapters. |
 | 🥈 | **CLEOS FREY**, envoy and Lannister relation | Serving as messenger between the Stark and Lannister negotiating parties. | Delivers proposals concerning **Jaime**, meets Tyrion and conveys diplomatic positions to the court. | 🟢 Returns to diplomatic duties; ultimate progress beyond the selected chapters is not independently established. |
 | 13 | **HALLYNE**, chief pyromancer | Head of the **Alchemists' Guild**, overseeing its stores and formulas in **King's Landing**. | Shows Tyrion the rapidly expanding supply of wildfire and helps explain its dangerous properties and delivery. | 🟢 Continues supplying the royal defence effort; no separate later personal scene is established. |
@@ -150,12 +157,19 @@ His final COK chapter follows a fevered recovery and disturbing dreams rather th
 <a id="cok-tyrion-watch"></a>
 ## ⚔️ The City Watch and Armed Defenders
 
+### Royal Swords and Kingsguard
+
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🥈 | **SANDOR CLEGANE**, the Hound, Joffrey's sworn sword | Guarding the king at court, feared for his violence. | Participates in the escort caught in the riot and refuses to lead a further sortie once wildfire surrounds the gates. | 🟢 Leaves the battle command after refusing Tyrion; later direct circumstances are outside this POV Scope. |
 | 🥈 | **MERYN TRANT**, Kingsguard knight | Serves the royal household's guard under **Joffrey**. | Appears during court and royal security operations and follows the king during the city defence. | 🟢 Remains a royal guard; no distinct closing interview with Tyrion. |
 | 21 | **SER MANDON MOORE**†, Kingsguard knight | Stationed at the Red Keep, guarding the small council against unapproved entry. | Accompanies Tyrion's sortie, extends a hand from a stranded ship and suddenly attacks him with a sword. | 🗡 Knocked into the **Blackwater Rush** by **Podrick** and drowned; the identity of anyone who may have directed him is unresolved. |
 | 🥈 | **LANCEL LANNISTER**, Lannister cousin and knight | Young member of **Cersei's** circle, recently elevated within the royal household. | Tries to demand **Pycelle's** release; blackmailed by Tyrion over his relationship with the queen, he becomes Tyrion's secret informer. | 🟢 Last seen participating in royal service before the battle; later personal condition is not directly established in Tyrion's final chapter. |
+
+### Tyrion's Armed Allies and New Guards
+
+| # | Character | Position at Start | Arc | Position at End |
+|---:|---|---|---|---|
 | 🥈 | **SHAGGA**, Stone Crows chieftain | Allied to Tyrion by promises of gold, equipment and profitable fighting. | Helps intimidate **Pycelle** during arrest and leads clan fighters to raid **Stannis's** approach. | 🟢 Last seen departing with his warriors on a harrying mission; final whereabouts within this POV selection remain unconfirmed. |
 | 24 | **TIMETT**, Burned Men leader | With Tyrion's mountain-clan allies in **King's Landing**. | Enforces Tyrion's orders during **Pycelle's** seizure and takes Burned Men into the woods to disrupt the enemy. | 🟢 Last known leading his fighters outside the walls; no later enacted return. |
 | 25 | **CHELLA**, Black Ears leader | Commands a clan allied with Tyrion after the events of GOT. | Supports Tyrion's armed following and contributes warriors assigned to the defence's irregular raids. | 🟢 Among the clans assigned against the approaching army; later movements unconfirmed in Tyrion's selected chapters. |
@@ -202,10 +216,10 @@ His final COK chapter follows a fevered recovery and disturbing dreams rather th
 
 > **Spoiler boundaries — Applies to: All sections:** This is a complete **Tyrion** POV selection within COK, not a reconstruction of all novel events after **Ch. 67**. Other POV events appear only as Tyrion learns or witnesses them in his selected chapters; no independent scene from another narrator is substituted. Tywin, Renly, Stannis, Robb and others who act offstage relative to Tyrion's selected chapters are not physically rostered merely because their actions influence Tyrion.
 
-> **Character significance and physical Presence — Applies to: Roll Call:** The [whole-book COK MCM](ROM_MCM_COK.md) remains **PROVISIONAL — PRIORITY ISSUES**. Its Principal/Supporting classifications have been applied only where established; Tertiary characters are considered individually against SROMX's inclusion threshold, not copied from its entire roster. The 30 rows are a working, selection-bounded census. Some deaths occur off-page within the selected chronology and are recognised only when Tyrion's own source reports them. At least 3 deaths are confirmed, while riot and battle casualty totals are not exhaustively resolved. Individual outcomes at the final chapter may remain uncertain when only an earlier encounter or offstage report is available.
+> **Character significance and physical Presence — Applies to: Roll Call:** The [whole-book COK MCM](ROM_MCM_COK.md) remains **Satisfactory for Use — Priority Verified**. Its Principal/Supporting classifications have been applied only where established; Tertiary characters are considered individually against SROMX's inclusion threshold, not copied from its entire roster. The 30 rows are a working, selection-bounded census. Some deaths occur off-page within the selected chronology and are recognised only when Tyrion's own source reports them. At least 3 deaths are confirmed, while riot and battle casualty totals are not exhaustively resolved. Individual outcomes at the final chapter may remain uncertain when only an earlier encounter or offstage report is available.
 
 > **SROMX v11.28 formatting — Applies to: Roll Call:** Every table preserves 5 columns; medals represent Principal/Supporting rank and the original underlying numeric entry positions remain for Tertiary entries. Deceased identifiers carry **†**, while only Position at End carries its corresponding leading emoji status (🟢, 🟡, ⚪️, 🗡 or 🪦), without a redundant bracketed character-status label.
 
-> **Navigation and persistence — Applies to: Entire record:** Link each Tyrion source coordinate to its existing [COK CSRM](ROM_CSRM_ACOK.md) anchor, maintain reciprocal source-chapter and Reading Index references, and retain MCM as an explicitly provisional backend source. No BUILD action advances a live Reading Point or the [series MCR](../SERIES%20CONTINUITY/MASTER_CHARACTER_REGISTRY.csv). This is a GitHub-only record; reader-facing SROMX publication requires the distinct publication command.
+> **Navigation and persistence — Applies to: Entire record:** Link each Tyrion source coordinate to its existing [COK CSRM](ROM_CSRM_ACOK.md) anchor, maintain reciprocal source-chapter and Reading Index references, and retain MCM as an explicitly priority-verified backend source. No BUILD action advances a live Reading Point or the [series MCR](../SERIES%20CONTINUITY/MASTER_CHARACTER_REGISTRY.csv). This is a GitHub-only record; reader-facing SROMX publication requires the distinct publication command.
 
 > **Manual authority — Applies to: Entire record:** [SROMX v11.28](https://github.com/dz480/CG-Protocols/blob/main/ROM/RECAPS/SROMX.md), [ROM RPW](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_READTHROUGH_PROJECT_WORKFLOW.md), [ASOIAF RPW](../ASOIAF_READTHROUGH_PROJECT_WORKFLOW.md), [ROM TS](https://github.com/dz480/CG-Protocols/blob/main/ROM/CORE/ROM_TERMINOLOGY_STANDARD.md), and [CGW](https://github.com/dz480/CG-GitHub/blob/main/CHATGPT_GITHUB_WORKFLOW.md). GitHub-only navigation and drafting notes are retained for maintenance but omitted in subsequent reader-facing publication.
