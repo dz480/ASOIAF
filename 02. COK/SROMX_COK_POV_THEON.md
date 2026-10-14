@@ -121,7 +121,7 @@ By his next chapter, 2 sons of the miller have been killed, mutilated and passed
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 5 | **VICTARION GREYJOY**, ironborn fleet commander and Theon’s uncle | Serving **Balon** among Pyke’s captains before the invasion. | Participates in the feast and war council and is ordered to take **Moat Cailin**. | 🟢 Carries out his designated command away from Theon’s later scenes. |
+| 5 | **VICTARION GREYJOY**, ironborn fleet commander and Theon’s uncle | Serving **Balon** among Pyke’s captains before the invasion. | Participates in the feast and war council and is ordered to take **Moat Cailin**. | 🟢 Last directly encountered at Pyke's war council; ordered to lead the Iron Fleet against **Moat Cailin**, with subsequent actions outside Theon's selected scenes. |
 | 🥈 | **DAGMER CLEFTJAW**, veteran reaver and Theon’s former instructor | Among **Balon’s** reliable captains, assigned to accompany Theon’s raid. | Encourages Theon, agrees to attack **Torrhen’s Square** and draws Stark loyalists away. | 🟢 **Asha** reports that he survived defeat at Torrhen’s Square and retreated toward the coast. |
 | 7 | **WEX PYKE**, mute ironborn squire | Serving **Theon** as an attendant and armour-bearer. | Fetches his bow, assists the search and arms him during **Rodrik’s** siege. | 🟡 Last seen serving Theon before **Ramsay’s** assault; no individual fate is shown. |
 
