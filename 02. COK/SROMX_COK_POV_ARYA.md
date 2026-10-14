@@ -41,7 +41,7 @@ At the close of *A Game of Thrones*, **Joffrey Baratheon** has ordered **Eddard 
 
 | # | Date | Location | Chronological Position |
 |---:|---|---|---|
-| 1 | **≈17 Jan 299 AC** | **CROWNLANDS**<br>• **Kingsroad**<br>&nbsp;&nbsp;⤷ North of King's Landing | **COK Ch. 1 (Arya I):** **Arya**, passing as Arry, clashes with **Hot Pie** and **Lommy** in **Yoren**'s company; **Gendry** intervenes, and her thoughts turn to **Jon** and home. |
+| 1 | **≈17 Jan 299 AC** | **CROWNLANDS**<br>• **Kingsroad**<br>&nbsp;&nbsp;⤷ North of King's Landing | **COK Ch. 1 (Arya I):** **Arya**, passing as Arry, clashes with **Hot Pie** and **Lommy** in **Yoren**'s company; the boy called **the Bull** (later identified as **Gendry**) intervenes, and her thoughts turn to **Jon** and home. |
 | 2 | **≈1 Feb 299 AC** | **RIVERLANDS**<br>• **Kingsroad**<br>&nbsp;&nbsp;⤷ Roadside inn near the Gods Eye | **COK Ch. 5 (Arya II):** With refugees fleeing south, **Praed** dies on the journey; **Jaqen H'ghar** introduces himself, and Yoren defies **gold cloaks** attempting to seize Gendry. |
 | 3 | **≈21 Feb 299 AC** | **RIVERLANDS**<br>• **Road west of the Gods Eye**<br>&nbsp;&nbsp;⤷ Burned villages and woodland camps | **COK Ch. 9 (Arya III):** Yoren diverts into devastated country; the party rescues an orphaned young girl, buries a wounded woman and encounters wolves and distant signs of fighting. |
 | 4 | **≈28 Feb 299 AC** | **RIVERLANDS**<br>• **Abandoned holdfast**<br>&nbsp;&nbsp;⤷ Walls, stable barn, underground escape | **COK Ch. 14 (Arya IV):** **Amory Lorch**'s force attacks; Yoren's company is overrun. Arya frees **Jaqen**, **Rorge** and **Biter** from a burning prison wagon, then escapes through a tunnel. |
