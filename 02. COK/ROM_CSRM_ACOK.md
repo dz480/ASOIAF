@@ -101,6 +101,8 @@
 <a id="cok-csrm-prologue"></a>
 ### Prologue: Cressen
 
+[SROMX | Maester Cressen | Full Book](SROMX_COK_POV_CRESSEN.md) · Prologue POV only
+
 **≈1 Feb 299 AC**  
 *Dragonstone*  
 **CRESSEN** · **DAVOS** · **MELISANDRE** · **SALLADHOR SAAN** · **SELYSE FLORENT** · **STANNIS**
