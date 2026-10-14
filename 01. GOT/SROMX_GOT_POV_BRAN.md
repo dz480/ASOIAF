@@ -222,7 +222,7 @@ After the departure, Bran's sense of connection to unseen events grows more unse
 
 > **Chronology note — Applies to: Section 2 (Timeline):** The project CSRM supplies estimated native dates for every selected chapter; an RSDP time-zero has not been authorised.
 
-> **Roll Call display — Applies to: Section 5 (Roll Call):** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Named roster entries retain bracketed textual Current Status; † marks deceased individuals. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
+> **Roll Call display — Applies to: Section 5 (Roll Call):** 🏅 Principal · 🥈 Supporting · numbered Tertiary/Collective Entries (original indices retained). Each Position at End begins with a closing-status emoji followed by factual prose; † marks deceased individuals in the Character field. When a Character Group contains more than 6 Entries and a natural distinction exists, its subgroups are nested under the original parent Group. 
 
 > **Boundary rule — Applies to: Section 5 (Roll Call):** Position at Start means the opening of **GOT Ch. 1**, not the character's first appearance within this selected chapter set. **Arc** summarises intervening participation in the seven Bran chapters. Position at End is the strongest established condition by the conclusion of **GOT Ch. 66**. Mentioned-only and ordinary dream representations are not counted as physically Present.
 
