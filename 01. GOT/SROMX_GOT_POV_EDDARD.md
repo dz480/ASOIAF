@@ -165,7 +165,7 @@ Imprisoned beneath the Red Keep, Ned struggles with his injured leg, hunger, iso
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms | Arriving at **Winterfell** to visit **Ned** and appoint a new Hand. | Draws Ned south, repeatedly clashes with him over policy and is mortally injured during a hunt. | 🗡 Dies at **King's Landing**, leaving contested succession arrangements. |
+| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms | Arriving at **Winterfell** to visit **Ned** and appoint a new Hand. | Draws Ned south, repeatedly clashes with him over policy and is mortally injured during a hunt. | 🪦 Dies at **King's Landing**, leaving contested succession arrangements. |
 | 🏅 | **CERSEI LANNISTER**, queen and mother of Joffrey | Accompanying the royal party to **Winterfell**. | Protects her children, opposes **Ned**, receives his warning about their parentage and defeats his regency attempt. | 🟢 Exercising authority around **Joffrey**'s throne. |
 | 🏅 | **JOFFREY BARATHEON**, king | Crown prince travelling with his parents. | Clashes with **Arya**, remains betrothed to **Sansa** and inherits the throne following Robert's death. | 🟢 Reigning as king under **Cersei**'s influence. |
 | 🏅 | **JAIME LANNISTER**, knight of the Kingsguard | Travelling north with the royal entourage. | Attacks **Ned** after **Tyrion**'s capture and reveals his willingness to retaliate through Ned's guards. | 🟢 Reported to be fighting in the riverlands against Stark and Tully forces. |
