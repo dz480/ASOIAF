@@ -123,6 +123,8 @@ Disguised as a boy called Arry, **Arya Stark** joins **Yoren**'s recruits with *
 <a id="cok-csrm-ch-2"></a>
 ### Ch. 2: Sansa I
 
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
+
 **≈10 Feb 299 AC**  
 *King's Landing*  
 **SANSA** · **ARYS OAKHEART** · **BRONN** · **DONTOS** · **JOFFREY** · **MERYN TRANT** · **SANDOR** · **SHAGGA** · **TYRION**
@@ -289,6 +291,8 @@ Lannister men attack **Yoren**'s refuge. **Arya**, **Gendry** and their companio
 <a id="cok-csrm-ch-18"></a>
 ### Ch. 18: Sansa II
 
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
+
 **≈3 Mar 299 AC**  
 *King's Landing* · *Red Keep godswood*  
 **SANSA** · **DONTOS** · **JOFFREY** · **SANDOR**
@@ -436,6 +440,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 
 <a id="cok-csrm-ch-32"></a>
 ### Ch. 32: Sansa III
+
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
 
 **≈13 Jun 299 AC**  
 *King's Landing*  
@@ -637,6 +643,8 @@ Scouting with **Qhorin**, **Jon** encounters **Ygritte**, a captured free folk w
 <a id="cok-csrm-ch-52"></a>
 ### Ch. 52: Sansa IV
 
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
+
 **≈3 Sep 299 AC**  
 *King's Landing*  
 **SANSA** · **CERSEI LANNISTER** · **DONTOS** · **SANDOR**
@@ -690,6 +698,8 @@ Believing **Bran** and **Rickon** murdered, **Catelyn** questions the captive **
 <a id="cok-csrm-ch-57"></a>
 ### Ch. 57: Sansa V
 
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
+
 **≈7 Sep 299 AC**  
 *King's Landing* · *Red Keep*  
 **SANSA** · **CERSEI LANNISTER** · **ILYN** · **JOFFREY** · **MERYN TRANT** · **SHAE** · **TYRION**
@@ -717,6 +727,8 @@ As the Battle of the Blackwater begins, **Sansa** prays with the court and watch
 <a id="cok-csrm-ch-60"></a>
 ### Ch. 60: Sansa VI
 
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
+
 **≈7 Sep 299 AC**  
 *King's Landing* · *Red Keep*  
 **SANSA** · **CERSEI LANNISTER** · **DONTOS** · **ILYN**
@@ -734,6 +746,8 @@ While the battle rages, **Sansa** serves beside the increasingly drunken **Cerse
 
 <a id="cok-csrm-ch-62"></a>
 ### Ch. 62: Sansa VII
+
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
 
 **≈8 Sep 299 AC**  
 *King's Landing* · *Red Keep*  
@@ -771,6 +785,8 @@ After the warlocks' defeat, **Daenerys** loses her welcome in **Qarth** but enco
 
 <a id="cok-csrm-ch-65"></a>
 ### Ch. 65: Sansa VIII
+
+[SROMX | Sansa Stark | Full Book](SROMX_COK_POV_SANSA.md) (complete POV through Ch. 65)
 
 **≈18 Sep 299 AC**  
 *King's Landing*  
