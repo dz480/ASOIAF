@@ -123,12 +123,12 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **CATELYN STARK**, Lady of Winterfell; née Tully [Alive] | At Winterfell, raising five children and governing the Stark household. | Investigates Bran's attack, loses Ned, counsels Robb and brokers the crossing. | At Riverrun, grieving Ned as Robb is acclaimed king. |
-| 🏅 | **EDDARD STARK**†, Lord of Winterfell; later Hand of the King [Deceased] | At Winterfell, ruling the North and mourning Jon Arryn. | Accepts Robert's Handship and leaves after Lysa's warning; later arrested. | Executed in King's Landing; Catelyn learns of his death. |
-| 🏅 | **BRAN STARK**, Stark son [Alive; paralysed] | At Winterfell, healthy and fond of climbing. | Falls from the tower, lies unconscious and survives an assassination attempt. | Awake at Winterfell but unable to use his legs. |
-| 🏅 | **ROBB STARK**, Lord of Winterfell; King in the North [Alive] | Adolescent Stark heir, still under Ned's authority. | Takes charge at Winterfell, leads the northern host and captures Jaime. | At Riverrun, acclaimed King in the North. |
-| 5 | **SUMMER**, Bran's direwolf [Alive] | Young direwolf pup living with Bran at Winterfell. | Kills the intruder threatening the unconscious Bran. | Alive, remaining with Bran at Winterfell. |
-| 6 | **GREY WIND**, Robb's direwolf [Alive] | Young direwolf pup bonded to Robb. | Accompanies Robb's host and moves beside him before and after battle. | With Robb at Riverrun after the victories. |
+| 🏅 | **CATELYN STARK**, Lady of Winterfell; née Tully | At Winterfell, raising five children and governing the Stark household. | Investigates Bran's attack, loses Ned, counsels Robb and brokers the crossing. | 🟢 At Riverrun, grieving Ned as Robb is acclaimed king. |
+| 🏅 | **EDDARD STARK**†, Lord of Winterfell; later Hand of the King | At Winterfell, ruling the North and mourning Jon Arryn. | Accepts Robert's Handship and leaves after Lysa's warning; later arrested. | 🗡 Executed in King's Landing; Catelyn learns of his death. |
+| 🏅 | **BRAN STARK**, Stark son | At Winterfell, healthy and fond of climbing. | Falls from the tower, lies unconscious and survives an assassination attempt. | 🟢 Awake at Winterfell but unable to use his legs. |
+| 🏅 | **ROBB STARK**, Lord of Winterfell; King in the North | Adolescent Stark heir, still under Ned's authority. | Takes charge at Winterfell, leads the northern host and captures Jaime. | 🟢 At Riverrun, acclaimed King in the North. |
+| 5 | **SUMMER**, Bran's direwolf | Young direwolf pup living with Bran at Winterfell. | Kills the intruder threatening the unconscious Bran. | 🟢 Alive, remaining with Bran at Winterfell. |
+| 6 | **GREY WIND**, Robb's direwolf | Young direwolf pup bonded to Robb. | Accompanies Robb's host and moves beside him before and after battle. | 🟢 With Robb at Riverrun after the victories. |
 
 
 
@@ -137,12 +137,12 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **THEON GREYJOY**, Ironborn ward of the Starks [Alive] | Lives at Winterfell as Ned's ward. | Supports Robb's mobilisation, rides with him and helps bring Jaime captive. | At Riverrun among Robb's companions. |
-| 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms [Alive] | Responsible for training and discipline at Winterfell. | Guards Catelyn's secret journey and survives the mountain passage to the Vale. | Returns toward Winterfell after the Eyrie episode. |
-| 🥈 | **MAESTER LUWIN**, Maester of Winterfell [Alive] | Advises Ned and Catelyn at Winterfell. | Handles Lysa's letter, oversees Bran's care and examines the dagger. | Remains with the Stark household at Winterfell. |
-| 10 | **HALLIS MOLLEN**, Stark guardsman [Alive] | Serves Winterfell's guard. | Investigates the assassin, then protects Catelyn during Robb's campaign. | With Catelyn as her protector at the Whispering Wood. |
-| 11 | **DESMOND**, Stark guard [Unknown] | Serves the Stark household at Winterfell. | Brings the secret visitor and message to Ned and Catelyn. | Later circumstances not established within her chapters. |
-| 12 | **OLD NAN**, Elderly Winterfell nurse [Alive] | Long-serving member of the Winterfell household. | Assists during the household crisis surrounding Bran's sickroom. | Remains at Winterfell; no further change established. |
+| 🥈 | **THEON GREYJOY**, Ironborn ward of the Starks | Lives at Winterfell as Ned's ward. | Supports Robb's mobilisation, rides with him and helps bring Jaime captive. | 🟢 At Riverrun among Robb's companions. |
+| 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms | Responsible for training and discipline at Winterfell. | Guards Catelyn's secret journey and survives the mountain passage to the Vale. | 🟢 Returns toward Winterfell after the Eyrie episode. |
+| 🥈 | **MAESTER LUWIN**, Maester of Winterfell | Advises Ned and Catelyn at Winterfell. | Handles Lysa's letter, oversees Bran's care and examines the dagger. | 🟢 Remains with the Stark household at Winterfell. |
+| 10 | **HALLIS MOLLEN**, Stark guardsman | Serves Winterfell's guard. | Investigates the assassin, then protects Catelyn during Robb's campaign. | 🟢 With Catelyn as her protector at the Whispering Wood. |
+| 11 | **DESMOND**, Stark guard | Serves the Stark household at Winterfell. | Brings the secret visitor and message to Ned and Catelyn. | ⚪️ Later circumstances not established within her chapters. |
+| 12 | **OLD NAN**, Elderly Winterfell nurse | Long-serving member of the Winterfell household. | Assists during the household crisis surrounding Bran's sickroom. | 🟢 Remains at Winterfell; no further change established. |
 
 
 
@@ -151,9 +151,9 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **PETYR BAELISH**, Master of coin; Littlefinger [Alive] | Serves on the royal council at King's Landing. | Receives Catelyn and claims Tyrion won the assassin's dagger from him. | Remains at court; his claim is unresolved in Catelyn's POV. |
-| 🥈 | **VARYS**, Master of whisperers [Alive] | Oversees royal intelligence at King's Landing. | Detects Catelyn's arrival and participates in questioning over the dagger. | Remains at the royal court. |
-| 15 | **CATSPAW ASSASSIN**†, Unidentified hired intruder [Deceased] | His identity and employer are unknown before the attack. | Attempts to murder Bran and wounds Catelyn, exposing the danger. | Killed in Bran's sickroom by Summer. |
+| 🥈 | **PETYR BAELISH**, Master of coin; Littlefinger | Serves on the royal council at King's Landing. | Receives Catelyn and claims Tyrion won the assassin's dagger from him. | 🟢 Remains at court; his claim is unresolved in Catelyn's POV. |
+| 🥈 | **VARYS**, Master of whisperers | Oversees royal intelligence at King's Landing. | Detects Catelyn's arrival and participates in questioning over the dagger. | 🟢 Remains at the royal court. |
+| 15 | **CATSPAW ASSASSIN**†, Unidentified hired intruder | His identity and employer are unknown before the attack. | Attempts to murder Bran and wounds Catelyn, exposing the danger. | 🗡 Killed in Bran's sickroom by Summer. |
 
 
 
@@ -162,8 +162,8 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **TYRION LANNISTER**, Lannister nobleman [Alive] | Travelling with the royal entourage and later the Night's Watch party. | Is seized by Catelyn, brought to the Vale and freed after Bronn's victory. | Released from the Eyrie and allowed to leave with Bronn. |
-| 🏅 | **JAIME LANNISTER**, Kingsguard knight; Lannister commander [Alive; captive] | Serves in King Robert's royal entourage. | Later commands near Riverrun, battles Robb and kills Stark retainers. | Prisoner of Robb after the Whispering Wood. |
+| 🏅 | **TYRION LANNISTER**, Lannister nobleman | Travelling with the royal entourage and later the Night's Watch party. | Is seized by Catelyn, brought to the Vale and freed after Bronn's victory. | 🟢 Released from the Eyrie and allowed to leave with Bronn. |
+| 🏅 | **JAIME LANNISTER**, Kingsguard knight; Lannister commander | Serves in King Robert's royal entourage. | Later commands near Riverrun, battles Robb and kills Stark retainers. | 🟢 Prisoner of Robb after the Whispering Wood. |
 
 
 
@@ -172,10 +172,10 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 18 | **MOREO TUMITIS**, Tyroshi captain of the Storm Dancer [Alive] | Commands a merchant vessel available for charter. | Ferries Catelyn and Rodrik from White Harbor to King's Landing. | Leaves Catelyn in the capital; later movements unknown. |
-| 19 | **MASHA HEDDLE**, Innkeeper at the crossroads [Alive] | Runs the crossroads inn in the riverlands. | Houses Catelyn and Rodrik when Tyrion arrives and their cover fails. | At her inn when Catelyn takes Tyrion away. |
-| 20 | **MARILLION**, Travelling singer [Alive] | A wandering young singer without a fixed court. | Recognises Catelyn at the inn and follows the party toward the Eyrie. | Last seen among the companions admitted into the Vale. |
-| 21 | **WILLIS WODE**, Knight sworn to House Whent [Alive] | Serves the Whents of Harrenhal. | Answers Catelyn's call at the crossroads and survives the mountain journey. | Recuperates below the Eyrie with Rodrik. |
+| 18 | **MOREO TUMITIS**, Tyroshi captain of the Storm Dancer | Commands a merchant vessel available for charter. | Ferries Catelyn and Rodrik from White Harbor to King's Landing. | 🟢 Leaves Catelyn in the capital; later movements unknown. |
+| 19 | **MASHA HEDDLE**, Innkeeper at the crossroads | Runs the crossroads inn in the riverlands. | Houses Catelyn and Rodrik when Tyrion arrives and their cover fails. | 🟢 At her inn when Catelyn takes Tyrion away. |
+| 20 | **MARILLION**, Travelling singer | A wandering young singer without a fixed court. | Recognises Catelyn at the inn and follows the party toward the Eyrie. | 🟢 Last seen among the companions admitted into the Vale. |
+| 21 | **WILLIS WODE**, Knight sworn to House Whent | Serves the Whents of Harrenhal. | Answers Catelyn's call at the crossroads and survives the mountain journey. | 🟢 Recuperates below the Eyrie with Rodrik. |
 
 
 
@@ -187,13 +187,13 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **LYSA ARRYN**, Lady of the Eyrie; née Tully [Alive] | Jon Arryn's widow, withdrawn to the Vale with her son. | Fears the Lannisters, accuses Tyrion and insists on a trial by combat. | Remains at the Eyrie, refusing to support the Tully war effort. |
-| 23 | **ROBERT ARRYN**, Young Lord of the Eyrie [Alive] | Jon Arryn's surviving son, guarded by Lysa. | Depends on his mother and urges that Tyrion be thrown through the Moon Door. | Remains secluded at the Eyrie with Lysa. |
-| 🥈 | **BRONN**, Sellsword [Alive] | A mercenary travelling independently in the riverlands. | Attaches himself to Tyrion and wins the Vale trial by killing Vardis. | Leaves the Eyrie with Tyrion. |
-| 25 | **VARDIS EGEN**†, Captain of the Eyrie's guard [Deceased] | A knight in Arryn service at the Eyrie. | Accepts the role of Lysa's champion against Bronn. | Killed in the trial by combat. |
-| 26 | **MAESTER COLEMON**, Maester of the Eyrie [Alive] | Attends Lysa and her son in the Vale. | Discloses Jon Arryn's plan to foster his son with Stannis and watches the trial. | Continues serving at the Eyrie. |
-| 27 | **LYN CORBRAY**, Vale knight and Lysa's suitor [Alive] | Vale nobleman associated with the Arryn court. | Demands harsh punishment for Tyrion before the combat. | Remains among Vale courtiers. |
-| 28 | **MORTON WAYNWOOD**, Vale knight and Lysa's suitor [Alive] | Nobleman within the Vale's circle of suitors. | Confidently predicts Vardis will defeat Bronn. | Remains at the Eyrie after the failed trial. |
+| 🥈 | **LYSA ARRYN**, Lady of the Eyrie; née Tully | Jon Arryn's widow, withdrawn to the Vale with her son. | Fears the Lannisters, accuses Tyrion and insists on a trial by combat. | 🟢 Remains at the Eyrie, refusing to support the Tully war effort. |
+| 23 | **ROBERT ARRYN**, Young Lord of the Eyrie | Jon Arryn's surviving son, guarded by Lysa. | Depends on his mother and urges that Tyrion be thrown through the Moon Door. | 🟢 Remains secluded at the Eyrie with Lysa. |
+| 🥈 | **BRONN**, Sellsword | A mercenary travelling independently in the riverlands. | Attaches himself to Tyrion and wins the Vale trial by killing Vardis. | 🟢 Leaves the Eyrie with Tyrion. |
+| 25 | **VARDIS EGEN**†, Captain of the Eyrie's guard | A knight in Arryn service at the Eyrie. | Accepts the role of Lysa's champion against Bronn. | 🗡 Killed in the trial by combat. |
+| 26 | **MAESTER COLEMON**, Maester of the Eyrie | Attends Lysa and her son in the Vale. | Discloses Jon Arryn's plan to foster his son with Stannis and watches the trial. | 🟢 Continues serving at the Eyrie. |
+| 27 | **LYN CORBRAY**, Vale knight and Lysa's suitor | Vale nobleman associated with the Arryn court. | Demands harsh punishment for Tyrion before the combat. | 🟢 Remains among Vale courtiers. |
+| 28 | **MORTON WAYNWOOD**, Vale knight and Lysa's suitor | Nobleman within the Vale's circle of suitors. | Confidently predicts Vardis will defeat Bronn. | 🟢 Remains at the Eyrie after the failed trial. |
 
 
 
@@ -202,9 +202,9 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 29 | **MYA STONE**, Mule guide at the Gates of the Moon [Alive] | Works guiding travellers up to the Eyrie. | Leads an exhausted Catelyn along the perilous mountain path by night. | Continues guiding in the Vale. |
-| 30 | **NESTOR ROYCE**, High Steward of the Vale [Alive] | Commands the Gates of the Moon under the Arryns. | Receives Catelyn and arranges her immediate ascent. | Continues his stewardship at the lower castle. |
-| 31 | **DONNEL WAYNWOOD**, Vale knight at the Bloody Gate [Alive] | Serves the Arryn household and guards access to the Vale. | Receives Catelyn's party and escorts it through the mountain pass. | Remains in Arryn service in the Vale. |
+| 29 | **MYA STONE**, Mule guide at the Gates of the Moon | Works guiding travellers up to the Eyrie. | Leads an exhausted Catelyn along the perilous mountain path by night. | 🟢 Continues guiding in the Vale. |
+| 30 | **NESTOR ROYCE**, High Steward of the Vale | Commands the Gates of the Moon under the Arryns. | Receives Catelyn and arranges her immediate ascent. | 🟢 Continues his stewardship at the lower castle. |
+| 31 | **DONNEL WAYNWOOD**, Vale knight at the Bloody Gate | Serves the Arryn household and guards access to the Vale. | Receives Catelyn's party and escorts it through the mountain pass. | 🟢 Remains in Arryn service in the Vale. |
 
 
 
@@ -216,9 +216,9 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **BRYNDEN TULLY**, The Blackfish; Catelyn's uncle [Alive] | Knight of the Gate in Lysa Arryn's service. | Leaves the Vale, returns with Catelyn and scouts for Robb's army. | At Riverrun after the Stark and Tully victories. |
-| 🥈 | **EDMURE TULLY**, Heir of Riverrun; Catelyn's brother [Alive] | At Riverrun, overseeing defence as Hoster's health declines. | Leads resistance to Lannisters, is captured and subsequently freed. | At Riverrun with Catelyn and their dying father. |
-| 34 | **HOSTER TULLY**, Lord of Riverrun [Alive; gravely ill] | At Riverrun, incapacitated by prolonged illness. | The siege endangers his home; he receives Catelyn when the castle is relieved. | At Riverrun, gravely ill and hoping to see Brynden. |
+| 🥈 | **BRYNDEN TULLY**, The Blackfish; Catelyn's uncle | Knight of the Gate in Lysa Arryn's service. | Leaves the Vale, returns with Catelyn and scouts for Robb's army. | 🟢 At Riverrun after the Stark and Tully victories. |
+| 🥈 | **EDMURE TULLY**, Heir of Riverrun; Catelyn's brother | At Riverrun, overseeing defence as Hoster's health declines. | Leads resistance to Lannisters, is captured and subsequently freed. | 🟢 At Riverrun with Catelyn and their dying father. |
+| 34 | **HOSTER TULLY**, Lord of Riverrun | At Riverrun, incapacitated by prolonged illness. | The siege endangers his home; he receives Catelyn when the castle is relieved. | 🟢 At Riverrun, gravely ill and hoping to see Brynden. |
 
 
 
@@ -227,10 +227,10 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 35 | **TYTOS BLACKWOOD**, Lord of Raventree Hall [Alive] | Tully bannerman in the riverlands. | Helps secure Edmure's rescue and attends the Riverrun council. | Bends the knee to Robb as King in the North. |
-| 36 | **JONOS BRACKEN**, Lord of Stone Hedge [Alive] | Tully bannerman facing Lannister invasion. | Resists making peace under the Lannisters in the Riverrun council. | Joins the riverlords' recognition of Robb. |
-| 37 | **MARQ PIPER**, Riverland knight of House Piper [Alive] | Supports the Tullys in the riverlands. | Argues for Renly's coalition and against submitting to the Lannisters. | At Riverrun as the lords proclaim Robb king. |
-| 38 | **JASON MALLISTER**, Lord of Seagard [Alive] | Tully bannerman commanding Seagard's forces. | Passes Catelyn on the road without recognition and attends the Riverrun council. | Among riverlords acknowledging Robb's kingship. |
+| 35 | **TYTOS BLACKWOOD**, Lord of Raventree Hall | Tully bannerman in the riverlands. | Helps secure Edmure's rescue and attends the Riverrun council. | 🟢 Bends the knee to Robb as King in the North. |
+| 36 | **JONOS BRACKEN**, Lord of Stone Hedge | Tully bannerman facing Lannister invasion. | Resists making peace under the Lannisters in the Riverrun council. | 🟢 Joins the riverlords' recognition of Robb. |
+| 37 | **MARQ PIPER**, Riverland knight of House Piper | Supports the Tullys in the riverlands. | Argues for Renly's coalition and against submitting to the Lannisters. | 🟢 At Riverrun as the lords proclaim Robb king. |
+| 38 | **JASON MALLISTER**, Lord of Seagard | Tully bannerman commanding Seagard's forces. | Passes Catelyn on the road without recognition and attends the Riverrun council. | 🟢 Among riverlords acknowledging Robb's kingship. |
 
 
 
@@ -239,10 +239,10 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **WALDER FREY**, Lord of the Twins [Alive] | Rules the Twins and controls the indispensable river crossing. | Holds his men back, then bargains with Catelyn for marriages and support. | Remains at the Twins as Robb's conditional ally. |
-| 40 | **STEVRON FREY**, Heir to the Twins [Alive] | Oldest son and heir of Walder Frey. | Greets Robb's host and arranges Catelyn's access; later counsels caution. | Among Frey representatives at Riverrun. |
-| 41 | **PERWYN FREY**, Son of Walder Frey [Alive] | Member of the powerful Frey household. | Offers to remain with Robb's host as a guarantee during negotiations. | Remains aligned with the Frey host. |
-| 42 | **OLYVAR FREY**, Robb's new squire [Alive] | A younger son of Walder Frey. | Is pledged as Robb's squire and attends his horse before battle. | Serving Robb among the northern forces. |
+| 🥈 | **WALDER FREY**, Lord of the Twins | Rules the Twins and controls the indispensable river crossing. | Holds his men back, then bargains with Catelyn for marriages and support. | 🟢 Remains at the Twins as Robb's conditional ally. |
+| 40 | **STEVRON FREY**, Heir to the Twins | Oldest son and heir of Walder Frey. | Greets Robb's host and arranges Catelyn's access; later counsels caution. | 🟢 Among Frey representatives at Riverrun. |
+| 41 | **PERWYN FREY**, Son of Walder Frey | Member of the powerful Frey household. | Offers to remain with Robb's host as a guarantee during negotiations. | 🟢 Remains aligned with the Frey host. |
+| 42 | **OLYVAR FREY**, Robb's new squire | A younger son of Walder Frey. | Is pledged as Robb's squire and attends his horse before battle. | 🟢 Serving Robb among the northern forces. |
 
 
 
@@ -254,15 +254,15 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **JON UMBER**, Greatjon; Lord of Last Hearth [Alive] | Powerful northern bannerman of House Stark. | Fights for Robb and calls for northern independence after Ned's death. | First to acclaim Robb King in the North at Riverrun. |
-| 🥈 | **ROOSE BOLTON**, Lord of the Dreadfort [Alive] | Northern bannerman noted for calculation. | Chosen to lead the eastern infantry against Tywin's approaching host. | Commands battered northern foot after the campaign. |
-| 🥈 | **RICKARD KARSTARK**, Lord of Karhold [Alive] | Northern bannerman and father of several fighting sons. | Marches with Robb and loses sons to Jaime's attack. | Grieves their deaths and joins the acclamation of Robb. |
-| 46 | **WYLIS MANDERLY**, Son of Lord Wyman Manderly [Alive] | White Harbor nobleman and northern bannerman. | Helps escort Catelyn and Brynden to Robb's army at Moat Cailin. | Remains with northern forces during mobilisation. |
-| 47 | **WENDEL MANDERLY**, Son of Lord Wyman Manderly [Alive] | Northern knight from White Harbor. | Joins Catelyn's escort and the advance into the riverlands. | Serves among Robb's mounted companions. |
-| 48 | **ROBETT GLOVER**, Northern nobleman [Alive] | Stark bannerman involved in northern mobilisation. | Accompanies Robb and discusses the Freys' intentions. | Continues with the northern campaign. |
-| 49 | **GALBART GLOVER**, Northern nobleman [Alive] | Stark bannerman of Deepwood Motte. | Advises in the campaign and explains the losses during Jaime's attack. | With the northern host after the Whispering Wood. |
-| 50 | **MAEGE MORMONT**, Lady of Bear Island [Alive] | Northwoman ruling Bear Island in Stark allegiance. | Her horn sounds during the ambush; she later endorses Robb's kingship. | Acclaims the King of Winter at Riverrun. |
-| 51 | **HELMAN TALLHART**, Northern knight [Alive] | Stark bannerman mustering for war. | Assists the strategic preparations and guards the passage at the Twins. | Maintains security around the crossing. |
+| 🥈 | **JON UMBER**, Greatjon; Lord of Last Hearth | Powerful northern bannerman of House Stark. | Fights for Robb and calls for northern independence after Ned's death. | 🟢 First to acclaim Robb King in the North at Riverrun. |
+| 🥈 | **ROOSE BOLTON**, Lord of the Dreadfort | Northern bannerman noted for calculation. | Chosen to lead the eastern infantry against Tywin's approaching host. | 🟢 Commands battered northern foot after the campaign. |
+| 🥈 | **RICKARD KARSTARK**, Lord of Karhold | Northern bannerman and father of several fighting sons. | Marches with Robb and loses sons to Jaime's attack. | 🟢 Grieves their deaths and joins the acclamation of Robb. |
+| 46 | **WYLIS MANDERLY**, Son of Lord Wyman Manderly | White Harbor nobleman and northern bannerman. | Helps escort Catelyn and Brynden to Robb's army at Moat Cailin. | 🟢 Remains with northern forces during mobilisation. |
+| 47 | **WENDEL MANDERLY**, Son of Lord Wyman Manderly | Northern knight from White Harbor. | Joins Catelyn's escort and the advance into the riverlands. | 🟢 Serves among Robb's mounted companions. |
+| 48 | **ROBETT GLOVER**, Northern nobleman | Stark bannerman involved in northern mobilisation. | Accompanies Robb and discusses the Freys' intentions. | 🟢 Continues with the northern campaign. |
+| 49 | **GALBART GLOVER**, Northern nobleman | Stark bannerman of Deepwood Motte. | Advises in the campaign and explains the losses during Jaime's attack. | 🟢 With the northern host after the Whispering Wood. |
+| 50 | **MAEGE MORMONT**, Lady of Bear Island | Northwoman ruling Bear Island in Stark allegiance. | Her horn sounds during the ambush; she later endorses Robb's kingship. | 🟢 Acclaims the King of Winter at Riverrun. |
+| 51 | **HELMAN TALLHART**, Northern knight | Stark bannerman mustering for war. | Assists the strategic preparations and guards the passage at the Twins. | 🟢 Maintains security around the crossing. |
 
 
 
@@ -271,10 +271,10 @@ Catelyn finally returns to **Riverrun**, now relieved, and reunites with Edmure 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 52 | **DACEY MORMONT**, Heir to Bear Island [Alive] | Warrior daughter of Maege Mormont. | Rides among the chosen guard protecting Robb at the ambush. | Survives the battle and remains with Robb's army. |
-| 53 | **DARYN HORNWOOD**†, Northern warrior [Deceased] | One of Robb's future mounted companions. | Tries to protect Robb when Jaime cuts through the guard. | Killed by Jaime in the Whispering Wood. |
-| 54 | **TORRHEN KARSTARK**†, Son of Rickard Karstark [Deceased] | Young nobleman accompanying House Karstark's forces. | Serves among Robb's chosen guards against Jaime's cavalry. | Killed by Jaime while defending Robb. |
-| 55 | **EDDARD KARSTARK**†, Son of Rickard Karstark [Deceased] | Young nobleman accompanying his father into war. | Defends Robb against Jaime's desperate attack. | Killed by Jaime in the Whispering Wood. |
+| 52 | **DACEY MORMONT**, Heir to Bear Island | Warrior daughter of Maege Mormont. | Rides among the chosen guard protecting Robb at the ambush. | 🟢 Survives the battle and remains with Robb's army. |
+| 53 | **DARYN HORNWOOD**†, Northern warrior | One of Robb's future mounted companions. | Tries to protect Robb when Jaime cuts through the guard. | 🗡 Killed by Jaime in the Whispering Wood. |
+| 54 | **TORRHEN KARSTARK**†, Son of Rickard Karstark | Young nobleman accompanying House Karstark's forces. | Serves among Robb's chosen guards against Jaime's cavalry. | 🗡 Killed by Jaime while defending Robb. |
+| 55 | **EDDARD KARSTARK**†, Son of Rickard Karstark | Young nobleman accompanying his father into war. | Defends Robb against Jaime's desperate attack. | 🗡 Killed by Jaime in the Whispering Wood. |
 
 <p align="right"><a href="#catelyn-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
