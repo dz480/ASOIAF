@@ -219,6 +219,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-10"></a>
 ### Ch. 10: Davos I
 
+**POV SROMX:** [Davos Seaworth | Full Book](SROMX_COK_POV_DAVOS.md) (through Ch. 58).
+
 **≈3 Mar 299 AC**  
 *Dragonstone*  
 **DAVOS** · **MELISANDRE** · **SALLADHOR SAAN** · **SELYSE FLORENT** · **STANNIS**
@@ -589,6 +591,8 @@ With **Tywin**'s host preparing to move, **Arya** names **Weese** as her second 
 <a id="cok-csrm-ch-42"></a>
 ### Ch. 42: Davos II
 
+**POV SROMX:** [Davos Seaworth | Full Book](SROMX_COK_POV_DAVOS.md) (through Ch. 58).
+
 **≈7 Aug 299 AC**  
 *Storm's End* · *beneath Storm's End*  
 **DAVOS** · **CORTNAY PENROSE** · **MELISANDRE** · **STANNIS**
@@ -772,6 +776,8 @@ As the Battle of the Blackwater begins, **Sansa** prays with the court and watch
 
 <a id="cok-csrm-ch-58"></a>
 ### Ch. 58: Davos III
+
+**POV SROMX:** [Davos Seaworth | Full Book](SROMX_COK_POV_DAVOS.md) (through Ch. 58).
 
 **≈7 Sep 299 AC**  
 *Blackwater Bay* · *Blackwater Rush*  
