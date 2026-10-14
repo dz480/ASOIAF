@@ -244,7 +244,7 @@ After **Cleos Frey** is killed, **Jaime** fights **Brienne**, but both fall capt
 *High Heart* · *Acorn Hall*  
 **ARYA STARK** · **GENDRY**
 
-**Arya** travels with the Brotherhood through High Heart, hears the Ghost of High Heart's prophecies and receives hospitality from Lady Smallwood at Acorn Hall while **Gendry** works in the smithy. The elusive **Beric** and **Thoros** remain absent.
+**Arya** travels with the Brotherhood through High Heart, hears the Ghost of High Heart's prophecies and receives hospitality from Lady Smallwood at Acorn Hall while **Gendry** works in the smithy. The outlaws speak of **Beric** and **Thoros**, neither of whom appears during the chapter's enacted scenes.
 
 <a id="sos-csrm-ch-23"></a>
 ### Ch. 23: Daenerys II
