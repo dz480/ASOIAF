@@ -164,7 +164,7 @@ The following end-of-book projected roster contains only named individuals with 
 | 26 | **TORMUND**, Named Free Folk Beyond the Wall participant | ⇤ **SOS Ch. 7**<br>⇥ **SOS Ch. 73**<br>4 appearances | Named participant in the Free Folk Beyond the Wall storyline. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 73. |
 | 27 | **VAL**, Named Free Folk Beyond the Wall participant | ⇤ **SOS Ch. 7**<br>⇥ **SOS Ch. 79**<br>5 appearances | Named participant in the Free Folk Beyond the Wall storyline. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 79. |
 | 28 | **VARAMYR**, Named Free Folk Beyond the Wall participant | ⇤ **SOS Ch. 15**<br>⇥ **SOS Ch. 73**<br>3 appearances | Named participant in the Free Folk Beyond the Wall storyline. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 73. |
-| 29 | **YGRITTE**, Free folk spearwife whose romance with Jon complicates his oath and undercover allegiance | ⇤ **COK Ch. 51**<br>⇥ **SOS Ch. 55**<br>8 appearances | Free folk spearwife whose romance with Jon complicates his oath and undercover allegiance. | 🗡 **DECEASED**; killed by an arrow during fighting at Castle Black. |
+| 29 | **YGRITTE**, Free folk spearwife whose romance with Jon complicates his oath and undercover allegiance | ⇤ **COK Ch. 51**<br>⇥ **SOS Ch. 55**<br>9 appearances | Free folk spearwife whose romance with Jon complicates his oath and undercover allegiance. | 🗡 **DECEASED**; killed by an arrow during fighting at Castle Black. |
 
 #### Tertiary Characters
 
@@ -320,7 +320,7 @@ The following end-of-book projected roster contains only named individuals with 
 | 50 | **PODRICK PAYNE**, Squire to Tyrion | ⇤ **GOT Ch. 62**<br>⇥ **SOS Ch. 70**<br>18 appearances | Young squire personally serving Tyrion Lannister, who protects him during the Blackwater; distant kinsman of Ilyn Payne. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 70. |
 | 51 | **QYBURN**, Disgraced maester associated with the Brave Companions | ⇤ **COK Ch. 64**<br>⇥ **SOS Ch. 62**<br>5 appearances | Disgraced former maester who treats Jaime’s severed hand at Harrenhal, accompanies him south and seeks influence with the Lannister court. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 62. |
 | 52 | **SANDOR CLEGANE**, The Hound; royal sworn sword | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 74**<br>27 appearances | Younger brother and bitter adversary of Gregor; serves Joffrey but develops a troubled, protective connection with Sansa. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 74. |
-| 53 | **SHAE**, Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers | ⇤ **GOT Ch. 62**<br>⇥ **SOS Ch. 77**<br>13 appearances | Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers. | 🗡 **DECEASED**; strangled by Tyrion. |
+| 53 | **SHAE**, Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers | ⇤ **GOT Ch. 62**<br>⇥ **SOS Ch. 77**<br>14 appearances | Tyrion’s lover whose testimony condemns him, subsequently found in Tywin’s chambers. | 🗡 **DECEASED**; strangled by Tyrion. |
 | 54 | **TYWIN LANNISTER**, Lannister patriarch and King’s Hand | ⇤ **GOT Ch. 56**<br>⇥ **SOS Ch. 77**<br>19 appearances | Lannister patriarch and King’s Hand; dominates royal government and orchestrates the destruction of Robb’s cause. | 🗡 **DECEASED**; shot by Tyrion with a crossbow. |
 
 #### Tertiary Characters
@@ -637,7 +637,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **SALLADHOR SAAN** (Supporting) | COK Prologue | SOS Ch. 54 | 2 | 2 | 4 | SOS Ch. 10, SOS Ch. 54 |
 | **SAMWELL TARLY** (Supporting) | GOT Ch. 26 | SOS Ch. 79 | 11 | 8 | 19 | SOS Prologue, SOS Ch. 18, SOS Ch. 33, SOS Ch. 46, SOS Ch. 56, SOS Ch. 75, SOS Ch. 78, SOS Ch. 79 |
 | **SANDOR CLEGANE** (Supporting) | GOT Ch. 4 | SOS Ch. 74 | 19 | 8 | 27 | SOS Ch. 34, SOS Ch. 39, SOS Ch. 43, SOS Ch. 47, SOS Ch. 50, SOS Ch. 52, SOS Ch. 65, SOS Ch. 74 |
-| **SHAE** (Supporting) | GOT Ch. 62 | SOS Ch. 77 | 7 | 6 | 13 | SOS Ch. 12, SOS Ch. 58, SOS Ch. 59, SOS Ch. 60, SOS Ch. 70, SOS Ch. 77 |
+| **SHAE** (Supporting) | GOT Ch. 62 | SOS Ch. 77 | 7 | 7 | 14 | SOS Ch. 12, SOS Ch. 32, SOS Ch. 58, SOS Ch. 59, SOS Ch. 60, SOS Ch. 70, SOS Ch. 77 |
 | **SMALL PAUL** (Supporting) | SOS Prologue | SOS Ch. 46 | 0 | 3 | 3 | SOS Prologue, SOS Ch. 18, SOS Ch. 46 |
 | **STYR** (Supporting) | SOS Ch. 7 | SOS Ch. 55 | 0 | 6 | 6 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 26, SOS Ch. 30, SOS Ch. 41, SOS Ch. 55 |
 | **SYBELL WESTERLING** (Supporting) | SOS Ch. 14 | SOS Ch. 14 | 0 | 1 | 1 | SOS Ch. 14 |
@@ -648,7 +648,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **VARGO HOAT** (Supporting) | COK Ch. 30 | SOS Ch. 44 | 2 | 3 | 5 | SOS Ch. 21, SOS Ch. 31, SOS Ch. 44 |
 | **VARYS** (Supporting) | GOT Ch. 18 | SOS Ch. 77 | 24 | 6 | 30 | SOS Ch. 12, SOS Ch. 19, SOS Ch. 28, SOS Ch. 58, SOS Ch. 66, SOS Ch. 77 |
 | **WALDER FREY** (Supporting) | GOT Ch. 59 | SOS Ch. 51 | 1 | 2 | 3 | SOS Ch. 49, SOS Ch. 51 |
-| **YGRITTE** (Supporting) | COK Ch. 51 | SOS Ch. 55 | 2 | 6 | 8 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 26, SOS Ch. 30, SOS Ch. 41, SOS Ch. 55 |
+| **YGRITTE** (Supporting) | COK Ch. 51 | SOS Ch. 55 | 2 | 7 | 9 | SOS Ch. 7, SOS Ch. 15, SOS Ch. 26, SOS Ch. 30, SOS Ch. 41, SOS Ch. 48, SOS Ch. 55 |
 | **Tertiary** |  |  |  |  |  |  |
 | **ADDAM MARBRAND** (Tertiary) | GOT Ch. 62 | SOS Ch. 70 | | | | |
 | **AEGON FREY** (Tertiary) | SOS Ch. 49 | SOS Ch. 51 | | | | |
@@ -892,6 +892,21 @@ The following **11 omitted chapter appearances across 10 priority characters** w
 **Important negative control:** Cersei's personal name appears only once in SOS Ch. 59, but the **queen** directly presents Joffrey with his bridal cloak and explains her own marriage to Robert. Ch. 59 remains a valid direct appearance. Likewise, Edric Dayne's Ch. 34 and Ch. 39 presences are borne by the **Ned** alias.
 
 **Verification boundary:** This pass verifies the cited corrections against source text. It is not a blanket assertion that every other priority chapter mark or every absent-chapter candidate has completed an independent, exhaustive enactment review. The six-section document remains **Provisional — Priority Issues** pending closure of that complete direct-presence and promotion/census audit.
+
+### Additional passage-level adjudications (14 Oct 2026)
+
+A further cross-chapter audit of the supplied SOS EPUB compared priority entries with unlisted chapter candidates. Two previously omitted, **fully dramatised embedded scenes** are now included under the canonical ROM Character Presence rule:
+
+| Character | Added unit | Primary-text basis | Count change |
+|---|---|---|---|
+| **Ygritte** | SOS Ch. 48 (Jon VI) | During Jon's fevered sleep, a sustained dream at Winterfell depicts Ygritte interacting with him, attempting to kiss him and speaking. This is enacted dream participation, distinct from his earlier reflections about her. | SOS **6 → 7**; series cumulative **8 → 9**. |
+| **Shae** | SOS Ch. 32 (Tyrion IV) | Tyrion remembers an enacted scene in Varys's chambers: Shae tries to undress him, he stops her to disclose the impending wedding, and the two speak and act throughout the remembered encounter. | SOS **6 → 7**; series cumulative **13 → 14**. |
+
+**Disambiguated negative controls:** Mance Rayder is **not directly seen** by Jon in SOS Ch. 69, although Tormund and Varamyr are both physically observed through the Myrish far-eye and remain valid registered presences there. Vargo Hoat is discussed in SOS Ch. 37 but does not join Jaime and Roose Bolton's enacted bathhouse/dinner encounter; Ser Loras is discussed and imagined in SOS Ch. 16 but is not an enacted participant; Brienne remains in a tower cell during Jaime and Loras's discussion in SOS Ch. 67 and does not participate directly. The apparent Petyr references in SOS Epilogue concern **Petyr Frey**, not Petyr Baelish. None of these mention-only and mistaken-identity candidates has been added.
+
+**Alias-positive controls:** Barristan Selmy's Arstan identity, Edric Dayne's use of Ned, and physical witness appearances such as Bronn and Varys at Sansa's marriage in SOS Ch. 28 have been retained. These require narrative identity resolution rather than an insistence on a character's full name in every counted chapter.
+
+This passage-level continuation does not purport to complete the full priority-mark-by-priority-mark certification; the overall status remains **PROVISIONAL — PRIORITY ISSUES**.
 
 ### Remaining verification issues
 
