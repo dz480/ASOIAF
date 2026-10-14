@@ -9,7 +9,7 @@
 The preceding audit identified **37 unmatched individually represented SROMX entries**. The primary EPUB was consulted for participating individuals, aliases, direct actions and death outcomes. The 37 resolve as follows:
 
 - **18 genuinely named individuals with qualifying COK participation** were omitted by the MCM and have been added to its full roster, character census and seven-column chapter appearance register. One is Supporting; 17 are Tertiary.
-- **19 named-status exclusions** remain outside MCM under its explicit **named-individual-only** policy: people identified only by description or occupation, unnamed groups, and individually rendered nonhuman or supernatural creatures without a personal name in the source. They remain eligible for material POV-specific representation in SROMX. One example, the **High Septon**, is an office-holder known by title, not a personal name in COK. Two repeated High Septon SROMX rows correctly refer to that same character; they are not distinct MCM omissions.
+- **19 named-status exclusions** remain outside MCM under its explicit **named-individual-only** policy: people identified only by description or occupation, unnamed groups, and individually rendered nonhuman or supernatural creatures without a personal name in the source. They remain eligible for material POV-specific representation in SROMX. One example, the **High Septon**, is an office-holder known by title, not a personal name in COK. The **High Septon** is a title shared by successive unnamed officeholders in COK. The first is killed during the riot in Tyrion IX (Ch. 41); a successor officiates in Tyrion XI (Ch. 49) and later in Sansa VIII (Ch. 65). Their identities must not be conflated, and each remains outside the named-individual MCM roster.
 
 **Named additions, grouped by source POV:**
 
@@ -38,6 +38,7 @@ The preceding audit identified **37 unmatched individually represented SROMX ent
 - **Matthos and Imry:** Davos III establishes named actions and shipboard presence amid the Blackwater fight. Individual ultimate fates are not certain within Davos's scope and have not been retrospectively asserted.
 - **Arstan/Barristan**, **Reek/Ramsay**, **Esgred/Asha**, **the Blackfish/Brynden** and other source-grounded aliases are one character each, not additional MCM entries; early POVs retain their native name and knowledge boundary.
 - **Dunsen:** The text establishes the acquisition of Gendry's horned helm, but Arya's late listing of a name among remembered enemies does not itself prove continued onstage presence. The light Tertiary register preserves that limitation.
+- **Successive High Septons:** Source verification identified an earlier audit error: the High Septon killed during Tyrion IX is not the new High Septon whom Tyrion encounters at the Kingsguard ceremony in Tyrion XI and whom Sansa later sees at court. The Tyrion SROMX now has distinct entries for both. This correction supersedes any earlier assertion that the two POV records describe one officeholder. Both remain outside the MCM's personally named roster. 
 - **Character Presence:** POV Roll Call inclusion is not inferred from what another narrator sees. A POV's report, dream, vision or recalled death can appear in its narrative but does not independently constitute direct physical presence for an MCM appearance count.
 
 ## 3. Chapter and calendar coherence
@@ -55,9 +56,9 @@ All **70 narrative units** (Prologue + Ch. 1–69) belong to **one of the ten PO
 | Jon | 8 | 23 |
 | Sansa | 8 | 32 |
 | Theon | 6 | 31 |
-| Tyrion | 15 | 30 |
+| Tyrion | 15 | 31 |
 
-**Total:** 70 source units; **297 POV-scoped Roll Call entries**, counting repeated individuals separately across POV reports and including collective functionary rows. Source chapter calendar anchors match the project CSRM where directly comparable. **All calendar dates are externally reconstructed approximations, not dates canonically specified by the novel**; chapter publication order is not a reliable clock ordering between concurrent campaigns.
+**Total:** 70 source units; **298 POV-scoped Roll Call entries**, counting repeated individuals separately across POV reports and including collective functionary rows. Source chapter calendar anchors match the project CSRM where directly comparable. **All calendar dates are externally reconstructed approximations, not dates canonically specified by the novel**; chapter publication order is not a reliable clock ordering between concurrent campaigns.
 
 Shared continuity touchpoints compared against their source units include: Theon's taking Winterfell vs Bran's experience of its capture; the survival of Bran and Rickon, falsely reported as deaths to offsite observers; Ramsay's identity and the fall of Winterfell; Catelyn's encounter with Renly and Stannis; Dragonstone's court under Cressen and Davos; the shadow under Storm's End; the Blackwater's naval disaster vs the land-and-court perspectives; and the Harrenhal transition through Arya. Distinct narrator knowledge, reported information and source-local endpoints are preserved.
 
@@ -67,7 +68,7 @@ Post-update checks confirm:
 - All ten SROMX records saved on the canonical default branch.
 - **281 MCM members** and matching appearance-register identities.
 - **Zero significance-tier disagreements** for all MCM-mapped SROMX character rows.
-- **Zero incorrect original numeric character indices** across 297 Roll Call entries.
+- **Zero incorrect original numeric character indices** across 298 Roll Call entries.
 - Roll Call sections subdivided into groups of at most 6 rows while preserving the required five-column format.
 - POV-specific closing boundaries preserved, including Davos ending at Ch. 58, Arya at Ch. 64, and Bran at Ch. 69.
 
