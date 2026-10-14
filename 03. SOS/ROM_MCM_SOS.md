@@ -305,7 +305,7 @@ The following end-of-book projected roster contains only named individuals with 
 
 | No. | Character | Appearances | Relationship Network | Last Known Status |
 |---:|---|---|---|---|
-| 43 | **CERSEI LANNISTER**, Queen Regent and mother of Joffrey and Tommen | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 72**<br>38 appearances | Queen Regent and mother of Joffrey and Tommen; contests Tyrion’s influence and presides over the new reign. | 🟢 **ALIVE**; serves as queen mother under Tommen. |
+| 43 | **CERSEI LANNISTER**, Queen Regent and mother of Joffrey and Tommen | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 72**<br>39 appearances | Queen Regent and mother of Joffrey and Tommen; contests Tyrion’s influence and presides over the new reign. | 🟢 **ALIVE**; serves as queen mother under Tommen. |
 | 44 | **JAIME LANNISTER**, Lord Commander of the Kingsguard | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 77**<br>19 appearances | Lord Commander of the Kingsguard; prisoner released under Brienne’s protection; loses his sword hand and returns to King’s Landing. | 🟢 **ALIVE**; returns to Kingsguard duty and entrusts Brienne with Oathkeeper. |
 | 45 | **TYRION LANNISTER**, Son of Tywin, husband forced upon Sansa | ⇤ **GOT Ch. 4**<br>⇥ **SOS Ch. 77**<br>47 appearances | Son of Tywin, husband forced upon Sansa; accused of Joffrey’s murder, championed by Oberyn, then freed by Jaime and Varys. | 🟢 **ALIVE**; escapes after killing Shae and Tywin. |
 
@@ -572,7 +572,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **ARYA STARK** (Principal) | GOT Ch. 5 | SOS Ch. 74 | 23 | 13 | 36 | SOS Ch. 3, SOS Ch. 13, SOS Ch. 17, SOS Ch. 22, SOS Ch. 29, SOS Ch. 34, SOS Ch. 39, SOS Ch. 43, SOS Ch. 47, SOS Ch. 50, SOS Ch. 52, SOS Ch. 65, SOS Ch. 74 |
 | **BRAN STARK** (Principal) | GOT Ch. 1 | SOS Ch. 56 | 17 | 4 | 21 | SOS Ch. 9, SOS Ch. 24, SOS Ch. 40, SOS Ch. 56 |
 | **CATELYN STARK** (Principal) | GOT Ch. 2 | SOS Epilogue | 25 | 8 | 33 | SOS Ch. 2, SOS Ch. 14, SOS Ch. 20, SOS Ch. 35, SOS Ch. 45, SOS Ch. 49, SOS Ch. 51, SOS Epilogue |
-| **CERSEI LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 72 | 28 | 10 | 38 | SOS Ch. 19, SOS Ch. 28, SOS Ch. 44, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 70, SOS Ch. 72 |
+| **CERSEI LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 72 | 28 | 11 | 39 | SOS Ch. 11, SOS Ch. 19, SOS Ch. 28, SOS Ch. 44, SOS Ch. 53, SOS Ch. 59, SOS Ch. 60, SOS Ch. 62, SOS Ch. 66, SOS Ch. 70, SOS Ch. 72 |
 | **DAENERYS TARGARYEN** (Principal) | GOT Ch. 3 | SOS Ch. 71 | 15 | 6 | 21 | SOS Ch. 8, SOS Ch. 23, SOS Ch. 27, SOS Ch. 42, SOS Ch. 57, SOS Ch. 71 |
 | **DAVOS SEAWORTH** (Principal) | COK Prologue | SOS Ch. 63 | 4 | 6 | 10 | SOS Ch. 5, SOS Ch. 10, SOS Ch. 25, SOS Ch. 36, SOS Ch. 54, SOS Ch. 63 |
 | **JAIME LANNISTER** (Principal) | GOT Ch. 4 | SOS Ch. 77 | 9 | 10 | 19 | SOS Ch. 1, SOS Ch. 11, SOS Ch. 21, SOS Ch. 31, SOS Ch. 37, SOS Ch. 44, SOS Ch. 62, SOS Ch. 67, SOS Ch. 72, SOS Ch. 77 |
@@ -907,6 +907,16 @@ A further cross-chapter audit of the supplied SOS EPUB compared priority entries
 **Alias-positive controls:** Barristan Selmy's Arstan identity, Edric Dayne's use of Ned, and physical witness appearances such as Bronn and Varys at Sansa's marriage in SOS Ch. 28 have been retained. These require narrative identity resolution rather than an insistence on a character's full name in every counted chapter.
 
 This passage-level continuation does not purport to complete the full priority-mark-by-priority-mark certification; the overall status remains **PROVISIONAL — PRIORITY ISSUES**.
+
+### Source adjudication continuation: Cersei and remaining low-frequency checks (14 Oct 2026)
+
+**Cersei Lannister, SOS Ch. 11 (Jaime II):** Jaime recalls Cersei directly proposing that he join the Kingsguard so they can remain together. The remembered conversation is fully enacted: Cersei takes Jaime aside, sets out the plan, challenges his objections in direct dialogue and spends the night with him in King's Landing. This satisfies **Present** under the canonical rule for a dramatised memory, not merely a narrated report. **Add SOS Ch. 11**; Cersei's current-book count increases **10 → 11**, and series cumulative chapters **38 → 39**. Her latest chapter remains SOS Ch. 72.
+
+**Priority register diagnostic:** Each of the 79 priority identities was cross-referenced against all 82 extracted source units. Earlier source work has already validated alias-only entries for **Edric Dayne**, appearing as **Ned** during the Brotherhood encounter in SOS Ch. 34 and the ensuing battle in Ch. 39. Several further low-frequency recorded presences were checked against their immediate narrated context: **Cersei** at the wedding breakfast in Ch. 59 (the queen physically presents Joffrey's bride cloak), **Val** visible at a tower window in Ch. 79, **Dalla** speaking from the birthing tent in Ch. 73, **Ryman Frey** physically seated and acting at the Red Wedding feast in Ch. 51, and **Olenna Tyrell** present as Margaery's grandmother in the trial gallery in Ch. 66. These are genuine direct presences despite limited full-name use in the chapters.
+
+**Mention-only contrasts:** Melisandre is discussed by Davos and Salladhor Saan in SOS Ch. 10 but is offstage; Beric Dondarrion is discussed and sought in Arya's SOS Ch. 22 but does not enter the narrated action; Varys's role in arranging a meeting is only recounted in Tyrion's SOS Ch. 32 while Shae herself acts in a fully dramatised memory; Mance Rayder is explicitly not visible through the far-eye in Jon's SOS Ch. 69. None is added on the strength of those references.
+
+**Certification limit:** Lexical location plus selective passage adjudication is not equivalent to complete character-by-chapter verification. Unreviewed direct-presence assertions, first-series historical backfills, tier decisions and a final census presentation audit still prevent whole-book priority certification.
 
 ### Remaining verification issues
 
