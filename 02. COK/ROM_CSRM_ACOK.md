@@ -176,6 +176,8 @@ On **Joffrey**'s nameday, **Sansa** witnesses his cruelty towards Ser Dontos and
 <a id="cok-csrm-ch-7"></a>
 ### Ch. 7: Catelyn I
 
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
+
 **≈18 Feb 299 AC**  
 *Riverrun*  
 **CATELYN** · **BRYNDEN TULLY** · **CLEOS FREY** · **EDMURE TULLY** · **GREATJON** · **RICKARD KARSTARK** · **ROBB STARK** · **THEON**
@@ -347,6 +349,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 <a id="cok-csrm-ch-22"></a>
 ### Ch. 22: Catelyn II
 
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
+
 **≈1 May 299 AC**  
 *Bitterbridge*  
 **CATELYN** · **BRIENNE OF** · **LORAS TYRELL** · **MARGAERY** · **RENLY BARATHEON**
@@ -446,6 +450,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 <a id="cok-csrm-ch-31"></a>
 ### Ch. 31: Catelyn III
 
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
+
 **≈11 Jun 299 AC**  
 *Storm's End*  
 **CATELYN** · **BRIENNE OF** · **LORAS TYRELL** · **MELISANDRE** · **RENLY BARATHEON** · **STANNIS**
@@ -473,6 +479,8 @@ At Winterfell's harvest feast, **Bran** meets **Jojen** and **Meera Reed**, whos
 
 <a id="cok-csrm-ch-33"></a>
 ### Ch. 33: Catelyn IV
+
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
 
 **≈12 Jun 299 AC**  
 *Storm's End* · *road to Riverrun*  
@@ -533,6 +541,8 @@ With **Tywin**'s host preparing to move, **Arya** names **Weese** as her second 
 
 <a id="cok-csrm-ch-39"></a>
 ### Ch. 39: Catelyn V
+
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
 
 **≈9 Aug 299 AC**  
 *Riverrun*  
@@ -599,6 +609,8 @@ With **Stannis** approaching, **Tyrion** arranges to move **Tommen** to safety a
 
 <a id="cok-csrm-ch-45"></a>
 ### Ch. 45: Catelyn VI
+
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
 
 **≈15–21 Aug 299 AC**  
 *Riverrun* · *Red Fork*  
@@ -707,6 +719,8 @@ As **Stannis**'s armies close on the capital, **Sansa** endures **Cersei**'s bit
 
 <a id="cok-csrm-ch-55"></a>
 ### Ch. 55: Catelyn VII
+
+**POV SROMX:** [Catelyn Stark | Full Book](SROMX_COK_POV_CATELYN.md) (through Ch. 55).
 
 **≈15 Sep 299 AC**  
 *Riverrun*  
