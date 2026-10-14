@@ -330,7 +330,7 @@ The following end-of-book projected roster contains qualifying named individuals
 
 | No. | Character | Appearances | Network | Last Known Status |
 |---:|---|---|---|---|
-| 🥈 | **BERIC DONDARRION**, Outlaw lord repeatedly restored by Thoros, leads the Brotherhood and later gives his life to restore Catelyn | ⇤ **GOT Ch. 27**<br>⇥ **SOS Ch. 43**<br>6 appearances | **Thoros of Myr** (priest who repeatedly restores him); **Arya Stark** (young traveller under Brotherhood protection); **Gendry** (new Brotherhood associate); **Sandor Clegane** (judicial duel opponent); **Catelyn Stark** (woman he restores at the cost of his last life). | 🪦 **DECEASED**; sacrifices his remaining life to revive Catelyn. |
+| 🥈 | **BERIC DONDARRION**, Outlaw lord repeatedly restored by Thoros, leads the Brotherhood and later gives his life to restore Catelyn | ⇤ **GOT Ch. 27**<br>⇥ **SOS Ch. 43**<br>7 appearances | **Thoros of Myr** (priest who repeatedly restores him); **Arya Stark** (young traveller under Brotherhood protection); **Gendry** (new Brotherhood associate); **Sandor Clegane** (judicial duel opponent); **Catelyn Stark** (woman he restores at the cost of his last life). | 🪦 **DECEASED**; sacrifices his remaining life to revive Catelyn. |
 | 🥈 | **EDRIC DAYNE**, Lord of Starfall, squire to Beric Dondarrion and Brotherhood companion | ⇤ **SOS Ch. 34**<br>⇥ **SOS Ch. 43**<br>3 appearances | **Arthur Dayne** (late uncle); **Ashara Dayne** (late aunt); **Arya Stark** (young companion he befriends); **Beric Dondarrion** (lord he serves); **Gendry** (fellow Brotherhood member). | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 43. |
 | 🥈 | **GENDRY**, Blacksmith’s apprentice and Robert’s bastard travelling with Arya before joining the Brotherhood | ⇤ **GOT Ch. 27**<br>⇥ **SOS Ch. 43**<br>17 appearances | **Robert Baratheon** (unacknowledged father); **Arya Stark** (friend and fellow fugitive); **Hot Pie** (former travelling companion); **Beric Dondarrion** (Brotherhood leader); **Thoros of Myr** (fellow outlaw). | 🟢 **ALIVE**; remains with the Brotherhood. |
 | 233 | **ANGUY**, Named Brotherhood Without Banners participant | ⇤ **SOS Ch. 13**<br>⇥ **SOS Ch. 43**<br>7 appearances | Named participant in the Brotherhood Without Banners storyline. | 🟢 **ALIVE**; last directly seen in **SOS** Ch. 43. |
@@ -452,7 +452,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 | **Supporting** |  |  |  |  |  |  |
 | **ALLISER THORNE** (Supporting) | GOT Ch. 19 | SOS Ch. 79 | 7 | 4 | 11 | SOS Ch. 69, SOS Ch. 73, SOS Ch. 75, SOS Ch. 79 |
 | **BARRISTAN SELMY** (Supporting) | GOT Ch. 15 | SOS Ch. 71 | 9 | 6 | 15 | SOS Ch. 8, SOS Ch. 23, SOS Ch. 27, SOS Ch. 42, SOS Ch. 57, SOS Ch. 71 |
-| **BERIC DONDARRION** (Supporting) | GOT Ch. 27 | SOS Ch. 43 | 3 | 3 | 6 | SOS Ch. 34, SOS Ch. 39, SOS Ch. 43 |
+| **BERIC DONDARRION** (Supporting) | GOT Ch. 27 | SOS Ch. 43 | 4 | 3 | 7 | SOS Ch. 34, SOS Ch. 39, SOS Ch. 43 |
 | **BRIENNE OF TARTH** (Supporting) | COK Ch. 22 | SOS Ch. 72 | 6 | 8 | 14 | SOS Ch. 1, SOS Ch. 11, SOS Ch. 21, SOS Ch. 31, SOS Ch. 37, SOS Ch. 44, SOS Ch. 62, SOS Ch. 72 |
 | **BRONN** (Supporting) | GOT Ch. 31 | SOS Ch. 66 | 20 | 6 | 26 | SOS Ch. 4, SOS Ch. 12, SOS Ch. 28, SOS Ch. 32, SOS Ch. 38, SOS Ch. 66 |
 | **BRYNDEN TULLY** (Supporting) | GOT Ch. 34 | SOS Ch. 35 | 8 | 3 | 11 | SOS Ch. 14, SOS Ch. 20, SOS Ch. 35 |
@@ -723,6 +723,26 @@ A change from the previous MCR Tertiary classification is recognised only where 
 <a id="sos-mcm-06"></a>
 ## 6. Verification & Source Notes
 
+### Certification progress tracker (14 Oct 2026)
+
+**Progress: 5/8 acceptance gates = 62.5%.** This is the proportion of fixed, independently defined acceptance gates closed, **not** a claim that 62.5% of the novel's appearances have received independent adjudication.
+
+| Gate | Acceptance condition | State |
+|---|---|---|
+| 1. Structure | Six prescribed MCM sections and seven-column appearance-register schema | Complete |
+| 2. Roster and register | 281 names correspond one-to-one, with 13 Principal, 66 Supporting, 202 Tertiary | Complete |
+| 3. Priority orientation | All 79 priority roles and named relationship Networks populated | Complete |
+| 4. Census arithmetic | Census and roster agree on 43 confirmed deceased and tier totals | Complete |
+| 5. SOS appearance evidence | Independently adjudicate all registered priority appearances and credible omissions in the SOS EPUB | Open |
+| 6. Historical baselines | Reconcile all inherited MCR/prior-book baselines, including targeted checks for promoted earlier-Tertiary characters | Complete: Beric GOT Ch. 44 now correctly counted |
+| 7. Factual significance audit | Confirm classifications, promoted thresholds, source-grounded statuses and inclusion threshold | Open |
+| 8. Final certification | Reconcile all validation requirements, commit and verify Priority Verified status | Open |
+
+**Priority source denominator:** 408 currently registered SOS chapter appearances for 79 priority characters. The chapter lists are arithmetically consistent, but the existing notes document selected passage decisions rather than a deduplicated assertion-by-assertion audit. Accordingly, **the independently verified source-assertion numerator is not yet established** and cannot be represented as 408 verified. An appearance-audit sign-off must examine all present marks and credible omissions for an individual character. Correct the denominator if the register gains or loses a supported appearance.
+
+**Fixed endpoint and reporting:** Final completion means eight of eight gates meet the manual's requirements. Each future certification report must show (a) gates completed and percentage, (b) supported counts of fully source-audited priority characters or claims when available, (c) changes to the 408-assertion denominator and (d) the specific remaining obstacles. A further turn or additional commit alone is never progress against a gate.
+
+
 ### Scope and certification
 
 - **Quality:** **PROVISIONAL — PRIORITY ISSUES.** The full six-section MCM is structurally operational; independent direct-presence adjudication for all Principal/Supporting chapter assertions and a complete significance-threshold review have not been certified. Do not describe the remaining source-indexed statistics as independently passage-verified.
@@ -735,7 +755,7 @@ A change from the previous MCR Tertiary classification is recognised only where 
 ### Primary-text adjudications (14 Oct 2026)
 
 1. **Sandor Clegane, SOS Ch. 29:** Arya recalls the Hound in her list of enemies, but he neither enters nor participates in that chapter’s action. **Reject Ch. 29** as Mentioned-only. Sandor’s SOS count is **8** rather than 9; the cumulative projection is **27** rather than 28. His latest direct appearance stays **SOS Ch. 74**.
-2. **Historical Beric Dondarrion baseline:** Directly enacted in **GOT Ch. 27, 29 and 43**. **GOT Ch. 44** refers to him in Sansa and Jeyne's conversation without his direct presence. The pre-SOS direct-presence baseline is **3**, and with **SOS Ch. 34, 39 and 43** the book-end projection is **6**. The live MCR retains a historical value of **4** and is not silently modified; this discrepancy requires separate reader-safe registry reconciliation.
+2. **Historical Beric Dondarrion baseline (corrected from an earlier erroneous exclusion):** Directly enacted in **GOT Ch. 27, 29, 43 and 44**. In **GOT Ch. 44**, Sansa rises before dawn and looks out of her window to watch Beric form up his men and ride out of King's Landing; this is witnessed enacted movement in the narrated scene, not merely a conversation about him. His pre-SOS direct-presence baseline is therefore **4**, and with **SOS Ch. 34, 39 and 43** the projected book-end count is **7**, agreeing with the frozen MCR historical figure. This closes the earlier Beric discrepancy without altering live reader continuity.
 3. **Promoted-character historical reconstruction:** Gilly is present in **COK Ch. 23** (baseline **1**); Qyburn is directly present in **COK Ch. 64** (baseline **1**; the chapter-30 matrix association lacks independent support); Kevan appears in **GOT Ch. 56, 62, 69** and **COK Ch. 38, 65** (baseline **5**). Mance Rayder has no verified earlier enacted chapter and first appears in **SOS Ch. 7** (baseline **0**). Their book-end arithmetic is reconciled in Section 5.
 4. **Alias-sensitive SOS checks:** The name-token absences examined include Barristan as Arstan Whitebeard, Edric Dayne as Ned, Jeor as the Old Bear, Missandei as the unnamed interpreter, Olenna as the Queen of Thorns/Margaery's grandmother, and Oberyn as the Red Viper. These are identity-location cues that must be evaluated through actual enacted scenes, not by word frequency alone.
 
@@ -835,7 +855,7 @@ Replaced **17 remaining generic Principal/Supporting identity descriptions** wit
 ### Remaining verification issues
 
 1. Complete primary-text direct-presence review for **all remaining Principal and Supporting chapter marks**, including the new embedded-scene controls and their first/latest coordinates, including valid descriptive, pronoun-led and alias appearances as well as mention-only false positives.
-2. Reconcile Beric’s corrected GOT baseline against the reader-authorised series MCR process. Preserve the older registry record until its historical boundary is formally updated.
+2. **Historical gate closed:** GOT/COK certified earlier-book totals match the SOS start values, and targeted retrospective source checks resolved Beric (4, not 3), Gilly (1), Kevan (5), Qyburn (1) and Mance (0). The live MCR remains at the reader-safe COK boundary.
 3. Review newly elevated Supporting classifications and any additional substantive omissions against the ROM significance threshold. Expand targeted historical reconstruction for any further confirmed promotion rather than reopening all remaining Tertiary statistics.
 4. Validate the source-based status, relationship and census consistency after the complete priority audit. Only then consider **Satisfactory for Use — Priority Verified**.
 
