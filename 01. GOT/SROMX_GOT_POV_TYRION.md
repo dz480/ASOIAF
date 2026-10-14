@@ -172,7 +172,7 @@ News then arrives of Jaime's capture and the relief of **Riverrun**. With Joffre
 | 🥈 | **RODRIK CASSEL**, Winterfell master-at-arms | Serving the Stark household. | Guards Tyrion and is wounded defending the group on the High Road. | 🟢 Seen recovering at the Eyrie court. |
 | 🥈 | **BRONN**, sellsword | Independent fighter with no loyalty to Tyrion. | Fights in the escort, champions Tyrion, joins the clans and survives the Green Fork. | 🟢 Still accompanying Tyrion in Tywin's host. |
 | 19 | **CHIGGEN**†, sellsword | Travelling independently in the riverlands. | Helps capture Tyrion and defends the party from mountain attackers. | 🗡 Mortally wounded and then killed by Bronn. |
-| 20 | **MORREC**†, Tyrion's servant | Serving Tyrion as attendant and groom. | Travels north and south, is arrested and aids defence of the High Road escort. | 🗡 Dead before Tyrion rejoins Tywin, as Tyrion later reports. |
+| 20 | **MORREC**†, Tyrion's servant | Serving Tyrion as attendant and groom. | Travels north and south, is arrested and aids defence of the High Road escort. | 🪦 Dead before Tyrion rejoins Tywin, as Tyrion later reports. |
 | 21 | **JYCK**†, Tyrion's guard | Assigned to Tyrion's personal protection. | Is arrested with Tyrion and charges mounted attackers. | 🗡 Killed in the mountain ambush. |
 | 22 | **LHARYS**, Bracken man-at-arms | Retainer of House Bracken. | Guards Tyrion, scouts raiders and fights with a bow. | 🟢 Survives the High Road battle. |
 | 23 | **KURLEKET**†, Bracken man-at-arms | Armed retainer of House Bracken. | Threatens Tyrion during Catelyn's journey. | 🗡 Killed in the High Road ambush. |
