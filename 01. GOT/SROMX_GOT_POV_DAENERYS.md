@@ -149,7 +149,7 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 ### Drogo's Bloodriders
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 14 | **COHOLLO**†, elder bloodrider | Long-serving companion of **Drogo**. | Attends the khal's downfall and opposes the ritual. | 🗡 Death confirmed retrospectively by **Daenerys**. |
+| 14 | **COHOLLO**†, elder bloodrider | Long-serving companion of **Drogo**. | Attends the khal's downfall and opposes the ritual. | 🪦 Death confirmed retrospectively by **Daenerys**. |
 | 15 | **HAGGO**†, bloodrider | Sworn to **Drogo**. | Opposes **Mirri** and fights Dany's protectors. | 🗡 Killed by **Rakharo**. |
 | 16 | **QOTHO**†, bloodrider | Sworn to **Drogo**. | Threatens **Mirri** and attempts to prevent the blood rite. | 🗡 Kills **Quaro** and falls to **Jorah**. |
 
