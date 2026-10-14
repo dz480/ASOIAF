@@ -116,22 +116,22 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **DAENERYS TARGARYEN**, Targaryen heir and khaleesi [Alive] | Living in **PENTOS**, dependent on **Viserys** and **Illyrio**. | Marries **Drogo**, gains command and survives successive losses to hatch 3 dragons. | Leads a small following and holds 3 living hatchlings. |
-| 🥈 | **VISERYS TARGARYEN**†, claimant [Deceased] | Exiled prince seeking a Dothraki army. | Trades his sister's marriage for promises and alienates **Drogo**. | Killed with molten gold in **Vaes Dothrak**. |
-| 🥈 | **ILLYRIO MOPATIS**, Pentoshi magister [Alive] | Hosting the siblings in **PENTOS**. | Arranges the marriage and gives gifts including dragon eggs. | Last physically seen at the wedding near Pentos. |
+| 🏅 | **DAENERYS TARGARYEN**, Targaryen heir and khaleesi | Living in **PENTOS**, dependent on **Viserys** and **Illyrio**. | Marries **Drogo**, gains command and survives successive losses to hatch 3 dragons. | 🟢 Leads a small following and holds 3 living hatchlings. |
+| 🥈 | **VISERYS TARGARYEN**†, claimant | Exiled prince seeking a Dothraki army. | Trades his sister's marriage for promises and alienates **Drogo**. | 🗡 Killed with molten gold in **Vaes Dothrak**. |
+| 🥈 | **ILLYRIO MOPATIS**, Pentoshi magister | Hosting the siblings in **PENTOS**. | Arranges the marriage and gives gifts including dragon eggs. | 🟢 Last physically seen at the wedding near Pentos. |
 
 <a id="daenerys-household"></a>
 ## 🏕️ Drogo's Household
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **KHAL DROGO**†, khal [Deceased] | Commanding a powerful khalasar. | Marries **Dany**, promises conquest, sustains wounds and undergoes blood magic. | Left unresponsive, subsequently killed by **Dany** and cremated. |
-| 🥈 | **JORAH MORMONT**, exiled knight [Alive; wounded] | Serving the Targaryen cause in exile. | Guides and protects **Daenerys**, exposing the poisoner and fighting **Qotho**. | Sworn as her first Queensguard. |
-| 🥈 | **MIRRI MAZ DUUR**†, Lhazareen healer and godswife [Deceased] | At her village temple before the raid. | Enters **Dany**'s protection, treats **Drogo** and carries out the ritual. | Dies in Drogo's funeral pyre. |
+| 🏅 | **KHAL DROGO**†, khal | Commanding a powerful khalasar. | Marries **Dany**, promises conquest, sustains wounds and undergoes blood magic. | 🗡 Left unresponsive, subsequently killed by **Dany** and cremated. |
+| 🥈 | **JORAH MORMONT**, exiled knight | Serving the Targaryen cause in exile. | Guides and protects **Daenerys**, exposing the poisoner and fighting **Qotho**. | 🟢 Sworn as her first Queensguard. |
+| 🥈 | **MIRRI MAZ DUUR**†, Lhazareen healer and godswife | At her village temple before the raid. | Enters **Dany**'s protection, treats **Drogo** and carries out the ritual. | 🗡 Dies in Drogo's funeral pyre. |
 
-| 7 | **IRRI**, Dothraki handmaid [Alive] | Assigned to **Dany**'s new household. | Teaches riding and attends her through the journey and recovery. | With Dany after the funeral. |
-| 8 | **JHIQUI**, Dothraki handmaid [Alive] | Assigned to **Dany**'s new household. | Teaches language and custom, assists during her pregnancy. | With Dany after the funeral. |
-| 9 | **DOREAH**, Lysene handmaid [Alive] | Assigned to **Dany**'s new household. | Offers personal guidance and nurses her during the crisis. | With Dany after the funeral. |
+| 7 | **IRRI**, Dothraki handmaid | Assigned to **Dany**'s new household. | Teaches riding and attends her through the journey and recovery. | 🟢 With Dany after the funeral. |
+| 8 | **JHIQUI**, Dothraki handmaid | Assigned to **Dany**'s new household. | Teaches language and custom, assists during her pregnancy. | 🟢 With Dany after the funeral. |
+| 9 | **DOREAH**, Lysene handmaid | Assigned to **Dany**'s new household. | Offers personal guidance and nurses her during the crisis. | 🟢 With Dany after the funeral. |
 
 <a id="daenerys-warriors"></a>
 ## ⚔️ Dothraki Guards & Bloodriders
@@ -140,45 +140,45 @@ For the funeral, she frees the remaining enslaved people, asserts her claim as V
 ### Daenerys's Khas
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 10 | **JHOGO**, Dothraki champion [Alive] | Serving in **Drogo**'s khalasar. | Restrains **Viserys**, enforces **Dany**'s commands and helps defeat **Haggo**. | Offers allegiance to Dany. |
-| 11 | **AGGO**, Dothraki archer [Alive] | Serving **Drogo**'s khalasar. | Guards **Dany**, protects captives and supports her after Drogo falls. | Receives a dragonbone bow from Dany. |
-| 12 | **RAKHARO**, Dothraki champion [Alive] | Serving **Drogo**'s khalasar. | Guards **Dany**, kills **Haggo** and remains when other riders leave. | Receives an arakh and remains beside Dany. |
-| 13 | **QUARO**†, Dothraki guard [Deceased] | Serving in the khalasar. | Assists **Dany** and defends the ritual tent. | Killed by **Qotho**. |
+| 10 | **JHOGO**, Dothraki champion | Serving in **Drogo**'s khalasar. | Restrains **Viserys**, enforces **Dany**'s commands and helps defeat **Haggo**. | 🟢 Offers allegiance to Dany. |
+| 11 | **AGGO**, Dothraki archer | Serving **Drogo**'s khalasar. | Guards **Dany**, protects captives and supports her after Drogo falls. | 🟢 Receives a dragonbone bow from Dany. |
+| 12 | **RAKHARO**, Dothraki champion | Serving **Drogo**'s khalasar. | Guards **Dany**, kills **Haggo** and remains when other riders leave. | 🟢 Receives an arakh and remains beside Dany. |
+| 13 | **QUARO**†, Dothraki guard | Serving in the khalasar. | Assists **Dany** and defends the ritual tent. | 🗡 Killed by **Qotho**. |
 
 <a id="daenerys-bloodriders"></a>
 ### Drogo's Bloodriders
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 14 | **COHOLLO**†, elder bloodrider [Deceased] | Long-serving companion of **Drogo**. | Attends the khal's downfall and opposes the ritual. | Death confirmed retrospectively by **Daenerys**. |
-| 15 | **HAGGO**†, bloodrider [Deceased] | Sworn to **Drogo**. | Opposes **Mirri** and fights Dany's protectors. | Killed by **Rakharo**. |
-| 16 | **QOTHO**†, bloodrider [Deceased] | Sworn to **Drogo**. | Threatens **Mirri** and attempts to prevent the blood rite. | Kills **Quaro** and falls to **Jorah**. |
+| 14 | **COHOLLO**†, elder bloodrider | Long-serving companion of **Drogo**. | Attends the khal's downfall and opposes the ritual. | 🗡 Death confirmed retrospectively by **Daenerys**. |
+| 15 | **HAGGO**†, bloodrider | Sworn to **Drogo**. | Opposes **Mirri** and fights Dany's protectors. | 🗡 Killed by **Rakharo**. |
+| 16 | **QOTHO**†, bloodrider | Sworn to **Drogo**. | Threatens **Mirri** and attempts to prevent the blood rite. | 🗡 Kills **Quaro** and falls to **Jorah**. |
 
 <a id="daenerys-rivals"></a>
 ## 🐎 Vaes Dothrak & Rival Khalasar
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 17 | **ELDEST ONE-EYED CRONE**, dosh khaleen prophet [Alive] | Sacred elder of **Vaes Dothrak**. | Leads the prophecy about **Rhaego**. | Last established at Vaes Dothrak. |
-| 18 | **KHAL OGO**†, rival khal [Deceased] | Commands his own riders. | Attends the naming feast; later fights **Drogo**. | Reportedly killed by Drogo. |
-| 19 | **FOGO**†, Ogo's son [Deceased] | Son and heir of **Ogo**. | Attends the feast and briefly succeeds his father. | Reportedly killed by **Drogo**. |
+| 17 | **ELDEST ONE-EYED CRONE**, dosh khaleen prophet | Sacred elder of **Vaes Dothrak**. | Leads the prophecy about **Rhaego**. | 🟢 Last established at Vaes Dothrak. |
+| 18 | **KHAL OGO**†, rival khal | Commands his own riders. | Attends the naming feast; later fights **Drogo**. | 🗡 Reportedly killed by Drogo. |
+| 19 | **FOGO**†, Ogo's son | Son and heir of **Ogo**. | Attends the feast and briefly succeeds his father. | 🗡 Reportedly killed by **Drogo**. |
 
 <a id="daenerys-outsiders"></a>
 ## 🏺 Captives & Outside Agents
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 20 | **MAGO**, Dothraki rider [Alive] | Warrior in **Ko Jhaqo**'s command. | Challenges **Dany**'s protection of captives; later seizes **Eroeh**. | Reportedly serving the new **Khal Jhaqo**. |
-| 21 | **EROEH**†, Lhazareen captive [Deceased] | Living in the raided **Lhazareen** village. | Protected by **Dany** and later helps in Drogo's tent. | Seized and killed after the khalasar disperses. |
-| 22 | **UNNAMED WINE MERCHANT**, poisoner [Unknown] | Selling wine in **Vaes Dothrak**. | Attempts to poison **Daenerys** and flees when **Jorah** intervenes. | Captured after fleeing; later fate unestablished. |
+| 20 | **MAGO**, Dothraki rider | Warrior in **Ko Jhaqo**'s command. | Challenges **Dany**'s protection of captives; later seizes **Eroeh**. | 🟢 Reportedly serving the new **Khal Jhaqo**. |
+| 21 | **EROEH**†, Lhazareen captive | Living in the raided **Lhazareen** village. | Protected by **Dany** and later helps in Drogo's tent. | 🗡 Seized and killed after the khalasar disperses. |
+| 22 | **UNNAMED WINE MERCHANT**, poisoner | Selling wine in **Vaes Dothrak**. | Attempts to poison **Daenerys** and flees when **Jorah** intervenes. | ⚪️ Captured after fleeing; later fate unestablished. |
 
 <a id="daenerys-dragons"></a>
 ## 🐲 Newborn Dragons
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 23 | **BLACK-AND-SCARLET DRAGON**, unnamed hatchling [Alive] | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | Hatched, resting on Dany's shoulder. |
-| 24 | **GREEN-AND-BRONZE DRAGON**, unnamed hatchling [Alive] | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | Hatched, suckling at Dany's breast. |
-| 25 | **CREAM-AND-GOLD DRAGON**, unnamed hatchling [Alive] | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | Hatched, suckling at Dany's breast. |
+| 23 | **BLACK-AND-SCARLET DRAGON**, unnamed hatchling | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | 🟢 Hatched, resting on Dany's shoulder. |
+| 24 | **GREEN-AND-BRONZE DRAGON**, unnamed hatchling | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | 🟢 Hatched, suckling at Dany's breast. |
+| 25 | **CREAM-AND-GOLD DRAGON**, unnamed hatchling | Within a stone-like egg. | Egg travels with **Dany** and is placed on the pyre. | 🟢 Hatched, suckling at Dany's breast. |
 
 <p align="right"><a href="#daenerys-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
