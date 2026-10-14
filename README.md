@@ -64,6 +64,8 @@ The nine completed full-book POV records are listed in order of their first narr
 
 - [SROMX | Theon Greyjoy | Full Book](02.%20COK/SROMX_COK_POV_THEON.md) · 6 POV chapters: Ch. 11, 24, 37, 50, 56 and 66. **Spoilers through COK Ch. 66**.
 
+- [SROMX | Daenerys Targaryen | Full Book](02.%20COK/SROMX_COK_POV_DAENERYS.md) · 5 POV chapters: Ch. 12, 27, 40, 48 and 63. **Spoilers through COK Ch. 63**.
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
