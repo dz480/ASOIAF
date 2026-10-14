@@ -75,6 +75,11 @@ The nine completed full-book POV records are listed in order of their first narr
 
 - [ROM MNT | PROVISIONAL | Whole Book](03.%20SOS/ROM_MNT_ASOS_PROVISIONAL.md) · Preliminary ranking of 9 whole-book threads based on secondary plot summaries; **not** the final primary-text/POV-reconciled MNT. **Full SOS spoilers.**
 
+## Book 4: A Feast for Crows (FFC)
+
+- [FFC readthrough workspace](04.%20FFC/README.md) · Book 4 local index and provisional-reference destination. **Full-book spoiler warning.**
+- [ROM MNT | PROVISIONAL | Whole Book](04.%20FFC/ROM_MNT_AFFC_PROVISIONAL.md) · Nine ranked book-scale threads reconstructed from published plot summaries, awaiting primary-text audit and POV reconciliation. **Full FFC spoilers.**
+
 ## Repository navigation conventions
 
 - Every CSRM source unit has a permanent book-specific anchor, including [Prologue](01. GOT/ROM_CSRM_AGOT.md#agot-prologue) and [GOT Ch. 1](01. GOT/ROM_CSRM_AGOT.md#agot-ch-1). All 73 source units link to the applicable completed POV SROMX.
