@@ -112,7 +112,7 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 **Character entries:** 36 Total | 10 Principal | 6 Supporting | 19 Tertiary | 1 Collective| 4 Deaths
 
-*Significance: 🏅 Principal · 🥈 Supporting · numbered Tertiary and Collective entries. Current Status follows each roster name in brackets. The Scope-local Death Count includes **Robert Baratheon**, **Eddard Stark**, **Othor** and **Jafer Flowers**; all die after the opening chapter, although Jon encounters their deaths only through reports or the recovered remains.*
+*Significance: 🏅 Principal · 🥈 Supporting · numbered Tertiary and Collective entries. Closing status is expressed by the leading emoji in each Position at End cell. The Scope-local Death Count includes **Robert Baratheon**, **Eddard Stark**, **Othor** and **Jafer Flowers**; all die after the opening chapter, although Jon encounters their deaths only through reports or the recovered remains.*
 
 <a id="jon-starks"></a>
 ## 🐺 House Stark & Direwolves
@@ -146,7 +146,7 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
 | 🏅 | **TYRION LANNISTER**, nobleman of House Lannister | Visiting **Winterfell** with the royal party. | Offers Jon advice about his birth, travels north and later defends him against **Thorne**. | 🟢 Last seen by Jon at the Wall; subsequent movements are outside Jon's direct view. |
-| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms | Feasting at **Winterfell**, accompanied by his court. | Returns south; his death and the new succession are later reported to the Watch. | 🗡 his passing contributes to the crisis affecting Jon's father. |
+| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms | Feasting at **Winterfell**, accompanied by his court. | Returns south; his death and the new succession are later reported to the Watch. | 🪦 his passing contributes to the crisis affecting Jon's father. |
 | 🏅 | **JOFFREY BARATHEON**, royal prince; later king | Visiting **Winterfell** as **Robert**'s apparent heir. | Ascends the throne after Robert's death; the charges against **Ned** are attributed to his new government. | 🟢 Reigning in the south, known to Jon only through reports after their Winterfell encounter. |
 
 <a id="jon-command"></a>
