@@ -14,6 +14,7 @@ This folder is the canonical destination for all published COK-specific readthro
 ## Published COK records
 
 - [Cross-POV SROMX Reconciliation Audit](SROMX_CROSS_POV_RECONCILIATION_AUDIT.md) · 10 POV records cross-compared; 18 named MCM omissions added, 17 prior tier conflicts corrected and targeted source discrepancies resolved. See audit scope limitation for exhaustive sentence-level validation.
+- [COK EPUB Chapter Source Evidence Register](SROMX_CHAPTER_SOURCE_EVIDENCE.md) · Prologue + 69 chapters, with 210 paragraph-level source cue locations for continuing claim-level verification.
 
 
 - [ROM CSRM | Prologue + Ch. 1–69 | Full Book](ROM_CSRM_ACOK.md) · Nine retrospective Sequences, chapter-level recall and externally reconstructed 299 AC dates. **Full COK spoilers.**
