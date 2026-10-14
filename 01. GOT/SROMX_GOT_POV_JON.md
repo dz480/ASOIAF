@@ -122,32 +122,32 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **JON SNOW**, Ned Stark's acknowledged bastard; sworn brother [Alive; burned hand] | At **Winterfell**, excluded from the royal high table and hoping to join **Benjen** on the Wall. | Leaves home, develops friendships through Watch training, saves **Mormont**, struggles with family loyalty and returns after attempting desertion. | Mormont's steward at **Castle Black**, bearing **Longclaw** and committed to the coming ranging. |
-| 🏅 | **EDDARD STARK**†, Lord of Winterfell and Hand of the King [Deceased] | Governing **Winterfell**, father and provider of Jon's home. | Departs south with **Robert**; his imprisonment and later death reach Jon as news at the Wall. | Executed in **King's Landing**, as Jon learns before his attempted desertion. |
-| 🏅 | **CATELYN STARK**, Lady of Winterfell [Alive] | At **Winterfell**, supervising **Bran** during his grave illness. | Rejects Jon's attempt to farewell Bran and later becomes involved in the conflict in the south, as reported. | Away from Jon; precise location not established in his final POV chapter. |
-| 🏅 | **ROBB STARK**, heir to Winterfell [Alive] | At **Winterfell**, preparing for his father's departure. | Embraces Jon in farewell, reports Bran's survival by letter and later leads Stark forces south. | Commanding northern fighters in the war, beyond Jon's direct sight. |
-| 🏅 | **BRAN STARK**, Stark son [Alive; incapacitated] | At **Winterfell**, seriously injured and unconscious following a fall. | Receives Jon's bedside farewell; his survival is subsequently announced in Robb's letter. | Recovering in the North, away from Jon. |
-| 🏅 | **ARYA STARK**, Stark daughter [Alive] | At **Winterfell**, preparing to depart for the capital. | Receives **Needle** from Jon and becomes his most cherished reminder of home. | Away from Jon; circumstances after their farewell not directly established in his chapters. |
-| 🏅 | **SANSA STARK**, Stark daughter [Alive] | At **Winterfell**, included in the royal feast. | Leaves for the capital, while her name and safety remain part of Jon's concern for his sisters. | Away from Jon; precise condition not established in his last POV scene. |
-| 🥈 | **RICKON STARK**, youngest Stark son [Alive] | At **Winterfell**, part of the family attending the royal visit. | Remains among the younger siblings Jon remembers as he acclimatises to the Wall. | In the North, away from Jon; no new direct encounter within Scope. |
-| 🥈 | **BENJEN STARK**, First Ranger of the Night's Watch [Missing] | Visiting his family at **Winterfell** while serving the Watch. | Warns Jon of the brotherhood's burdens, accompanies him north and leads a ranging beyond the Wall. | Missing beyond the Wall; searches have established neither return nor death. |
+| 🏅 | **JON SNOW**, Ned Stark's acknowledged bastard; sworn brother | At **Winterfell**, excluded from the royal high table and hoping to join **Benjen** on the Wall. | Leaves home, develops friendships through Watch training, saves **Mormont**, struggles with family loyalty and returns after attempting desertion. | 🟢 Mormont's steward at **Castle Black**, bearing **Longclaw** and committed to the coming ranging. |
+| 🏅 | **EDDARD STARK**†, Lord of Winterfell and Hand of the King | Governing **Winterfell**, father and provider of Jon's home. | Departs south with **Robert**; his imprisonment and later death reach Jon as news at the Wall. | 🗡 Executed in **King's Landing**, as Jon learns before his attempted desertion. |
+| 🏅 | **CATELYN STARK**, Lady of Winterfell | At **Winterfell**, supervising **Bran** during his grave illness. | Rejects Jon's attempt to farewell Bran and later becomes involved in the conflict in the south, as reported. | 🟢 Away from Jon; precise location not established in his final POV chapter. |
+| 🏅 | **ROBB STARK**, heir to Winterfell | At **Winterfell**, preparing for his father's departure. | Embraces Jon in farewell, reports Bran's survival by letter and later leads Stark forces south. | 🟢 Commanding northern fighters in the war, beyond Jon's direct sight. |
+| 🏅 | **BRAN STARK**, Stark son | At **Winterfell**, seriously injured and unconscious following a fall. | Receives Jon's bedside farewell; his survival is subsequently announced in Robb's letter. | 🟢 Recovering in the North, away from Jon. |
+| 🏅 | **ARYA STARK**, Stark daughter | At **Winterfell**, preparing to depart for the capital. | Receives **Needle** from Jon and becomes his most cherished reminder of home. | 🟢 Away from Jon; circumstances after their farewell not directly established in his chapters. |
+| 🏅 | **SANSA STARK**, Stark daughter | At **Winterfell**, included in the royal feast. | Leaves for the capital, while her name and safety remain part of Jon's concern for his sisters. | 🟢 Away from Jon; precise condition not established in his last POV scene. |
+| 🥈 | **RICKON STARK**, youngest Stark son | At **Winterfell**, part of the family attending the royal visit. | Remains among the younger siblings Jon remembers as he acclimatises to the Wall. | 🟢 In the North, away from Jon; no new direct encounter within Scope. |
+| 🥈 | **BENJEN STARK**, First Ranger of the Night's Watch | Visiting his family at **Winterfell** while serving the Watch. | Warns Jon of the brotherhood's burdens, accompanies him north and leads a ranging beyond the Wall. | 🟡 Missing beyond the Wall; searches have established neither return nor death. |
 
 <a id="jon-direwolves"></a>
 ### Direwolves
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 10 | **GHOST**, Jon's white direwolf [Alive] | At **Winterfell**, bonded with Jon. | Accompanies him to Castle Black, discovers remains, warns of danger and attacks **Othor**; helps find Jon during his flight south. | With Jon at **Castle Black**, an alert and protective companion. |
-| 11 | **NYMERIA**, Arya's direwolf [Alive] | At **Winterfell**, bonded with Arya. | Helps Arya with packing and guards the door during Jon's private gift of Needle. | Last directly witnessed by Jon at Winterfell; later circumstances outside his POV. |
+| 10 | **GHOST**, Jon's white direwolf | At **Winterfell**, bonded with Jon. | Accompanies him to Castle Black, discovers remains, warns of danger and attacks **Othor**; helps find Jon during his flight south. | 🟢 With Jon at **Castle Black**, an alert and protective companion. |
+| 11 | **NYMERIA**, Arya's direwolf | At **Winterfell**, bonded with Arya. | Helps Arya with packing and guards the door during Jon's private gift of Needle. | 🟢 Last directly witnessed by Jon at Winterfell; later circumstances outside his POV. |
 
 <a id="jon-visitors"></a>
 ## 🦁 Royal Visitors & the Journey North
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🏅 | **TYRION LANNISTER**, nobleman of House Lannister [Alive] | Visiting **Winterfell** with the royal party. | Offers Jon advice about his birth, travels north and later defends him against **Thorne**. | Last seen by Jon at the Wall; subsequent movements are outside Jon's direct view. |
-| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms [Deceased] | Feasting at **Winterfell**, accompanied by his court. | Returns south; his death and the new succession are later reported to the Watch. | Dead; his passing contributes to the crisis affecting Jon's father. |
-| 🏅 | **JOFFREY BARATHEON**, royal prince; later king [Alive] | Visiting **Winterfell** as **Robert**'s apparent heir. | Ascends the throne after Robert's death; the charges against **Ned** are attributed to his new government. | Reigning in the south, known to Jon only through reports after their Winterfell encounter. |
+| 🏅 | **TYRION LANNISTER**, nobleman of House Lannister | Visiting **Winterfell** with the royal party. | Offers Jon advice about his birth, travels north and later defends him against **Thorne**. | 🟢 Last seen by Jon at the Wall; subsequent movements are outside Jon's direct view. |
+| 🏅 | **ROBERT BARATHEON**†, King of the Seven Kingdoms | Feasting at **Winterfell**, accompanied by his court. | Returns south; his death and the new succession are later reported to the Watch. | 🗡 his passing contributes to the crisis affecting Jon's father. |
+| 🏅 | **JOFFREY BARATHEON**, royal prince; later king | Visiting **Winterfell** as **Robert**'s apparent heir. | Ascends the throne after Robert's death; the charges against **Ned** are attributed to his new government. | 🟢 Reigning in the south, known to Jon only through reports after their Winterfell encounter. |
 
 <a id="jon-command"></a>
 ## 🏰 Night's Watch Command & Senior Brothers
@@ -157,21 +157,21 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **JEOR MORMONT**, Lord Commander [Alive] | Commanding the **Night's Watch** from **Castle Black**. | Oversees Jon's assignment, reports his family's news, survives a wight attack and rewards Jon with **Longclaw**. | Leads the Watch and prepares to range beyond the Wall with Jon. |
-| 🥈 | **ALLISER THORNE**, master-at-arms [Alive] | Training recruits at **Castle Black**. | Taunts Jon and **Sam**, provokes confrontations and is later dispatched south carrying evidence of the risen dead. | Away from Castle Black on Watch business, following **Mormont**'s orders. |
-| 🥈 | **MAESTER AEMON**, Watch maester [Alive] | Ancient blind maester serving the Watch at **Castle Black**. | Finds an appropriate place for Sam, tends Jon's injuries and reveals his own **Targaryen** origins while counselling Jon about duty. | At **Castle Black**, leaving Jon free to decide his obligations. |
-| 18 | **DONAL NOYE**, one-armed armorer [Alive] | Working at the **Castle Black** forge. | Rebukes Jon's contempt for lesser-trained recruits and helps establish the respect that allows Jon to find companions. | Serving at the Wall's forge. |
-| 19 | **BOWEN MARSH**, Lord Steward [Alive] | Responsible for the Watch's stewards at **Castle Black**. | Explains the recruit assignments, placing Jon with **Mormont** and Sam with Aemon. | Administering Watch stewardship at Castle Black. |
-| 20 | **JAREMY RYKKER**, senior ranger [Alive] | Ranger and knight serving the Watch at **Castle Black**. | Helps direct the sworn recruits and examines the remains of **Othor** and **Jafer Flowers**. | Continuing ranger duties amid inquiries into the missing and the dead. |
+| 🥈 | **JEOR MORMONT**, Lord Commander | Commanding the **Night's Watch** from **Castle Black**. | Oversees Jon's assignment, reports his family's news, survives a wight attack and rewards Jon with **Longclaw**. | 🟢 Leads the Watch and prepares to range beyond the Wall with Jon. |
+| 🥈 | **ALLISER THORNE**, master-at-arms | Training recruits at **Castle Black**. | Taunts Jon and **Sam**, provokes confrontations and is later dispatched south carrying evidence of the risen dead. | 🟢 Away from Castle Black on Watch business, following **Mormont**'s orders. |
+| 🥈 | **MAESTER AEMON**, Watch maester | Ancient blind maester serving the Watch at **Castle Black**. | Finds an appropriate place for Sam, tends Jon's injuries and reveals his own **Targaryen** origins while counselling Jon about duty. | 🟢 At **Castle Black**, leaving Jon free to decide his obligations. |
+| 18 | **DONAL NOYE**, one-armed armorer | Working at the **Castle Black** forge. | Rebukes Jon's contempt for lesser-trained recruits and helps establish the respect that allows Jon to find companions. | 🟢 Serving at the Wall's forge. |
+| 19 | **BOWEN MARSH**, Lord Steward | Responsible for the Watch's stewards at **Castle Black**. | Explains the recruit assignments, placing Jon with **Mormont** and Sam with Aemon. | 🟢 Administering Watch stewardship at Castle Black. |
+| 20 | **JAREMY RYKKER**, senior ranger | Ranger and knight serving the Watch at **Castle Black**. | Helps direct the sworn recruits and examines the remains of **Othor** and **Jafer Flowers**. | 🟢 Continuing ranger duties amid inquiries into the missing and the dead. |
 
 <a id="jon-command-service"></a>
 ### Patrol, Care & Service
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 21 | **DYWEN**, veteran ranger and forester [Alive] | Serving the Watch as an experienced ranger. | Joins the expedition to the strange corpses and notes their unnatural smell and condition. | Still serving at the Wall; subsequent searches bring no news of Benjen. |
-| 22 | **CHETT**, steward and kennel worker [Alive] | Attached to **Maester Aemon**'s service at Castle Black. | Attempts to impede Jon's appeal for Sam, is reassigned from Aemon's assistance and handles dogs during the discovery of the corpses. | Continues Watch service, no longer assigned as Aemon's principal assistant. |
-| 23 | **CLYDAS**, attendant to Maester Aemon [Alive] | Assisting the blind maester at **Castle Black**. | Guides **Aemon** to the vow ceremony, helps with the rookery and conveys official correspondence. | Remains a helper to Aemon at the Wall. |
+| 21 | **DYWEN**, veteran ranger and forester | Serving the Watch as an experienced ranger. | Joins the expedition to the strange corpses and notes their unnatural smell and condition. | 🟢 Still serving at the Wall; subsequent searches bring no news of Benjen. |
+| 22 | **CHETT**, steward and kennel worker | Attached to **Maester Aemon**'s service at Castle Black. | Attempts to impede Jon's appeal for Sam, is reassigned from Aemon's assistance and handles dogs during the discovery of the corpses. | 🟢 Continues Watch service, no longer assigned as Aemon's principal assistant. |
+| 23 | **CLYDAS**, attendant to Maester Aemon | Assisting the blind maester at **Castle Black**. | Guides **Aemon** to the vow ceremony, helps with the rookery and conveys official correspondence. | 🟢 Remains a helper to Aemon at the Wall. |
 
 <a id="jon-recruits"></a>
 ## ⚔️ Recruits & Sworn Brothers
@@ -181,31 +181,31 @@ News of **Ned**'s death brings Jon to the limit of that commitment. He secretly 
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 🥈 | **SAMWELL TARLY**, novice; later Watch steward [Alive] | At his family's home in the south before his forced departure for the Wall. | Endures harsh training, befriends Jon, gains placement with **Aemon** and helps restore Jon's allegiance. | Serving as Aemon's assistant and supporting Jon at **Castle Black**. |
-| 25 | **GRENN**, recruit; later ranger [Alive] | At the Wall, beginning harsh military instruction. | Resents Jon after a training injury but becomes his friend, helps defend Sam and rides after the departing Jon. | Sworn brother of the Watch at Castle Black. |
-| 26 | **PYPAR (PYP)**, former mummer and Watch recruit [Alive] | Training at **Castle Black** among the new recruits. | Supports Jon against other trainees, befriends Sam and leads the attempt to bring Jon back after his flight. | Sworn brother at Castle Black; a principal force in Jon's return. |
-| 27 | **HALDER**, quarryman's son and Watch recruit [Alive] | Learning military skills at **Castle Black**. | Initially injures Sam in practice, later becomes part of the group protecting him and rides to intercept Jon. | Serving among the Watch's builders. |
-| 28 | **DAREON**, singer and Watch recruit [Alive] | Training at **Castle Black** after punishment for a scandal in the south. | Practices with Jon, offers music in the common hall and is assigned to Eastwatch duties. | Sent towards **Eastwatch-by-the-Sea** as a steward. |
-| 32 | **MATTHAR**, Watch recruit [Alive] | Training among the men of Castle Black. | Joins the graduating class and expresses solidarity with Jon over his father's imprisonment. | Sworn brother of the Night's Watch. |
+| 🥈 | **SAMWELL TARLY**, novice; later Watch steward | At his family's home in the south before his forced departure for the Wall. | Endures harsh training, befriends Jon, gains placement with **Aemon** and helps restore Jon's allegiance. | 🟢 Serving as Aemon's assistant and supporting Jon at **Castle Black**. |
+| 25 | **GRENN**, recruit; later ranger | At the Wall, beginning harsh military instruction. | Resents Jon after a training injury but becomes his friend, helps defend Sam and rides after the departing Jon. | 🟢 Sworn brother of the Watch at Castle Black. |
+| 26 | **PYPAR (PYP)**, former mummer and Watch recruit | Training at **Castle Black** among the new recruits. | Supports Jon against other trainees, befriends Sam and leads the attempt to bring Jon back after his flight. | 🟢 Sworn brother at Castle Black; a principal force in Jon's return. |
+| 27 | **HALDER**, quarryman's son and Watch recruit | Learning military skills at **Castle Black**. | Initially injures Sam in practice, later becomes part of the group protecting him and rides to intercept Jon. | 🟢 Serving among the Watch's builders. |
+| 28 | **DAREON**, singer and Watch recruit | Training at **Castle Black** after punishment for a scandal in the south. | Practices with Jon, offers music in the common hall and is assigned to Eastwatch duties. | 🟢 Sent towards **Eastwatch-by-the-Sea** as a steward. |
+| 32 | **MATTHAR**, Watch recruit | Training among the men of Castle Black. | Joins the graduating class and expresses solidarity with Jon over his father's imprisonment. | 🟢 Sworn brother of the Night's Watch. |
 
 <a id="jon-hostiles"></a>
 ### Hostile Recruits
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 29 | **RAST**, Watch recruit [Alive] | Training under **Alliser Thorne**. | Participates in tormenting **Sam** and is threatened by Jon and his allies until he desists. | Continues service in the Watch. |
-| 30 | **TODDER (TOAD)**, Watch recruit [Alive] | Training among **Thorne**'s novices. | Initially joins a confrontation with Jon, later accepts the new brotherhood and helps intercept him on the kingsroad. | A sworn brother who assists in returning Jon to the Watch. |
-| 31 | **ALBETT**, Watch recruit [Alive] | Training with other newcomers at **Castle Black**. | Fights beside other boys during Jon's confrontations and is ultimately assigned to the builders. | Working as a sworn brother in the builder order. |
+| 29 | **RAST**, Watch recruit | Training under **Alliser Thorne**. | Participates in tormenting **Sam** and is threatened by Jon and his allies until he desists. | 🟢 Continues service in the Watch. |
+| 30 | **TODDER (TOAD)**, Watch recruit | Training among **Thorne**'s novices. | Initially joins a confrontation with Jon, later accepts the new brotherhood and helps intercept him on the kingsroad. | 🟢 A sworn brother who assists in returning Jon to the Watch. |
+| 31 | **ALBETT**, Watch recruit | Training with other newcomers at **Castle Black**. | Fights beside other boys during Jon's confrontations and is ultimately assigned to the builders. | 🟢 Working as a sworn brother in the builder order. |
 
 <a id="jon-dead-rangers"></a>
 ## ☠️ Dead Rangers & the Warning
 
 | # | Character | Position at Start | Arc | Position at End |
 |---:|---|---|---|---|
-| 33 | **OTHOR**†, missing ranger; later wight [Deceased] | Alive and serving among the Watch's rangers before **Benjen**'s fateful expedition. | Found dead with little decomposition, taken to Castle Black and reanimated as a deadly attacker. | Burned by **Jon** in Mormont's tower; no longer active. |
-| 34 | **JAFER FLOWERS**†, missing ranger; later wight [Deceased] | Alive and serving as a ranger before **Benjen**'s expedition. | Found dead, with a hand torn away by **Ghost**; his corpse is returned to Castle Black and reanimates. | Destroyed after rising; his severed hand is preserved as evidence. |
-| 35 | **MORMONT'S RAVEN**, distinctive talking raven [Alive] | Living with **Jeor Mormont** in his quarters at Castle Black. | Repeats the Lord Commander's words, reacts to visitors and cries out during the wight's incursion. | Attending Mormont at Castle Black. |
-| 36 | **NIGHT'S WATCH RANGERS**, unnamed search and escort brothers [Mixed / not individually tracked] | Serving in ranger units based at the Wall. | Accompany officers on searches, recover the strange corpses and provide patrol coverage. | Remain operational amid unresolved danger north of the Wall. |
+| 33 | **OTHOR**†, missing ranger; later wight | Alive and serving among the Watch's rangers before **Benjen**'s fateful expedition. | Found dead with little decomposition, taken to Castle Black and reanimated as a deadly attacker. | 🗡 Burned by **Jon** in Mormont's tower; no longer active. |
+| 34 | **JAFER FLOWERS**†, missing ranger; later wight | Alive and serving as a ranger before **Benjen**'s expedition. | Found dead, with a hand torn away by **Ghost**; his corpse is returned to Castle Black and reanimates. | 🗡 Destroyed after rising; his severed hand is preserved as evidence. |
+| 35 | **MORMONT'S RAVEN**, distinctive talking raven | Living with **Jeor Mormont** in his quarters at Castle Black. | Repeats the Lord Commander's words, reacts to visitors and cries out during the wight's incursion. | 🟢 Attending Mormont at Castle Black. |
+| 36 | **NIGHT'S WATCH RANGERS**, unnamed search and escort brothers | Serving in ranger units based at the Wall. | Accompany officers on searches, recover the strange corpses and provide patrol coverage. | ⚪️ Remain operational amid unresolved danger north of the Wall. Individual members' subsequent conditions are not fully tracked. |
 
 <p align="right"><a href="#jon-toc" title="Return to Table of Contents"><kbd>↑</kbd></a></p>
 
